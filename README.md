@@ -118,6 +118,8 @@ discover ──▶ curate ──▶ fetch ──▶ cards ──▶ notes ──
 | 6. Index | `node pipeline/build.mjs <slug>` | `index.json`, which the MCP server loads |
 | 7. Manifest | `node pipeline/brain.mjs <slug>` | `brain.json`: tagline, topics, principles and sample Q&A, every line cited |
 
+The LinkedIn posts pull stays on `harvestapi/linkedin-profile-posts`. Set `THE_BRAINS_LINKEDIN_POSTS_ACTOR` to `johnvc/linkedin-posts-api` to send `profileUrls` and `maxPostsPerProfile` (capped at 200) instead. Posts still use `id`, `url`, `date`, `text`, `likes`, and `comments`. The profile lookup stays as it is. [Actor](https://apify.com/johnvc/linkedin-posts-api). [Alpha OSINT](https://alphaosint.com/).
+
 Steps 2, 4, 5 and 7 run on headless Claude Code (`claude -p`), so they use a Claude subscription instead of API credits. The first 10 brains cost about **$3.50 in total** in scraping fees.
 
 ### Architecture
