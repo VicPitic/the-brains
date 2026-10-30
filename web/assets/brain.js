@@ -357,13 +357,16 @@ function renderSourceList() {
         ),
       ),
     ),
-    capped
-      ? h(
-          "div",
-          { class: "src-more" },
-          h("button", { class: "btn btn-ghost", type: "button", onclick: () => ((src.expanded = true), renderSourceList()) }, `Show all ${list.length.toLocaleString("en")}`),
-        )
-      : null,
+    // replaceChildren, unlike h(), would render a null child as the text "null".
+    ...(capped
+      ? [
+          h(
+            "div",
+            { class: "src-more" },
+            h("button", { class: "btn btn-ghost", type: "button", onclick: () => ((src.expanded = true), renderSourceList()) }, `Show all ${list.length.toLocaleString("en")}`),
+          ),
+        ]
+      : []),
   );
 }
 
