@@ -1,0 +1,39 @@
+{
+  "id": "yt-Fe0aWFtjfYk",
+  "title": "How Cody Schneider builds marketing agents that replace four hires (ads, SEO, cold email)",
+  "summary": "Cody explains what a real AI agent is (software running a repeatable job with a thinking loop), why agents need live revenue data, and how Graft deploys Facebook Ads, Google Ads, SEO and cold outbound agents. He also gives an adoption path for non-technical owners: co-work first, automate later, one workflow at a time.",
+  "principles": [
+    {
+      "text": "Agents only work if they get live data on what drives revenue, not just lead counts.",
+      "quote": "to actually like make, you know, an agent run for a company, you basically have to have like a live data stream of what's actually driving revenue."
+    },
+    {
+      "text": "Automate a human's existing process rather than expecting an agent to \"run everything\"; most \"run your whole account\" claims are snake oil.",
+      "quote": "the only way to actually get these things to function and work is you basically take like what is the process that a human was doing? Okay, how do I go and basically, you know, repeat that process like with having an agent run that?"
+    },
+    {
+      "text": "Adopt in stages: co-work with Claude Code/Codex on daily tasks first, then make proven workflows autonomous. Don't start by automating the whole business.",
+      "quote": "Don't try to jump initially to like I'm going to build an agent that entirely, you know, automates my whole business. It's I think that that's a mistake and it's it's kind of a tar pit that people fall into accidentally a lot of the times."
+    },
+    {
+      "text": "The ads loop mirrors top media buyers: test lots of creative daily, kill losers, promote winners, repeat, optimizing to a real conversion action.",
+      "quote": "10 new pieces of creative go into testing every day. Losers get turned off, winners get promoted to a winner's campaign, the winners are competing for budget for like, you know, who's the best performer."
+    },
+    {
+      "text": "Give AI boundaries (brand guides, banned language) and your own domain knowledge; unbounded or generic prompts produce average slop.",
+      "quote": "if you're like, \"Hey, here is, you know, 30 minutes of me talking about some specific thing that's happening within my category.\" You give it that context. ... The output quality that you're going to get out of that is going to be like top 1%, right?"
+    },
+    {
+      "text": "Drive AI adoption in a team with a weekly lunch-and-learn that spotlights one person's automation, not token quotas.",
+      "quote": "the best way I've seen to incentivize people is to have like a weekly lunch and learn where somebody on your team shows what they did with like this AI tooling"
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,2399 @@
+{
+  "slug": "sam-parr",
+  "fetchedAt": "2026-11-01T17:26:18.425Z",
+  "sources": [
+    {
+      "id": "yt-uYmJiGa1MPo",
+      "type": "youtube",
+      "title": "Level up your copywriting w/ Sam Parr | E2226",
+      "url": "https://www.youtube.com/watch?v=uYmJiGa1MPo",
+      "publishedAt": "2026-01-01",
+      "outlet": "This Week in Startups",
+      "durationSec": 3974,
+      "views": 253147,
+      "topics": [
+        "marketing",
+        "sales"
+      ]
+    },
+    {
+      "id": "yt-uf4fR3qcDkU",
+      "type": "youtube",
+      "title": "Become a Dangerously Good Writer in 55 Minutes w/ Sam Parr",
+      "url": "https://www.youtube.com/watch?v=uf4fR3qcDkU",
+      "publishedAt": "2026-06-01",
+      "outlet": "Sweat Equity",
+      "durationSec": 3359,
+      "views": 105338,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-EvI6c_keS7Y",
+      "type": "youtube",
+      "title": "How YOU Can Build A $3,000,000 Newsletter Business Without ANY Employees! | Sam Parr",
+      "url": "https://www.youtube.com/watch?v=EvI6c_keS7Y",
+      "publishedAt": "2024-11-01",
+      "outlet": "The Calum Johnson Show",
+      "durationSec": 6202,
+      "views": 109020,
+      "topics": [
+        "growth",
+        "distribution",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-JNqrTePp_T4",
+      "type": "youtube",
+      "title": "The Secret to Building Companies That Last for Generations! w/ Sam Parr",
+      "url": "https://www.youtube.com/watch?v=JNqrTePp_T4",
+      "publishedAt": "2025-12-01",
+      "outlet": "Young and Profiting",
+      "durationSec": 3464,
+      "views": 72237,
+      "topics": [
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "yt-CO2ELWa3jsc",
+      "type": "youtube",
+      "title": "Inside the Mind of a Newsletter Mogul (Sam Parr Interview)",
+      "url": "https://www.youtube.com/watch?v=CO2ELWa3jsc",
+      "publishedAt": "2023-11-01",
+      "outlet": "David Perell",
+      "durationSec": 4288,
+      "views": 67079,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-6IKyi9gfxqw",
+      "type": "youtube",
+      "title": "The Founder Creating Insane Internet Companies | Sam Parr",
+      "url": "https://www.youtube.com/watch?v=6IKyi9gfxqw",
+      "publishedAt": "2023-11-01",
+      "outlet": "Anthony Pompliano",
+      "durationSec": 6593,
+      "views": 42328,
+      "topics": [
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "yt-qLdQJBKKSYs",
+      "type": "youtube",
+      "title": "Sam Parr's secret millionaire club is on track for $1B",
+      "url": "https://www.youtube.com/watch?v=qLdQJBKKSYs",
+      "publishedAt": "2023-11-01",
+      "outlet": "Our Future Podcast",
+      "durationSec": 4275,
+      "views": 29412,
+      "topics": [
+        "community",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-itWzn8ZyRBE",
+      "type": "youtube",
+      "title": "The 5 Levels of Making Money ft. Sam Parr",
+      "url": "https://www.youtube.com/watch?v=itWzn8ZyRBE",
+      "publishedAt": "2026-02-01",
+      "outlet": "Grant Owen and My First Million",
+      "durationSec": 5869,
+      "views": 28945,
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-wJPLYR5rNx4",
+      "type": "youtube",
+      "title": "Sam Parr:\"I Failed to Raise Money, So I Built a $20M+ Company Instead\" | The Further, Faster Podcast",
+      "url": "https://www.youtube.com/watch?v=wJPLYR5rNx4",
+      "publishedAt": "2026-10-18",
+      "outlet": "Antler Global",
+      "durationSec": 2755,
+      "views": 24569,
+      "topics": [
+        "fundraising",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-CgH0d5TWeWc",
+      "type": "youtube",
+      "title": "From Hot Dog Stand to Millions: The Untold Story of Sam Parr",
+      "url": "https://www.youtube.com/watch?v=CgH0d5TWeWc",
+      "publishedAt": "2024-11-01",
+      "outlet": "Andrew Wilkinson",
+      "durationSec": 3050,
+      "views": 24172,
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-8pwR5n63y84",
+      "type": "youtube",
+      "title": "How Sam Parr Retired With Over $20 Million by Age 31 | 019",
+      "url": "https://www.youtube.com/watch?v=8pwR5n63y84",
+      "publishedAt": "2023-11-01",
+      "outlet": "The Nick Bare Podcast",
+      "durationSec": 7041,
+      "views": 21166,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-xHrjktuM1Dc",
+      "type": "youtube",
+      "title": "How Sam Parr Comes Up With $10,000,000 Dollar Business Ideas (#62)",
+      "url": "https://www.youtube.com/watch?v=xHrjktuM1Dc",
+      "publishedAt": "2022-11-01",
+      "outlet": "Marketing Against the Grain",
+      "durationSec": 2895,
+      "views": 20038,
+      "topics": [
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-iGhgzj1L5OA",
+      "type": "youtube",
+      "title": "Sam Parr on The Hustle, Hampton & Why the OpenAI-TBPN Deal Was a Mistake",
+      "url": "https://www.youtube.com/watch?v=iGhgzj1L5OA",
+      "publishedAt": "2026-09-01",
+      "outlet": "Newcomer",
+      "durationSec": 3404,
+      "views": 13855,
+      "topics": [
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "yt-mClL18_H9tU",
+      "type": "youtube",
+      "title": "Sam Parr - Growing to 2M Subscribers and Selling Your Newsletter - The Nathan Barry Show 030",
+      "url": "https://www.youtube.com/watch?v=mClL18_H9tU",
+      "publishedAt": "2021-11-01",
+      "outlet": "Nathan Barry Archive",
+      "durationSec": 4382,
+      "views": 13350,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "yt-aWQ-RqLPFLs",
+      "type": "youtube",
+      "title": "Finding Enough, Getting Sober, and Improving Your Life | Sam Parr (My First Million)",
+      "url": "https://www.youtube.com/watch?v=aWQ-RqLPFLs",
+      "publishedAt": "2024-11-01",
+      "outlet": "Daily Stoic",
+      "durationSec": 6743,
+      "views": 12747,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-V-x7v69YZIM",
+      "type": "youtube",
+      "title": "Why Sam Parr is Building a $100M Community for Founders",
+      "url": "https://www.youtube.com/watch?v=V-x7v69YZIM",
+      "publishedAt": "2025-11-01",
+      "outlet": "Personal IPO Podcast",
+      "durationSec": 3197,
+      "views": 6980,
+      "topics": [
+        "community",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-fBUTbkD2RB8",
+      "type": "youtube",
+      "title": "The \u201cBuild A $100 Million Community\u201d Playbook - Sam Parr, My First Million | INBOUND 2023",
+      "url": "https://www.youtube.com/watch?v=fBUTbkD2RB8",
+      "publishedAt": "2023-11-01",
+      "outlet": "HubSpot ",
+      "durationSec": 1790,
+      "views": 35296,
+      "topics": [
+        "community",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-XNi0sdjtErU",
+      "type": "youtube",
+      "title": "The Cold Email Formula That Made Over $1,000,000 with Sam Parr | Horizons Pod",
+      "url": "https://www.youtube.com/watch?v=XNi0sdjtErU",
+      "publishedAt": "2025-11-01",
+      "outlet": "Horizons Marketing Podcast with Nate Desmond",
+      "durationSec": 1937,
+      "views": 676,
+      "topics": [
+        "sales",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-7yLGPotEkAE",
+      "type": "youtube",
+      "title": "How Sam Parr Builds Businesses (like The Hustle)",
+      "url": "https://www.youtube.com/watch?v=7yLGPotEkAE",
+      "publishedAt": "2022-11-01",
+      "outlet": "Aaron Watson ",
+      "durationSec": 2965,
+      "views": 9619,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "essay-how-to-make-money-hosting-a-conference",
+      "type": "essay",
+      "title": "How to Make Money Hosting a Conference",
+      "url": "https://samparr.com/how-to-make-money-hosting-a-conference/",
+      "publishedAt": "2014-01-27",
+      "outlet": "samparr.com",
+      "topics": [
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-copywriting-skills",
+      "type": "essay",
+      "title": "How To Use Words To Get People To Do What You Want Them To Do",
+      "url": "https://samparr.com/copywriting-skills/",
+      "publishedAt": "2015-03-19",
+      "outlet": "samparr.com",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-make-ideas-stick-forever",
+      "type": "essay",
+      "title": "How to make ideas stick forever",
+      "url": "https://samparr.com/make-ideas-stick-forever/",
+      "publishedAt": "2014-01-29",
+      "outlet": "samparr.com",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-the-reciprocity-rule",
+      "type": "essay",
+      "title": "I saved $400 using human engineering\u2026here\u2019s how.",
+      "url": "https://samparr.com/the-reciprocity-rule/",
+      "publishedAt": "2014-02-10",
+      "outlet": "samparr.com",
+      "topics": [
+        "sales",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-the-best-business-books-ever",
+      "type": "essay",
+      "title": "The Best Business Books Ever (Updated 2019)",
+      "url": "https://samparr.com/the-best-business-books-ever/",
+      "publishedAt": "2017-11-15",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-how-to-measure-risk",
+      "type": "essay",
+      "title": "How to measure risk",
+      "url": "https://samparr.com/how-to-measure-risk/",
+      "publishedAt": "2017-12-02",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-the-unsexy-story-of-how-rich-guys-get-rich-mike-brown",
+      "type": "essay",
+      "title": "The Unsexy Story of How Rich Guys Get Rich: Mike Brown",
+      "url": "https://samparr.com/the-unsexy-story-of-how-rich-guys-get-rich-mike-brown/",
+      "publishedAt": "2017-12-13",
+      "outlet": "samparr.com",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "essay-22-immutable-laws-of-marketing",
+      "type": "essay",
+      "title": "22 Immutable Laws of Marketing",
+      "url": "https://samparr.com/22-immutable-laws-of-marketing/",
+      "publishedAt": "2025-08-05",
+      "outlet": "samparr.com",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-the-type-of-successful-people-i-like-all-have-these-things-i",
+      "type": "essay",
+      "title": "The type of successful people I like all have these things in common",
+      "url": "https://samparr.com/the-type-of-successful-people-i-like-all-have-these-things-in-common/",
+      "publishedAt": "2026-03-02",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-notes-from-hanging-out-with-a-powerful-person",
+      "type": "essay",
+      "title": "Notes from hanging out with a powerful person",
+      "url": "https://samparr.com/notes-from-hanging-out-with-a-powerful-person/",
+      "publishedAt": "2026-06-04",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-set-a-goal",
+      "type": "essay",
+      "title": "Set a goal",
+      "url": "https://samparr.com/set-a-goal/",
+      "publishedAt": "2026-08-20",
+      "outlet": "samparr.com",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "essay-35-growth-is-boring",
+      "type": "essay",
+      "title": "35% growth is boring",
+      "url": "https://samparr.com/35-growth-is-boring/",
+      "publishedAt": "2026-08-27",
+      "outlet": "samparr.com",
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-inside-the-life-of-a-100m-person",
+      "type": "essay",
+      "title": "Inside the life of a $100m person",
+      "url": "https://samparr.com/inside-the-life-of-a-100m-person/",
+      "publishedAt": "2026-09-21",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-2-9-decisions-a-year-and-50-million",
+      "type": "essay",
+      "title": "2.9 decisions a year (and $50 million)",
+      "url": "https://samparr.com/2-9-decisions-a-year-and-50-million/",
+      "publishedAt": "2026-10-19",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "essay-natural-moneymakers",
+      "type": "essay",
+      "title": "Natural moneymakers",
+      "url": "https://samparr.com/natural-moneymakers/",
+      "publishedAt": "2026-10-12",
+      "outlet": "samparr.com",
+      "topics": [
+        "sales",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-10m-a-year-1-person-biz",
+      "type": "essay",
+      "title": "$10m a year 1 person biz",
+      "url": "https://samparr.com/10m-a-year-1-person-biz/",
+      "publishedAt": "2026-09-28",
+      "outlet": "samparr.com",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "essay-my-new-company",
+      "type": "essay",
+      "title": "My new company\u2026",
+      "url": "https://samparr.com/my-new-company/",
+      "publishedAt": "2023-03-20",
+      "outlet": "samparr.com",
+      "topics": [
+        "community",
+        "launch"
+      ]
+    },
+    {
+      "id": "essay-2023-end-of-year-review-finance-fitness-family-fun",
+      "type": "essay",
+      "title": "2023 End of Year Review: Finance, Fitness, Family, Fun",
+      "url": "https://samparr.com/2023-end-of-year-review-finance-fitness-family-fun/",
+      "publishedAt": "2024-01-03",
+      "outlet": "samparr.com",
+      "topics": [
+        "productivity",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-were-all-idiots",
+      "type": "essay",
+      "title": "We're all idiots",
+      "url": "https://samparr.com/were-all-idiots/",
+      "publishedAt": "2026-10-26",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-how-many-years-does-it-take-to-become-a-millionaire",
+      "type": "essay",
+      "title": "How Many Years Does it Take to Become a Millionaire?",
+      "url": "https://samparr.com/how-many-years-does-it-take-to-become-a-millionaire/",
+      "publishedAt": "2013-12-31",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-6-things-learned-drinking-1-year",
+      "type": "essay",
+      "title": "6 Things I Learned From Not Drinking For 1 Year",
+      "url": "https://samparr.com/6-things-learned-drinking-1-year/",
+      "publishedAt": "2014-07-22",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-this-guy-is-a-douche-the-power-of-negative-feedback",
+      "type": "essay",
+      "title": "The Power of Negative Feedback",
+      "url": "https://samparr.com/this-guy-is-a-douche-the-power-of-negative-feedback/",
+      "publishedAt": "2014-10-22",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-customer-service-successful-complain-still-get-want",
+      "type": "essay",
+      "title": "Customer service: how to complain and still get what you want!",
+      "url": "https://samparr.com/customer-service-successful-complain-still-get-want/",
+      "publishedAt": "2014-04-30",
+      "outlet": "samparr.com",
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "essay-how-i-save-over-50-of-my-income",
+      "type": "essay",
+      "title": "How I Save Over 50% of My Income",
+      "url": "https://samparr.com/how-i-save-over-50-of-my-income/",
+      "publishedAt": "2019-04-16",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-i-just-spoke-with-one-of-the-most-impressive-businessmen-ive",
+      "type": "essay",
+      "title": "I just spoke with one of the most impressive businessmen I\u2019ve ever chatted with",
+      "url": "https://samparr.com/i-just-spoke-with-one-of-the-most-impressive-businessmen-ive-ever-chatted-with/",
+      "publishedAt": "2023-08-16",
+      "outlet": "samparr.com",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "essay-owning-stuff",
+      "type": "essay",
+      "title": "Owning stuff",
+      "url": "https://samparr.com/owning-stuff/",
+      "publishedAt": "2026-09-01",
+      "outlet": "samparr.com",
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-write-like-hustle-boring-stuff-writing-no-one-talks",
+      "type": "essay",
+      "title": "Write Like The Hustle: The Boring Stuff About Writing That No One Talks About",
+      "url": "https://thehustle.co/write-like-hustle-boring-stuff-writing-no-one-talks",
+      "publishedAt": "2024-10-01",
+      "outlet": "thehustle.co",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-sam-parr",
+      "type": "essay",
+      "title": "Sam Parr on Bootstrapping a Multimillion Dollar Company - EP 76",
+      "url": "https://lifestyleinvestor.com/sam-parr/",
+      "publishedAt": "2022-04-07",
+      "outlet": "lifestyleinvestor.com",
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra",
+      "type": "essay",
+      "title": "Sam Parr: How He Disrupted Media and Got an 8-Figure Exit (Cap Con 5 transcript)",
+      "url": "https://www.capitalism.com/wp-content/uploads/2021/12/Sam-Parr-How-He-Disrupted-Media-And-Got-An-8-Figure-Exit-Transcript.pdf",
+      "publishedAt": null,
+      "outlet": "www.capitalism.com",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1969929145879867536",
+      "type": "x_post",
+      "title": "What\u2019s the difference between a $10m, $100m, and $1b lifestyle? Asked this question in Ham",
+      "url": "https://x.com/thesamparr/status/1969929145879867536",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 1464337,
+      "likes": 10074,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1843273838546800990",
+      "type": "x_post",
+      "title": "Bridgewater (4% returns) vs index funds (18%). I'm not saying you can't beat the market. B",
+      "url": "https://x.com/thesamparr/status/1843273838546800990",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 1613753,
+      "likes": 6164,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1303135512081858560",
+      "type": "x_post",
+      "title": "I'm SHOCKED at how many $30k-$50k trucks and SUVs I see in poor areas of the country. We'v",
+      "url": "https://x.com/thesamparr/status/1303135512081858560",
+      "publishedAt": "2020-09-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3839,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1550594790282215426",
+      "type": "x_post",
+      "title": "When I sold my company I called my mom. I told her how much I made, some big media outlets",
+      "url": "https://x.com/thesamparr/status/1550594790282215426",
+      "publishedAt": "2022-07-22",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3662,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2041556393136664708",
+      "type": "x_post",
+      "title": "My father owns a produce brokerage company. He sells +$10m a year in onions a year with a ",
+      "url": "https://x.com/thesamparr/status/2041556393136664708",
+      "publishedAt": "2026-04-07",
+      "outlet": "X",
+      "views": 813217,
+      "likes": 3538,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2001305252100706551",
+      "type": "x_post",
+      "title": "Carnegie became a billionaire working only 2 hours a day. He famously said: \"You must be a",
+      "url": "https://x.com/thesamparr/status/2001305252100706551",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 261761,
+      "likes": 3504,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2036953786904719361",
+      "type": "x_post",
+      "title": "My buddy runs a company helping manufactures implement ai. He showed me the leads he\u2019s get",
+      "url": "https://x.com/thesamparr/status/2036953786904719361",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 886055,
+      "likes": 3209,
+      "topics": [
+        "ai",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1658638422741753859",
+      "type": "x_post",
+      "title": "Go to 21 seconds in. Elon pauses for 15 seconds before answering a question. If you're the",
+      "url": "https://x.com/thesamparr/status/1658638422741753859",
+      "publishedAt": "2023-05-17",
+      "outlet": "X",
+      "views": 1252391,
+      "likes": 3200,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1978038094008869291",
+      "type": "x_post",
+      "title": "My progress always looks the same: Start \u2192 suck \u2192 grind for months/years with no noticeabl",
+      "url": "https://x.com/thesamparr/status/1978038094008869291",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 183446,
+      "likes": 2703,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1971778528170451055",
+      "type": "x_post",
+      "title": "How to live a miserable life in 5 easy steps: 1. Don\u2019t decide. Spend tons of time planning",
+      "url": "https://x.com/thesamparr/status/1971778528170451055",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 201995,
+      "likes": 2387,
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1295718343694065665",
+      "type": "x_post",
+      "title": "I LOVE boring non-Silicon Valley, family-owned businesses. This one's a good one: ABC Supp",
+      "url": "https://x.com/thesamparr/status/1295718343694065665",
+      "publishedAt": "2020-08-18",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2383,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1640680965830762496",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: I'm back. Last July I founded a new startup. Today I'm sharing it with the w",
+      "url": "https://x.com/thesamparr/status/1640680965830762496",
+      "publishedAt": "2023-03-28",
+      "outlet": "X",
+      "views": 2542031,
+      "likes": 2375,
+      "topics": [
+        "launch",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1577687419670986754",
+      "type": "x_post",
+      "title": "Rule: no swag (t-shirts and shit) until product market fit or profitability.",
+      "url": "https://x.com/thesamparr/status/1577687419670986754",
+      "publishedAt": "2022-10-05",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2075,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1532771361025925121",
+      "type": "x_post",
+      "title": "Talked to 2 different people who created amazing automations so they don't have to hire lo",
+      "url": "https://x.com/thesamparr/status/1532771361025925121",
+      "publishedAt": "2022-06-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2045,
+      "topics": [
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1356364890223636482",
+      "type": "x_post",
+      "title": "The most important financial decision you'll ever make: Picking the right spouse!",
+      "url": "https://x.com/thesamparr/status/1356364890223636482",
+      "publishedAt": "2021-02-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1925,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1984282198690980264",
+      "type": "x_post",
+      "title": "A hill I will die on: Buying a a home is almost always not a great financial investment. y",
+      "url": "https://x.com/thesamparr/status/1984282198690980264",
+      "publishedAt": "2025-10-31",
+      "outlet": "X",
+      "views": 1661966,
+      "likes": 1799,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1551360179437977601",
+      "type": "x_post",
+      "title": "Success is dreaming of becoming a certain type of person and then becoming it. Nothing to ",
+      "url": "https://x.com/thesamparr/status/1551360179437977601",
+      "publishedAt": "2022-07-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1666,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1620818040949727232",
+      "type": "x_post",
+      "title": "My current belief: Working on 1 good business for 10 years will likely beat working on 10 ",
+      "url": "https://x.com/thesamparr/status/1620818040949727232",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 320998,
+      "likes": 1633,
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1965781022101880912",
+      "type": "x_post",
+      "title": "Writing down goals. Quarterly, annual, 5 year. I think this is TERRIBLY important. For bus",
+      "url": "https://x.com/thesamparr/status/1965781022101880912",
+      "publishedAt": "2025-09-10",
+      "outlet": "X",
+      "views": 109229,
+      "likes": 1519,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1977675750825140545",
+      "type": "x_post",
+      "title": "One reason why entrepreneurship is hard is because you fear that what you\u2019re working on to",
+      "url": "https://x.com/thesamparr/status/1977675750825140545",
+      "publishedAt": "2025-10-13",
+      "outlet": "X",
+      "views": 120132,
+      "likes": 1346,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1747664164992991406",
+      "type": "x_post",
+      "title": "12 years ago I read a blog post by @noahkagan. It inspired my to start a conference biz, w",
+      "url": "https://x.com/thesamparr/status/1747664164992991406",
+      "publishedAt": "2024-01-17",
+      "outlet": "X",
+      "views": 215741,
+      "likes": 1291,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2077781994818175147",
+      "type": "x_post",
+      "title": "Some of my personal finance rules: 1. most all money goes into index funds. virtually 0 st",
+      "url": "https://x.com/thesamparr/status/2077781994818175147",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 111237,
+      "likes": 1262,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1546228948648050688",
+      "type": "x_post",
+      "title": "The book that made the biggest impact on my entrepreneurial career: How to Get Rich by Fel",
+      "url": "https://x.com/thesamparr/status/1546228948648050688",
+      "publishedAt": "2022-07-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1169,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1570810143528591360",
+      "type": "x_post",
+      "title": "A big regret: not learning how to code+learn SOME type of technical stuff so I can make wh",
+      "url": "https://x.com/thesamparr/status/1570810143528591360",
+      "publishedAt": "2022-09-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1165,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1984717308221104213",
+      "type": "x_post",
+      "title": "Sharing this here. This was my reply to this Jesse guy. 1. The price paid cash up front (s",
+      "url": "https://x.com/thesamparr/status/1984717308221104213",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 1182009,
+      "likes": 1142,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2103630502741635094",
+      "type": "x_post",
+      "title": "Man in the past ~4 weeks I've talked to like 3 or 4 creators in the tech space. Little 1-2",
+      "url": "https://x.com/thesamparr/status/2103630502741635094",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 132269,
+      "likes": 1138,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1868686547954118801",
+      "type": "x_post",
+      "title": "Because I moved to San Francisco when I was 21, I know a bunch of people who were nothing ",
+      "url": "https://x.com/thesamparr/status/1868686547954118801",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 165372,
+      "likes": 1103,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1515328503843115010",
+      "type": "x_post",
+      "title": "Show me 1000 people who've had outsized success in any field. Sports, business, authors, a",
+      "url": "https://x.com/thesamparr/status/1515328503843115010",
+      "publishedAt": "2022-04-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1100,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1396835864005726211",
+      "type": "x_post",
+      "title": "How to make yourself miserable: Compare yourself to others.",
+      "url": "https://x.com/thesamparr/status/1396835864005726211",
+      "publishedAt": "2021-05-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1084,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1605773556465401856",
+      "type": "x_post",
+      "title": "I sold The Hustle's first ads. About $100k worth. Here's the 1st cold email I sent that go",
+      "url": "https://x.com/thesamparr/status/1605773556465401856",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 406513,
+      "likes": 1062,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1775515621377151075",
+      "type": "x_post",
+      "title": "I think people underestimate how many businesses are out there doing $10-$100m a year in r",
+      "url": "https://x.com/thesamparr/status/1775515621377151075",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 266898,
+      "likes": 1044,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1555564495392710657",
+      "type": "x_post",
+      "title": "Any new project I start: try to get some type of sale or user ASAP. Like, within 5 days. W",
+      "url": "https://x.com/thesamparr/status/1555564495392710657",
+      "publishedAt": "2022-08-05",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1039,
+      "topics": [
+        "launch",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1536340369880801281",
+      "type": "x_post",
+      "title": "Instead of freaking out about the stock market, I'd rather just focus on making more $ thr",
+      "url": "https://x.com/thesamparr/status/1536340369880801281",
+      "publishedAt": "2022-06-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1017,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1777682633872351310",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: I made a website that\u2019s Yelp for accountants: https://t.co/rqlXb2EyUC I am l",
+      "url": "https://x.com/thesamparr/status/1777682633872351310",
+      "publishedAt": "2024-04-09",
+      "outlet": "X",
+      "views": 328787,
+      "likes": 963,
+      "topics": [
+        "launch",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1970290354625646830",
+      "type": "x_post",
+      "title": "Something I\u2019ve been thinking about a lot lately: Most decisions are small. What\u2019s for lunc",
+      "url": "https://x.com/thesamparr/status/1970290354625646830",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 176525,
+      "likes": 953,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1587139761206091782",
+      "type": "x_post",
+      "title": "Don't job search...job hunt! Search: see what's available, apply. Hunt: find a company you",
+      "url": "https://x.com/thesamparr/status/1587139761206091782",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 927,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1712124025168662928",
+      "type": "x_post",
+      "title": "I read about 1 book a week. I've gotten nerdy about my routine. - Always on Kindle. So I c",
+      "url": "https://x.com/thesamparr/status/1712124025168662928",
+      "publishedAt": "2023-10-11",
+      "outlet": "X",
+      "views": 349460,
+      "likes": 917,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1233921719686971392",
+      "type": "x_post",
+      "title": "I was 100% a Facebook guy a few months ago and rarely tweeted. Now all in on Twitter. Wayy",
+      "url": "https://x.com/thesamparr/status/1233921719686971392",
+      "publishedAt": "2020-03-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 901,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2033570076083753157",
+      "type": "x_post",
+      "title": "How to develop good taste: 1. Copy others 2. Learn the rules 3. Study history and learn wh",
+      "url": "https://x.com/thesamparr/status/2033570076083753157",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 55822,
+      "likes": 895,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1384144428911054855",
+      "type": "x_post",
+      "title": "Focus! I think a startup will fail if a just-off-the-ground founder is doing side hustles,",
+      "url": "https://x.com/thesamparr/status/1384144428911054855",
+      "publishedAt": "2021-04-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 886,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1948407271198708046",
+      "type": "x_post",
+      "title": "Dog most of the stuff on twitter seems exciting and cool and jumping project to project. B",
+      "url": "https://x.com/thesamparr/status/1948407271198708046",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 102065,
+      "likes": 886,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1981796904129425461",
+      "type": "x_post",
+      "title": "I sold my company for over $40 million when I was 31. Here\u2019s every idea I tried before my ",
+      "url": "https://x.com/thesamparr/status/1981796904129425461",
+      "publishedAt": "2025-10-24",
+      "outlet": "X",
+      "views": 769586,
+      "likes": 819,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1345396526978396160",
+      "type": "x_post",
+      "title": "Stop collecting domains. Buying a domain name should NOT be step 1 in starting something. ",
+      "url": "https://x.com/thesamparr/status/1345396526978396160",
+      "publishedAt": "2021-01-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 792,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2031412322766397497",
+      "type": "x_post",
+      "title": "How to not be broke: - Set a 5 year goal. \u201cI want $x in on 1/1/2031\u201d. - List benchmarks wh",
+      "url": "https://x.com/thesamparr/status/2031412322766397497",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 44970,
+      "likes": 789,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1384510788384169991",
+      "type": "x_post",
+      "title": "Avoid people who don\u2019t follow through or take action. All they do is talk about what they\u2019",
+      "url": "https://x.com/thesamparr/status/1384510788384169991",
+      "publishedAt": "2021-04-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 778,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1306789501197602819",
+      "type": "x_post",
+      "title": "For years I thought selling a company was the goal. It\u2019s completely changed. In most cases",
+      "url": "https://x.com/thesamparr/status/1306789501197602819",
+      "publishedAt": "2020-09-18",
+      "outlet": "X",
+      "views": 0,
+      "likes": 761,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1745857889615409645",
+      "type": "x_post",
+      "title": "Something I want to beat into everyone's brain: THE WORLD WANTS YOU TO BE VANILLA WITH YOU",
+      "url": "https://x.com/thesamparr/status/1745857889615409645",
+      "publishedAt": "2024-01-12",
+      "outlet": "X",
+      "views": 112548,
+      "likes": 731,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2060335100282200122",
+      "type": "x_post",
+      "title": "I don't own a lot of stuff. Homes, cars, toys, etc. Yes, this is normal for many urban liv",
+      "url": "https://x.com/thesamparr/status/2060335100282200122",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 105462,
+      "likes": 728,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1408294165004365824",
+      "type": "x_post",
+      "title": "Knowing what I know now ...if I wanted to make a lot of money and was willing to put in 15",
+      "url": "https://x.com/thesamparr/status/1408294165004365824",
+      "publishedAt": "2021-06-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 720,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1749467267786481714",
+      "type": "x_post",
+      "title": "I got ~30 agencies owners in Hampton to reveal their: - revenue - profit - profit per empl",
+      "url": "https://x.com/thesamparr/status/1749467267786481714",
+      "publishedAt": "2024-01-22",
+      "outlet": "X",
+      "views": 242465,
+      "likes": 712,
+      "topics": [
+        "building",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1379940034858602497",
+      "type": "x_post",
+      "title": "Seeing the inside of a $1b/year SaaS company is super fascinating. I totally get why softw",
+      "url": "https://x.com/thesamparr/status/1379940034858602497",
+      "publishedAt": "2021-04-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 695,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1753145660612735027",
+      "type": "x_post",
+      "title": "How The Hustle got its first 100k users: My team and I wrote lots of blog posts that went ",
+      "url": "https://x.com/thesamparr/status/1753145660612735027",
+      "publishedAt": "2024-02-01",
+      "outlet": "X",
+      "views": 187377,
+      "likes": 679,
+      "topics": [
+        "growth",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1632854354888650755",
+      "type": "x_post",
+      "title": "New rule: make at least $100 in sales before you buy a domain name for your internet proje",
+      "url": "https://x.com/thesamparr/status/1632854354888650755",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 161195,
+      "likes": 670,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2102906551509938670",
+      "type": "x_post",
+      "title": "When I was 22 I made a list of all the stuff I'd wanna buy by 30. Just found my old wish l",
+      "url": "https://x.com/thesamparr/status/2102906551509938670",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 161701,
+      "likes": 664,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1899562987553194201",
+      "type": "x_post",
+      "title": "Been obsessed with making ChatGPT a business consultant for me. So I uploaded my p+l, webs",
+      "url": "https://x.com/thesamparr/status/1899562987553194201",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 125480,
+      "likes": 658,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1912518987377766609",
+      "type": "x_post",
+      "title": "Life update: Joe and I are now the CEOs of Hampton It was actually a quote from Palmer Luc",
+      "url": "https://x.com/thesamparr/status/1912518987377766609",
+      "publishedAt": "2025-04-16",
+      "outlet": "X",
+      "views": 166290,
+      "likes": 656,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1518016307618320385",
+      "type": "x_post",
+      "title": "My next company\u2019s mission: create a way so I can employ people I enjoy spending time with.",
+      "url": "https://x.com/thesamparr/status/1518016307618320385",
+      "publishedAt": "2022-04-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 653,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1311711410204872705",
+      "type": "x_post",
+      "title": "I'm trying to convince a bunch of marketers that... 1. Long-form copy is mostly more effec",
+      "url": "https://x.com/thesamparr/status/1311711410204872705",
+      "publishedAt": "2020-10-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 652,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1336718001983393801",
+      "type": "x_post",
+      "title": "I LOVE when applicants go the extra mile. This guy is still in college. Sent us a cold ema",
+      "url": "https://x.com/thesamparr/status/1336718001983393801",
+      "publishedAt": "2020-12-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 644,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1983206945210171727",
+      "type": "x_post",
+      "title": "How to write better than 99% of people: - Object then action: \u201cthe boy hit the ball\u201d is be",
+      "url": "https://x.com/thesamparr/status/1983206945210171727",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 51481,
+      "likes": 633,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1777311359958454691",
+      "type": "x_post",
+      "title": "In terms of growth, I think this is order of easiest to hardest: 1. Newsletter 2. Social 3",
+      "url": "https://x.com/thesamparr/status/1777311359958454691",
+      "publishedAt": "2024-04-08",
+      "outlet": "X",
+      "views": 143509,
+      "likes": 609,
+      "topics": [
+        "distribution",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1761834661066478033",
+      "type": "x_post",
+      "title": "As I progress in my career and rack up some wins (and losses!), my opinion on luck has cha",
+      "url": "https://x.com/thesamparr/status/1761834661066478033",
+      "publishedAt": "2024-02-25",
+      "outlet": "X",
+      "views": 97905,
+      "likes": 605,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2026323758189879478",
+      "type": "x_post",
+      "title": "How much should a startup CEO pay themselves? When my last co did $2m, I paid myself ~$24,",
+      "url": "https://x.com/thesamparr/status/2026323758189879478",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 185542,
+      "likes": 585,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1961604346052764090",
+      "type": "x_post",
+      "title": "Let me tell you about the creator tension. On Youtube, My First Million episodes mostly ge",
+      "url": "https://x.com/thesamparr/status/1961604346052764090",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 104045,
+      "likes": 580,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1559535472447307778",
+      "type": "x_post",
+      "title": "Before starting a new project w/ someone, I make us answer some alignment questions: -what",
+      "url": "https://x.com/thesamparr/status/1559535472447307778",
+      "publishedAt": "2022-08-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 572,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1875188848105320462",
+      "type": "x_post",
+      "title": "Around like 2015, I started The Hustle (a newsletter) because I predicted that Facebook wo",
+      "url": "https://x.com/thesamparr/status/1875188848105320462",
+      "publishedAt": "2025-01-03",
+      "outlet": "X",
+      "views": 165156,
+      "likes": 570,
+      "topics": [
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1198328628083216384",
+      "type": "x_post",
+      "title": "A few mentors have told me that you shouldn\u2019t default to hiring even though most of your t",
+      "url": "https://x.com/thesamparr/status/1198328628083216384",
+      "publishedAt": "2019-11-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 546,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1288507752491302912",
+      "type": "x_post",
+      "title": "I've built a pretty amazing network from scratch over the last 10 years. It's been my unfa",
+      "url": "https://x.com/thesamparr/status/1288507752491302912",
+      "publishedAt": "2020-07-29",
+      "outlet": "X",
+      "views": 0,
+      "likes": 540,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1532810704817881091",
+      "type": "x_post",
+      "title": "I\u2019m friends with people with tons of money (billionaires) and people just getting by. And,",
+      "url": "https://x.com/thesamparr/status/1532810704817881091",
+      "publishedAt": "2022-06-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 539,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1963578140279607586",
+      "type": "x_post",
+      "title": "A huge kick in the ass that I\u2019ve gotten over the last couple of years from hanging w/ peop",
+      "url": "https://x.com/thesamparr/status/1963578140279607586",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 51993,
+      "likes": 535,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1686474059058483202",
+      "type": "x_post",
+      "title": "In 2015 I told a CEO of a large media company that I was starting a newsletter. You all kn",
+      "url": "https://x.com/thesamparr/status/1686474059058483202",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 228978,
+      "likes": 508,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1666131323524722733",
+      "type": "x_post",
+      "title": "Something I'd almost aways bet against: flashy + slick landing pages. In my experience, la",
+      "url": "https://x.com/thesamparr/status/1666131323524722733",
+      "publishedAt": "2023-06-06",
+      "outlet": "X",
+      "views": 221458,
+      "likes": 502,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1407926335385784331",
+      "type": "x_post",
+      "title": "Writing some sales copy. (helping a friend w/ they're landing page). 2 reminders: \u2022 Copywr",
+      "url": "https://x.com/thesamparr/status/1407926335385784331",
+      "publishedAt": "2021-06-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 481,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1733142939189064145",
+      "type": "x_post",
+      "title": "Casual but professional. In my humble opinion, that's how most work communication should b",
+      "url": "https://x.com/thesamparr/status/1733142939189064145",
+      "publishedAt": "2023-12-08",
+      "outlet": "X",
+      "views": 125075,
+      "likes": 481,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1546857258650411009",
+      "type": "x_post",
+      "title": "Things that I\u2019m more afraid of than failing: Spending years working on something that\u2019s on",
+      "url": "https://x.com/thesamparr/status/1546857258650411009",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 462,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1916182817890881677",
+      "type": "x_post",
+      "title": "No idea about the product or team. But I bet a lot that this site converts super well. No ",
+      "url": "https://x.com/thesamparr/status/1916182817890881677",
+      "publishedAt": "2025-04-26",
+      "outlet": "X",
+      "views": 113672,
+      "likes": 456,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1770107768353296503",
+      "type": "x_post",
+      "title": "Let your freak flag fly. One of my mottos when it comes to hiring. I LOVE hiring freaks, n",
+      "url": "https://x.com/thesamparr/status/1770107768353296503",
+      "publishedAt": "2024-03-19",
+      "outlet": "X",
+      "views": 265914,
+      "likes": 455,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1817929906929483956",
+      "type": "x_post",
+      "title": "11 years ago this month I gave up alcohol. Each July I share a post giving an update. How ",
+      "url": "https://x.com/thesamparr/status/1817929906929483956",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 72640,
+      "likes": 452,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1813273559856185492",
+      "type": "x_post",
+      "title": "Something I've noticed: You get done doing something creative at work. Writing copy, desig",
+      "url": "https://x.com/thesamparr/status/1813273559856185492",
+      "publishedAt": "2024-07-16",
+      "outlet": "X",
+      "views": 62145,
+      "likes": 451,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1378018626465333253",
+      "type": "x_post",
+      "title": "Blogs are dead. But they're gonna make a comeback. Start one now. Just like how we did wit",
+      "url": "https://x.com/thesamparr/status/1378018626465333253",
+      "publishedAt": "2021-04-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 447,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1520053087175647232",
+      "type": "x_post",
+      "title": "Angel investing mostly sucks - tons of meetings - ~10 years to see real results - dopamine",
+      "url": "https://x.com/thesamparr/status/1520053087175647232",
+      "publishedAt": "2022-04-29",
+      "outlet": "X",
+      "views": 0,
+      "likes": 446,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1716462329418653837",
+      "type": "x_post",
+      "title": "For every biz biography I read, I make an excel sheet that shows - major points in their b",
+      "url": "https://x.com/thesamparr/status/1716462329418653837",
+      "publishedAt": "2023-10-23",
+      "outlet": "X",
+      "views": 90765,
+      "likes": 434,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1857114676934414443",
+      "type": "x_post",
+      "title": "My company, Hampton, is in the midst of a major change. We're switching to in real life me",
+      "url": "https://x.com/thesamparr/status/1857114676934414443",
+      "publishedAt": "2024-11-14",
+      "outlet": "X",
+      "views": 133000,
+      "likes": 425,
+      "topics": [
+        "community",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1793298417487114268",
+      "type": "x_post",
+      "title": "Had two people join Hampton last month. Both had +$500m exits. Both now have over $100m. B",
+      "url": "https://x.com/thesamparr/status/1793298417487114268",
+      "publishedAt": "2024-05-22",
+      "outlet": "X",
+      "views": 145233,
+      "likes": 424,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2057129228660093254",
+      "type": "x_post",
+      "title": "About 2 or 3 years ago, I tweeted out, who has a good accountant? We got 300 people who re",
+      "url": "https://x.com/thesamparr/status/2057129228660093254",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 30897,
+      "likes": 396,
+      "topics": [
+        "launch",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1918014906638418240",
+      "type": "x_post",
+      "title": "Nobody cares about you, they only care about themselves. Good advice for business, copywri",
+      "url": "https://x.com/thesamparr/status/1918014906638418240",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 64869,
+      "likes": 384,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1381268507812360194",
+      "type": "x_post",
+      "title": "The cycle of content company: - Start as edgy/cool/unique - get popular - start hiring SJW",
+      "url": "https://x.com/thesamparr/status/1381268507812360194",
+      "publishedAt": "2021-04-11",
+      "outlet": "X",
+      "views": 0,
+      "likes": 376,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1445169546818723843",
+      "type": "x_post",
+      "title": "I\u2019ve hired people to run businesses before (and have friends who have). My current view: y",
+      "url": "https://x.com/thesamparr/status/1445169546818723843",
+      "publishedAt": "2021-10-04",
+      "outlet": "X",
+      "views": 0,
+      "likes": 366,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2036158907911962757",
+      "type": "x_post",
+      "title": "We asked 561 founders in Hampton what luxury purchases were actually worth it. Nobody argu",
+      "url": "https://x.com/thesamparr/status/2036158907911962757",
+      "publishedAt": "2026-03-23",
+      "outlet": "X",
+      "views": 76584,
+      "likes": 366,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1851263361574371643",
+      "type": "x_post",
+      "title": "High net worth people talk about money a lot. But its always behind closed doors. I don\u2019t ",
+      "url": "https://x.com/thesamparr/status/1851263361574371643",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 89773,
+      "likes": 362,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1530221858833956865",
+      "type": "x_post",
+      "title": "Blogs: very easy to grow. monetizes OK. hard to retain users. Newsletters: easy to grow. m",
+      "url": "https://x.com/thesamparr/status/1530221858833956865",
+      "publishedAt": "2022-05-27",
+      "outlet": "X",
+      "views": 0,
+      "likes": 352,
+      "topics": [
+        "distribution",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1786090515831652809",
+      "type": "x_post",
+      "title": "Alright folks. https://t.co/ezp4bXgk6P. Its officially a thing. So we made this lil site a",
+      "url": "https://x.com/thesamparr/status/1786090515831652809",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 95989,
+      "likes": 337,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1288505020074270722",
+      "type": "x_post",
+      "title": "People ask me about starting newsletters a lot. They hate my advice: 1. write a blog post ",
+      "url": "https://x.com/thesamparr/status/1288505020074270722",
+      "publishedAt": "2020-07-29",
+      "outlet": "X",
+      "views": 0,
+      "likes": 331,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1815758819005276469",
+      "type": "x_post",
+      "title": "Through my conferences, podcasts, and @HamptonFounders...I've learned this: there are a th",
+      "url": "https://x.com/thesamparr/status/1815758819005276469",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 53114,
+      "likes": 322,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1242856593718300673",
+      "type": "x_post",
+      "title": "Let\u2019s replace the world founder with small business owner. Founder: dweeb who defaults to ",
+      "url": "https://x.com/thesamparr/status/1242856593718300673",
+      "publishedAt": "2020-03-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 321,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1912895836847042762",
+      "type": "x_post",
+      "title": "Sam's List update: - a small website i made that's yelp for accountants, financial advisor",
+      "url": "https://x.com/thesamparr/status/1912895836847042762",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 40394,
+      "likes": 309,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1545218373784686592",
+      "type": "x_post",
+      "title": "I LOVE the whole \u201cbuy a business\u201d stuff. Personally tho, it ain\u2019t me. Gotta start it. Gott",
+      "url": "https://x.com/thesamparr/status/1545218373784686592",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 288,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2074455106175570160",
+      "type": "x_post",
+      "title": "Been playing around with a bunch of ai website builders to test them out. I notice they ma",
+      "url": "https://x.com/thesamparr/status/2074455106175570160",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 46829,
+      "likes": 281,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1556756038606589952",
+      "type": "x_post",
+      "title": "Screwing up your cap table is likely one of the only things in business that when you fuck",
+      "url": "https://x.com/thesamparr/status/1556756038606589952",
+      "publishedAt": "2022-08-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 280,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-2008721804945183215",
+      "type": "x_post",
+      "title": "I\u2019ve been building communities (online and offline) for +13 years. A few things I\u2019ve been ",
+      "url": "https://x.com/thesamparr/status/2008721804945183215",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 40471,
+      "likes": 278,
+      "topics": [
+        "community"
+      ]
+    },
+    {
+      "id": "x-1251239935207542788",
+      "type": "x_post",
+      "title": "One of the best resources for marketing: look at what the \"scammy\" marketers do. These peo",
+      "url": "https://x.com/thesamparr/status/1251239935207542788",
+      "publishedAt": "2020-04-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 277,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1767293059060871502",
+      "type": "x_post",
+      "title": "I think \"every company is a media company\" is stupid. They're trying to say \"make content,",
+      "url": "https://x.com/thesamparr/status/1767293059060871502",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 35587,
+      "likes": 276,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1627703226416996355",
+      "type": "x_post",
+      "title": "Creation happens in silence. Any idea or creative work you can think of happens in silence",
+      "url": "https://x.com/thesamparr/status/1627703226416996355",
+      "publishedAt": "2023-02-20",
+      "outlet": "X",
+      "views": 81969,
+      "likes": 275,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1290736549168963584",
+      "type": "x_post",
+      "title": "Here's what my company is doing: 1. The Hustle: build 5m email audience+loyalty and profit",
+      "url": "https://x.com/thesamparr/status/1290736549168963584",
+      "publishedAt": "2020-08-04",
+      "outlet": "X",
+      "views": 0,
+      "likes": 272,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1508419569270013952",
+      "type": "x_post",
+      "title": "Copywriting is the #1 most important skill for business + making $. Copywriting has made m",
+      "url": "https://x.com/thesamparr/status/1508419569270013952",
+      "publishedAt": "2022-03-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 261,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1801272279889780896",
+      "type": "x_post",
+      "title": "This is for all the media nerds and people who wanna start media businesses: You will like",
+      "url": "https://x.com/thesamparr/status/1801272279889780896",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 68151,
+      "likes": 258,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1377634071975768074",
+      "type": "x_post",
+      "title": "RESEARCH HACK FOR STARTUP BUILDERS \u2022Read real estate blogs \u2192 find out who's buying $20m ho",
+      "url": "https://x.com/thesamparr/status/1377634071975768074",
+      "publishedAt": "2021-04-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 257,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1829138094064390203",
+      "type": "x_post",
+      "title": "We\u2019re making a change to Hampton\u2019s membership requirements. Raising revenue minimum form $",
+      "url": "https://x.com/thesamparr/status/1829138094064390203",
+      "publishedAt": "2024-08-29",
+      "outlet": "X",
+      "views": 98554,
+      "likes": 254,
+      "topics": [
+        "pricing",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1765783649943703985",
+      "type": "x_post",
+      "title": "There are a few things first time founders get wrong with growth. For example, first time ",
+      "url": "https://x.com/thesamparr/status/1765783649943703985",
+      "publishedAt": "2024-03-07",
+      "outlet": "X",
+      "views": 77820,
+      "likes": 232,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2059318663476375827",
+      "type": "x_post",
+      "title": "I knew nothing when I started a media company (The Hustle). Nothing! Had never worked in t",
+      "url": "https://x.com/thesamparr/status/2059318663476375827",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 21713,
+      "likes": 230,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1524498490969178112",
+      "type": "x_post",
+      "title": "Years ago, when I was first starting my conference business, we couldn\u2019t afford fancy cate",
+      "url": "https://x.com/thesamparr/status/1524498490969178112",
+      "publishedAt": "2022-05-11",
+      "outlet": "X",
+      "views": 0,
+      "likes": 229,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2089467536777806047",
+      "type": "x_post",
+      "title": "We just looked at the transcripts from thousands of CEOs who interviewed to join Hampton. ",
+      "url": "https://x.com/thesamparr/status/2089467536777806047",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 33680,
+      "likes": 225,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1430587810021527552",
+      "type": "x_post",
+      "title": "I know a ton of the popular people on twitter who give the catchiest, cutest business advi",
+      "url": "https://x.com/thesamparr/status/1430587810021527552",
+      "publishedAt": "2021-08-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 215,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1645840576330203159",
+      "type": "x_post",
+      "title": "A cool part about startups is creating a team that's better than you. They build stuff and",
+      "url": "https://x.com/thesamparr/status/1645840576330203159",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 48033,
+      "likes": 199,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1678841568097173504",
+      "type": "x_post",
+      "title": "Its very, very hard to be both a media startup and a SaaS startup at the same time. I can'",
+      "url": "https://x.com/thesamparr/status/1678841568097173504",
+      "publishedAt": "2023-07-11",
+      "outlet": "X",
+      "views": 135495,
+      "likes": 196,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1318680777526312961",
+      "type": "x_post",
+      "title": "Hiring AND firing. HOLY HELL. Once you get profitable, it's HANDS DOWN the most profitable",
+      "url": "https://x.com/thesamparr/status/1318680777526312961",
+      "publishedAt": "2020-10-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 181,
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1203025229632507904",
+      "type": "x_post",
+      "title": "Here's what I've learned from years of talking to founders of all types of companies: Ther",
+      "url": "https://x.com/thesamparr/status/1203025229632507904",
+      "publishedAt": "2019-12-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 177,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1770920319441629207",
+      "type": "x_post",
+      "title": "Dear \"my future first growth marketing hire\", My company @HamptonFounders, we're on a marc",
+      "url": "https://x.com/thesamparr/status/1770920319441629207",
+      "publishedAt": "2024-03-21",
+      "outlet": "X",
+      "views": 111810,
+      "likes": 328,
+      "topics": [
+        "hiring",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1263644118850220034",
+      "type": "x_post",
+      "title": "I was 100% against remote. Without commute I'm way more refreshed, happier, and absolutely",
+      "url": "https://x.com/thesamparr/status/1263644118850220034",
+      "publishedAt": "2020-05-22",
+      "outlet": "X",
+      "views": 0,
+      "likes": 700,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1223653535067201537",
+      "type": "x_post",
+      "title": "My twitter feed is full of people delivery advice in short punchy, motivational sentences ",
+      "url": "https://x.com/thesamparr/status/1223653535067201537",
+      "publishedAt": "2020-02-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 644,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2112939576746733633",
+      "type": "x_post",
+      "title": "I'm a lifelong wordpress user. It feels the wordpress plugin and theme spaced is totally f",
+      "url": "https://x.com/thesamparr/status/2112939576746733633",
+      "publishedAt": "2026-10-21",
+      "outlet": "X",
+      "views": 107279,
+      "likes": 494,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1978277698523758951",
+      "type": "x_post",
+      "title": "The big $$$ is obviously in ai. But...for those who want to start a business and: 1. don't",
+      "url": "https://x.com/thesamparr/status/1978277698523758951",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 67403,
+      "likes": 821,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2099845926856880513",
+      "type": "x_post",
+      "title": "We were offered like $600k to sell our company data to Micro1. 100% not doing it. But it d",
+      "url": "https://x.com/thesamparr/status/2099845926856880513",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 620867,
+      "likes": 1379,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1537087519812108289",
+      "type": "x_post",
+      "title": "I love the idea of: - less, but higher quality employees who are over paid - vs. lots of p",
+      "url": "https://x.com/thesamparr/status/1537087519812108289",
+      "publishedAt": "2022-06-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 532,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1846531591264252355",
+      "type": "x_post",
+      "title": "The research team at Hampton did a deep dive on what makes Duolingo addictive. Their growt",
+      "url": "https://x.com/thesamparr/status/1846531591264252355",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 81863,
+      "likes": 409,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1454092980504178691",
+      "type": "x_post",
+      "title": "Doing some pod research. Here's a preview: A few companies I like who don't advertise: 1. ",
+      "url": "https://x.com/thesamparr/status/1454092980504178691",
+      "publishedAt": "2021-10-29",
+      "outlet": "X",
+      "views": 0,
+      "likes": 297,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1786080980727398717",
+      "type": "x_post",
+      "title": "Check this out. Pretty cool. We got 100 Hampton members to show how their using AI to grow",
+      "url": "https://x.com/thesamparr/status/1786080980727398717",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 74341,
+      "likes": 295,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2112574603004662091",
+      "type": "x_post",
+      "title": "Last week I talked to four creators doing over $1m a year in ad revenue, almost entirely f",
+      "url": "https://x.com/thesamparr/status/2112574603004662091",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 32054,
+      "likes": 229,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1876291942415507745",
+      "type": "x_post",
+      "title": "Ok so hear me out: I think a marriage should be run like a business. Specially, the financ",
+      "url": "https://x.com/thesamparr/status/1876291942415507745",
+      "publishedAt": "2025-01-06",
+      "outlet": "X",
+      "views": 80011,
+      "likes": 209,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2039326930860965909",
+      "type": "x_post",
+      "title": "The agency business model just got really interesting. Shaan and I were talking about this",
+      "url": "https://x.com/thesamparr/status/2039326930860965909",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 141139,
+      "likes": 1023,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1452685169555542022",
+      "type": "x_post",
+      "title": "One of our early employees started as an intern. He just announced he's leaving us to star",
+      "url": "https://x.com/thesamparr/status/1452685169555542022",
+      "publishedAt": "2021-10-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1470,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1873811579285758114",
+      "type": "x_post",
+      "title": "something wild about startup taxes there\u2019s a way to potentially legally pay zero taxes on ",
+      "url": "https://x.com/thesamparr/status/1873811579285758114",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 164364,
+      "likes": 774,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1665742997089075202",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: Last summer I grew my Insta from 0-50k. The secret? Took my pod videos and c",
+      "url": "https://x.com/thesamparr/status/1665742997089075202",
+      "publishedAt": "2023-06-05",
+      "outlet": "X",
+      "views": 295303,
+      "likes": 471,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1501246083791470598",
+      "type": "x_post",
+      "title": "Wanted to brush up on my copywriting. So I made a product and started selling it. On about",
+      "url": "https://x.com/thesamparr/status/1501246083791470598",
+      "publishedAt": "2022-03-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 209,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2021913344903418251",
+      "type": "x_post",
+      "title": "In her 50s, after being a stay at home mom, a few years ago my mother in law started an on",
+      "url": "https://x.com/thesamparr/status/2021913344903418251",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 50242,
+      "likes": 548,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2019132409451626848",
+      "type": "x_post",
+      "title": "I've got a buddy who sold his company for ~$70m. So, it was a massive financial success. H",
+      "url": "https://x.com/thesamparr/status/2019132409451626848",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 64106,
+      "likes": 341,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-creatorscience-sam-parr",
+      "type": "essay",
+      "title": "Sam Parr on The Creator Science Podcast (transcript)",
+      "url": "https://creatorscience.com/podcast/sam-parr/",
+      "publishedAt": null,
+      "outlet": "creatorscience.com",
+      "topics": [
+        "growth",
+        "building"
+      ]
+    }
+  ],
+  "failures": []
+}

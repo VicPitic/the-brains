@@ -1,0 +1,38 @@
+{
+  "id": "essay-a-modern-way-to-think-about-email-marketing",
+  "title": "Email as a personal search engine: measure email on a CPC basis and treat it like SEO",
+  "summary": "Cody argues email should be judged by cost per click, including labor and CRM costs, rather than as a transactional blast channel. Because people return to old emails months later, email works as a user's personal search engine and database, so every relevant email you send seeds long-term, SEO-like assets in their inbox.",
+  "principles": [
+    {
+      "text": "Measure email on a cost-per-click basis, like search and display ads.",
+      "quote": "We should be measuring email clicks on a CPC basis and we should be thinking about email clients as a people’s personal search engines."
+    },
+    {
+      "text": "Compute true email CPC by including setup labor and CRM cost, not just the sender fee.",
+      "quote": "Email CPC = Initial labor setup costs + (CRM cost \\* months) / Total clicks in time frame"
+    },
+    {
+      "text": "A higher email CPC than paid ads can be worth it because people revisit emails months later.",
+      "quote": "Say we were spending $0.10 on paid ads, now we have to make the decision of whether this premium for a CPC is worth it. It’s worth it because people were revisiting the emails months later."
+    },
+    {
+      "text": "People use their inbox as a searchable database, so sending email adds your brand and content to it.",
+      "quote": "when we send emails to users we’re adding our brand, content and ideas to their database — a database that they search later on."
+    },
+    {
+      "text": "Any email-capture moment (PDF download, newsletter signup, purchase) is permission to seed their inbox with relevant content.",
+      "quote": "when people share their email with your organization through a PDF download, a newsletter signup, or when they make a product purchase they’re giving us permission to add to their database."
+    },
+    {
+      "text": "Treat email as a long-term compounding strategy like SEO, not a transactional campaign.",
+      "quote": "email is not a transactional campaign, but rather a long term marketing strategy similarly SEO."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-58-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-61-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -109,6 +109,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Peter Thiel](https://brains.ceo/peter-thiel) | Co-founder of PayPal and Palantir, author of Zero to One. Includes his CS183 Stanford class notes | 41 | n/a | 16 |
 | [David Goggins](https://brains.ceo/david-goggins) | Retired Navy SEAL and ultra-runner. **Mindset brain**: callousing the mind, the 40% rule, the accountability mirror | 24 | 151 | 30 |
 | [Ross Jenkins](https://brains.ceo/ross-jenkins) | Founder of DigitalME, an ActiveCampaign-certified email marketing agency; top Upwork earner | 18 | 41 | 2 |
+| [Ilias Ism](https://brains.ceo/ilias-ism) | SEO operator behind LinkDR and MagicSpace SEO; sold HR SaaS Officient | 39 | 137 | 5 |
+| [Cody Schneider](https://brains.ceo/cody-schneider) | Graphed co-founder running ads, SEO and cold email with Claude Code agents; host of In the Pit | 47 | 168 | 18 |
+| [Sam Parr](https://brains.ceo/sam-parr) | Founder of The Hustle (sold to HubSpot) and Hampton; co-host of My First Million | 48 | 136 | 22 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

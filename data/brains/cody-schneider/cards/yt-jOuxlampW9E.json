@@ -1,0 +1,39 @@
+{
+  "id": "yt-jOuxlampW9E",
+  "title": "Marketing engineering: let a coding agent do your marketing ops via a data warehouse and unified API",
+  "summary": "Cody explains marketing engineering: using a coding agent like Claude Code to do the manual middle work of marketing. He lays out the infrastructure it needs (pipeline, warehouse, server, storage, crons, APIs) and demos ad creation, Facebook uploads, SEO, lead enrichment and dashboards. The video is sponsored by graph.com, his own product.",
+  "principles": [
+    {
+      "text": "Marketing engineering means having a coding agent do the manual middle work marketers used to do by hand.",
+      "quote": "In marketing engineering, what that is is having your coding agent do all of the middle work that you used to have to do by hand as a marketer."
+    },
+    {
+      "text": "Pipe all marketing data into one warehouse and let the agent query it, instead of hitting platform APIs directly.",
+      "quote": "Joining data across these sources in the agent is extremely hard and you're going to find that it hallucinates."
+    },
+    {
+      "text": "Read from the warehouse and use platform APIs only to write (upload ads, toggle ads), to avoid rate limits and TOS bans.",
+      "quote": "I'm only using the APIs to write to those platforms."
+    },
+    {
+      "text": "Tie ad data all the way to revenue outcomes; a single source like Facebook Ads misrepresents what is happening.",
+      "quote": "I need to be able to tie the Ads all the way into what is actually producing outcomes."
+    },
+    {
+      "text": "Agents need real infrastructure to be effective: server, storage, databases, crons, hosting, auth, Git and an API gateway.",
+      "quote": "You have to give it the right resources for it to be able to do these actions."
+    },
+    {
+      "text": "Build a workflow once, then deploy it to the cloud on a schedule and run several agent tasks in parallel.",
+      "quote": "Once I build the system, once I build this process, I then go and deploy this into the cloud so that it can run on its own cadence without me having to jockey or manage it."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "ai",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-CCh0zwZRFjg",
+  "title": "How Graphed's CEO runs GTM with Claude Code agents: owned media, agent harnesses, token abundance",
+  "summary": "Cody Schneider explains how he automates go-to-market with Claude Code agents: a podcast-booking cold email agent, bulk Facebook ad generation, and a LinkedIn comment-to-lead loop. He also argues for owned media, solving the data pipeline before agents make decisions, and ideas plus polish as the only human work left.",
+  "principles": [
+    {
+      "text": "Go straight to code instead of workflow tools; agents in a repo are malleable and can be fixed from market feedback fast.",
+      "quote": "friends don't let friends do n right? Like you just go straight to code now because it's so much more malleable than all these other workflow tools."
+    },
+    {
+      "text": "Start an agent setup with a local folder and an environment file holding all your stack's API keys, then have Claude interrogate you.",
+      "quote": "You add all of your API keys for your entire stack of your business into that environment file. That's it."
+    },
+    {
+      "text": "Treat ad ops as an agent loop: generate variants, test, kill losers, promote winners, remix winners, repeat.",
+      "quote": "I turn off the losers. I promote the winners to more budget and then the winners I like remix those over and over again with new new creative."
+    },
+    {
+      "text": "Agents making ad decisions need a data pipeline and warehouse; raw APIs hit rate limits, truncation and context bloat, causing hallucinated decisions.",
+      "quote": "You literally can't do this with the APIs because you run into rate limits."
+    },
+    {
+      "text": "Own media is how you keep customer acquisition cost flat as paid CPCs rise in a maturing market.",
+      "quote": "as a market matures more people come and compete in that market and so the CPC increases over time only way to combat that is you have to invest in owned media that gives you organic reach"
+    },
+    {
+      "text": "With the middle work automatable, the only human jobs left are good ideas and polish (taste); give agents boundaries of nos.",
+      "quote": "Like having good ideas the hardest part. The middle work can be solved and then the polish is like like you know people call it taste"
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

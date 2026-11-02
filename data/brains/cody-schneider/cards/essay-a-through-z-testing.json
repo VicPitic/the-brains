@@ -1,0 +1,38 @@
+{
+  "id": "essay-a-through-z-testing",
+  "title": "A-through-Z testing: let the platform eliminate losing ads instead of A/B testing",
+  "summary": "Cody argues digital ads should work like evolution: a process of elimination, not a search for one right answer. Instead of A/B testing single components, combine many photos, headlines and body copy into hundreds or thousands of ad units and let CPC and conversion data show the winners. He also ties this to AI-built ads drawn from media libraries.",
+  "principles": [
+    {
+      "text": "Search for what doesn't work rather than what does; use process of elimination like nature.",
+      "quote": "Digital advertising should use the same process of elimination — search for what doesn’t work rather than what does."
+    },
+    {
+      "text": "Digital ad inventory is effectively unlimited, so test every creative idea instead of one ad per audience.",
+      "quote": "No longer do we have to run a single ad to an audience, but rather every ad creative idea we can think of."
+    },
+    {
+      "text": "Treat a combined ad as its own unit; dissecting components (photo, copy, CTA) in isolation misleads.",
+      "quote": "when you combine the different aspects of creative it creates a whole new piece of media."
+    },
+    {
+      "text": "Combine components into many ad units and let the platform's data pick the winner on CPC and conversions.",
+      "quote": "imagine you combine ten different photos, ten different headlines and ten different body texts for Facebook ads. This would create 1K combinations."
+    },
+    {
+      "text": "Let the audience tease out the message they want rather than forcing one on them.",
+      "quote": "In this way we’re not forcing a message on the audience, but rather teasing a message out of the audience with the message they want to engage with most."
+    },
+    {
+      "text": "AI will generate ad units from media libraries, testing thousands and telling creative teams what media to make next.",
+      "quote": "Firms will be able to test thousands of ad units and advise creative teams on what media they should make next for the media library."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

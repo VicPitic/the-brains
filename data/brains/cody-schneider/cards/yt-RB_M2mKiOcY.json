@@ -1,0 +1,39 @@
+{
+  "id": "yt-RB_M2mKiOcY",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Cody Schneider runs a Claude Code agent marketing stack: bulk ads, outbound and autonomous growth",
+  "summary": "Cody Schneider shows a live demo of running many parallel Claude Code instances wired to marketing APIs. They generate bulk Facebook ad variations from real customer pain points, scrape and cold-email podcast hosts, auto-respond on LinkedIn, and then deploy workflows to Railway. He also argues API quality is now the key criterion for buying software and that domain vocabulary is the real moat.",
+  "topics": [
+    "marketing",
+    "ai",
+    "growth",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Put all your API keys in one repo's env file and run your whole growth stack from it via Claude Code.",
+      "quote": "it just holds all of your API keys that you're basically going to be working with."
+    },
+    {
+      "text": "Buy software based on how robust its API is, since agents work through APIs, not UIs.",
+      "quote": "how I buy software in particular is how robust the API is."
+    },
+    {
+      "text": "Generate ad creative as React components rendered to PNG so you can mass-produce variations cheaply, then find winners before spending on polished creative.",
+      "quote": "everything in here is just it's just react components like that. This is this is just a react component and entirely built by code. And so, I can make an infinite amount of these at scale"
+    },
+    {
+      "text": "Base ad copy on real public pain points and outcomes, and find formats by copying proven ad layouts from competitors in the Facebook Ads Library.",
+      "quote": "the best ads that I'm seeing perform right now are basically you're selling outcomes or you're you're talking to the pain points, right?"
+    },
+    {
+      "text": "Run a continuous test-and-promote loop: a test campaign with new creative, a daily cron turning off losers, and winners bumped into their own ad sets with dedicated budget.",
+      "quote": "I would have a cron job that's on a daily basis basically going and turning off the low performers. And then the high performers, they get bumped up into their own ad sets with their own dedicated ad budget"
+    },
+    {
+      "text": "Agents analyzing ad data need a data warehouse and pipeline; plain MCPs hit pagination and rate limits and show only a fraction of the data.",
+      "quote": "there is literally no way that you're going to be able to analyze this data without a data pipeline and a data warehouse."
+    }
+  ]
+}

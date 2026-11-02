@@ -1,0 +1,39 @@
+{
+  "id": "yt-V-x7v69YZIM",
+  "title": "How Sam Parr launched Hampton, a founder peer network, to ~$1M ARR with no website",
+  "summary": "Sam Parr explains how he and co-founder Joe Spiser tested demand with a public tweet, personally called every respondent, and sold group spots through a Stripe link before building anything. He covers co-founder alignment, designing groups around fast vulnerability, selective admissions, and why hiring a CEO too early backfired.",
+  "principles": [
+    {
+      "text": "Validate demand by publicly posting a generic offer and counting replies. If one audience doesn't respond, switch audiences.",
+      "quote": "And I got like another 300 replies. And I started calling them and they were like, \"Take my money. I'm in.\""
+    },
+    {
+      "text": "Skip the website and polish at the start. Personally interview every lead and take payment through a simple link.",
+      "quote": "I had the 300 people on that list. I called all of them and I interviewed 100% of them and at the end of the interview it was like Joe I think this person wants in."
+    },
+    {
+      "text": "Before partnering, each person writes answers to the same questions separately (goals, limits, values), then compare them.",
+      "quote": "I put it in a document and I go, \"Copy this document and you go write your answers. I'll go write my answers.\""
+    },
+    {
+      "text": "Design community experiences for speed to vulnerability. Candid, confrontational-with-love conversations create the value.",
+      "quote": "it's speed to vulnerability. I think that's like the key is how do I make someone break really fast?"
+    },
+    {
+      "text": "Don't grow for growth's sake. Curate who gets in and be willing to turn away money to protect the product.",
+      "quote": "you can't grow for growth's sake. I can't just throw people into this. That will ruin it."
+    },
+    {
+      "text": "Don't hire a CEO to hand off a problem you're intimidated by. Handing off out of fear is abdication, not delegation.",
+      "quote": "I also think I was intimidated a little bit by the opportunity and how to pull it off. And so I wanted to hand that off to someone which is uh not a good reason probably to hire someone."
+    }
+  ],
+  "topics": [
+    "community",
+    "building",
+    "distribution",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

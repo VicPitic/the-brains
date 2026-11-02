@@ -1,0 +1,39 @@
+{
+  "id": "yt-jFItriT4vZU",
+  "title": "Cody Schneider on growth flywheels, underpriced attention and building Graph",
+  "summary": "Cody Schneider recounts scaling Rupa Health by layering growth channels, then explains how to find underpriced distribution (paid creative testing, creator posts, programmatic TV) and why early startups should do transactional marketing first. He also pitches Graph, an AI marketing analytics agent.",
+  "principles": [
+    {
+      "text": "Layer growth channels like flywheels: pour everything into one until it plateaus, then add the next.",
+      "quote": "you figure out a channel and you test five things, see traction with one of them, focus all of your like mental energy, money, resources, like everything basically gets f focused there until you start to see the um the ceiling occurring on that growth channel."
+    },
+    {
+      "text": "Early on, do transactional marketing (paid ads, cold DMs, cold email) that produces revenue tomorrow, not long-term SEO.",
+      "quote": "when you're an early early stage company, you focus on transactional marketing. So like something that is going to make an action happen tomorrow. So re revenue tomorrow, not revenue six months from now."
+    },
+    {
+      "text": "Validate ideas before building: put up a landing page, run ads, and see if anyone will give a credit card.",
+      "quote": "stand up a landing page with claude code run ads to it see which you get the cheapest signups for like or if somebody can would even pay you like go through the flow or start a free trial"
+    },
+    {
+      "text": "Look for channel arbitrage: underpriced or hard-to-access inventory not yet saturated by advertisers.",
+      "quote": "typically you're looking for an arbitrage that isn't being exploited currently. The best way to find those arbitrageages is like look where people spend time online that like isn't really saturated yet"
+    },
+    {
+      "text": "Testing paid social: mass-produce creative, find cheapest clicks, then run winners as conversion campaigns on payment events.",
+      "quote": "our strategy is like you build like a hundred pieces of creative. Um, you take uh the um like cheapest C, you run those as CPC campaigns to see which ones get the cheapest clicks."
+    },
+    {
+      "text": "Judge acquisition by lifetime value and payback, not first-month profit; losing money on month one can be fine.",
+      "quote": "the customer lifetime value was like $600, right? So, you'd basically like pay the 89 to make 600, but you would lose money off of it the first month."
+    }
+  ],
+  "topics": [
+    "growth",
+    "distribution",
+    "marketing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

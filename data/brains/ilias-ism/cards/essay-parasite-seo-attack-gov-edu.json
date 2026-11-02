@@ -1,0 +1,38 @@
+{
+  "id": "essay-parasite-seo-attack-gov-edu",
+  "title": "Parasite SEO attack on .gov and .edu sites: how hijacked authority domains rank spam instantly",
+  "summary": "Ilias Ism documents a wave of parasite SEO attacks on high-authority .gov and .edu domains (Duke, Michigan.gov, ca.gov, Wayne State), where spam PDFs rank #1 almost instantly for lucrative keywords. He explains why domain authority bias makes this work and gives site owners concrete steps to detect and prevent compromise.",
+  "principles": [
+    {
+      "text": "Google weights domain authority so heavily that spam on a trusted domain inherits instant ranking power.",
+      "quote": "Google heavily weights domain authority. When spam appears on michigan.gov (DR 91) or duke.edu (DR 94), it inherits instant trust and ranking power."
+    },
+    {
+      "text": "High-DR domains let content rank #1 in days for terms that would take years to win on a normal site.",
+      "quote": "This is why attackers target .gov and .edu domains—they get instant #1 rankings that would take years to achieve elsewhere."
+    },
+    {
+      "text": "Authority is also a liability: a high-trust domain is a high-value target, so security is part of brand protection.",
+      "quote": "While it provides immense trust and ranking power, it also makes your domain a high-value target for attackers. Securing your web applications is no longer just a technical issue, it's a critical component of brand protection."
+    },
+    {
+      "text": "Parasite SEO content is built to look legitimate and funnel traffic to monetized offers, not just stuff keywords.",
+      "quote": "The content on these pages is not just gibberish; it's often well-structured spam designed to look like a legitimate article, complete with calls-to-action, to funnel traffic to illicit sites."
+    },
+    {
+      "text": "Monitor Google Search Console for unrecognized indexed URLs; a sudden spike in indexed pages is a red flag.",
+      "quote": "Regularly check the \"Pages\" report in GSC for any URLs that you don't recognize. A sudden spike in indexed pages is a major red flag."
+    },
+    {
+      "text": "Most compromises come from outdated CMS, vulnerable plugins or misconfigured upload forms, so audit those first.",
+      "quote": "The most common attack vectors are outdated CMS versions, vulnerable plugins, or misconfigured file upload forms."
+    }
+  ],
+  "topics": [
+    "seo",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

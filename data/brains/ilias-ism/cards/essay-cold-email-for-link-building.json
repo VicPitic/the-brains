@@ -1,0 +1,39 @@
+{
+  "id": "essay-cold-email-for-link-building",
+  "personIsSpeaker": true,
+  "title": "Cold email outreach for link building: warmup, setup, and what to put in the email",
+  "summary": "A practical guide to running cold email campaigns for backlinks. Covers using a separate outreach domain, warming it up, configuring DNS and mailboxes, and writing short, incentive-led emails that avoid common mistakes like broken variables and generic greetings.",
+  "quality": 3,
+  "topics": [
+    "seo",
+    "sales",
+    "distribution",
+    "marketing"
+  ],
+  "principles": [
+    {
+      "text": "Never run cold outreach from your primary domain; buy a lookalike domain and warm it up first.",
+      "quote": "you shouldn’t use your primary business domain for cold email outreach. Purchase a domain that’s similar, e.g. try(name).com."
+    },
+    {
+      "text": "Warm up new sending domains so you build a positive reputation and land in the inbox, not spam.",
+      "quote": "you need to create a positive email sending reputation so that your emails are delivered to your prospects inbox, not their spam/junk folder."
+    },
+    {
+      "text": "Use three mailboxes per domain with human-sounding names, basic signatures and forwarding to your real inbox.",
+      "quote": "3 email accounts per domain is the standard for cold email outreach. For best results, create US-sounding names e.g. ‘James Williams’"
+    },
+    {
+      "text": "Give prospects a strong incentive to link: affiliate access, free product access, or ready-made assets.",
+      "quote": "You need to have a strong incentive to be included - this is key for any campaign."
+    },
+    {
+      "text": "Keep subject lines short (5-7 words) and the email body concise, with hyperlinks instead of long explanations.",
+      "quote": "Short, catchy subject lines get 2x higher open rates than long, detailed ones. Aim for 5-7 words max."
+    },
+    {
+      "text": "Lead with value: use Ahrefs or SEMrush to find broken or outdated links and offer to fix them.",
+      "quote": "Use tools like Ahrefs or SEMrush to identify broken backlinks or outdated references on their site. Offering to fix these adds immediate value."
+    }
+  ]
+}

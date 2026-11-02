@@ -1,0 +1,39 @@
+{
+  "id": "yt-vGDgGBxGZRo",
+  "personIsSpeaker": true,
+  "title": "AI SEO and link building: tracking AI mentions and winning hard-to-get backlinks",
+  "summary": "Ilias Ism explains how he learned SEO through a feedback loop on Google Search Console, why scarce links (your own sites, high-difficulty guest mentions) beat commodity ones, and how he gets mentioned in ChatGPT, Gemini and Perplexity. He shows his tracker workflow: monitor prompts, find the cited sources, email those authors with a specific value offer.",
+  "topics": [
+    "seo",
+    "ai",
+    "distribution",
+    "growth"
+  ],
+  "quality": 4,
+  "principles": [
+    {
+      "text": "Learn SEO by running a feedback loop: change something, check Search Console after a few days, keep what moves rankings.",
+      "quote": "you have like this funnel where you try things and you see has it been working? Did it actually have any impact? Am I ranking higher?"
+    },
+    {
+      "text": "Links that everyone can get only raise the baseline. Win with links nobody else can get, like your own network of real sites.",
+      "quote": "the only way to stand out is get the links that nobody else has."
+    },
+    {
+      "text": "AI search cites sources everywhere (YouTube, Reddit, Medium, G2, blogs), so build awareness across platforms, not just on your site.",
+      "quote": "everything is kind of combining in like this overall uh awareness graph right and that will boost you more so than everything else because you just also appear everywhere"
+    },
+    {
+      "text": "To get into AI answers, find the pages the AI cites, then email those authors to be added to their lists.",
+      "quote": "look at all the sources that are feeding these results here in the bottom"
+    },
+    {
+      "text": "Low domain rating sites still get cited by AI search, unlike Google money keywords which need strong domains. Even small-site links help.",
+      "quote": "you don't need a super duper high domain authority or domain rating in in order to appear in AI search."
+    },
+    {
+      "text": "Outreach works when it proves you read their article and offers real value (guest post, data, case study), not a bare backlink request.",
+      "quote": "it shows immediately that someone read the article, understood what they wrote about and so on."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-evals",
+  "title": "How Ilias Ism runs minimal 1-file AI evals across 5 production products",
+  "summary": "Ilias skips eval SaaS and uses one co-located eval.ts plus eval.md per feature that imports production code and runs real models. He warns that model self-scoring rewards quantity over quality, and uses evals to cut costs, such as an 80% image margin. He also covers hillclimbing without overfitting.",
+  "principles": [
+    {
+      "text": "Skip heavy eval platforms; one eval.ts per feature plus a co-located eval.md is enough.",
+      "quote": "Skip heavy SaaS platforms: A single `eval.ts` file per feature co-located with `eval.md` is all you need."
+    },
+    {
+      "text": "Never let models score their own output; self-scoring rewards quantity and confidence, not correctness.",
+      "quote": "Self-scoring rewards **quantity and confidence, not correctness**. A model that emits 7 loosely-relevant items looks like it beats a model that emits 4 precise ones, when the opposite is true."
+    },
+    {
+      "text": "Summary tables hold only machine metrics; judge quality by reading raw outputs side by side.",
+      "quote": "Summary tables are for machine metrics only: Latency (ms), input/output tokens, total cost ($), and execution status (schema pass/fail)."
+    },
+    {
+      "text": "Always import production prompts and schemas into the eval instead of copying them, to prevent drift.",
+      "quote": "NEVER copy-paste prompts into `eval.ts`. If you duplicate prompts in your eval, production logic evolves while your benchmark tests obsolete behavior."
+    },
+    {
+      "text": "Use evals to swap to cheaper models and raise margins; benchmark candidates on real production inputs.",
+      "quote": "That single benchmark unlocked an **80% profit margin** on standard credit packs. Without an eval, you either burn margin on overkill models or ship an untested cheaper model that ruins style transfer."
+    },
+    {
+      "text": "Hillclimb carefully: split train/test, change one thing per round, and revert anything that lifts train but not test.",
+      "quote": "Keep it only if train and test both improve. Train up with test flat is overfitting, so revert it."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "product",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

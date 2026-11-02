@@ -1,0 +1,39 @@
+{
+  "id": "essay-programmatic-seo",
+  "title": "Programmatic SEO: data, templates and automation to generate thousands of ranking pages",
+  "summary": "Ilias Ism explains programmatic SEO as data plus templates plus automation producing thousands of useful pages. He backs it with client examples (MagicBuddy, WorkbookPDF, GradientPage), a four-stage implementation process, and a firm stance that quality beats page count.",
+  "principles": [
+    {
+      "text": "Programmatic SEO is a formula: data source plus templates plus automation yields thousands of valuable pages.",
+      "quote": "Data Source + Templates + Automation = Thousands of Valuable Pages"
+    },
+    {
+      "text": "Build a system instead of writing pages one by one; effort stays flat while output compounds.",
+      "quote": "Traditional SEO often scales linearly with effort—more content means more work. Programmatic SEO can scale exponentially once you build the right systems."
+    },
+    {
+      "text": "Page count is not the goal; every page must serve a real user need.",
+      "quote": "The key to successful programmatic SEO isn't just creating many pages - it's creating valuable pages that serve real user needs."
+    },
+    {
+      "text": "Pick keywords with clear intent that can be templated, then shape your URL structure around them.",
+      "quote": "Focus on keywords with clear commercial or informational intent that can be templated"
+    },
+    {
+      "text": "Let user activity spawn pages on demand, such as a new page each time someone clicks an example.",
+      "quote": "we created thousands of pages dynamically when the user clicks on a ChatGPT example they like."
+    },
+    {
+      "text": "Use AI to generate variations, but always review the output before it ships.",
+      "quote": "Always review AI-generated content for accuracy and value"
+    }
+  ],
+  "topics": [
+    "seo",
+    "distribution",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

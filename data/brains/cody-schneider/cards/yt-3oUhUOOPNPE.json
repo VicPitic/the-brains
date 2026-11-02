@@ -1,0 +1,39 @@
+{
+  "id": "yt-3oUhUOOPNPE",
+  "title": "How Cody Schneider runs GTM as a one-person Claude Code growth system",
+  "summary": "Cody shows his live workflow for replacing a marketing team with Claude Code, APIs and templates: bulk Facebook ad variants, templated landing pages, cold email pipelines and shared internal tools. His core argument is that volume is now cheap, so the edge is domain knowledge, clear outcomes and the data to see what works.",
+  "principles": [
+    {
+      "text": "GTM engineering is the same growth job as before; only the tooling changed. The work is finding distribution arbitrage and positioning.",
+      "quote": "I'm basically trying to find marketing and distribution arbitrage within the system like figure out the positioning for my company so that the audience is receptive to it and then I'm going to go and basically like build out processes to go execute on that"
+    },
+    {
+      "text": "Domain expertise translated into code is the real leverage. Deep knowledge plus systems beats generic AI use.",
+      "quote": "if you have a deep expertise in one thing and you can you understand the systems and the processes for that, if you can translate that into code, which is like literally what we're doing, and then use this as a system like to go and do activities for you, like that's where the real like power of this comes from."
+    },
+    {
+      "text": "Test positioning with high-volume ad variants built from your buyer's own language (Reddit, pain points), then remix the winning message into other formats.",
+      "quote": "I'm using the language of my target customer. Like here's their actual pain points and the actual uh um, you know, outcomes that they're looking for that I'm then going to go incorporate into the bulk production of this ad creative content."
+    },
+    {
+      "text": "Structure ad testing in stages: test creatives on cheap clicks first, then move winners into a conversion campaign with dedicated budget.",
+      "quote": "I'll test all the ad creative against each other in a click campaign and then I'll look at what has the cheapest CPC and I can run, you know, we'll do like a $100 over a three-day period to see which gets the cheapest CPC."
+    },
+    {
+      "text": "Match the landing page to the winning ad angle with templated pages that only swap the headline and hero copy, to lift conversion.",
+      "quote": "when we align the ad and the landing page that we're sending them to, we can increase the uh conversion rate that's happening there."
+    },
+    {
+      "text": "Output quality comes from your own source material and vocabulary, not a generic prompt. Monologue your opinions and add what ranks, then generate.",
+      "quote": "if I interview myself say I'm an expert at whatever this topic is I'm going to like do a transcription where I talk for 10 minutes. Like I just monologue about the topic, my opinions, my views. I use that as source material."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

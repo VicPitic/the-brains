@@ -1,0 +1,39 @@
+{
+  "id": "yt-QKpRs-2EIiM",
+  "title": "How to build an AI-native marketing team: Cody Schneider's marketing engineering playbook",
+  "summary": "Cody Schneider live-demos \"marketing engineering\": a coding agent plus a data and API infrastructure layer does the middle work of a marketing team. He runs parasite SEO, AI-avatar ad creative, and LinkedIn-engager cold outbound in parallel, and explains why agents should run as code rather than as chat.",
+  "principles": [
+    {
+      "text": "Marketing is turning into code: ads, analysis and publishing are just JSON, API calls and SQL an agent can run.",
+      "quote": "all marketing is now just going it's turning into code, right?"
+    },
+    {
+      "text": "Do the task manually with the agent first, then turn that session into a repeatable cloud job on a cadence.",
+      "quote": "I'm gonna take a task that I'm doing manually right now. I'm gonna co-work with cloud code to be like cool like I get the outcome that I get out of that."
+    },
+    {
+      "text": "Build agents as software with a live data stream, not a chat model told to go do work. Skip token maxing.",
+      "quote": "that agent is just software with a thinking loop with a live data stream right it's not like God in a box is managing a Google Ads account."
+    },
+    {
+      "text": "On Facebook, target broadly and let the creative (script plus avatar) do the positioning instead of interest targeting.",
+      "quote": "we are targeting all of Facebook and then we're making the creative basically be the positioning element."
+    },
+    {
+      "text": "Gate agent output with brand style guides and a second vision model, then get humans out of the approval bottleneck.",
+      "quote": "humans are actually they need to get out of the way for a lot of this work."
+    },
+    {
+      "text": "Keep spend at roughly 80% on proven creative and 20% on new tests, since every winner decays.",
+      "quote": "I'm always just trying to think about like how am I 80% is what I know is working 20%'s always testing"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "ai",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

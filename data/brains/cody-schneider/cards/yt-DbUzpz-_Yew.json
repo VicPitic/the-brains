@@ -1,0 +1,39 @@
+{
+  "id": "yt-DbUzpz-_Yew",
+  "title": "How Cody Schneider builds a Facebook Ads AI agent that researches, makes, publishes and prunes ads",
+  "summary": "Cody walks through the full stack for an agent that runs Facebook ads: conversion tracking, Reddit-sourced pain points, AI-generated statics and UGC video, API-based uploads, a test/winners campaign structure, and a data warehouse for analysis. Key ideas: creative is the targeting under Andromeda, move conversion events down-funnel, and qualify leads in real time with server-side events.",
+  "principles": [
+    {
+      "text": "Under Andromeda the ad creative is the targeting, so make many ads across many personas.",
+      "quote": "how Andromeda functions is the ad creative itself is actually the targeting mechanism."
+    },
+    {
+      "text": "Source ad angles from the language customers already use on forums like Reddit, not from guesses.",
+      "quote": "You're not trying to guess what are the pain points and the outcomes that I or the desired outcomes that I'm trying to um you know use for for this ad creative."
+    },
+    {
+      "text": "Start with an upfunnel conversion event, then move deeper as volume builds; keep to a handful of events.",
+      "quote": "you want to start with a conversion action that is upfunnel and then work your way down as close to revenue as you possibly can get."
+    },
+    {
+      "text": "Qualify leads in real time with enrichment and send a good-lead signal back via server-side conversion events instead of waiting weeks for closed deals.",
+      "quote": "you can have an agent give a score to a lead that's 1 to 10. And you can basically qualify that lead."
+    },
+    {
+      "text": "Use the ads API only for writes (upload, pause, promote); do analysis from a data warehouse to avoid API abuse and bad data.",
+      "quote": "The only thing that you're using to touch the API is for that rights to the ad uh to the to the ad channel. You're using for the analysis, you're only ever using the data warehouse."
+    },
+    {
+      "text": "Run a survival-of-the-fittest loop: test ads in a testing campaign, promote winners, trim losers, then remix winners and inject outside inspiration to avoid repetition.",
+      "quote": "every ad has a shelf life, especially it's way faster in Andromeda, especially in B2B now."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "ai",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

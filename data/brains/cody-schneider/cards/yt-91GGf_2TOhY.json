@@ -1,0 +1,39 @@
+{
+  "id": "yt-91GGf_2TOhY",
+  "title": "How Cody Schneider uses Claude Code agents to automate SEO, content refreshing and growth workflows",
+  "summary": "Cody explains his Search Console feedback loop for refreshing content, how he writes bottom-of-funnel articles from SERP source material plus personal input, and why he favors custom Claude Code agents over OpenClaw. He also covers citation link-building for AI search, publishing velocity risks, and data-warehouse context design.",
+  "principles": [
+    {
+      "text": "Use Search Console data as a feedback loop: add the keywords Google already hints at to existing articles, then build supplementary articles if needed.",
+      "quote": "you're going to find keywords that you're accidentally ranking for that you don't even have on the page. Uh if you add a section or figure out how to weave those in, like you can get a lift typically in like 10 to 20% like overnight"
+    },
+    {
+      "text": "SEO content must be relevant to the product; traffic that doesn't lead to a user action is worthless.",
+      "quote": "it's not just about getting traffic it's like it's not just about getting impressions it's like purely about like the user lands on that page and then what's the user action that I can get to occur"
+    },
+    {
+      "text": "AI content quality comes from source material plus your own opinions: scrape page-one results, add a 30-minute personal interview, then write.",
+      "quote": "I'll put that into the context window and then I'll interview myself for like 30 minutes talking about that specific category with my personal opinions, with my personal experiences"
+    },
+    {
+      "text": "For AI search visibility, get your brand mentioned on the citations already being pulled; treat it as targeted outbound link building.",
+      "quote": "just go and look at the keywords that you want to rank for and the citations they're pulling from and then you email all those citations and you're like, \"Yo, I want to get my like self added."
+    },
+    {
+      "text": "Give agents boundaries and just the right context at the right time rather than stuffing everything in; fewer tools work better.",
+      "quote": "the more tools you have the like worse it gets right so it's like what are the least amount of tools that we can give it to like do the action that we're trying to the outcome that we're trying to get"
+    },
+    {
+      "text": "Build specific custom agents in code on a cron job instead of broad tools like OpenClaw; they're more malleable, safer, and cheaper.",
+      "quote": "it's probably going to be way more effective to build a really specific solution to a specific problem and also it's more malleable"
+    }
+  ],
+  "topics": [
+    "seo",
+    "ai",
+    "growth",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

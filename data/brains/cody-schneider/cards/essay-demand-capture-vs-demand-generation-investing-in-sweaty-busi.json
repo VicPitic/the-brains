@@ -1,0 +1,39 @@
+{
+  "id": "essay-demand-capture-vs-demand-generation-investing-in-sweaty-busi",
+  "personIsSpeaker": true,
+  "title": "How Cody Schneider uses Claude Code for GTM engineering: parallel terminals, code over N8N, bulk ads and pages",
+  "summary": "Cody explains his Claude Code setup for growth work: one env file of API keys, five parallel terminals, and Claude building software to automate everything. He shares concrete builds: 100 landing pages in 30 minutes, 40 Facebook ads from code templates, and a LinkedIn engager to cold email pipeline built in 15 minutes.",
+  "principles": [
+    {
+      "text": "Run growth work from Claude Code with one env file of API keys, and have it build software for whatever you're working on.",
+      "quote": "I just have an environment file that contains all the API keys for my entire software stack that I use."
+    },
+    {
+      "text": "Let AI do the \"middle work\": you supply the idea and the final polish, the AI materializes it in between.",
+      "quote": "That middle section. Number two. Claude now does all that for me."
+    },
+    {
+      "text": "Skip no-code automation middleware; go straight to code and have Claude build and deploy the server.",
+      "quote": "Now when I'm building an automation, I just go straight to code. No N8N middleware."
+    },
+    {
+      "text": "Build a dedicated landing page per converting Google Ads keyword to lift conversion rate, and generate them in bulk.",
+      "quote": "find the converting keywords and then build a landing page that's dedicated to that. This increases the conversion rate of this campaign."
+    },
+    {
+      "text": "Treat design as code: build ad templates as React components and generate many variations programmatically.",
+      "quote": "I had the epiphany that all design is just code."
+    },
+    {
+      "text": "Make many ad variations around different positioning and messaging concepts, and put winners in their own campaigns.",
+      "quote": "You basically make a ton of different variations focusing on different positioning and messaging concepts and the winners go into their own campaigns."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "sales",
+    "productivity"
+  ],
+  "quality": 4
+}

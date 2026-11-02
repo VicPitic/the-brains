@@ -1,0 +1,38 @@
+{
+  "id": "essay-title",
+  "title": "SEO page titles: formula, patterns and an audit loop from SEO Roasts",
+  "summary": "Ilias Ism explains how to write SEO titles by treating the SERP as the brief: lead with the main query, stay around 40-55 characters, mirror winning patterns, match page type, and align title, description, H1 and slug. He adds a 10-step audit loop and a Cursor skill for bulk rewrites.",
+  "principles": [
+    {
+      "text": "Treat the SERP as the brief: study what already ranks, then write the clearest version for your page.",
+      "quote": "The better way to write page titles is to treat the SERP like the brief. Look at what already ranks, identify the pattern, then write the clearest version for your page."
+    },
+    {
+      "text": "Bad titles fail by being vague, bloated, mismatched or clever, not by missing a magic word.",
+      "quote": "bad titles usually do not fail because they are missing a magic word. They fail because they are vague, bloated, mismatched, or trying to be clever when Google wants obvious."
+    },
+    {
+      "text": "Point title, meta description, H1 and slug at one primary query, with the main phrase first.",
+      "quote": "SEO title -> meta description -> H1 -> URL slug They should all point at the same primary phrase."
+    },
+    {
+      "text": "Keep titles around 40-55 characters so the words that matter appear before truncation.",
+      "quote": "Shorten until the words that matter appear before the ellipsis."
+    },
+    {
+      "text": "Mirror the SERP's modifiers and format instead of inventing your own phrasing; this is matching the market, not copying.",
+      "quote": "If every top result says \"best AI presentation makers\" and your title says \"AI slide creation solution,\" congratulations, you have invented a worse phrase."
+    },
+    {
+      "text": "Make the title say what the page is (pricing, docs, login); a title like 'Home' wastes the most important SEO real estate.",
+      "quote": "Vague titles waste the most important SEO real estate on the page. Say what the page is."
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

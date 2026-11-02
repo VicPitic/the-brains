@@ -1,0 +1,39 @@
+{
+  "id": "essay-framer-seo",
+  "title": "How MagicSpace audited 1000 Framer sites and grew into ongoing SEO and AI SEO consulting",
+  "summary": "Case study of auditing Framer.com and its top 1000 customer sites by scraping them all and spotting shared problems. Shows how platform-wide SEO fixes beat per-site work, why clear Notion documentation matters, and how a one-off audit became a long-term AI SEO partnership.",
+  "principles": [
+    {
+      "text": "Audit at scale: scrape many sites at once, find the patterns, and fix them for everyone together.",
+      "quote": "Audit at scale when possible. Don't check sites one by one. Scrape 1000 sites. Find patterns. Fix problems for everyone at once."
+    },
+    {
+      "text": "For platforms, ship broad fixes that help every customer rather than custom work per site.",
+      "quote": "Platform-wide fixes beat individual solutions. Framer needed improvements that helped thousands of customers. Not custom work for each site. Broad solutions scale better."
+    },
+    {
+      "text": "Document deliverables clearly (Notion with screenshots) so dev teams can reuse them and stop repeating questions.",
+      "quote": "Document everything clearly. Notion reports with screenshots work great. Dev teams can reference them later. Clear documentation prevents repeated questions."
+    },
+    {
+      "text": "Turn one-off audits into ongoing relationships; long-term partnerships compound.",
+      "quote": "One-time SEO audits help. Ongoing consulting helps more. Questions come up. Strategy shifts. Long-term partnerships deliver compounding results."
+    },
+    {
+      "text": "Common platform issues are findable by crawling: missing H1s, canonicals, nofollow, staging domains indexed, leftover lorem ipsum.",
+      "quote": "Found patterns everywhere. Missing H1 tags on 25% of sites. Canonicalization problems across domains. Nofollow issues hurting crawl budget. Lorem ipsum still live on customer sites."
+    },
+    {
+      "text": "Being a founder in the client's own space (SEO as the product) gives an edge in recommending product-level improvements.",
+      "quote": "Their core Product is SEO! So as SaaS founders ourselves, we were uniquely positioned to take this on and to provide product improvements on how each Framer customer could rank better."
+    }
+  ],
+  "topics": [
+    "seo",
+    "growth",
+    "ai",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

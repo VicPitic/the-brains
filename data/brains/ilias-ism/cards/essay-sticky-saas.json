@@ -1,0 +1,39 @@
+{
+  "id": "essay-sticky-saas",
+  "title": "Sticky SaaS: how to keep $5-$50/month products low-churn",
+  "summary": "Ilias Ism lays out a blueprint for low-ARPA SaaS retention: show value fast, price for commitment with annual plans and clear tiers, embed the product in workflows through integrations and automation, catch churn early, and bill ethically. It includes churn benchmarks by price tier and a testing roadmap.",
+  "principles": [
+    {
+      "text": "Stickiness means the product is so embedded, or delivers such steady background value, that canceling feels like a downgrade.",
+      "quote": "a product so deeply embedded in a user's workflow or providing such consistent background value that canceling feels like a downgrade."
+    },
+    {
+      "text": "Sticky users are less price-sensitive, so small price hikes barely hurt churn if the product is indispensable.",
+      "quote": "high stickiness can be a leading indicator of price insensitivity."
+    },
+    {
+      "text": "Pricing too low can signal poor quality, so price competitively but not so low that it devalues the product.",
+      "quote": "a price that is \"too cheap\" can be as detrimental as one that is \"too expensive\" if it inadvertently signals low quality or unreliability."
+    },
+    {
+      "text": "Push annual plans with discounts and extras; sunk cost makes annual users extract more value and churn less.",
+      "quote": "The \"sunk cost\" psychology means users with annual plans are more motivated to extract value."
+    },
+    {
+      "text": "For SEO, content and analytics tools, stickiness comes from indispensable outputs and automated processes, not only daily logins.",
+      "quote": "For SEO/Content/Analytics, stickiness is often about indispensable outputs (e.g., a thorough monthly SEO audit) or automated processes, not just daily logins."
+    },
+    {
+      "text": "Low-ARPA SaaS cannot afford manual follow-up on failed payments, so automate dunning.",
+      "quote": "For low-ARPA SaaS, automated dunning is a necessity, not a luxury, as manual follow-up is too costly."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "growth",
+    "product",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

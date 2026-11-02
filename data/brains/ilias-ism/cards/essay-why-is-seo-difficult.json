@@ -1,0 +1,39 @@
+{
+  "id": "essay-why-is-seo-difficult",
+  "title": "Why SEO is so hard in 2025: algorithm churn, technical debt, AI search and link building",
+  "summary": "Ilias Ism lists five reasons SEO is difficult: frequent core updates, technical SEO, scaling quality content, weaker link building tactics, and AI Overviews. His tactical advice: hybrid AI plus human content, diversified traffic, digital PR, and interactive tools. It ends as an agency pitch and the statistics are loosely sourced.",
+  "principles": [
+    {
+      "text": "Scale content with AI for ideation and drafts, but keep human editors for expert interviews and data validation.",
+      "quote": "Successful brands adopt hybrid models—leveraging AI for ideation and drafting while retaining human editors for EEAT-enhancing elements like expert interviews and data validation."
+    },
+    {
+      "text": "Don't depend on organic search alone; diversify traffic sources to survive algorithm updates.",
+      "quote": "Diversifying traffic sources to mitigate reliance on organic search"
+    },
+    {
+      "text": "Monitor continuously and audit content regularly so you can adapt when core updates hit.",
+      "quote": "Continuous monitoring through tools like Google Search Console and third-party platforms"
+    },
+    {
+      "text": "Modern link building leans on digital PR built around newsworthy data studies.",
+      "quote": "Digital PR campaigns tied to newsworthy data studies"
+    },
+    {
+      "text": "Design for mobile first, because Google always crawls the mobile version of your site.",
+      "quote": "Google always crawls your website on mobile!"
+    },
+    {
+      "text": "Build interactive tools like calculators and quizzes that AI summaries can't replace.",
+      "quote": "Create interactive tools (calculators, quizzes) that resist AI summarization"
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

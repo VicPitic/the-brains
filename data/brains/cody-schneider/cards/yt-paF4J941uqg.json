@@ -1,0 +1,39 @@
+{
+  "id": "yt-paF4J941uqg",
+  "title": "GTM engineering with Claude Code: hand the middle work to agents and conduct",
+  "summary": "Cody Schneider defines GTM engineering as using Claude Code to do the hands-on work across marketing, sales and product. He shows the minimal setup (a folder, an env file, a CLAUDE.md), then runs keyword research, writes and publishes an SEO article, and tracks and improves it with Search Console data.",
+  "principles": [
+    {
+      "text": "Hand the middle work to AI agents; your role becomes having ideas and being the polish at the end.",
+      "quote": "all that middle work you hand off the Claude code, and then you're the polish, you're the endpoint."
+    },
+    {
+      "text": "Run several agent terminals in parallel and act as the conductor and curator of their output.",
+      "quote": "you are just that conductor and that curator of the actions that it's doing."
+    },
+    {
+      "text": "Set up the foundation once: an environment file for all API keys plus a CLAUDE.md telling the agent to store every new key there.",
+      "quote": "anytime I provide an API key, add it to that environment file so that all of these get stacked together so they can be reused in the future."
+    },
+    {
+      "text": "Base SEO articles on what already ranks on page one, since Google signals what a good result looks like.",
+      "quote": "Google is basically signaling this is what we think a good search result looks like."
+    },
+    {
+      "text": "For the best content, combine scraped sources with your own perspective (from an AI interview), tone of voice and a style guide.",
+      "quote": "you basically have an AI interview you for like 30 minutes. You take that transcript, and it's your perspective, your opinions, your point of view"
+    },
+    {
+      "text": "AI content quality is a guardrails problem, not an AI problem; give the agent a definition of good content.",
+      "quote": "You can 100% get good content to come out of this. You are just not providing it guardrails of what good content looks like."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "ai",
+    "seo",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

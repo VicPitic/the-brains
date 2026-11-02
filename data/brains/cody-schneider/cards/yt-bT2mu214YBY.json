@@ -1,0 +1,39 @@
+{
+  "id": "yt-bT2mu214YBY",
+  "title": "How Cody Schneider uses Claude Code agents to run marketing, ads, SEO and cold outreach",
+  "summary": "Cody explains how he hands \"middle work\" to Claude Code agents wired to his stack's APIs, with a data warehouse underneath. He covers agent loops for Facebook ads, a cold-email PR sprint, rolling this out to a team, and why API quality now drives software choices.",
+  "principles": [
+    {
+      "text": "Hand off the middle work to agents; you become the curator who supplies the idea up front and the polish at the end.",
+      "quote": "all of the middle work. So, me touching a keyboard and a mouse is now I'm trying to hand off to an agent entirely."
+    },
+    {
+      "text": "Any task you repeat becomes an agent, which is just a small-scope employee running your old SOP.",
+      "quote": "when you think when you hear agent just think like employee with small scope of work that does a specific thing."
+    },
+    {
+      "text": "Give agents a data pipeline and warehouse instead of raw API access, or you get rate limits, pagination errors and bloated context.",
+      "quote": "you have to basically create a data stream. Otherwise the agent is going to try to interact directly with the API, and you're just going to run into challenges."
+    },
+    {
+      "text": "Close the loop on ads: publish, analyze, kill losers, promote winners, and feed results into the next round of creative.",
+      "quote": "The losers get automatically turned off. The winners automatically get promoted to their own adsets with their own dedicated budget."
+    },
+    {
+      "text": "Set the outcome and the 'nos' rather than prescribing steps; boundaries give the agent surface area to say yes in.",
+      "quote": "It's way easier to be like here are all the nos that you can't do and then that suddenly that creates surface area for it to live in"
+    },
+    {
+      "text": "Your domain vocabulary and expertise are the superpower; specific, expert prompts beat generic ones and produce top-tier output.",
+      "quote": "the language that you have becomes your superpower like the vocabulary and deep under technical knowledge that you have becomes the most valuable asset that you own."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

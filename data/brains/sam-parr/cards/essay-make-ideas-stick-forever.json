@@ -1,0 +1,37 @@
+{
+  "id": "essay-make-ideas-stick-forever",
+  "title": "How to make ideas stick: Sam Parr's six-principle Made to Stick cheat sheet",
+  "summary": "A 2014 essay where Sam Parr summarizes Made to Stick into six principles (simple, unexpected, concrete, credible, emotional, story) with examples from his own campaigns. Useful as a basic messaging and content framework, especially for finding the core, naming people to drive shares, and appealing to self-interest and identity.",
+  "principles": [
+    {
+      "text": "Find the single core of your message and put it first; cut everything not 100% needed.",
+      "quote": "Use the technique of the inverted pyramid from journalism: Tell most important aspect first, then tailor, then add details. This forces prioritization."
+    },
+    {
+      "text": "Name the people or companies in your content; the ones you mention are the ones who share it.",
+      "quote": "We implemented this principle in The Typical Roommates Infographic and The Holiday Gift Guide. The people who shared this most were the folks mentioned in the infographic."
+    },
+    {
+      "text": "Make ideas concrete: something people can see or sense beats an abstract number.",
+      "quote": "Something becomes concrete when it can be described or detected by the human senses."
+    },
+    {
+      "text": "Always pitch the reader's benefit. Say \"you\", not \"people\", and sell the outcome, not yourself.",
+      "quote": "ALWAYS appeal to your reader, user, or customer’s interest. Use the word “you” not “people.” Remember: no one cares about YOU…they only care about themselves."
+    },
+    {
+      "text": "People decide based on identity, not logic, so frame messages around who they are or want to be.",
+      "quote": "People does not make decisions rationally, they make them based on identity."
+    },
+    {
+      "text": "Collect stories as you come across them and save them for later rather than trying to invent them.",
+      "quote": "The best way to use a story is to always be on the look out for them. Think of a good idea for a story? Write it down and save it for later."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

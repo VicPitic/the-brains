@@ -1,0 +1,29 @@
+{
+  "id": "essay-10m-a-year-1-person-biz",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Sam Parr: creators are making $1m-$10m+ a year with tiny teams",
+  "summary": "A short, paywalled teaser from Sam Parr's newsletter test. He reports that content creators he spoke with are earning $1m to $10m+ a year with small teams, cites The Hustle's growth to ~$13m revenue and 1.7m daily readers, and says he believes he can reach $10m+ with 2-4 people in 2-3 years. Most of the essay is behind a subscriber wall.",
+  "topics": [
+    "building",
+    "growth"
+  ],
+  "principles": [
+    {
+      "text": "Creators with tech audiences can build $1m-$10m+ a year businesses with very small teams.",
+      "quote": "3 were small with less than 100k followers on their platform of choice. Each made over $1m/year."
+    },
+    {
+      "text": "Bigger creators on the scale of My First Million can exceed $10m a year while staying lean.",
+      "quote": "They were doing over $10m/year with tiny teams."
+    },
+    {
+      "text": "Sam believes a newsletter-led business can reach $10m+ in revenue with only 2-4 people in 2-3 years.",
+      "quote": "Knowing what I know now, I think I can grow to +$10m in revenue with 2-4 people. And do it in 2-3 years."
+    },
+    {
+      "text": "Sam's newsletter can compound into a media business: The Hustle grew to ~$13m revenue and 1.7m daily readers, plus podcasts and events, by year five.",
+      "quote": "We grew it to around $13m in revenue and 1.7m daily readers plus podcasts and events by year ~5 into the business."
+    }
+  ]
+}

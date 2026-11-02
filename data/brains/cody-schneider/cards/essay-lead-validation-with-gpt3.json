@@ -1,0 +1,38 @@
+{
+  "id": "essay-lead-validation-with-gpt3",
+  "title": "Lead validation with GPT-3: qualifying a scraped prospect database by reading each company's website",
+  "summary": "Cody argues every B2B software company should own a database of all its target customers, then use GPT-3 to qualify leads instead of relying on brittle keyword matching or manual SDR review. The workflow is simple: scrape each lead's site, feed the text to a yes/no prompt, and loop over the list. He frames AI as making top performers 100x rather than replacing people.",
+  "principles": [
+    {
+      "text": "Own a database of every target customer, sourced from directories, Google Maps scraping and similar places.",
+      "quote": "Every b2b software company should have an owned database of all their target customers sourced from anywhere they can collect them. Think directories, scraping google maps etc."
+    },
+    {
+      "text": "A startup with a full list of its target customers at raise time impresses investors.",
+      "quote": "if you’re an early-stage startup and have a list of all your target customers when you’re raising you A, investors will be stoked."
+    },
+    {
+      "text": "With tens of thousands of leads, the real problem is deciding which ones sales works first.",
+      "quote": "But say you collect 50K leads, which do you prioritize your sales team working?"
+    },
+    {
+      "text": "Keyword matching is too limited for qualification because people describe the same thing differently; an LLM reads meaning instead.",
+      "quote": "But keywords are super limited because people talk about the same thing differently pretty often."
+    },
+    {
+      "text": "Validate leads by scraping each prospect's site, asking GPT a yes/no fit question about the text, and looping over the whole list.",
+      "quote": "Use python to request a potential leads URL; Ingest all the text on the persons site; Then use a gpt3 prompt like “Does this company have multiple mental health professionals or are they a solo practitioner?”"
+    },
+    {
+      "text": "Use AI to make your best people far more productive, not to replace them.",
+      "quote": "I think it will make 10x people 100x people."
+    }
+  ],
+  "topics": [
+    "sales",
+    "ai",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

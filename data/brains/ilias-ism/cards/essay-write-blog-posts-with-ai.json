@@ -1,0 +1,39 @@
+{
+  "id": "essay-write-blog-posts-with-ai",
+  "title": "How to use AI to write blog posts without hurting your SEO: a 7-step workflow",
+  "summary": "Google penalizes bad content, not AI content. Ilias lays out a repeatable workflow: pick a query with real intent, outline by hand, draft section by section with AI, then inject experience, optimize on-page, fact-check and iterate. A full post fits in about 90 minutes.",
+  "principles": [
+    {
+      "text": "Google doesn't penalize AI content; it penalizes bad content. Experience, intent match and usefulness decide rankings, not the drafting tool.",
+      "quote": "Google does not penalize \"AI content.\" It penalizes **bad content**. If your post demonstrates experience, satisfies intent, and is useful, it can rank, regardless of the tool you used to draft it."
+    },
+    {
+      "text": "Pick topics where a strong post can win: use Search Console positions 3-20, validate the SERP, and decide your unique angle.",
+      "quote": "Skip vague ideas. Pick a query where a strong post can actually win."
+    },
+    {
+      "text": "Always write the outline by hand around search intent before letting AI draft anything.",
+      "quote": "Drafting starts with a human outline. Keep the structure laser-focused on intent:"
+    },
+    {
+      "text": "Draft with AI section by section using short, specific prompts scoped to your outline, with capped length and no clichés.",
+      "quote": "Work section-by-section. Keep prompts specific, short, and scoped to your outline."
+    },
+    {
+      "text": "Rankings are won by adding what AI can't fake: your own screenshots, results, failures, primary sources, author bio and internal links.",
+      "quote": "This is where rankings are won."
+    },
+    {
+      "text": "Treat AI drafts as starting points: verify every stat, strip generic filler, read aloud, cut 10-20%, then publish and iterate with one improvement a day.",
+      "quote": "AI drafts are starting points. Before publishing:"
+    }
+  ],
+  "topics": [
+    "seo",
+    "ai",
+    "marketing",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

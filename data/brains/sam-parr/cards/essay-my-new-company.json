@@ -1,0 +1,25 @@
+{
+  "id": "essay-my-new-company",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Why Sam Parr started Hampton: a CEO peer group born from his own",
+  "summary": "Short announcement of Hampton, an executive peer group for CEOs. Sam says the peer group he built while running The Hustle helped him grow and sell the company, which is why he started Hampton. Includes the membership bar of $1m revenue minimum.",
+  "topics": [
+    "community",
+    "launch"
+  ],
+  "principles": [
+    {
+      "text": "Build the product you personally benefited from: Hampton came from a peer group that helped him grow and sell The Hustle.",
+      "quote": "I started it because I used a peer group that I created when running The Hustle. And it changed my life. Helped me sell the company, helped me grow it…everything."
+    },
+    {
+      "text": "A peer group of fellow CEOs is a growth lever for running and exiting a company.",
+      "quote": "Helped me sell the company, helped me grow it…everything."
+    },
+    {
+      "text": "Set a clear membership bar so the community stays relevant to its members.",
+      "quote": "Members need at least $1m in revenue. But our average member has like $20m in revenue."
+    }
+  ]
+}

@@ -1,0 +1,2346 @@
+{
+  "slug": "ilias-ism",
+  "fetchedAt": "2026-11-01T17:58:15.384Z",
+  "sources": [
+    {
+      "id": "yt-5NRS4ibsMKg",
+      "type": "youtube",
+      "title": "The Backlinks Worth Paying $2,000 For (w/ Ilias ISM)",
+      "url": "https://www.youtube.com/watch?v=5NRS4ibsMKg",
+      "publishedAt": "2026-10-28",
+      "outlet": "Edward Sturm",
+      "durationSec": 4836,
+      "views": 4151,
+      "topics": [
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-vGDgGBxGZRo",
+      "type": "youtube",
+      "title": "AI SEO and linkbuilding with Ilias Ism and Jesper Nissen - [SEO in 2026]",
+      "url": "https://www.youtube.com/watch?v=vGDgGBxGZRo",
+      "publishedAt": "2026-02-01",
+      "outlet": "Jesper Nissen SEO",
+      "durationSec": 3859,
+      "views": 1684,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-s-t0rUYo0VM",
+      "type": "youtube",
+      "title": "Step-by-Step SEO Guide from $20k/mo SEO agency founder | Ilias Ism",
+      "url": "https://www.youtube.com/watch?v=s-t0rUYo0VM",
+      "publishedAt": "2024-11-01",
+      "outlet": "Do It In Public | Startups & Marketing",
+      "durationSec": 4286,
+      "views": 1451,
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-Sql99ILd5cc",
+      "type": "youtube",
+      "title": "Ilias Ism — from startup exit to full-time indie-hacking. Do it in public Ep. 22",
+      "url": "https://www.youtube.com/watch?v=Sql99ILd5cc",
+      "publishedAt": "2023-11-01",
+      "outlet": "Do It In Public | Startups & Marketing",
+      "durationSec": 3043,
+      "views": 210,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-blitz-seo",
+      "type": "essay",
+      "title": "Blitz SEO: the 30-day sprint to rank one page",
+      "url": "https://il.ly/blog/blitz-seo",
+      "publishedAt": "2025-05-02",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-seo-vs-paid-ads",
+      "type": "essay",
+      "title": "SEO vs Paid Ads: We Spent $1,500 Testing Both (Case Study)",
+      "url": "https://il.ly/blog/seo-vs-paid-ads",
+      "publishedAt": "2026-01-20",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-churn-tips",
+      "type": "essay",
+      "title": "How to reduce SaaS churn without lying to yourself",
+      "url": "https://il.ly/blog/churn-tips",
+      "publishedAt": "2025-08-28",
+      "outlet": "il.ly",
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-google-signin",
+      "type": "essay",
+      "title": "Sign in with Google: 107% Conversion Lift (A/B Test)",
+      "url": "https://il.ly/blog/google-signin",
+      "publishedAt": "2025-05-18",
+      "outlet": "il.ly",
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-sticky-saas",
+      "type": "essay",
+      "title": "Sticky SaaS: Low-Cost Wins & Low Churn in the $5-$50 Arena",
+      "url": "https://il.ly/blog/sticky-saas",
+      "publishedAt": "2025-05-17",
+      "outlet": "il.ly",
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "essay-blitz-copy",
+      "type": "essay",
+      "title": "Blitz Copy: The Dopamine Copywriting System",
+      "url": "https://il.ly/blog/blitz-copy",
+      "publishedAt": "2025-05-21",
+      "outlet": "il.ly",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-cro-teardown-autods",
+      "type": "essay",
+      "title": "AutoDS CRO Teardown: 57 Screenshots + $1B Conversion Secrets",
+      "url": "https://il.ly/blog/cro-teardown-autods",
+      "publishedAt": "2025-05-23",
+      "outlet": "il.ly",
+      "topics": [
+        "growth",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-evals",
+      "type": "essay",
+      "title": "How I Run Minimal AI Evals Across 5 Products",
+      "url": "https://il.ly/blog/evals",
+      "publishedAt": "2026-07-24",
+      "outlet": "il.ly",
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-outputmaxxing",
+      "type": "essay",
+      "title": "Outputmaxxing: Your AI Tool Should Ship Outputs, Not Reports",
+      "url": "https://il.ly/blog/outputmaxxing",
+      "publishedAt": "2026-06-10",
+      "outlet": "il.ly",
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-extension-store-assets",
+      "type": "essay",
+      "title": "How I Generate Chrome Extension Store Assets with AI",
+      "url": "https://il.ly/blog/extension-store-assets",
+      "publishedAt": "2026-08-05",
+      "outlet": "il.ly",
+      "topics": [
+        "ai",
+        "launch"
+      ]
+    },
+    {
+      "id": "essay-backlink-outreach",
+      "type": "essay",
+      "title": "Backlink Outreach: How I Get 15+ New Links a Month",
+      "url": "https://il.ly/blog/backlink-outreach",
+      "publishedAt": "2024-09-20",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "essay-strategy",
+      "type": "essay",
+      "title": "SEO Strategy: How to grow Startups in 2026",
+      "url": "https://il.ly/blog/strategy",
+      "publishedAt": "2023-11-21",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-parasite-seo-attack-gov-edu",
+      "type": "essay",
+      "title": "Massive Parasite SEO Attack Hits .gov & .edu Sites",
+      "url": "https://il.ly/blog/parasite-seo-attack-gov-edu",
+      "publishedAt": "2025-09-12",
+      "outlet": "il.ly",
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "essay-write-blog-posts-with-ai",
+      "type": "essay",
+      "title": "How to use AI to write blog posts without hurting your SEO",
+      "url": "https://il.ly/blog/write-blog-posts-with-ai",
+      "publishedAt": "2025-09-28",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-will-chatgpt-replace-seo",
+      "type": "essay",
+      "title": "Will ChatGPT Replace SEO? Here's the Real Answer",
+      "url": "https://il.ly/blog/will-chatgpt-replace-seo",
+      "publishedAt": "2025-06-03",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-generative-engine-optimization",
+      "type": "essay",
+      "title": "What is Generative Engine Optimization (GEO)?",
+      "url": "https://il.ly/blog/generative-engine-optimization",
+      "publishedAt": "2025-07-30",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-digital-nomad",
+      "type": "essay",
+      "title": "Why I Chose a Location Independent Lifestyle",
+      "url": "https://il.ly/blog/digital-nomad",
+      "publishedAt": "2023-08-02",
+      "outlet": "il.ly",
+      "topics": [
+        "bootstrapping",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-hire-to-scale",
+      "type": "essay",
+      "title": "Why You Should Hire a Team to Scale Your Business",
+      "url": "https://il.ly/blog/hire-to-scale",
+      "publishedAt": "2024-01-13",
+      "outlet": "il.ly",
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-perfect-landing-page-formula",
+      "type": "essay",
+      "title": "Perfect Landing Page Formula [Free Template]",
+      "url": "https://il.ly/blog/perfect-landing-page-formula",
+      "publishedAt": "2024-03-12",
+      "outlet": "il.ly",
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-title",
+      "type": "essay",
+      "title": "SEO Page Titles: How to Write Them (Formula + Examples)",
+      "url": "https://il.ly/blog/title",
+      "publishedAt": "2024-02-06",
+      "outlet": "il.ly",
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "essay-programmatic-seo",
+      "type": "essay",
+      "title": "What is Programmatic SEO & How to Do It (with Examples)",
+      "url": "https://il.ly/blog/programmatic-seo",
+      "publishedAt": "2023-11-22",
+      "outlet": "il.ly",
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-twitter-marketing",
+      "type": "essay",
+      "title": "X (Twitter) Marketing: How to Grow and Get Customers in 2026",
+      "url": "https://il.ly/blog/twitter-marketing",
+      "publishedAt": "2023-11-08",
+      "outlet": "il.ly",
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-ai-apps-50-seo-report",
+      "type": "essay",
+      "title": "AI Apps 50: SEO & Traffic Analysis of Top Startup AI Tools (2025) - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/ai-apps-50-seo-report",
+      "publishedAt": "2025-10-03",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-content-distribution",
+      "type": "essay",
+      "title": "Content Distribution Guide: Turn 1 Article Into 7X the Reach - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/content-distribution",
+      "publishedAt": "2025-10-10",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-programmatic-seo-nextjs",
+      "type": "essay",
+      "title": "Programmatic SEO with Next.js: The Complete Tutorial - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/programmatic-seo-nextjs",
+      "publishedAt": "2025-02-19",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-storychief-case-study",
+      "type": "essay",
+      "title": "StoryChief SEO Case Study: 6x Traffic, 80% lower CPA - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/storychief-case-study",
+      "publishedAt": "2024-07-10",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-why-is-seo-difficult",
+      "type": "essay",
+      "title": "Why is SEO So Difficult? - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/why-is-seo-difficult",
+      "publishedAt": "2024-07-10",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "essay-aikido-security-seo",
+      "type": "essay",
+      "title": "Aikido Security -  - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/aikido-security-seo",
+      "publishedAt": "2025-11-02",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-bank-green-case-study",
+      "type": "essay",
+      "title": "Bank.Green: From Launch to #1 Rankings in Green Banking - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/bank-green-case-study",
+      "publishedAt": "2025-11-02",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-black-white-idea",
+      "type": "essay",
+      "title": "Black & White Idea Framework: Viral Copywriting Guide - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/black-white-idea",
+      "publishedAt": "2024-01-20",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-framer-seo",
+      "type": "essay",
+      "title": "Framer - From Audit to Ongoing AI SEO Growth - MagicSpace SEO",
+      "url": "https://magicspace.agency/blog/framer-seo",
+      "publishedAt": "2025-11-02",
+      "outlet": "magicspace.agency",
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-link-building-strategies",
+      "type": "essay",
+      "title": "12 Link Building Strategies That Work in 2026 (With Real Costs)",
+      "url": "https://linkdr.com/blog/link-building-strategies",
+      "publishedAt": "2026-10-30",
+      "outlet": "linkdr.com",
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-link-building-statistics",
+      "type": "essay",
+      "title": "Link Building Statistics 2026: Prices From 10,030 Sites",
+      "url": "https://linkdr.com/blog/link-building-statistics",
+      "publishedAt": "2026-10-01",
+      "outlet": "linkdr.com",
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "essay-how-much-do-backlinks-cost",
+      "type": "essay",
+      "title": "How Much Do Backlinks Cost in 2026? Real Prices by DR",
+      "url": "https://linkdr.com/blog/how-much-do-backlinks-cost",
+      "publishedAt": "2026-10-01",
+      "outlet": "linkdr.com",
+      "topics": [
+        "seo",
+        "pricing"
+      ]
+    },
+    {
+      "id": "essay-cold-email-for-link-building",
+      "type": "essay",
+      "title": "Cold Email Outreach for Link Building (2026)",
+      "url": "https://linkdr.com/blog/cold-email-for-link-building",
+      "publishedAt": "2025-09-01",
+      "outlet": "linkdr.com",
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1948396189478527446",
+      "type": "x_post",
+      "title": "Step 1: Raise $15M Step 2: Burn it to generate $8.3M Step 3: Multiply by 12 and call it $1",
+      "url": "https://x.com/illyism/status/1948396189478527446",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 303496,
+      "likes": 2592,
+      "topics": [
+        "fundraising",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1921482561479442649",
+      "type": "x_post",
+      "title": "You did the impossible: Built a new browser (Arc) Actually made it better than Chrome Ever",
+      "url": "https://x.com/illyism/status/1921482561479442649",
+      "publishedAt": "2025-05-11",
+      "outlet": "X",
+      "views": 260737,
+      "likes": 1574,
+      "topics": [
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1939713378152304788",
+      "type": "x_post",
+      "title": "i dont think you understand you catch 3am dopamine and vibe code a saas you drop $49 on a ",
+      "url": "https://x.com/illyism/status/1939713378152304788",
+      "publishedAt": "2025-06-30",
+      "outlet": "X",
+      "views": 77800,
+      "likes": 1192,
+      "topics": [
+        "launch",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1748840530077745292",
+      "type": "x_post",
+      "title": "Need an app idea? 1. Open Ahrefs 2. Type in a domain with AI tools 3. View organic keyword",
+      "url": "https://x.com/illyism/status/1748840530077745292",
+      "publishedAt": "2024-01-20",
+      "outlet": "X",
+      "views": 142369,
+      "likes": 957,
+      "topics": [
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1972286837898326087",
+      "type": "x_post",
+      "title": "Google is literally showing you which keywords to target: 1. Open Google Search Console 2.",
+      "url": "https://x.com/illyism/status/1972286837898326087",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 90767,
+      "likes": 534,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1900940967038931082",
+      "type": "x_post",
+      "title": "Just set up a custom ESLint rule to enforce 200-line max file size and it's a game changer",
+      "url": "https://x.com/illyism/status/1900940967038931082",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 174798,
+      "likes": 758,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1901372617564868866",
+      "type": "x_post",
+      "title": "⚠️ PSA for Cursor AI users that... - install random .cursorrules from directories - enable",
+      "url": "https://x.com/illyism/status/1901372617564868866",
+      "publishedAt": "2025-03-16",
+      "outlet": "X",
+      "views": 146996,
+      "likes": 715,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1977469561218732301",
+      "type": "x_post",
+      "title": "You ship features. But nobody knows about them. This Cursor rule turns your git log into: ",
+      "url": "https://x.com/illyism/status/1977469561218732301",
+      "publishedAt": "2025-10-12",
+      "outlet": "X",
+      "views": 61314,
+      "likes": 671,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1890306620141314424",
+      "type": "x_post",
+      "title": "🐐 @levelsio is the GOAT of programmatic SEO Man's running 5+ insane sites with ~220k clic",
+      "url": "https://x.com/illyism/status/1890306620141314424",
+      "publishedAt": "2025-02-14",
+      "outlet": "X",
+      "views": 158673,
+      "likes": 449,
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1923224994189918582",
+      "type": "x_post",
+      "title": "🤝 @GenPPT had 40k users and no growth plan. I just acquired it. Now I'm running Blitz SEO",
+      "url": "https://x.com/illyism/status/1923224994189918582",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 170036,
+      "likes": 400,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1972482471985099107",
+      "type": "x_post",
+      "title": "Your next $10k/month app already exists (people just hate it) Here's how to find it in Ahr",
+      "url": "https://x.com/illyism/status/1972482471985099107",
+      "publishedAt": "2025-09-29",
+      "outlet": "X",
+      "views": 28867,
+      "likes": 363,
+      "topics": [
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1890660310060507258",
+      "type": "x_post",
+      "title": "🤯 Want proof of how Google *actually* works? I changed this site's colors to look more \"m",
+      "url": "https://x.com/illyism/status/1890660310060507258",
+      "publishedAt": "2025-02-15",
+      "outlet": "X",
+      "views": 52103,
+      "likes": 336,
+      "topics": [
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1860102081820131745",
+      "type": "x_post",
+      "title": "nobody talks about the weird parts of bootstrapping: - feeling guilty all the time about t",
+      "url": "https://x.com/illyism/status/1860102081820131745",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 38472,
+      "likes": 329,
+      "topics": [
+        "bootstrapping",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1956271435489358242",
+      "type": "x_post",
+      "title": "Stripe thought they were playing 4D chess by buying @lemonsqueezy LemonSqueezy collapses, ",
+      "url": "https://x.com/illyism/status/1956271435489358242",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 48628,
+      "likes": 327,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1885972254460363069",
+      "type": "x_post",
+      "title": "🤑 @polar_sh is 100x better than LemonSqueezy Here's why you need to make the switch 👇 I ",
+      "url": "https://x.com/illyism/status/1885972254460363069",
+      "publishedAt": "2025-02-02",
+      "outlet": "X",
+      "views": 102865,
+      "likes": 315,
+      "topics": [
+        "building",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1843662351297319103",
+      "type": "x_post",
+      "title": "Broke: Spend days to figure out why your 1-page website + blog is spending 130GB on bandwi",
+      "url": "https://x.com/illyism/status/1843662351297319103",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 34509,
+      "likes": 277,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1822879383889006953",
+      "type": "x_post",
+      "title": "Self-hosting Next.js with @coolifyio &amp; @Hetzner_Online : ✅ 33s to build &amp; deploy ❌",
+      "url": "https://x.com/illyism/status/1822879383889006953",
+      "publishedAt": "2024-08-12",
+      "outlet": "X",
+      "views": 23460,
+      "likes": 166,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1969497687729819715",
+      "type": "x_post",
+      "title": "🔥 @calcom has DR 91 but gets 50x less traffic than Calendly It’s $1M/year lost to sloppy ",
+      "url": "https://x.com/illyism/status/1969497687729819715",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 79709,
+      "likes": 234,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1961352090300625352",
+      "type": "x_post",
+      "title": "What is The Prompting Company? @promptingco When users ask ChatGPT, Perplexity, or Claude ",
+      "url": "https://x.com/illyism/status/1961352090300625352",
+      "publishedAt": "2025-08-29",
+      "outlet": "X",
+      "views": 44367,
+      "likes": 226,
+      "topics": [
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1980990917378265246",
+      "type": "x_post",
+      "title": "I found a company called Polygraph that is absolutely dominating Reddit for the \"click fra",
+      "url": "https://x.com/illyism/status/1980990917378265246",
+      "publishedAt": "2025-10-22",
+      "outlet": "X",
+      "views": 28486,
+      "likes": 221,
+      "topics": [
+        "distribution",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1861706131292479525",
+      "type": "x_post",
+      "title": "🔍 SEO Hack that's working right now: 1. Open @ahrefs 2. Go to \"Competitive Analysis\" 3. A",
+      "url": "https://x.com/illyism/status/1861706131292479525",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 26710,
+      "likes": 212,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1977999025828745430",
+      "type": "x_post",
+      "title": "Dago's absolute wrong indie hacking isn't about luck, it's about building the right system",
+      "url": "https://x.com/illyism/status/1977999025828745430",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 29654,
+      "likes": 182,
+      "topics": [
+        "bootstrapping",
+        "mindset",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1843064568328970625",
+      "type": "x_post",
+      "title": "Don't make another AI Headshot Generator 🙅‍♂️ I exported all of the top keywords Pieter L",
+      "url": "https://x.com/illyism/status/1843064568328970625",
+      "publishedAt": "2024-10-06",
+      "outlet": "X",
+      "views": 42400,
+      "likes": 172,
+      "topics": [
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1976633709349818475",
+      "type": "x_post",
+      "title": "Everyone writes blog posts, almost nobody distributes them One article should become: Twit",
+      "url": "https://x.com/illyism/status/1976633709349818475",
+      "publishedAt": "2025-10-10",
+      "outlet": "X",
+      "views": 13682,
+      "likes": 171,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1923438497098002660",
+      "type": "x_post",
+      "title": "Just doubled the conversion rate at @GenPPT with one change. 🤑 Old: 4.5% → New: 8.7% My w",
+      "url": "https://x.com/illyism/status/1923438497098002660",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 88800,
+      "likes": 156,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1923606187129409583",
+      "type": "x_post",
+      "title": "✅ Merged to prod: 4.6× boost What changed: Old pricing (confusing paywall) → 1.96% New: 3-",
+      "url": "https://x.com/illyism/status/1923606187129409583",
+      "publishedAt": "2025-05-17",
+      "outlet": "X",
+      "views": 35480,
+      "likes": 131,
+      "topics": [
+        "pricing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1787869721091576265",
+      "type": "x_post",
+      "title": "I grew 21 websites using the same SEO stack: 📈 Ahrefs 📊 RankIQ 🔍 SEMrush 🤖 Perplexity ",
+      "url": "https://x.com/illyism/status/1787869721091576265",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 42337,
+      "likes": 155,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1972356454771515867",
+      "type": "x_post",
+      "title": "I just discovered what $10k/month link building agencies actually do: - Scrape competitor ",
+      "url": "https://x.com/illyism/status/1972356454771515867",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 126284,
+      "likes": 152,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1975095912700743695",
+      "type": "x_post",
+      "title": "Tona is making a classic positioning mistake with her baby name app She's comparing a $9 A",
+      "url": "https://x.com/illyism/status/1975095912700743695",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 35579,
+      "likes": 139,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1959727965622935880",
+      "type": "x_post",
+      "title": "Everyone’s calling App Mafia scammers. Honestly? Selling a course is fine, I sell one too!",
+      "url": "https://x.com/illyism/status/1959727965622935880",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 16769,
+      "likes": 138,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1769308137503203650",
+      "type": "x_post",
+      "title": "SEO experts will hate me for this, but here's a way to do technical SEO for free. 1. Make ",
+      "url": "https://x.com/illyism/status/1769308137503203650",
+      "publishedAt": "2024-03-17",
+      "outlet": "X",
+      "views": 21661,
+      "likes": 137,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1974898381458960861",
+      "type": "x_post",
+      "title": "Treat your SEO like a developer treats code The Blitz SEO cycle: 1. Pick One Page: Focus o",
+      "url": "https://x.com/illyism/status/1974898381458960861",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 11414,
+      "likes": 137,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1890213319698706630",
+      "type": "x_post",
+      "title": "🤯 HOW IS @LEVELSIO LEAVING $463K/MO ON THE TABLE?! His competitors have 15x more SEO traf",
+      "url": "https://x.com/illyism/status/1890213319698706630",
+      "publishedAt": "2025-02-14",
+      "outlet": "X",
+      "views": 29083,
+      "likes": 134,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1816311206967222625",
+      "type": "x_post",
+      "title": "I block ahrefs, moz and semrush bots with robots.txt It's like having 99 strength in the W",
+      "url": "https://x.com/illyism/status/1816311206967222625",
+      "publishedAt": "2024-07-25",
+      "outlet": "X",
+      "views": 38698,
+      "likes": 128,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1885352300589240567",
+      "type": "x_post",
+      "title": "What happened to Nomadlist SEO @levelsio? Went from 3450 pages (14.5k traffic) To 262 page",
+      "url": "https://x.com/illyism/status/1885352300589240567",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 274875,
+      "likes": 606,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1805030967775723852",
+      "type": "x_post",
+      "title": "Now that everyone can ship in days, not weeks Distribution is all that matters",
+      "url": "https://x.com/illyism/status/1805030967775723852",
+      "publishedAt": "2024-06-24",
+      "outlet": "X",
+      "views": 27753,
+      "likes": 140,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1839732715492352285",
+      "type": "x_post",
+      "title": "If your product is under $10 I will never buy it. $50 and I'll take it serious. $100-200 a",
+      "url": "https://x.com/illyism/status/1839732715492352285",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 67937,
+      "likes": 437,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1972196494188204380",
+      "type": "x_post",
+      "title": "For every $20k/month success story you see, 1000 people failed doing the exact same thing ",
+      "url": "https://x.com/illyism/status/1972196494188204380",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 13340,
+      "likes": 192,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1935307777171226980",
+      "type": "x_post",
+      "title": "Imagine paying for a $499/month \"AI prompt watcher\" when all the data is profoundly availa",
+      "url": "https://x.com/illyism/status/1935307777171226980",
+      "publishedAt": "2025-06-18",
+      "outlet": "X",
+      "views": 28168,
+      "likes": 162,
+      "topics": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1767128568872444096",
+      "type": "x_post",
+      "title": "If I see \"elevate\", \"ignite\", \"empower\", \"unleash\" one more time on a site I'll literally ",
+      "url": "https://x.com/illyism/status/1767128568872444096",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 35878,
+      "likes": 159,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1824338170361569375",
+      "type": "x_post",
+      "title": "1. Copy/paste CSV into textarea 2. Parse locally with PapaParse 3. Auto-match columns with",
+      "url": "https://x.com/illyism/status/1824338170361569375",
+      "publishedAt": "2024-08-16",
+      "outlet": "X",
+      "views": 40511,
+      "likes": 273,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1862254129604960419",
+      "type": "x_post",
+      "title": "one-line performance hack for your tailwind app: set DEFAULT transition to 150ms feels twi",
+      "url": "https://x.com/illyism/status/1862254129604960419",
+      "publishedAt": "2024-11-28",
+      "outlet": "X",
+      "views": 159828,
+      "likes": 143,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1770425076103397703",
+      "type": "x_post",
+      "title": "Fun fact: I removed Axios and I got +200% better latency. They have some bug causing slowd",
+      "url": "https://x.com/illyism/status/1770425076103397703",
+      "publishedAt": "2024-03-20",
+      "outlet": "X",
+      "views": 312098,
+      "likes": 749,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1900831207610294368",
+      "type": "x_post",
+      "title": "😭 AI has completely broken my ability to code I can't code manually anymore (feels slow k",
+      "url": "https://x.com/illyism/status/1900831207610294368",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 201042,
+      "likes": 447,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1884354498925097150",
+      "type": "x_post",
+      "title": "@levelsio You need add noindex if the page is a 404 / doesn't exist This then will solve i",
+      "url": "https://x.com/illyism/status/1884354498925097150",
+      "publishedAt": "2025-01-28",
+      "outlet": "X",
+      "views": 60091,
+      "likes": 150,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1773646720372531680",
+      "type": "x_post",
+      "title": "😭 We're getting billed $2000+ per month on @Vercel. 😭 What should we do? @rauchg @leeero",
+      "url": "https://x.com/illyism/status/1773646720372531680",
+      "publishedAt": "2024-03-29",
+      "outlet": "X",
+      "views": 362408,
+      "likes": 526,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2116793959041368471",
+      "type": "x_post",
+      "title": "how to set up robots.txt for AI SEO in 2026 (after checking 10M requests across 22 sites):",
+      "url": "https://x.com/illyism/status/2116793959041368471",
+      "publishedAt": "2026-11-01",
+      "outlet": "X",
+      "views": 28563,
+      "likes": 357,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2116263753264329200",
+      "type": "x_post",
+      "title": "This is literally my entire business model right now: 1. Free SEO tools + $29 tracker (htt",
+      "url": "https://x.com/illyism/status/2116263753264329200",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 7475,
+      "likes": 93,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2116093221923340685",
+      "type": "x_post",
+      "title": "I exported the top-10 google results across 1,119 keywords for a private https://t.co/VIh6",
+      "url": "https://x.com/illyism/status/2116093221923340685",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 4254,
+      "likes": 15,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2115678262143955064",
+      "type": "x_post",
+      "title": "I just deleted the entire /admin panel from another one of my apps (83 files gone). In 202",
+      "url": "https://x.com/illyism/status/2115678262143955064",
+      "publishedAt": "2026-10-29",
+      "outlet": "X",
+      "views": 10670,
+      "likes": 103,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2115505795693740331",
+      "type": "x_post",
+      "title": "Ok so now I have my own custom newsletter engine AND my own custom DataFast (both running ",
+      "url": "https://x.com/illyism/status/2115505795693740331",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 9986,
+      "likes": 89,
+      "topics": [
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2115353352276234557",
+      "type": "x_post",
+      "title": "People don't write Python scrapers anymore. They paste your URLs into Claude Code, Cursor,",
+      "url": "https://x.com/illyism/status/2115353352276234557",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 5236,
+      "likes": 47,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2115317817512001888",
+      "type": "x_post",
+      "title": "Nobody talks about what happens *after* you buy a backlink Half the internet's DR 60+ medi",
+      "url": "https://x.com/illyism/status/2115317817512001888",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 4856,
+      "likes": 28,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2115339342130667639",
+      "type": "x_post",
+      "title": "I used @ahrefs to reverse-engineer how @sanity_io gets its organic traffic today. 42% of t",
+      "url": "https://x.com/illyism/status/2115339342130667639",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 21841,
+      "likes": 298,
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2115371309610004745",
+      "type": "x_post",
+      "title": "🎙️ Hopped on Edward Sturm's podcast and gave away my whole link building playbook 1. Stop",
+      "url": "https://x.com/illyism/status/2115371309610004745",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 4100,
+      "likes": 43,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2115334377186230645",
+      "type": "x_post",
+      "title": "90% of \"link building agencies\" sell you the same 3 scams: 1. Self-serve AI directories yo",
+      "url": "https://x.com/illyism/status/2115334377186230645",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 6293,
+      "likes": 40,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2112377329284730977",
+      "type": "x_post",
+      "title": "Want ChatGPT to recommend your SaaS? 1. Ask AI: \"best [your category] tools\" 2. Copy compe",
+      "url": "https://x.com/illyism/status/2112377329284730977",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 88583,
+      "likes": 566,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2110744516001222808",
+      "type": "x_post",
+      "title": "Most of the tools I use daily now get operated by an agent through MCP rather than by me t",
+      "url": "https://x.com/illyism/status/2110744516001222808",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 5957,
+      "likes": 79,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2110751551740649515",
+      "type": "x_post",
+      "title": "It's hard to accept that in a few months almost everything my mind can do, AI does better ",
+      "url": "https://x.com/illyism/status/2110751551740649515",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 6172,
+      "likes": 82,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2110750856962592971",
+      "type": "x_post",
+      "title": "I know a lot of people struggle with making SEO content so here is a bit of what I found R",
+      "url": "https://x.com/illyism/status/2110750856962592971",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 4076,
+      "likes": 63,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2110524203976069476",
+      "type": "x_post",
+      "title": "“Why are indie hackers vibe-coding their own tools to save $50 a month??” Meanwhile, his p",
+      "url": "https://x.com/illyism/status/2110524203976069476",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 13364,
+      "likes": 87,
+      "topics": [
+        "pricing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2110180038637408357",
+      "type": "x_post",
+      "title": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Curso",
+      "url": "https://x.com/illyism/status/2110180038637408357",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 2568169,
+      "likes": 1599,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2110410192768971050",
+      "type": "x_post",
+      "title": "Every time I audit a SaaS site on https://t.co/uxlLitDmlT lately, I check their Ahrefs and",
+      "url": "https://x.com/illyism/status/2110410192768971050",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 32286,
+      "likes": 71,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2110051038564958689",
+      "type": "x_post",
+      "title": "If you sell to indie hackers, you are selling to the most price-sensitive, disloyal, copyc",
+      "url": "https://x.com/illyism/status/2110051038564958689",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 15148,
+      "likes": 387,
+      "topics": [
+        "sales",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2108864697659256891",
+      "type": "x_post",
+      "title": "🔥 24-minute SEO roast https://t.co/EUWrQnYreq is a white-label AI website builder with a ",
+      "url": "https://x.com/illyism/status/2108864697659256891",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 7278,
+      "likes": 57,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2108132147202851004",
+      "type": "x_post",
+      "title": "🔥 27-minute SEO roast https://t.co/Zz1zayZdYT schedules posts to 18 platforms... and 81% ",
+      "url": "https://x.com/illyism/status/2108132147202851004",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 3837,
+      "likes": 23,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2107744872711192975",
+      "type": "x_post",
+      "title": "I can now ship in 2 days what took 6 months last year Which means anyone can, we are at th",
+      "url": "https://x.com/illyism/status/2107744872711192975",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 3368,
+      "likes": 26,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2105346708070879463",
+      "type": "x_post",
+      "title": "I spent $27,581 in September 2026. Down from $72K in August. Cut almost everything. 🏢 BUS",
+      "url": "https://x.com/illyism/status/2105346708070879463",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 8500,
+      "likes": 35,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2097438093242482756",
+      "type": "x_post",
+      "title": "How to waste 50,000 SEO visits: 1. Spend 2 years writing blog posts 2. Rank top 3 on Googl",
+      "url": "https://x.com/illyism/status/2097438093242482756",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 8829,
+      "likes": 59,
+      "topics": [
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2096868180811452731",
+      "type": "x_post",
+      "title": "Pascal's wager, but for llms.txt: - If llms.txt doesn’t matter, you wasted 5 minutes - If ",
+      "url": "https://x.com/illyism/status/2096868180811452731",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 7768,
+      "likes": 39,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2094321352094187783",
+      "type": "x_post",
+      "title": "🔥 22-minute SEO roast https://t.co/VN5yuog0nr turns Google Drive folders into client gall",
+      "url": "https://x.com/illyism/status/2094321352094187783",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 270876,
+      "likes": 164,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2093303164015415498",
+      "type": "x_post",
+      "title": "🔥 I just roasted a startup funding database with 10,000 pages and 0 organic traffic (http",
+      "url": "https://x.com/illyism/status/2093303164015415498",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 4886,
+      "likes": 34,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2092335666658963507",
+      "type": "x_post",
+      "title": "The math is only \"simple\" if you don't understand that DR is literally logarithmic A DR 50",
+      "url": "https://x.com/illyism/status/2092335666658963507",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 26376,
+      "likes": 140,
+      "topics": [
+        "seo",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2091132957377323456",
+      "type": "x_post",
+      "title": "I checked the SEO for 842 sites listed on https://t.co/ZB3bnE4yhd And made an indie hacker",
+      "url": "https://x.com/illyism/status/2091132957377323456",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 35942,
+      "likes": 150,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2089756297952723442",
+      "type": "x_post",
+      "title": "🔥 Full 42-minute AI+SEO roast for @aiapplyco (by @aidancramer) - an AI job application pl",
+      "url": "https://x.com/illyism/status/2089756297952723442",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 5828,
+      "likes": 59,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2089495358300721430",
+      "type": "x_post",
+      "title": "The best feature I shipped this week was deleting 88,000 lines of custom chat workflow cod",
+      "url": "https://x.com/illyism/status/2089495358300721430",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 3627,
+      "likes": 37,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2089493646592573611",
+      "type": "x_post",
+      "title": "I am now a few days in 🇵🇱 Wrocław and today got off a call with a founder building an AI",
+      "url": "https://x.com/illyism/status/2089493646592573611",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 9230,
+      "likes": 68,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2088550349002957029",
+      "type": "x_post",
+      "title": "1. Open Chrome Dev tools 2. Record Performance 3. Save JSON 4. Drop it to your agent + ask",
+      "url": "https://x.com/illyism/status/2088550349002957029",
+      "publishedAt": "2026-08-15",
+      "outlet": "X",
+      "views": 13513,
+      "likes": 203,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2072274732603351170",
+      "type": "x_post",
+      "title": "The SERP is the brief Don't decide the content type first - Google shows tools? Build a to",
+      "url": "https://x.com/illyism/status/2072274732603351170",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 7381,
+      "likes": 45,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2070719142403997829",
+      "type": "x_post",
+      "title": "The #1 SEO skill nobody teaches: Reading the search results page Tactics change, algorithm",
+      "url": "https://x.com/illyism/status/2070719142403997829",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 61854,
+      "likes": 109,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2069187610359050697",
+      "type": "x_post",
+      "title": "Tracked 10k+ AI prompts in https://t.co/9NQ49WDfHW YouTube and Reddit shows up as a source",
+      "url": "https://x.com/illyism/status/2069187610359050697",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 60299,
+      "likes": 77,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2065913262185554379",
+      "type": "x_post",
+      "title": "The #1 backlink mistake I see on almost every site: 99% of links point to the homepage. Yo",
+      "url": "https://x.com/illyism/status/2065913262185554379",
+      "publishedAt": "2026-06-13",
+      "outlet": "X",
+      "views": 5915,
+      "likes": 65,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2059314679978377540",
+      "type": "x_post",
+      "title": "Found the simplest competitive SaaS SEO strategy that just works: 1. Top 10 listicle for y",
+      "url": "https://x.com/illyism/status/2059314679978377540",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 4493,
+      "likes": 53,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2056526903058571719",
+      "type": "x_post",
+      "title": "Two link building strategies we run via https://t.co/cQ07FzCzy8: 1. Export competitor back",
+      "url": "https://x.com/illyism/status/2056526903058571719",
+      "publishedAt": "2026-05-19",
+      "outlet": "X",
+      "views": 7421,
+      "likes": 63,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2054248233296109838",
+      "type": "x_post",
+      "title": "founders keep asking how to get recommended by ChatGPT the answer is still annoyingly old-",
+      "url": "https://x.com/illyism/status/2054248233296109838",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 1844,
+      "likes": 28,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2052637047811375144",
+      "type": "x_post",
+      "title": "How to rank #1 for your money keyword: 1. Find competitors in top 10 2. Write a listicle r",
+      "url": "https://x.com/illyism/status/2052637047811375144",
+      "publishedAt": "2026-05-08",
+      "outlet": "X",
+      "views": 7140,
+      "likes": 93,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2051678978386391537",
+      "type": "x_post",
+      "title": "Just had a call at 6.00 AM (🇺🇸 fml SF) today with a massive 15+ year old travel company ",
+      "url": "https://x.com/illyism/status/2051678978386391537",
+      "publishedAt": "2026-05-05",
+      "outlet": "X",
+      "views": 9307,
+      "likes": 52,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2050650610836602977",
+      "type": "x_post",
+      "title": "Sometimes there’s nothing to \"fix\" in SEO You’re just waiting on Google for the algo to sh",
+      "url": "https://x.com/illyism/status/2050650610836602977",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 3768,
+      "likes": 54,
+      "topics": [
+        "seo",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2046636144213848529",
+      "type": "x_post",
+      "title": "Your landing page is the END of the funnel now. Not the top. For years we treated the home",
+      "url": "https://x.com/illyism/status/2046636144213848529",
+      "publishedAt": "2026-04-21",
+      "outlet": "X",
+      "views": 15085,
+      "likes": 113,
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2042688942261064073",
+      "type": "x_post",
+      "title": "I was on an SEO audit call today with an incredible founder. They’re building a Gumroad co",
+      "url": "https://x.com/illyism/status/2042688942261064073",
+      "publishedAt": "2026-04-10",
+      "outlet": "X",
+      "views": 9735,
+      "likes": 99,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2039150415166464339",
+      "type": "x_post",
+      "title": "🚨 WARNING: If your Next.js robots.txt has Disallow: /_next, you're blocking all your CSS,",
+      "url": "https://x.com/illyism/status/2039150415166464339",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 12186,
+      "likes": 90,
+      "topics": [
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2038342042263167010",
+      "type": "x_post",
+      "title": "I keep thinking about \"signal theory\" and how expensive signals are the only signals that ",
+      "url": "https://x.com/illyism/status/2038342042263167010",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 9769,
+      "likes": 54,
+      "topics": [
+        "marketing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2013973991745085844",
+      "type": "x_post",
+      "title": "Writing an X article mentioning your apps in the next 2 weeks is probably the easiest AI S",
+      "url": "https://x.com/illyism/status/2013973991745085844",
+      "publishedAt": "2026-01-21",
+      "outlet": "X",
+      "views": 8332,
+      "likes": 89,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2009347197385490612",
+      "type": "x_post",
+      "title": "What this actually means for founders 👇 ❌ Less valuable: - Coding speed (AI's faster) - F",
+      "url": "https://x.com/illyism/status/2009347197385490612",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 16632,
+      "likes": 113,
+      "topics": [
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2009181206621950339",
+      "type": "x_post",
+      "title": "Blaming AI for taking your business is easy Reflecting on your own funnel is hard 📷 Tailw",
+      "url": "https://x.com/illyism/status/2009181206621950339",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 119949,
+      "likes": 121,
+      "topics": [
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1998489907124416681",
+      "type": "x_post",
+      "title": "🤑 The easiest satisfying SaaS pricing hack: 👉 Charge $5/week instead of $20/month Same p",
+      "url": "https://x.com/illyism/status/1998489907124416681",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 13631,
+      "likes": 123,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1996340261723472041",
+      "type": "x_post",
+      "title": "We added \"Summarize with AI\" buttons to our blog When users click → ChatGPT/Perplexity ope",
+      "url": "https://x.com/illyism/status/1996340261723472041",
+      "publishedAt": "2025-12-03",
+      "outlet": "X",
+      "views": 7609,
+      "likes": 72,
+      "topics": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1995222390654251423",
+      "type": "x_post",
+      "title": "\"I need to hit $300k MRR\" = wrong mindset 🧠 The actual *value* created is 10x higher: - I",
+      "url": "https://x.com/illyism/status/1995222390654251423",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 27534,
+      "likes": 86,
+      "topics": [
+        "mindset",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1985738870328361354",
+      "type": "x_post",
+      "title": "Every year Reddit dominates Black Friday SEO, and most affiliates have no idea. I analyzed",
+      "url": "https://x.com/illyism/status/1985738870328361354",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 1840,
+      "likes": 12,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1984521282252100068",
+      "type": "x_post",
+      "title": "Having people submit your stripe API key (with customer read access) is a great growth hac",
+      "url": "https://x.com/illyism/status/1984521282252100068",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 12634,
+      "likes": 103,
+      "topics": [
+        "growth",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1979647095100658124",
+      "type": "x_post",
+      "title": "Leading with \"I'm 17\" is what you do when the work can't speak for itself. \"Impressive (fo",
+      "url": "https://x.com/illyism/status/1979647095100658124",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 14739,
+      "likes": 74,
+      "topics": [
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1978494957490262428",
+      "type": "x_post",
+      "title": "We placed 500+ backlinks last year through cold email 97% of outreach gets ignored, so we ",
+      "url": "https://x.com/illyism/status/1978494957490262428",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 5393,
+      "likes": 57,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1974426194654400834",
+      "type": "x_post",
+      "title": "I think @lovable is the #1 for wasted SEO potential 43K visits to homepage (ONLY ranking f",
+      "url": "https://x.com/illyism/status/1974426194654400834",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 19664,
+      "likes": 78,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1967875807914905904",
+      "type": "x_post",
+      "title": "3 ways to get free backlinks: ✅ Build linkable asset: Create free tool/quiz/calc 🧠 Publis",
+      "url": "https://x.com/illyism/status/1967875807914905904",
+      "publishedAt": "2025-09-16",
+      "outlet": "X",
+      "views": 3830,
+      "likes": 38,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1967285564711084033",
+      "type": "x_post",
+      "title": "Potential traffic value = cpc ⨯ volume - do it for every keyword - group keywords by page ",
+      "url": "https://x.com/illyism/status/1967285564711084033",
+      "publishedAt": "2025-09-14",
+      "outlet": "X",
+      "views": 4032,
+      "likes": 44,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1964237887609982991",
+      "type": "x_post",
+      "title": "Stop trying to go viral. Start trying to be undeniably useful to a small, specific group o",
+      "url": "https://x.com/illyism/status/1964237887609982991",
+      "publishedAt": "2025-09-06",
+      "outlet": "X",
+      "views": 2749,
+      "likes": 28,
+      "topics": [
+        "growth",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1964131439659962770",
+      "type": "x_post",
+      "title": "Build free tools, not just blog posts. Give away value and the users will come to you",
+      "url": "https://x.com/illyism/status/1964131439659962770",
+      "publishedAt": "2025-09-06",
+      "outlet": "X",
+      "views": 4131,
+      "likes": 56,
+      "topics": [
+        "growth",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1941554504370950648",
+      "type": "x_post",
+      "title": "Tech’s full of people selling hope > get rich, go viral, beat the system Most of it’s bull",
+      "url": "https://x.com/illyism/status/1941554504370950648",
+      "publishedAt": "2025-07-05",
+      "outlet": "X",
+      "views": 12647,
+      "likes": 118,
+      "topics": [
+        "mindset",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1939600898595889315",
+      "type": "x_post",
+      "title": "i dont think you understand you vibe build an seo business you get to $50k/month your net ",
+      "url": "https://x.com/illyism/status/1939600898595889315",
+      "publishedAt": "2025-06-30",
+      "outlet": "X",
+      "views": 6524,
+      "likes": 41,
+      "topics": [
+        "seo",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1927596749549396383",
+      "type": "x_post",
+      "title": "Pair programming with AI isn't that different from working with junior devs You don’t say ",
+      "url": "https://x.com/illyism/status/1927596749549396383",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 3313,
+      "likes": 38,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1904552900019249381",
+      "type": "x_post",
+      "title": "Don't use UUID if you don't have multiple servers / databases that are located in differen",
+      "url": "https://x.com/illyism/status/1904552900019249381",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 11829,
+      "likes": 69,
+      "topics": [
+        "building",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1899702639429931014",
+      "type": "x_post",
+      "title": "🧠 Why we rebuilt @linkdr_ after making $50k+ last year Customers didn't have time to: - F",
+      "url": "https://x.com/illyism/status/1899702639429931014",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 6215,
+      "likes": 34,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1890856516171043167",
+      "type": "x_post",
+      "title": "🔥 #SEOROAST • Interior AI • @levelsio 🖼️ Image 1: I noticed there is a lot of stuff goin",
+      "url": "https://x.com/illyism/status/1890856516171043167",
+      "publishedAt": "2025-02-15",
+      "outlet": "X",
+      "views": 33521,
+      "likes": 107,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1889631260307329509",
+      "type": "x_post",
+      "title": "🔍 #SEOROAST @levelsio Quick technical SEO review of your pSEO gallery pages... 🚩 Key iss",
+      "url": "https://x.com/illyism/status/1889631260307329509",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 11418,
+      "likes": 42,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1854639755503210827",
+      "type": "x_post",
+      "title": "Shiny new frameworks are often a trap 🪤 Nextjs, prisma, etc just work - and AI 🤖 is trai",
+      "url": "https://x.com/illyism/status/1854639755503210827",
+      "publishedAt": "2024-11-07",
+      "outlet": "X",
+      "views": 2499,
+      "likes": 27,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1844435993329291403",
+      "type": "x_post",
+      "title": "🚨 Breaking: Google just killed indexing API tools 💀 What still works for faster indexing",
+      "url": "https://x.com/illyism/status/1844435993329291403",
+      "publishedAt": "2024-10-10",
+      "outlet": "X",
+      "views": 24471,
+      "likes": 106,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1843021030308339951",
+      "type": "x_post",
+      "title": "The fastest way to lose rankings & destroy your blog? Using AI to churn out a mediocre blo",
+      "url": "https://x.com/illyism/status/1843021030308339951",
+      "publishedAt": "2024-10-06",
+      "outlet": "X",
+      "views": 14000,
+      "likes": 93,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1840740621499138423",
+      "type": "x_post",
+      "title": "🌶️ Your 10-20% affiliate commission is 💩 It's killing your program + nobody with real tr",
+      "url": "https://x.com/illyism/status/1840740621499138423",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 8405,
+      "likes": 53,
+      "topics": [
+        "pricing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1840124235689406533",
+      "type": "x_post",
+      "title": "If you have a great product that people love, then adding a done-for-you service that is 2",
+      "url": "https://x.com/illyism/status/1840124235689406533",
+      "publishedAt": "2024-09-28",
+      "outlet": "X",
+      "views": 9789,
+      "likes": 66,
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1837931112540069984",
+      "type": "x_post",
+      "title": "In my 1 year on Twitter I haven't seen anyone else start a SEO agency. But 10s of producti",
+      "url": "https://x.com/illyism/status/1837931112540069984",
+      "publishedAt": "2024-09-22",
+      "outlet": "X",
+      "views": 11518,
+      "likes": 73,
+      "topics": [
+        "bootstrapping",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1832891994282041838",
+      "type": "x_post",
+      "title": "If your strategy is just to get backlinks, you've already lost. Every backlink is either a",
+      "url": "https://x.com/illyism/status/1832891994282041838",
+      "publishedAt": "2024-09-08",
+      "outlet": "X",
+      "views": 4993,
+      "likes": 47,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1826130271327920361",
+      "type": "x_post",
+      "title": "🔍 Find Reddit threads using @semrush's Keyword Gap 1. Go to https://t.co/BIKiBcq4e6 2. En",
+      "url": "https://x.com/illyism/status/1826130271327920361",
+      "publishedAt": "2024-08-21",
+      "outlet": "X",
+      "views": 7177,
+      "likes": 69,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1825055302267408686",
+      "type": "x_post",
+      "title": "people overcomplicate reddit seo for traffic i've driven millions of visitors using reddit",
+      "url": "https://x.com/illyism/status/1825055302267408686",
+      "publishedAt": "2024-08-18",
+      "outlet": "X",
+      "views": 9618,
+      "likes": 85,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1811395432406286731",
+      "type": "x_post",
+      "title": "SEO is like buying a home - slow to start, but builds equity over time. Paid ads rent mont",
+      "url": "https://x.com/illyism/status/1811395432406286731",
+      "publishedAt": "2024-07-11",
+      "outlet": "X",
+      "views": 2666,
+      "likes": 27,
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1801766596266102927",
+      "type": "x_post",
+      "title": "the future of SEO agencies is specialization niche down by industry or type of site become",
+      "url": "https://x.com/illyism/status/1801766596266102927",
+      "publishedAt": "2024-06-15",
+      "outlet": "X",
+      "views": 3230,
+      "likes": 31,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1801056897434534021",
+      "type": "x_post",
+      "title": "want backlinks? create a free tool that solves a problem for your target audience promote ",
+      "url": "https://x.com/illyism/status/1801056897434534021",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 7865,
+      "likes": 71,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1799939536719667644",
+      "type": "x_post",
+      "title": "The most underrated skill in startups? Copywriting. From your website to your emails, your",
+      "url": "https://x.com/illyism/status/1799939536719667644",
+      "publishedAt": "2024-06-09",
+      "outlet": "X",
+      "views": 2432,
+      "likes": 26,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1799077201532649730",
+      "type": "x_post",
+      "title": "I made a new SEO service in 24 hours 🚀 Here's how I did it: 1. Posted a \"roast my site\" t",
+      "url": "https://x.com/illyism/status/1799077201532649730",
+      "publishedAt": "2024-06-07",
+      "outlet": "X",
+      "views": 3285,
+      "likes": 13,
+      "topics": [
+        "launch",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1797900468435267759",
+      "type": "x_post",
+      "title": "It's so easy to stand out nowadays it's not even funny With so many people relying on AI t",
+      "url": "https://x.com/illyism/status/1797900468435267759",
+      "publishedAt": "2024-06-04",
+      "outlet": "X",
+      "views": 2214,
+      "likes": 30,
+      "topics": [
+        "marketing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1794639378033090876",
+      "type": "x_post",
+      "title": "Getting backlinks is simple, but not easy. @Matt_heyqq sent 400 emails and got 10 backlink",
+      "url": "https://x.com/illyism/status/1794639378033090876",
+      "publishedAt": "2024-05-26",
+      "outlet": "X",
+      "views": 1855,
+      "likes": 20,
+      "topics": [
+        "seo",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1788855353821573210",
+      "type": "x_post",
+      "title": "Simple SEO blog strategy: 1. Write \"10 best [niche] tools\" 2. Eventually, people will emai",
+      "url": "https://x.com/illyism/status/1788855353821573210",
+      "publishedAt": "2024-05-10",
+      "outlet": "X",
+      "views": 4132,
+      "likes": 40,
+      "topics": [
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1777304713790214574",
+      "type": "x_post",
+      "title": "If I could go back, I'd tell 18yo me: - Start SEO yesterday - 1 keyword = 1 page - Write f",
+      "url": "https://x.com/illyism/status/1777304713790214574",
+      "publishedAt": "2024-04-08",
+      "outlet": "X",
+      "views": 6381,
+      "likes": 71,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1740335893007737124",
+      "type": "x_post",
+      "title": "The top competitor for https://t.co/S3stZD7Ffa just got acquired Users: 1 million MRR: $10",
+      "url": "https://x.com/illyism/status/1740335893007737124",
+      "publishedAt": "2023-12-28",
+      "outlet": "X",
+      "views": 4653,
+      "likes": 16,
+      "topics": [
+        "product",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1730284321720725671",
+      "type": "x_post",
+      "title": "We're bumping up the prices for our SEO strategy packages: 🌟 One-time: $350 →$450 🌟 Mont",
+      "url": "https://x.com/illyism/status/1730284321720725671",
+      "publishedAt": "2023-11-30",
+      "outlet": "X",
+      "views": 3807,
+      "likes": 16,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1722552594353000542",
+      "type": "x_post",
+      "title": "B2C: Grind hard. Improve bot. Add features. Do support. Handle high load. Reach 15k users ",
+      "url": "https://x.com/illyism/status/1722552594353000542",
+      "publishedAt": "2023-11-09",
+      "outlet": "X",
+      "views": 3108,
+      "likes": 14,
+      "topics": [
+        "sales",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1713442181476708790",
+      "type": "x_post",
+      "title": "Fyi if you do this: 1) they have 120 blog posts 2) only 2(!) posts are ranking for a keywo",
+      "url": "https://x.com/illyism/status/1713442181476708790",
+      "publishedAt": "2023-10-15",
+      "outlet": "X",
+      "views": 3332,
+      "likes": 12,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1704072923651457170",
+      "type": "x_post",
+      "title": "Can't afford Ahrefs or Semrush? No worries. Use Keywords Everywhere. Why? - I recommend it",
+      "url": "https://x.com/illyism/status/1704072923651457170",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 9797,
+      "likes": 69,
+      "topics": [
+        "seo"
+      ]
+    }
+  ],
+  "failures": []
+}

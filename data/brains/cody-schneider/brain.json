@@ -1,0 +1,2772 @@
+{
+  "schemaVersion": 1,
+  "slug": "cody-schneider",
+  "name": "Cody Schneider",
+  "shortName": "Cody",
+  "tagline": "Graphed co-founder who runs ads, SEO and cold email with Claude Code agents",
+  "role": "Founder & CEO",
+  "company": "Graphed",
+  "categories": [
+    "marketers",
+    "ai-builders",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "distribution is more important than product",
+    "sourceId": "x-1977041512971051455"
+  },
+  "topics": [
+    {
+      "id": "marketing-agents",
+      "label": "Marketing agents",
+      "summary": "Agents are code with a thinking loop on a schedule, fed live data, doing marketing's middle work.",
+      "sampleQuestion": "What does a marketing agent actually need to work in production?",
+      "sourceIds": [
+        "yt-QKpRs-2EIiM",
+        "yt-mD7JpNHLT70",
+        "yt-U2hogriGmEw",
+        "yt-Fe0aWFtjfYk",
+        "yt-jOuxlampW9E",
+        "yt-QWETKogmVtA",
+        "yt-bT2mu214YBY",
+        "x-2094862894345183562"
+      ]
+    },
+    {
+      "id": "paid-ads",
+      "label": "Facebook and paid ads",
+      "summary": "Creative is the targeting: test in volume, kill losers in days, pool winners, analyze from a warehouse.",
+      "sampleQuestion": "How should I structure Facebook ad testing for a B2B SaaS?",
+      "sourceIds": [
+        "yt-DbUzpz-_Yew",
+        "yt-hNwGwutvMf4",
+        "yt-U2hogriGmEw",
+        "yt-RB_M2mKiOcY",
+        "x-2111125078003847223",
+        "x-2094140231004074069",
+        "essay-a-through-z-testing"
+      ]
+    },
+    {
+      "id": "cold-outbound",
+      "label": "Cold email and outbound",
+      "summary": "Signal-based lists, waterfall enrichment and burner domains, with cold email as an early revenue channel.",
+      "sampleQuestion": "How do I set up cold email without burning my main domain?",
+      "sourceIds": [
+        "yt-mD7JpNHLT70",
+        "x-1693624217676206177",
+        "x-1802868846807666919",
+        "x-2100585583969988751",
+        "x-1965475312319316098",
+        "x-1917579729718088014",
+        "essay-lead-validation-with-gpt3"
+      ]
+    },
+    {
+      "id": "seo-ai-search",
+      "label": "SEO and AI search",
+      "summary": "Bottom-of-funnel keywords, page-one source material, Search Console refreshes and citation outreach.",
+      "sampleQuestion": "How do I write AI SEO content that actually gets signups?",
+      "sourceIds": [
+        "yt-91GGf_2TOhY",
+        "yt-paF4J941uqg",
+        "essay-the-v3-seo-model",
+        "essay-ai-search-is-here-the-only-way-to-win-is-by-making-digital-g",
+        "yt-V-VDpQoSO18",
+        "yt-f4E1TLVThOM",
+        "x-2116591049120329913",
+        "x-2097022124946759794"
+      ]
+    },
+    {
+      "id": "digital-gravity",
+      "label": "Digital gravity and owned media",
+      "summary": "Build content mass and owned media so branded demand compounds as paid costs rise.",
+      "sampleQuestion": "When should a startup invest in content and brand instead of ads?",
+      "sourceIds": [
+        "essay-cody-schneider",
+        "yt-7z-TD1KY08U",
+        "yt-f4E1TLVThOM",
+        "yt-uzGRsc79XkM",
+        "essay-the-power-of-marketing-moats-how-to-create-owned-media-for-l",
+        "essay-scaling-content-creation-with-cody-schneider",
+        "essay-digital-gravity-a-model-to-think-about-your-brands-online-fo",
+        "x-1897012704810033492"
+      ]
+    },
+    {
+      "id": "early-growth-business-models",
+      "label": "Early growth and business models",
+      "summary": "Transactional channels first, validation with ads, productized services and small-scope software.",
+      "sampleQuestion": "Which growth channels should I pick to get to $1M ARR?",
+      "sourceIds": [
+        "x-2072304297417580783",
+        "yt-jFItriT4vZU",
+        "yt-6FSih5a5aIA",
+        "yt-E1mdDql_2yI",
+        "yt-V-VDpQoSO18",
+        "x-1872386915145486805",
+        "x-1945166479667691616",
+        "x-1924909222157832418"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "With feature parity, the product with better marketing and distribution wins every time.",
+      "sourceIds": [
+        "essay-cody-schneider",
+        "yt-AJRIcQ3eF7U",
+        "x-1977041512971051455"
+      ]
+    },
+    {
+      "text": "Early on, use transactional channels like paid ads and cold email that produce revenue tomorrow, not revenue six months out.",
+      "sourceIds": [
+        "yt-jFItriT4vZU",
+        "yt-f4E1TLVThOM",
+        "x-2072304297417580783"
+      ]
+    },
+    {
+      "text": "An agent is software with a thinking loop and a live data stream, built to repeat a process a human already ran.",
+      "sourceIds": [
+        "yt-QKpRs-2EIiM",
+        "yt-hNwGwutvMf4",
+        "yt-Fe0aWFtjfYk"
+      ]
+    },
+    {
+      "text": "Hand the middle work to agents. You supply the idea and the polish, and your domain vocabulary is the leverage.",
+      "sourceIds": [
+        "yt-paF4J941uqg",
+        "yt-bT2mu214YBY",
+        "yt-CCh0zwZRFjg"
+      ]
+    },
+    {
+      "text": "The ad creative is the targeting: test many ads, kill losers in two to three days, and let winners compete for budget.",
+      "sourceIds": [
+        "yt-DbUzpz-_Yew",
+        "yt-hNwGwutvMf4",
+        "yt-U2hogriGmEw"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Which channels should an early-stage founder start with?",
+      "answer": [
+        {
+          "text": "Pick from paid ads, cold email, cold DMs and founder-led social. He says most companies can reach $1M ARR with only two channels, and you need revenue tomorrow.",
+          "sourceIds": [
+            "x-2072304297417580783"
+          ]
+        },
+        {
+          "text": "Leave SEO, email newsletters, podcast guesting and a YouTube channel off that first list.",
+          "sourceIds": [
+            "x-2072304297417580783"
+          ]
+        },
+        {
+          "text": "Focus everything on one channel until you see its ceiling, then layer on the next.",
+          "sourceIds": [
+            "yt-jFItriT4vZU"
+          ]
+        },
+        {
+          "text": "Arbitrage fades. In one example a signup went from $1 to $5 in 12 months, which is why he later adds a content flywheel.",
+          "sourceIds": [
+            "yt-f4E1TLVThOM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I set up an agent to run Facebook ads?",
+      "answer": [
+        {
+          "text": "Put ads, analytics, CRM and Stripe data in one warehouse so the agent can tie a specific ad to revenue.",
+          "sourceIds": [
+            "yt-U2hogriGmEw"
+          ]
+        },
+        {
+          "text": "Do analysis only from the warehouse and use the Facebook API only for writes: upload, pause, promote. Spamming the API for reads violates its terms.",
+          "sourceIds": [
+            "yt-DbUzpz-_Yew",
+            "x-2094140231004074069"
+          ]
+        },
+        {
+          "text": "Target broadly and take angles from language customers already use on forums like Reddit, because under Andromeda the creative is the targeting.",
+          "sourceIds": [
+            "yt-DbUzpz-_Yew",
+            "yt-QKpRs-2EIiM"
+          ]
+        },
+        {
+          "text": "Publish new ads daily, let them run two to three days, turn off losers, and move winners into a pool that competes for budget.",
+          "sourceIds": [
+            "yt-U2hogriGmEw",
+            "yt-hNwGwutvMf4"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I get good content out of AI instead of slop?",
+      "answer": [
+        {
+          "text": "Treat it as a guardrails problem. Give the agent a definition of good content, brand guides and banned language.",
+          "sourceIds": [
+            "yt-paF4J941uqg",
+            "yt-Fe0aWFtjfYk"
+          ]
+        },
+        {
+          "text": "Scrape the page-one results for the topic, add a 30-minute interview of yourself with your opinions and experiences, then write from both.",
+          "sourceIds": [
+            "yt-91GGf_2TOhY"
+          ]
+        },
+        {
+          "text": "Without source material and a defined direction, AI output regresses to the average.",
+          "sourceIds": [
+            "yt-hNwGwutvMf4"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-91GGf_2TOhY",
+    "yt-DbUzpz-_Yew",
+    "essay-cody-schneider",
+    "yt-QKpRs-2EIiM",
+    "yt-3oUhUOOPNPE",
+    "yt-hNwGwutvMf4"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1642293767846924288/SYK9ccXU_400x400.jpg",
+    "alt": "Photo of Cody Schneider"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/codyschneider",
+      "label": "@codyschneider"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@codyschneiderx"
+    },
+    {
+      "kind": "website",
+      "url": "https://graphed.com"
+    }
+  ],
+  "followers": {
+    "x": 66944,
+    "youtube": 28700,
+    "asOf": "2026-11-01"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 47,
+    "xPostCount": 168,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 168,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 24,
+      "podcast": 0,
+      "essay": 23
+    },
+    "transcriptMinutes": 1105,
+    "dateRange": {
+      "from": "2018-07",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-11-01T17:52:56.460Z",
+  "updatedAt": "2026-11-01T17:59:18.265Z",
+  "sources": [
+    {
+      "id": "yt-RB_M2mKiOcY",
+      "type": "youtube",
+      "title": "How Cody Schneider runs a Claude Code agent marketing stack: bulk ads, outbound and autonomous growth",
+      "url": "https://www.youtube.com/watch?v=RB_M2mKiOcY",
+      "publishedAt": "2026-04-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 3247,
+      "views": 95528,
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "Cody Schneider shows a live demo of running many parallel Claude Code instances wired to marketing APIs. They generate bulk Facebook ad variations from real customer pain points, scrape and cold-email"
+    },
+    {
+      "id": "yt-mD7JpNHLT70",
+      "type": "youtube",
+      "title": "Cody Schneider: Building marketing agents for LinkedIn-signal cold outbound and organic content",
+      "url": "https://www.youtube.com/watch?v=mD7JpNHLT70",
+      "publishedAt": "2026-09-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2639,
+      "views": 97791,
+      "topicIds": [
+        "marketing-agents",
+        "cold-outbound"
+      ],
+      "excerpt": "Cody walks through two marketing agents. One scrapes engagers from niche LinkedIn influencer posts, runs waterfall enrichment, and cold emails or DMs them. The other turns real conversations into Link"
+    },
+    {
+      "id": "yt-U2hogriGmEw",
+      "type": "youtube",
+      "title": "How Cody Schneider builds marketing agents that run Facebook ads on live business data",
+      "url": "https://www.youtube.com/watch?v=U2hogriGmEw",
+      "publishedAt": "2026-08-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2268,
+      "views": 164170,
+      "topicIds": [
+        "marketing-agents",
+        "paid-ads"
+      ],
+      "excerpt": "Cody defines a real marketing agent as unified data in a warehouse, autonomous decisions on a cadence, and cloud hosting. He walks through a full Facebook ads agent (research, creative, publishing, cu"
+    },
+    {
+      "id": "yt-3oUhUOOPNPE",
+      "type": "youtube",
+      "title": "How Cody Schneider runs GTM as a one-person Claude Code growth system",
+      "url": "https://www.youtube.com/watch?v=3oUhUOOPNPE",
+      "publishedAt": "2026-03-01",
+      "outlet": "Alex Lieberman",
+      "durationSec": 3729,
+      "views": 40812,
+      "topicIds": [],
+      "excerpt": "Cody shows his live workflow for replacing a marketing team with Claude Code, APIs and templates: bulk Facebook ad variants, templated landing pages, cold email pipelines and shared internal tools. Hi"
+    },
+    {
+      "id": "yt-91GGf_2TOhY",
+      "type": "youtube",
+      "title": "How Cody Schneider uses Claude Code agents to automate SEO, content refreshing and growth workflows",
+      "url": "https://www.youtube.com/watch?v=91GGf_2TOhY",
+      "publishedAt": "2026-04-01",
+      "outlet": "Edward Sturm",
+      "durationSec": 6788,
+      "views": 8086,
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "Cody explains his Search Console feedback loop for refreshing content, how he writes bottom-of-funnel articles from SERP source material plus personal input, and why he favors custom Claude Code agent"
+    },
+    {
+      "id": "yt-QKpRs-2EIiM",
+      "type": "youtube",
+      "title": "How to build an AI-native marketing team: Cody Schneider's marketing engineering playbook",
+      "url": "https://www.youtube.com/watch?v=QKpRs-2EIiM",
+      "publishedAt": "2026-10-01",
+      "outlet": "Leveling Up with Eric Siu",
+      "durationSec": 4106,
+      "views": 6978,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "Cody Schneider live-demos \"marketing engineering\": a coding agent plus a data and API infrastructure layer does the middle work of a marketing team. He runs parasite SEO, AI-avatar ad creative, and Li"
+    },
+    {
+      "id": "yt-bT2mu214YBY",
+      "type": "youtube",
+      "title": "How Cody Schneider uses Claude Code agents to run marketing, ads, SEO and cold outreach",
+      "url": "https://www.youtube.com/watch?v=bT2mu214YBY",
+      "publishedAt": "2026-04-01",
+      "outlet": "Ecomm Cowboy",
+      "durationSec": 2740,
+      "views": 1469,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "Cody explains how he hands \"middle work\" to Claude Code agents wired to his stack's APIs, with a data warehouse underneath. He covers agent loops for Facebook ads, a cold-email PR sprint, rolling this"
+    },
+    {
+      "id": "yt-hNwGwutvMf4",
+      "type": "youtube",
+      "title": "Tournament ad testing: how Cody Schneider runs 10,000+ ads/month with agents",
+      "url": "https://www.youtube.com/watch?v=hNwGwutvMf4",
+      "publishedAt": "2026-08-01",
+      "outlet": "Ecomm Cowboy",
+      "durationSec": 1837,
+      "views": 973,
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "Cody Schneider explains how Grafft runs 10,000-15,000 ads a month with agents acting as media buyers. He maps competitor messaging onto a pain-point matrix to find uncovered angles, runs ads in a tour"
+    },
+    {
+      "id": "yt-Fe0aWFtjfYk",
+      "type": "youtube",
+      "title": "How Cody Schneider builds marketing agents that replace four hires (ads, SEO, cold email)",
+      "url": "https://www.youtube.com/watch?v=Fe0aWFtjfYk",
+      "publishedAt": "2026-08-01",
+      "outlet": "Gerrid Smith",
+      "durationSec": 2817,
+      "views": 2905,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "Cody explains what a real AI agent is (software running a repeatable job with a thinking loop), why agents need live revenue data, and how Graft deploys Facebook Ads, Google Ads, SEO and cold outbound"
+    },
+    {
+      "id": "yt-QWETKogmVtA",
+      "type": "youtube",
+      "title": "Cody Schneider (Graphed): Building AI marketing agents that actually work in production",
+      "url": "https://www.youtube.com/watch?v=QWETKogmVtA",
+      "publishedAt": "2026-05-01",
+      "outlet": "Stacklist",
+      "durationSec": 3446,
+      "views": 540,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "Cody Schneider explains how to build teams of specialized AI marketing agents with feedback loops, evals and safety guardrails rather than one generalist agent. He covers choosing businesses by search"
+    },
+    {
+      "id": "yt-CCh0zwZRFjg",
+      "type": "youtube",
+      "title": "How Graphed's CEO runs GTM with Claude Code agents: owned media, agent harnesses, token abundance",
+      "url": "https://www.youtube.com/watch?v=CCh0zwZRFjg",
+      "publishedAt": "2026-04-01",
+      "outlet": "MarketectureTV",
+      "durationSec": 2836,
+      "views": 86,
+      "topicIds": [],
+      "excerpt": "Cody Schneider explains how he automates go-to-market with Claude Code agents: a podcast-booking cold email agent, bulk Facebook ad generation, and a LinkedIn comment-to-lead loop. He also argues for "
+    },
+    {
+      "id": "yt-jOuxlampW9E",
+      "type": "youtube",
+      "title": "Marketing engineering: let a coding agent do your marketing ops via a data warehouse and unified API",
+      "url": "https://www.youtube.com/watch?v=jOuxlampW9E",
+      "publishedAt": "2026-10-18",
+      "outlet": "Cody Schneider",
+      "durationSec": 1749,
+      "views": 20268,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "Cody explains marketing engineering: using a coding agent like Claude Code to do the manual middle work of marketing. He lays out the infrastructure it needs (pipeline, warehouse, server, storage, cro"
+    },
+    {
+      "id": "yt-paF4J941uqg",
+      "type": "youtube",
+      "title": "GTM engineering with Claude Code: hand the middle work to agents and conduct",
+      "url": "https://www.youtube.com/watch?v=paF4J941uqg",
+      "publishedAt": "2026-04-01",
+      "outlet": "Cody Schneider",
+      "durationSec": 800,
+      "views": 30982,
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "Cody Schneider defines GTM engineering as using Claude Code to do the hands-on work across marketing, sales and product. He shows the minimal setup (a folder, an env file, a CLAUDE.md), then runs keyw"
+    },
+    {
+      "id": "yt-DbUzpz-_Yew",
+      "type": "youtube",
+      "title": "How Cody Schneider builds a Facebook Ads AI agent that researches, makes, publishes and prunes ads",
+      "url": "https://www.youtube.com/watch?v=DbUzpz-_Yew",
+      "publishedAt": "2026-08-01",
+      "outlet": "Cody Schneider Podcast",
+      "durationSec": 3613,
+      "views": 18336,
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "Cody walks through the full stack for an agent that runs Facebook ads: conversion tracking, Reddit-sourced pain points, AI-generated statics and UGC video, API-based uploads, a test/winners campaign s"
+    },
+    {
+      "id": "yt-f4E1TLVThOM",
+      "type": "youtube",
+      "title": "Digital gravity: start with transactional channels, then build brand mass as CAC rises",
+      "url": "https://www.youtube.com/watch?v=f4E1TLVThOM",
+      "publishedAt": "2025-11-01",
+      "outlet": "Cody Schneider",
+      "durationSec": 2069,
+      "views": 2900,
+      "topicIds": [
+        "seo-ai-search",
+        "digital-gravity"
+      ],
+      "excerpt": "Cody explains how startups should use transactional channels (paid ads, cold email) for fast revenue, then invest in content, creators and SEO to build brand mass before arbitrage disappears and acqui"
+    },
+    {
+      "id": "yt-6FSih5a5aIA",
+      "type": "youtube",
+      "title": "Productized AI services beat AI automation agencies: 6 niches to $50K/mo",
+      "url": "https://www.youtube.com/watch?v=6FSih5a5aIA",
+      "publishedAt": "2025-11-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2450,
+      "views": 83657,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "Cody argues AI automation agencies are a bad business (one-time project revenue, hard sales, 12-18 month lifespan) and that productized monthly services delivered with AI tooling are better. He walks "
+    },
+    {
+      "id": "yt-7z-TD1KY08U",
+      "type": "youtube",
+      "title": "Digital gravity: Cody Schneider's B2B and consumer playbook for making a company famous",
+      "url": "https://www.youtube.com/watch?v=7z-TD1KY08U",
+      "publishedAt": "2025-11-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 3358,
+      "views": 60872,
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody argues the marketing funnel is the wrong model and proposes \"digital gravity\": build mass through continuous content and ads everywhere your customer is, so people orbit and eventually convert. H"
+    },
+    {
+      "id": "yt-Px_X-qBQ18M",
+      "type": "youtube",
+      "title": "How to run creator marketing on short form: zero-follower creators beat influencers on CPM",
+      "url": "https://www.youtube.com/watch?v=Px_X-qBQ18M",
+      "publishedAt": "2025-11-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 1658,
+      "views": 40985,
+      "topicIds": [],
+      "excerpt": "Cody Schneider explains why For You page algorithms make creators with no followers cheaper and more effective than influencers. He covers the CPM math, how to find and manage creators, the tool stack"
+    },
+    {
+      "id": "yt-Vpjej6aXXIU",
+      "type": "youtube",
+      "title": "YouTube creators plus affiliate commissions: how to get first customers with underpriced creator videos",
+      "url": "https://www.youtube.com/watch?v=Vpjej6aXXIU",
+      "publishedAt": "2025-11-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 1607,
+      "views": 33752,
+      "topicIds": [],
+      "excerpt": "Cody Schneider walks through a step-by-step playbook: scrape emails of YouTube creators in your niche, cold-email them for a 3-video package plus affiliate commission, find the underpriced ones, and p"
+    },
+    {
+      "id": "yt-E1mdDql_2yI",
+      "type": "youtube",
+      "title": "Cody Schneider: finding pain points on Reddit and building AI-powered one-person service businesses",
+      "url": "https://www.youtube.com/watch?v=E1mdDql_2yI",
+      "publishedAt": "2025-11-01",
+      "outlet": "Chris Koerner on The Koerner Office Podcast",
+      "durationSec": 2442,
+      "views": 83383,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "Cody Schneider walks through several one-person business ideas: an AI avatar UGC ad agency for supplement brands, webinar-to-ebook lead magnets, and city-specific flight deal newsletters. The common t"
+    },
+    {
+      "id": "yt-jFItriT4vZU",
+      "type": "youtube",
+      "title": "Cody Schneider on growth flywheels, underpriced attention and building Graph",
+      "url": "https://www.youtube.com/watch?v=jFItriT4vZU",
+      "publishedAt": "2025-11-01",
+      "outlet": "Fondo ",
+      "durationSec": 1435,
+      "views": 243,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "Cody Schneider recounts scaling Rupa Health by layering growth channels, then explains how to find underpriced distribution (paid creative testing, creator posts, programmatic TV) and why early startu"
+    },
+    {
+      "id": "yt-uzGRsc79XkM",
+      "type": "youtube",
+      "title": "Digital gravity: build sustainable, high-volume content and email distribution",
+      "url": "https://www.youtube.com/watch?v=uzGRsc79XkM",
+      "publishedAt": "2024-11-01",
+      "outlet": "Louis Shulman",
+      "durationSec": 2679,
+      "views": 1843,
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody Schneider explains his \"digital gravity\" view of marketing: pick repeatable channels (X, email nurture, newsletters, podcasts, short-form clips), publish at high volume, read the data, and double"
+    },
+    {
+      "id": "yt-V-VDpQoSO18",
+      "type": "youtube",
+      "title": "Cody Schneider on AI UGC ads, bottom-funnel SEO, and small-scope apps",
+      "url": "https://www.youtube.com/watch?v=V-VDpQoSO18",
+      "publishedAt": "2025-11-01",
+      "outlet": "Jaume Ros",
+      "durationSec": 2654,
+      "views": 11407,
+      "topicIds": [
+        "seo-ai-search",
+        "early-growth-business-models"
+      ],
+      "excerpt": "Cody lays out several AI-era arbitrage plays: mass-testing AI avatar ad variations, bottom-of-funnel programmatic SEO with early CTAs, and tiny-scope apps or exact-match-domain tools that undercut hig"
+    },
+    {
+      "id": "yt-AJRIcQ3eF7U",
+      "type": "youtube",
+      "title": "Cody Schneider on AI-scaled SEO, distribution moats and growth stacks for podcasts and newsletters",
+      "url": "https://www.youtube.com/watch?v=AJRIcQ3eF7U",
+      "publishedAt": "2023-09-19",
+      "outlet": "Millennial Investing",
+      "durationSec": 3353,
+      "views": 5141,
+      "topicIds": [],
+      "excerpt": "Cody Schneider explains how he learned growth by doing, why distribution beats product, and how AI makes long-tail SEO content nearly free. He also covers his Twitter system and a layered growth stack"
+    },
+    {
+      "id": "essay-a-napier-podcast-interview-with-cody-schneider-at-swell-ai",
+      "type": "essay",
+      "title": "Cody Schneider on bootstrapping Swell AI and stacking growth channels with podcasts and AI",
+      "url": "https://www.napierb2b.com/2024/09/a-napier-podcast-interview-with-cody-schneider-at-swell-ai/",
+      "publishedAt": "2024-09-23",
+      "outlet": "www.napierb2b.com",
+      "topicIds": [],
+      "excerpt": "Cody explains how podcasts act as a sales and content engine, why feeding AI human expert source material beats generic prompting, and how he layers every growth channel (cold email, paid, programmati"
+    },
+    {
+      "id": "essay-cody-schneider",
+      "type": "essay",
+      "title": "Cody Schneider: Distribution, owned media and \"digital gravity\" as the only moat in the AI era",
+      "url": "https://www.minterdial.com/2026/03/cody-schneider/",
+      "publishedAt": "2026-03-01",
+      "outlet": "www.minterdial.com",
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody argues that as AI drives feature parity and the cost of building software toward zero, distribution and brand are the only durable moats. He covers owned media (a16z, Arrow Electronics, Red Bull,"
+    },
+    {
+      "id": "essay-121-ai-content-creation-strategy-with-founder-cody-schneider",
+      "type": "essay",
+      "title": "Cody Schneider on AI content repurposing: turn long-form expert conversations into a distribution flywheel",
+      "url": "https://www.heightsplatform.com/the-creators-adventure/121-ai-content-creation-strategy-with-founder-cody-schneider",
+      "publishedAt": null,
+      "outlet": "www.heightsplatform.com",
+      "topicIds": [],
+      "excerpt": "Cody explains how solopreneurs and creators can build trust and revenue with long-form content (podcast, newsletter, YouTube) fed by short-form clips, and how to use AI as a task automator grounded in"
+    },
+    {
+      "id": "essay-scaling-content-creation-with-cody-schneider",
+      "type": "essay",
+      "title": "Why businesses must become media companies: Cody Schneider on AI content engines and owned media",
+      "url": "https://www.bigeyeagency.com/podcast/scaling-content-creation-with-cody-schneider",
+      "publishedAt": "2024-05-21",
+      "outlet": "www.bigeyeagency.com",
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody Schneider explains how he built an owned-media content engine at Rupa Health and turned it into Swell AI. He argues for interview-led podcasts chopped into clips, automating 5% of your process at"
+    },
+    {
+      "id": "essay-demand-capture-vs-demand-generation-investing-in-sweaty-busi",
+      "type": "essay",
+      "title": "How Cody Schneider uses Claude Code for GTM engineering: parallel terminals, code over N8N, bulk ads and pages",
+      "url": "https://investorupdate.beehiiv.com/p/demand-capture-vs-demand-generation-investing-in-sweaty-businesses-without-investing-and-two-busines",
+      "publishedAt": "2026-02-04",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Cody explains his Claude Code setup for growth work: one env file of API keys, five parallel terminals, and Claude building software to automate everything. He shares concrete builds: 100 landing page"
+    },
+    {
+      "id": "essay-ai-search-is-here-the-only-way-to-win-is-by-making-digital-g",
+      "type": "essay",
+      "title": "Digital Gravity: win AI search with 1000x surface area on Google pages 1 and 2",
+      "url": "https://investorupdate.beehiiv.com/p/ai-search-is-here-the-only-way-to-win-is-by-making-digital-gravity",
+      "publishedAt": "2025-05-21",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "Cody argues AI answer engines mostly scrape Google's first two result pages, so brands must flood their niche with content and media placements to build \"digital gravity\". He also covers YouTube as th"
+    },
+    {
+      "id": "essay-media-terrible-business-unless",
+      "type": "essay",
+      "title": "Media is a terrible business unless you sell a product you own",
+      "url": "https://investorupdate.beehiiv.com/p/media-terrible-business-unless",
+      "publishedAt": "2024-08-07",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Cody argues ad-supported media is a grind (constant outbound, budget cuts, advertiser management) and the real money comes from using media as a vehicle to sell a product you own. He gives B2B and DTC"
+    },
+    {
+      "id": "essay-youtube-videos-teach-us-good-software-activation-newsletter-",
+      "type": "essay",
+      "title": "Cody Schneider: activation mirrors YouTube thumbnails, plus Twitter newsletter growth and local SEO",
+      "url": "https://investorupdate.beehiiv.com/p/youtube-videos-teach-us-good-software-activation-newsletter-growth-twitter-google-ads-xyz-business-i",
+      "publishedAt": "2024-06-03",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Cody argues software signup-to-paid activation works like a YouTube video: the homepage is the thumbnail/title promise and onboarding must deliver the lightbulb moment fast. He also shares concrete ta"
+    },
+    {
+      "id": "essay-newsletters-value-go-zero-ebook-generator-ai-agency-unlimite",
+      "type": "essay",
+      "title": "Cody Schneider's hot takes: newsletter consolidation, creator-first founders, and cheap growth plays",
+      "url": "https://investorupdate.beehiiv.com/p/newsletters-value-go-zero-ebook-generator-ai-agency-unlimited-influencer-reachout",
+      "publishedAt": "2024-05-23",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "A May 2024 newsletter issue where Cody argues newsletter values are crashing (a consolidation opportunity), that founders should build in public as media companies, and shares business ideas (an unlim"
+    },
+    {
+      "id": "essay-ai-brand-voice-documents-xyz-quickbooks-integrations-linkedi",
+      "type": "essay",
+      "title": "Cody Schneider: AI brand voice docs, long-tail SEO tool ideas, LinkedIn polls and cold email for signups",
+      "url": "https://investorupdate.beehiiv.com/p/ai-brand-voice-documents-xyz-quickbooks-integrations-linkedin-polls-leads",
+      "publishedAt": "2024-04-29",
+      "outlet": "investorupdate.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Cody argues teams need an AI brand voice document just like a style guide, and pitches small-tool-for-big-ecosystem businesses built on long-tail keywords and programmatic landing pages. He also share"
+    },
+    {
+      "id": "essay-digital-gravity-a-model-to-think-about-your-brands-online-fo",
+      "type": "essay",
+      "title": "Digital Gravity: Cloning a corporation's real-world size online, from brand to product to industry",
+      "url": "https://codyschneider.com/digital-gravity-a-model-to-think-about-your-brands-online-footprint/",
+      "publishedAt": "2019-11-28",
+      "outlet": "codyschneider.com",
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody Schneider borrows startup tactics (be where customers look, solving problems) and applies them to large corporations with no digital footprint. His \"digital gravity\" model grows online influence "
+    },
+    {
+      "id": "essay-the-power-of-marketing-moats-how-to-create-owned-media-for-l",
+      "type": "essay",
+      "title": "Marketing moats: build owned media as the bonds of your marketing portfolio",
+      "url": "https://codyschneider.com/the-power-of-marketing-moats-how-to-create-owned-media-for-long-term-success/",
+      "publishedAt": "2023-01-04",
+      "outlet": "codyschneider.com",
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "Cody argues that the most important business moats are marketing moats built from owned media. He shows how he dominates the front page for a handful of keywords across blogs, YouTube and free tools, "
+    },
+    {
+      "id": "essay-fomo-marketing-how-to-avoid-shiny-object-syndrome-and-focus-",
+      "type": "essay",
+      "title": "FOMO marketing: bet on what's working, explore with 20%",
+      "url": "https://codyschneider.com/fomo-marketing-how-to-avoid-shiny-object-syndrome-and-focus-on-whats-working-for-b2b-brands/",
+      "publishedAt": "2022-12-23",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody defines FOMO marketing as deciding based on what you could be doing instead of what is working. He frames marketing as a portfolio (80% on proven channels, 20% on exploration) and says to keep sc"
+    },
+    {
+      "id": "essay-the-power-of-educational-content-in-b2b-marketing",
+      "type": "essay",
+      "title": "Educational B2B content: host experts and remarket ungated demos to build buyer-ready leads",
+      "url": "https://codyschneider.com/the-power-of-educational-content-in-b2b-marketing/",
+      "publishedAt": "2022-12-21",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody starts B2B engagements by asking what the sales team wishes prospects knew before the first call, then maps marketing tactics to those gaps. He pairs purely educational, team-hosted expert conten"
+    },
+    {
+      "id": "essay-maximizing-your-b2b-marketing-strategy-with-specialized-cont",
+      "type": "essay",
+      "title": "Why B2B brands should hire channel-specialist creators: a TikTok experiment",
+      "url": "https://codyschneider.com/maximizing-your-b2b-marketing-strategy-with-specialized-content-creators-insights-from-a-successful-b2b-tiktok-experiment/",
+      "publishedAt": "2023-01-09",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody recounts a friend's B2B SaaS experiment paying one creator $5K/month to run the brand's TikTok, yielding 375K views for $15K and a 3x ROAS. He argues for hiring channel-native specialists who bui"
+    },
+    {
+      "id": "essay-how-to-use-podcasts-to-grow-a-thriving-newsletter-from-a-scr",
+      "type": "essay",
+      "title": "How Cody Schneider grows a newsletter from a scraped cold list by promoting a podcast",
+      "url": "https://codyschneider.com/how-to-use-podcasts-to-grow-a-thriving-newsletter-from-a-scraped-email-list/",
+      "publishedAt": "2022-12-22",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody argues the hardest part of a scraped email list is knowing what to send, and his answer is a podcast. A client's cold list, sequenced into an ESP and only promoting the podcast, got a 40% open ra"
+    },
+    {
+      "id": "essay-lead-validation-with-gpt3",
+      "type": "essay",
+      "title": "Lead validation with GPT-3: qualifying a scraped prospect database by reading each company's website",
+      "url": "https://codyschneider.com/lead-validation-with-gpt3/",
+      "publishedAt": "2022-12-23",
+      "outlet": "codyschneider.com",
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "Cody argues every B2B software company should own a database of all its target customers, then use GPT-3 to qualify leads instead of relying on brittle keyword matching or manual SDR review. The workf"
+    },
+    {
+      "id": "essay-a-modern-way-to-think-about-email-marketing",
+      "type": "essay",
+      "title": "Email as a personal search engine: measure email on a CPC basis and treat it like SEO",
+      "url": "https://codyschneider.com/a-modern-way-to-think-about-email-marketing/",
+      "publishedAt": "2020-09-03",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody argues email should be judged by cost per click, including labor and CRM costs, rather than as a transactional blast channel. Because people return to old emails months later, email works as a us"
+    },
+    {
+      "id": "essay-a-through-z-testing",
+      "type": "essay",
+      "title": "A-through-Z testing: let the platform eliminate losing ads instead of A/B testing",
+      "url": "https://codyschneider.com/a-through-z-testing/",
+      "publishedAt": "2020-09-10",
+      "outlet": "codyschneider.com",
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "Cody argues digital ads should work like evolution: a process of elimination, not a search for one right answer. Instead of A/B testing single components, combine many photos, headlines and body copy "
+    },
+    {
+      "id": "essay-think-about-your-marketing-budget-as-a-financial-portfolio",
+      "type": "essay",
+      "title": "Think of your marketing budget as a financial portfolio, not time-boxed campaigns",
+      "url": "https://codyschneider.com/think-about-your-marketing-budget-as-a-financial-portfolio/",
+      "publishedAt": "2020-09-21",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody argues digital marketing should drop campaigns with start and end dates (a military idea from Madison Avenue) and instead run an always-on portfolio. Spread resources across short and long term a"
+    },
+    {
+      "id": "essay-storytelling-marketing",
+      "type": "essay",
+      "title": "Storytelling marketing: make the product a character inside a problem-journey-solution story",
+      "url": "https://codyschneider.com/storytelling-marketing/",
+      "publishedAt": "2020-09-11",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody argues that storytelling marketing hides the product inside a narrative where it is a character, letting people sit in someone else's problem and see how the product improves life. Every story ne"
+    },
+    {
+      "id": "essay-branding-increases-mental-switching-costs",
+      "type": "essay",
+      "title": "Branding Increases Mental Switching Costs: Why You Keep Branding After Winning the Association",
+      "url": "https://codyschneider.com/branding-increases-mental-switching-costs/",
+      "publishedAt": "2018-07-20",
+      "outlet": "codyschneider.com",
+      "topicIds": [],
+      "excerpt": "Cody explains that when a customer won't buy within about 48 hours, your marketing goal is branding: owning an association in their mind. Continued branding raises mental switching costs by deepening "
+    },
+    {
+      "id": "essay-the-v3-seo-model",
+      "type": "essay",
+      "title": "The V3 SEO Model: Pick keywords by Value, Verge and Volume for fast organic gains",
+      "url": "https://codyschneider.com/the-v3-seo-model/",
+      "publishedAt": "2020-02-02",
+      "outlet": "codyschneider.com",
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "Cody Schneider describes the V3 SEO Model his agency used on powerful, aged domains to find keywords worth targeting. By combining Value, Verge and Volume, the team built landing pages for search inte"
+    },
+    {
+      "id": "x-1843275088914678128",
+      "type": "x_post",
+      "title": "find something people hate doing build software that automates that thing charge them $29 ",
+      "url": "https://x.com/codyschneider/status/1843275088914678128",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 481878,
+      "topicIds": [],
+      "excerpt": "find something people hate doing\n\nbuild software that automates that thing\n\ncharge them $29 a month\n\npay your rent"
+    },
+    {
+      "id": "x-1742727596616392764",
+      "type": "x_post",
+      "title": "how to get product ideas find a subreddit skin care scrape all the data out vector db ask ",
+      "url": "https://x.com/codyschneider/status/1742727596616392764",
+      "publishedAt": "2024-01-04",
+      "outlet": "X",
+      "views": 490737,
+      "topicIds": [],
+      "excerpt": "how to get product ideas\n\nfind a subreddit\n\nskin care\n\nscrape all the data out\n\nvector db\n\nask ai what the problems people having\n\nyou now have a new product based on people's real problems\n\nfull pod "
+    },
+    {
+      "id": "x-1662594594696036352",
+      "type": "x_post",
+      "title": "talked to founder friend told me just passed $3.6M ARR they only have 4 engineers all in i",
+      "url": "https://x.com/codyschneider/status/1662594594696036352",
+      "publishedAt": "2023-05-27",
+      "outlet": "X",
+      "views": 637189,
+      "topicIds": [],
+      "excerpt": "talked to founder friend \n\ntold me just passed $3.6M ARR \n\nthey only have 4 engineers\n\nall in india\n\nhis payroll is about $12k\n\ncouldn't sleep last night"
+    },
+    {
+      "id": "x-1917579729718088014",
+      "type": "x_post",
+      "title": "just cold email 100,000 people a month see what happens",
+      "url": "https://x.com/codyschneider/status/1917579729718088014",
+      "publishedAt": "2025-04-30",
+      "outlet": "X",
+      "views": 236979,
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "just cold email 100,000 people a month see what happens"
+    },
+    {
+      "id": "x-1945166479667691616",
+      "type": "x_post",
+      "title": "please i beg you, dont make an automation agency make a productized service that has defin",
+      "url": "https://x.com/codyschneider/status/1945166479667691616",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 221443,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "please i beg you, dont make an automation agency \n\nmake a productized service that has defined recurring deliverables that uses automations to do 90% of the work and can run at a 80% margin"
+    },
+    {
+      "id": "x-1952751315588731271",
+      "type": "x_post",
+      "title": "buy the .com just literally, always, buy the .com there is 30 years of trust built into th",
+      "url": "https://x.com/codyschneider/status/1952751315588731271",
+      "publishedAt": "2025-08-05",
+      "outlet": "X",
+      "views": 155261,
+      "topicIds": [],
+      "excerpt": "buy the .com \n\njust literally, always, buy the .com \n\nthere is 30 years of trust built into the .com that you get to piggyback on from day one\n\njust buy the .com"
+    },
+    {
+      "id": "x-1905044665453392132",
+      "type": "x_post",
+      "title": "someone about to scrape pinterest for best ads of all time make a directory of them with a",
+      "url": "https://x.com/codyschneider/status/1905044665453392132",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 260095,
+      "topicIds": [],
+      "excerpt": "someone about to scrape pinterest for best ads of all time\n\nmake a directory of them with a button for \"make ad like this\" + an image upload popup that uses 4o \n\nand make a billion dollar company over"
+    },
+    {
+      "id": "x-1713720167442575816",
+      "type": "x_post",
+      "title": "the secret to b2b saas is selling things that get people promoted",
+      "url": "https://x.com/codyschneider/status/1713720167442575816",
+      "publishedAt": "2023-10-16",
+      "outlet": "X",
+      "views": 497844,
+      "topicIds": [],
+      "excerpt": "the secret to b2b saas is selling things that get people promoted"
+    },
+    {
+      "id": "x-1872386915145486805",
+      "type": "x_post",
+      "title": "almost all software can be validated with google ads and a landing page with a free signup",
+      "url": "https://x.com/codyschneider/status/1872386915145486805",
+      "publishedAt": "2024-12-26",
+      "outlet": "X",
+      "views": 142591,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "almost all software can be validated with google ads and a landing page with a free signup form\n\nbut some people spend 2 years building a product before they start distribution"
+    },
+    {
+      "id": "x-1804590193216806946",
+      "type": "x_post",
+      "title": "im just going to repeat this BC I DONT THINK PEOPLE UNDERSTAND WTF IS ACTUALLY HAPPENING O",
+      "url": "https://x.com/codyschneider/status/1804590193216806946",
+      "publishedAt": "2024-06-22",
+      "outlet": "X",
+      "views": 541178,
+      "topicIds": [],
+      "excerpt": "im just going to repeat this BC I DONT THINK PEOPLE UNDERSTAND WTF IS ACTUALLY HAPPENING ON LINKEDIN RN IT IS ABOSLUTELY MF INSANE IF YOU'RE IN B2B MAKE SHORT FORM CONTENT AND POST YOU CAN LITERALLY B"
+    },
+    {
+      "id": "x-1695134252960993619",
+      "type": "x_post",
+      "title": "youtube shorts will pay you $3 per 1000 views make videos in canva and narrate with eleven",
+      "url": "https://x.com/codyschneider/status/1695134252960993619",
+      "publishedAt": "2023-08-25",
+      "outlet": "X",
+      "views": 918518,
+      "topicIds": [],
+      "excerpt": "youtube shorts will pay you $3 per 1000 views\n\nmake videos in canva and narrate with eleven labs\n\n1,000,000 views per month you have your $3,000 rent paid https://t.co/DhJrN0cEtG"
+    },
+    {
+      "id": "x-1924909222157832418",
+      "type": "x_post",
+      "title": "\"what business should i start\" chrome extensions always chrome extensions find chrome exte",
+      "url": "https://x.com/codyschneider/status/1924909222157832418",
+      "publishedAt": "2025-05-20",
+      "outlet": "X",
+      "views": 113281,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "\"what business should i start\"\n\nchrome extensions\n\nalways chrome extensions\n\nfind chrome extensions with a lot of users bad reviews\n\nclone chrome extension and make it work\n\ncharge for it"
+    },
+    {
+      "id": "x-1965052523477135416",
+      "type": "x_post",
+      "title": "there's only 7 stories that exist overcoming the monster rags to riches the quest voyage a",
+      "url": "https://x.com/codyschneider/status/1965052523477135416",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 71410,
+      "topicIds": [],
+      "excerpt": "there's only 7 stories that exist \n\novercoming the monster\n\nrags to riches\n\nthe quest\n\nvoyage and return\n\nrebirth\n\ncomedy\n\ntragedy\n\nfor all the content you make it needs to use these formats\n\nhere's t"
+    },
+    {
+      "id": "x-1789718457329635676",
+      "type": "x_post",
+      "title": "friend told me they changed all their cold email sending names to female names to see what",
+      "url": "https://x.com/codyschneider/status/1789718457329635676",
+      "publishedAt": "2024-05-12",
+      "outlet": "X",
+      "views": 544411,
+      "topicIds": [],
+      "excerpt": "friend told me they changed all their cold email sending names to female names to see what would happen\n\nopen rates and replies increased"
+    },
+    {
+      "id": "x-1889512009521307687",
+      "type": "x_post",
+      "title": "ai just built this app in 1 hour ai infographic generator .com paste a blog post URL into ",
+      "url": "https://x.com/codyschneider/status/1889512009521307687",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 359217,
+      "topicIds": [],
+      "excerpt": "ai just built this app in 1 hour\n\nai infographic generator .com\n\npaste a blog post URL into the app\n\ngenerates a downloadable infographic PDF\n\nbought the domain for $10\n\n\"ai infographic generator\" get"
+    },
+    {
+      "id": "x-1976996211988091119",
+      "type": "x_post",
+      "title": "if you just got into YC and your growth strategy is “product hunt” please for the love of ",
+      "url": "https://x.com/codyschneider/status/1976996211988091119",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 124938,
+      "topicIds": [],
+      "excerpt": "if you just got into YC and your growth strategy is “product hunt” please for the love of god read this so i dont have an aneurysm\n\nthese are the playbooks working right now \n\nfor b2b\n\nscape every tar"
+    },
+    {
+      "id": "x-1843380803675267358",
+      "type": "x_post",
+      "title": "this app just got millions of downloads entirely from organic social and im going to show ",
+      "url": "https://x.com/codyschneider/status/1843380803675267358",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 292232,
+      "topicIds": [],
+      "excerpt": "this app just got millions of downloads entirely from organic social and im going to show you how\n\nso this app is basically a disposable camera that your guests can get at events when they scan a QR c"
+    },
+    {
+      "id": "x-1896923585140097095",
+      "type": "x_post",
+      "title": "theres probably a business model where you just create small scoped saas apps with vibe co",
+      "url": "https://x.com/codyschneider/status/1896923585140097095",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 153260,
+      "topicIds": [],
+      "excerpt": "theres probably a business model where you just create small scoped saas apps with vibe coding and grow them to $10,000 mrr and sell them for like $400,000 - $500,000\n\nbuild 1 a quarter \n\nor 1 a month"
+    },
+    {
+      "id": "x-1717361834221584426",
+      "type": "x_post",
+      "title": "how to grow your dumb linkedin account entirely by ai find viral reddit posts in niche ai ",
+      "url": "https://x.com/codyschneider/status/1717361834221584426",
+      "publishedAt": "2023-10-26",
+      "outlet": "X",
+      "views": 241944,
+      "topicIds": [],
+      "excerpt": "how to grow your dumb linkedin account entirely by ai\n\nfind viral reddit posts in niche\n\nai make table with title and supporting idea\n\nthen canva template produces carousel\n\nschedule on linkedin\n\ncan "
+    },
+    {
+      "id": "x-1844105560037199903",
+      "type": "x_post",
+      "title": "met a founder company died in 12 months ran out of cash met a founder company doing $10M a",
+      "url": "https://x.com/codyschneider/status/1844105560037199903",
+      "publishedAt": "2024-10-09",
+      "outlet": "X",
+      "views": 105765,
+      "topicIds": [],
+      "excerpt": "met a founder\n\ncompany died in 12 months\n\nran out of cash\n\nmet a founder\n\ncompany doing $10M arr year two\n\nsame founder"
+    },
+    {
+      "id": "x-1907528651341500729",
+      "type": "x_post",
+      "title": "saas can do $20,000 a month with a 90% margin and zero employees and be built in a weekend",
+      "url": "https://x.com/codyschneider/status/1907528651341500729",
+      "publishedAt": "2025-04-02",
+      "outlet": "X",
+      "views": 93712,
+      "topicIds": [],
+      "excerpt": "saas can do $20,000 a month with a 90% margin and zero employees and be built in a weekend with vibe coding and grown entirely from vibe marketing\n\ni dont know a single other business that can do this"
+    },
+    {
+      "id": "x-1903840779660939380",
+      "type": "x_post",
+      "title": "you can do more with vibe marketing in 24 hours than a fortune 500 company's entire market",
+      "url": "https://x.com/codyschneider/status/1903840779660939380",
+      "publishedAt": "2025-03-23",
+      "outlet": "X",
+      "views": 81121,
+      "topicIds": [],
+      "excerpt": "you can do more with vibe marketing in 24 hours than a fortune 500 company's entire marketing team of 113 people will do in Q2 2025\n\ngo make and test 100 ai UGC ad variations\n\ngo write 1000 blog posts"
+    },
+    {
+      "id": "x-1977041512971051455",
+      "type": "x_post",
+      "title": "distribution is more important than product this is a gold rush everyone in the world is b",
+      "url": "https://x.com/codyschneider/status/1977041512971051455",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 49245,
+      "topicIds": [],
+      "excerpt": "distribution is more important than product\n\nthis is a gold rush\n\neveryone in the world is building the same exact things rn\n\nthe only way you're going to win is better distribution"
+    },
+    {
+      "id": "x-1965143178866004357",
+      "type": "x_post",
+      "title": "you're an api wrapper away from buying a vacation home but the boys keep saying \"there's a",
+      "url": "https://x.com/codyschneider/status/1965143178866004357",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 47606,
+      "topicIds": [],
+      "excerpt": "you're an api wrapper away from buying a vacation home\n\nbut the boys keep saying \"there's already 100 companies like that already\""
+    },
+    {
+      "id": "x-1882473378847539415",
+      "type": "x_post",
+      "title": "if i was 22 and needed to get $40k a month in 90 days i would start ai UGC creator ads age",
+      "url": "https://x.com/codyschneider/status/1882473378847539415",
+      "publishedAt": "2025-01-23",
+      "outlet": "X",
+      "views": 164292,
+      "topicIds": [],
+      "excerpt": "if i was 22 and needed to get $40k a month in 90 days i would start ai UGC creator ads agency $3000 a month \n\nyou only need 13 clients\n\nservice would be\n\nunlimited ads creative building testing and ma"
+    },
+    {
+      "id": "x-1976739518192480560",
+      "type": "x_post",
+      "title": "in the next 24 hours you can build 100 facebook ads with Sora 2 api make 1,000 landing pag",
+      "url": "https://x.com/codyschneider/status/1976739518192480560",
+      "publishedAt": "2025-10-10",
+      "outlet": "X",
+      "views": 83063,
+      "topicIds": [],
+      "excerpt": "in the next 24 hours you can\n\nbuild 100 facebook ads with Sora 2 api\n\nmake 1,000 landing pages targeting long tale keywords with claude code\n\nscrape 10,000 emails by having perplexity + sonnet 4.5 wir"
+    },
+    {
+      "id": "x-1897012704810033492",
+      "type": "x_post",
+      "title": "listen to me you're not a product company anymore, you're a media company that makes produ",
+      "url": "https://x.com/codyschneider/status/1897012704810033492",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 61896,
+      "topicIds": [
+        "digital-gravity"
+      ],
+      "excerpt": "listen to me\n\nyou're not a product company anymore, you're a media company that makes product\n\nai is making the cost of building product go to zero\n\nthere is little to no defensibility in the long run"
+    },
+    {
+      "id": "x-1691206816997294080",
+      "type": "x_post",
+      "title": "we've entered the age of 2 person companies doing $10M ARR with only contract employees",
+      "url": "https://x.com/codyschneider/status/1691206816997294080",
+      "publishedAt": "2023-08-14",
+      "outlet": "X",
+      "views": 216001,
+      "topicIds": [],
+      "excerpt": "we've entered the age of 2 person companies doing $10M ARR with only contract employees"
+    },
+    {
+      "id": "x-1729271571968032998",
+      "type": "x_post",
+      "title": "tiktok has public tool to see what people are searching https://t.co/rha7Pw3vdd",
+      "url": "https://x.com/codyschneider/status/1729271571968032998",
+      "publishedAt": "2023-11-27",
+      "outlet": "X",
+      "views": 200581,
+      "topicIds": [],
+      "excerpt": "tiktok has public tool to see what people are searching https://t.co/rha7Pw3vdd"
+    },
+    {
+      "id": "x-1968434794900992033",
+      "type": "x_post",
+      "title": "all paths lead to b2b join the dark side save yourself some time",
+      "url": "https://x.com/codyschneider/status/1968434794900992033",
+      "publishedAt": "2025-09-17",
+      "outlet": "X",
+      "views": 48122,
+      "topicIds": [],
+      "excerpt": "all paths lead to b2b \n\njoin the dark side\n\nsave yourself some time"
+    },
+    {
+      "id": "x-1872371835917959179",
+      "type": "x_post",
+      "title": "protip just don't build b2c unless you're extremely good at organic social",
+      "url": "https://x.com/codyschneider/status/1872371835917959179",
+      "publishedAt": "2024-12-26",
+      "outlet": "X",
+      "views": 176653,
+      "topicIds": [],
+      "excerpt": "protip \n\njust don't build b2c\n\nunless you're extremely good at organic social"
+    },
+    {
+      "id": "x-1831854483929743395",
+      "type": "x_post",
+      "title": "if someone just rebuilt old google analytics (universal) you would have a $10M ARR company",
+      "url": "https://x.com/codyschneider/status/1831854483929743395",
+      "publishedAt": "2024-09-06",
+      "outlet": "X",
+      "views": 179684,
+      "topicIds": [],
+      "excerpt": "if someone just rebuilt old google analytics (universal)\n\nyou would have a $10M ARR company in 12 months self funded\n\neveryone hates GA4\n\nliterally, everyone\n\nyour company would just plug into GA4\n\npu"
+    },
+    {
+      "id": "x-1874833033511030791",
+      "type": "x_post",
+      "title": "cost of all marketing is going to zero cost of writing code is going to zero",
+      "url": "https://x.com/codyschneider/status/1874833033511030791",
+      "publishedAt": "2025-01-02",
+      "outlet": "X",
+      "views": 86410,
+      "topicIds": [],
+      "excerpt": "cost of all marketing is going to zero\n\ncost of writing code is going to zero"
+    },
+    {
+      "id": "x-1855022503317418170",
+      "type": "x_post",
+      "title": "you can send 50,000 cold emails for like $400 a month rn lol https://t.co/3TS4AJ6YMh",
+      "url": "https://x.com/codyschneider/status/1855022503317418170",
+      "publishedAt": "2024-11-08",
+      "outlet": "X",
+      "views": 178742,
+      "topicIds": [],
+      "excerpt": "you can send 50,000 cold emails for like $400 a month rn lol https://t.co/3TS4AJ6YMh"
+    },
+    {
+      "id": "x-1899953523476848964",
+      "type": "x_post",
+      "title": "find something people hate doing at their day job build software that automates that thing",
+      "url": "https://x.com/codyschneider/status/1899953523476848964",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 59396,
+      "topicIds": [],
+      "excerpt": "find something people hate doing at their day job\n\nbuild software that automates that thing\n\ncharge them $49 a month \n\nthey put it on a business CC and fogetaboutit\n\npay your mortgage"
+    },
+    {
+      "id": "x-1825276493527650477",
+      "type": "x_post",
+      "title": "show me your business and ill show you how to write 1000 articles using ai and make inboun",
+      "url": "https://x.com/codyschneider/status/1825276493527650477",
+      "publishedAt": "2024-08-18",
+      "outlet": "X",
+      "views": 348477,
+      "topicIds": [],
+      "excerpt": "show me your business and ill show you how to write 1000 articles using ai and make inbound print"
+    },
+    {
+      "id": "x-1693624217676206177",
+      "type": "x_post",
+      "title": "how to send 100,000 cold emails per month buy 100 domains from cloudflare make 1 inbox for",
+      "url": "https://x.com/codyschneider/status/1693624217676206177",
+      "publishedAt": "2023-08-21",
+      "outlet": "X",
+      "views": 184901,
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "how to send 100,000 cold emails per month\n\nbuy 100 domains from cloudflare \n\nmake 1 inbox for each\n\ninstantly to warm up and send\n\nsource leads from apollo and LI\n\n1% turn into customers\n\nprint\n\nthis "
+    },
+    {
+      "id": "x-1988683243575451875",
+      "type": "x_post",
+      "title": "people straight up sleeping on chrome extensions as a way to pay their rent such low compe",
+      "url": "https://x.com/codyschneider/status/1988683243575451875",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 68444,
+      "topicIds": [],
+      "excerpt": "people straight up sleeping on chrome extensions as a way to pay their rent\n\nsuch low competition\n\nso easy to rank IT'S A google .com URL\n\nso cheap to run\n\nall the run times happens on your customers "
+    },
+    {
+      "id": "x-1811597604746129512",
+      "type": "x_post",
+      "title": "people wanted remote jobs and then got them and then got replaced by global talent that's ",
+      "url": "https://x.com/codyschneider/status/1811597604746129512",
+      "publishedAt": "2024-07-12",
+      "outlet": "X",
+      "views": 95611,
+      "topicIds": [],
+      "excerpt": "people wanted remote jobs and then got them and then got replaced by global talent that's half the cost and works 2x harder"
+    },
+    {
+      "id": "x-1942301042164838761",
+      "type": "x_post",
+      "title": "just pick a vertical tattoo removal permanent makeup nutrition coaching lactation consulti",
+      "url": "https://x.com/codyschneider/status/1942301042164838761",
+      "publishedAt": "2025-07-07",
+      "outlet": "X",
+      "views": 82931,
+      "topicIds": [],
+      "excerpt": "just pick a vertical \n\ntattoo removal \n\npermanent makeup\n\nnutrition coaching\n\nlactation consulting\n\nand then build a booking software they live on that is a website and plugs into google maps for lead"
+    },
+    {
+      "id": "x-1820897652919107786",
+      "type": "x_post",
+      "title": "first time founder \"tHe PrOdUcT GoOd SeLlS sElF\" second time founder \"im going to cold ema",
+      "url": "https://x.com/codyschneider/status/1820897652919107786",
+      "publishedAt": "2024-08-06",
+      "outlet": "X",
+      "views": 95244,
+      "topicIds": [],
+      "excerpt": "first time founder\n\n\"tHe PrOdUcT GoOd SeLlS sElF\"\n\nsecond time founder\n\n\"im going to cold email 100,000 customers in my target audience in the next six month\"\n\nthird time founder\n\n\"ok so i do a podcas"
+    },
+    {
+      "id": "x-1725197276212076968",
+      "type": "x_post",
+      "title": "\"your startup is just an ai api wrapper with a tailwind frontend\" yeah and people pay me f",
+      "url": "https://x.com/codyschneider/status/1725197276212076968",
+      "publishedAt": "2023-11-16",
+      "outlet": "X",
+      "views": 114811,
+      "topicIds": [],
+      "excerpt": "\"your startup is just an ai api wrapper with a tailwind frontend\"\n\nyeah and people pay me for it because it made 10 hours of work 10 minutes"
+    },
+    {
+      "id": "x-1750209219473576295",
+      "type": "x_post",
+      "title": "built million dollar company in a year with a privacy policy and tos we lifted and people ",
+      "url": "https://x.com/codyschneider/status/1750209219473576295",
+      "publishedAt": "2024-01-24",
+      "outlet": "X",
+      "views": 400372,
+      "topicIds": [],
+      "excerpt": "built million dollar company in a year with a privacy policy and tos we lifted\n\nand people worry about button colors"
+    },
+    {
+      "id": "x-1863983059835453640",
+      "type": "x_post",
+      "title": "81 minute pod just dropped with cal ai cofounder here's 20 growth insights from the episod",
+      "url": "https://x.com/codyschneider/status/1863983059835453640",
+      "publishedAt": "2024-12-03",
+      "outlet": "X",
+      "views": 67526,
+      "topicIds": [],
+      "excerpt": "81 minute pod just dropped with cal ai cofounder\n\nhere's 20 growth insights from the episode for you\n\nstart with inherent virality - build products where seeing someone use it naturally makes others w"
+    },
+    {
+      "id": "x-1967664740517154878",
+      "type": "x_post",
+      "title": "YC rejection letters being sent out meanwhile me watching degenerate founder friends build",
+      "url": "https://x.com/codyschneider/status/1967664740517154878",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 40188,
+      "topicIds": [],
+      "excerpt": "YC rejection letters being sent out\n\nmeanwhile me watching degenerate founder friends build ai startups doubling every two months with no employees\n\nyou don't need a $1M seed check anymore\n\nyou need 1"
+    },
+    {
+      "id": "x-1955314275318104312",
+      "type": "x_post",
+      "title": "can easily make $10k a month rn on etsy selling print on demand products like stickers swe",
+      "url": "https://x.com/codyschneider/status/1955314275318104312",
+      "publishedAt": "2025-08-12",
+      "outlet": "X",
+      "views": 79810,
+      "topicIds": [],
+      "excerpt": "can easily make $10k a month rn on etsy selling print on demand products like stickers sweatshirts etc with ai graphics based on keywords"
+    },
+    {
+      "id": "x-1932905688809791812",
+      "type": "x_post",
+      "title": "most OP person on the planet right now is someone who has deep domain knowledge and can vi",
+      "url": "https://x.com/codyschneider/status/1932905688809791812",
+      "publishedAt": "2025-06-11",
+      "outlet": "X",
+      "views": 54365,
+      "topicIds": [],
+      "excerpt": "most OP person on the planet right now is someone who has deep domain knowledge and can vibe code with n8n lovable and cursor"
+    },
+    {
+      "id": "x-1890977628997255606",
+      "type": "x_post",
+      "title": "people are sleeping on email nurture after signup to activate saas customers immediately a",
+      "url": "https://x.com/codyschneider/status/1890977628997255606",
+      "publishedAt": "2025-02-16",
+      "outlet": "X",
+      "views": 62422,
+      "topicIds": [],
+      "excerpt": "people are sleeping on email nurture after signup to activate saas customers\n\nimmediately after signup welcome email\n\n1 hour later how to use software\n\nday 2 why we built this\n\nday 4 case study\n\nday 7"
+    },
+    {
+      "id": "x-1977132120108593627",
+      "type": "x_post",
+      "title": "you can just prompt perplexity about your industries news from last week have claude make ",
+      "url": "https://x.com/codyschneider/status/1977132120108593627",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 59142,
+      "topicIds": [],
+      "excerpt": "you can just prompt perplexity about your industries news from last week\n\nhave claude make an email newsletter about your industry news\n\npost the news to dedicated social accounts with CTA to join ema"
+    },
+    {
+      "id": "x-1861029219611955541",
+      "type": "x_post",
+      "title": "lol \"aDs No WoRk\" i spend $1 it turns into $5 https://t.co/exEtD7XBDw",
+      "url": "https://x.com/codyschneider/status/1861029219611955541",
+      "publishedAt": "2024-11-25",
+      "outlet": "X",
+      "views": 174424,
+      "topicIds": [],
+      "excerpt": "lol \"aDs No WoRk\"\n\ni spend $1 it turns into $5 https://t.co/exEtD7XBDw"
+    },
+    {
+      "id": "x-1702443544957386869",
+      "type": "x_post",
+      "title": "python script building hundreds of shopify collection pages using ai how did houzz become ",
+      "url": "https://x.com/codyschneider/status/1702443544957386869",
+      "publishedAt": "2023-09-14",
+      "outlet": "X",
+      "views": 135576,
+      "topicIds": [],
+      "excerpt": "python script building hundreds of shopify collection pages using ai \n\nhow did houzz become a $4B dollar company\n\nthey built millions of programmatic landing pages\n\ngot organic traffic to those pages\n"
+    },
+    {
+      "id": "x-1698431924178452681",
+      "type": "x_post",
+      "title": "my first software i built was a chrome extension my last software i built was a chrome ext",
+      "url": "https://x.com/codyschneider/status/1698431924178452681",
+      "publishedAt": "2023-09-03",
+      "outlet": "X",
+      "views": 100219,
+      "topicIds": [],
+      "excerpt": "my first software i built was a chrome extension \n\nmy last software i built was a chrome extension\n\nchrome extensions been paying my rent for 8+ years"
+    },
+    {
+      "id": "x-2011105976921813032",
+      "type": "x_post",
+      "title": "had dinner with engineer lead at a startup last night told us their saas vendor tried to d",
+      "url": "https://x.com/codyschneider/status/2011105976921813032",
+      "publishedAt": "2026-01-13",
+      "outlet": "X",
+      "views": 1241463,
+      "topicIds": [],
+      "excerpt": "had dinner with engineer lead at a startup last night\n\ntold us their saas vendor tried to double the price from $70k a year to $170k a year \n\nCTO was like in slack on the call \"i think we can have cla"
+    },
+    {
+      "id": "x-2093428424299647177",
+      "type": "x_post",
+      "title": "I am once again telling you that you can buy exact match domains one shot directory sites ",
+      "url": "https://x.com/codyschneider/status/2093428424299647177",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 143340,
+      "topicIds": [],
+      "excerpt": "I am once again telling you that you can buy exact match domains one shot directory sites using Claude Code deploy them to vercel and get them indexed on google search console and they will get you fr"
+    },
+    {
+      "id": "x-2094140231004074069",
+      "type": "x_post",
+      "title": "i am once again telling you that the reason this happens is because the agent is spamming ",
+      "url": "https://x.com/codyschneider/status/2094140231004074069",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 100036,
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "i am once again telling you that the reason this happens is because the agent is spamming api calls for reads and from this is violating facebook ads api TOS \n\nand how to solve for this is pull data t"
+    },
+    {
+      "id": "x-2024927382025765135",
+      "type": "x_post",
+      "title": "ok so I finally got this working bulk facebook ads generator > bulk upload to FB ads via f",
+      "url": "https://x.com/codyschneider/status/2024927382025765135",
+      "publishedAt": "2026-02-20",
+      "outlet": "X",
+      "views": 96266,
+      "topicIds": [],
+      "excerpt": "ok so I finally got this working\n\nbulk facebook ads generator > bulk upload to FB ads via facebook ads API > analyze the FB ads data from the data warehouse in claude code > turn off losing ads based "
+    },
+    {
+      "id": "x-2094862894345183562",
+      "type": "x_post",
+      "title": "if your \"marketing engineer\" doesn't know what to build first please for the love of god f",
+      "url": "https://x.com/codyschneider/status/2094862894345183562",
+      "publishedAt": "2026-09-01",
+      "outlet": "X",
+      "views": 88704,
+      "topicIds": [
+        "marketing-agents"
+      ],
+      "excerpt": "if your \"marketing engineer\" doesn't know what to build first\n\nplease for the love of god fire them because they're fleecing you\n\nor send them this so I don't have an aneurysm \n\neverything below is ju"
+    },
+    {
+      "id": "x-2055317298420859021",
+      "type": "x_post",
+      "title": "last Friday I deployed a Facebook ads agent for a startup and over the weekend it optimize",
+      "url": "https://x.com/codyschneider/status/2055317298420859021",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 40817,
+      "topicIds": [],
+      "excerpt": "last Friday I deployed a Facebook ads agent for a startup and over the weekend it optimized itself from $17 phone number leads into $3 leads\n\nthis is the real GTM engineering\n\nagents in the wild\n\nand "
+    },
+    {
+      "id": "x-2111125078003847223",
+      "type": "x_post",
+      "title": "again i repeat please pls stop overcomplicating paid ads for saas just do this google ads ",
+      "url": "https://x.com/codyschneider/status/2111125078003847223",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 42767,
+      "topicIds": [
+        "paid-ads"
+      ],
+      "excerpt": "again i repeat\n\nplease \n\npls stop overcomplicating paid ads for saas \n\njust do this\n\ngoogle ads\n\nfind bottom of funnel keywords related to the product\n\nphrase match bidding on those keywords\n\nlanding "
+    },
+    {
+      "id": "x-2070270814935453917",
+      "type": "x_post",
+      "title": "you're competing against marketers who don't know what a MCP is",
+      "url": "https://x.com/codyschneider/status/2070270814935453917",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 65110,
+      "topicIds": [],
+      "excerpt": "you're competing against marketers who don't know what a MCP is"
+    },
+    {
+      "id": "x-2072304297417580783",
+      "type": "x_post",
+      "title": "if you're a startup founder just read this so I can sleep peacefully tonight most companie",
+      "url": "https://x.com/codyschneider/status/2072304297417580783",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 71285,
+      "topicIds": [
+        "early-growth-business-models"
+      ],
+      "excerpt": "if you're a startup founder just read this so I can sleep peacefully tonight\n\nmost companies can get to $1M ARR with only two channels\n\nthe channels you should pick from are\n\n- paid ads \n- cold email\n"
+    },
+    {
+      "id": "x-2106836791005155422",
+      "type": "x_post",
+      "title": "the video editor job is changing fast davinci resolve has an MCP now, and codex can drive ",
+      "url": "https://x.com/codyschneider/status/2106836791005155422",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 30593,
+      "topicIds": [],
+      "excerpt": "the video editor job is changing fast\n\ndavinci resolve has an MCP now, and codex can drive it\n\nbuy resolve studio, turn on the AI assistant, point codex at the footage folder\n\nit can transcribe, cut d"
+    },
+    {
+      "id": "x-2106112034416791943",
+      "type": "x_post",
+      "title": "build a directory for the exact people you sell to say you sell to med spas scrape google ",
+      "url": "https://x.com/codyschneider/status/2106112034416791943",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 35351,
+      "topicIds": [],
+      "excerpt": "build a directory for the exact people you sell to\n\nsay you sell to med spas\n\nscrape google maps for every med spa, enrich it from their websites and socials\n\nhave claude one shot a directory off that"
+    },
+    {
+      "id": "x-2116591049120329913",
+      "type": "x_post",
+      "title": "biggest marketing arbitrage right now is building niche websites that send referral traffi",
+      "url": "https://x.com/codyschneider/status/2116591049120329913",
+      "publishedAt": "2026-10-31",
+      "outlet": "X",
+      "views": 26905,
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "biggest marketing arbitrage right now is building niche websites that send referral traffic to your main site\n\nhave AI research and aggregate everything about a topic your customer cares about\n\norgani"
+    },
+    {
+      "id": "x-2100585583969988751",
+      "type": "x_post",
+      "title": "nobody wants you to know this but you can just cold email a 100,000 people in a month who ",
+      "url": "https://x.com/codyschneider/status/2100585583969988751",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 17647,
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "nobody wants you to know this but you can just cold email a 100,000 people in a month who are your target customer and just listed a job posting which is a signal they want your thing and they'll buy "
+    },
+    {
+      "id": "x-2097022124946759794",
+      "type": "x_post",
+      "title": "cancel your $200/mo semrsuh subscription Claude Code can now run your SEO for you first yo",
+      "url": "https://x.com/codyschneider/status/2097022124946759794",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 67012,
+      "topicIds": [
+        "seo-ai-search"
+      ],
+      "excerpt": "cancel your $200/mo semrsuh subscription\n\nClaude Code can now run your SEO for you\n\nfirst you need to get your google Search Console and google analytics 4 data into a data warehouse\n\nthen give claude"
+    },
+    {
+      "id": "x-2095210150135001168",
+      "type": "x_post",
+      "title": "its crazy but right now you can make a media company that promotes your business powered b",
+      "url": "https://x.com/codyschneider/status/2095210150135001168",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 21778,
+      "topicIds": [],
+      "excerpt": "its crazy but right now you can make a media company that promotes your business powered by AI agents\n\nhere’s 3 ways I'm doing this that you can do too\n\neverything below is just work with Claude Code "
+    },
+    {
+      "id": "x-2089774331916149090",
+      "type": "x_post",
+      "title": "you can remix every competitor's entire website in a weekend now with an seo agent here's ",
+      "url": "https://x.com/codyschneider/status/2089774331916149090",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 16857,
+      "topicIds": [],
+      "excerpt": "you can remix every competitor's entire website in a weekend now with an seo agent\n\nhere's the build:\n\npull your 10 closest competitors\n\ngrab every sitemap\n\ncomposite database of every page they've ev"
+    },
+    {
+      "id": "x-2111517654749999271",
+      "type": "x_post",
+      "title": "SEO for SaaS is so easy, just do this For blogs Find bottom of the funnel keywords related",
+      "url": "https://x.com/codyschneider/status/2111517654749999271",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 21945,
+      "topicIds": [],
+      "excerpt": "SEO for SaaS is so easy, just do this\n\nFor blogs\n\nFind bottom of the funnel keywords related to the product using data for SEO\n\nX vs y competitor, x alternative, x review, best x for y, how to x \n\nThe"
+    },
+    {
+      "id": "x-2090151819104178641",
+      "type": "x_post",
+      "title": "product is no longer a moat marketing is no longer a moat",
+      "url": "https://x.com/codyschneider/status/2090151819104178641",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 42411,
+      "topicIds": [],
+      "excerpt": "product is no longer a moat\n\nmarketing is no longer a moat"
+    },
+    {
+      "id": "x-2091254087505297410",
+      "type": "x_post",
+      "title": "how to build a software company do embedded consulting build software to solve your client",
+      "url": "https://x.com/codyschneider/status/2091254087505297410",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 15067,
+      "topicIds": [],
+      "excerpt": "how to build a software company\n\ndo embedded consulting \n\nbuild software to solve your clients problems\n\nsell software to the market"
+    },
+    {
+      "id": "x-2092733833070153896",
+      "type": "x_post",
+      "title": "i am once again telling that your coding agent is the best marketer in the world if you gi",
+      "url": "https://x.com/codyschneider/status/2092733833070153896",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 18390,
+      "topicIds": [],
+      "excerpt": "i am once again telling that your coding agent is the best marketer in the world if you give it access to everything it needs to do marketing\n\nwhat it needs\n\n- Data pipeline\n- Data warehouse\n- Cloud S"
+    },
+    {
+      "id": "x-2086950726270414910",
+      "type": "x_post",
+      "title": "just linkedin DM 400 people a month who commented on posts related to problems and desired",
+      "url": "https://x.com/codyschneider/status/2086950726270414910",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 15201,
+      "topicIds": [],
+      "excerpt": "just linkedin DM 400 people a month who commented on posts related to problems and desired outcomes your product solves and see what happens"
+    },
+    {
+      "id": "x-2092280851308384530",
+      "type": "x_post",
+      "title": "an agent is running the SEO for this AI startup how it works use data for seo to research ",
+      "url": "https://x.com/codyschneider/status/2092280851308384530",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 21992,
+      "topicIds": [],
+      "excerpt": "an agent is running the SEO for this AI startup \n\nhow it works\n\nuse data for seo to research the bottom of funnel keywords related to the product service offering\n\nresearches the article by scraping p"
+    },
+    {
+      "id": "x-2089729039158088042",
+      "type": "x_post",
+      "title": "a cursor cloud agent is running a google ads account for a startup we're working with and ",
+      "url": "https://x.com/codyschneider/status/2089729039158088042",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 26033,
+      "topicIds": [],
+      "excerpt": "a cursor cloud agent is running a google ads account for a startup we're working with and it just reduced the cost per demo from $1100 to $400 in 3 months\n\nin the last 10 days cost per lead is down to"
+    },
+    {
+      "id": "x-2114126661499371790",
+      "type": "x_post",
+      "title": "you should be thinking about distribution as tokens cost per thousand impressions",
+      "url": "https://x.com/codyschneider/status/2114126661499371790",
+      "publishedAt": "2026-10-24",
+      "outlet": "X",
+      "views": 13393,
+      "topicIds": [],
+      "excerpt": "you should be thinking about distribution as tokens cost per thousand impressions"
+    },
+    {
+      "id": "x-2112936995311784161",
+      "type": "x_post",
+      "title": "facebook is 100% sequencing ads how do we know meta told us. they just put it in their eng",
+      "url": "https://x.com/codyschneider/status/2112936995311784161",
+      "publishedAt": "2026-10-21",
+      "outlet": "X",
+      "views": 19579,
+      "topicIds": [],
+      "excerpt": "facebook is 100% sequencing ads\n\nhow do we know\n\nmeta told us. they just put it in their engineering blog where no media buyer reads it\n\nnov 2024 they killed the old ads model that ran on thousands of"
+    },
+    {
+      "id": "x-2105674099292795057",
+      "type": "x_post",
+      "title": "most facebook ad accounts are way too complicated low IQ: one campaign, broad, all of USA,",
+      "url": "https://x.com/codyschneider/status/2105674099292795057",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 12070,
+      "topicIds": [],
+      "excerpt": "most facebook ad accounts are way too complicated\n\nlow IQ: one campaign, broad, all of USA, make a lot of ads, kill the losers\n\nmidwit:\n14 ad sets split by interest stack\n1%, 2%, 3% lookalikes each in"
+    },
+    {
+      "id": "x-2110445596137881852",
+      "type": "x_post",
+      "title": "i am once pleading with you, i am begging you you need to be giving your claude code all t",
+      "url": "https://x.com/codyschneider/status/2110445596137881852",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 12132,
+      "topicIds": [],
+      "excerpt": "i am once pleading with you, i am begging you \n\nyou need to be giving your claude code all the tools it needs to do marketing\n\nso that it can:\n\n- make seed dance 2.5 ads with higgsfield\n\n- do waterfal"
+    },
+    {
+      "id": "x-2116530666871357747",
+      "type": "x_post",
+      "title": "please stop overcomplicating gtm engineering it's a postgres database with 3 tables accoun",
+      "url": "https://x.com/codyschneider/status/2116530666871357747",
+      "publishedAt": "2026-10-31",
+      "outlet": "X",
+      "views": 12930,
+      "topicIds": [],
+      "excerpt": "please stop overcomplicating gtm engineering\n\nit's a postgres database with 3 tables\n\naccounts\npeople\nsignals\n\nsignals = job posts, linkedin engagement, competitor ad engagement, website visits, fundi"
+    },
+    {
+      "id": "x-2106746166482280624",
+      "type": "x_post",
+      "title": "the link building agent we'd build for any SEO program 1. pull competitor backlinks from a",
+      "url": "https://x.com/codyschneider/status/2106746166482280624",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 13639,
+      "topicIds": [],
+      "excerpt": "the link building agent we'd build for any SEO program\n\n1. pull competitor backlinks from ahrefs or the dataforseo backlinks api. filter to relevant sites DR 30+\n\n2. waterfall enrich each domain for t"
+    },
+    {
+      "id": "x-2103937709362331676",
+      "type": "x_post",
+      "title": "seed dance 2.5 is makes the best saas ads in the world right now here's how to do this you",
+      "url": "https://x.com/codyschneider/status/2103937709362331676",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 17868,
+      "topicIds": [],
+      "excerpt": "seed dance 2.5 is makes the best saas ads in the world right now\n\nhere's how to do this yourself\n\nfirst find a real creator in your category and extract a frame from one of their videos\n\nthen use Chat"
+    },
+    {
+      "id": "x-2087977572898365747",
+      "type": "x_post",
+      "title": "build a coding factory for marketing why all marketing is going to code A UGC video is jus",
+      "url": "https://x.com/codyschneider/status/2087977572898365747",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 14955,
+      "topicIds": [],
+      "excerpt": "build a coding factory for marketing\n\nwhy \n\nall marketing is going to code\n\nA UGC video is just seed dance json\n\nA static ad is just chatgpt image json\n\nData analytics is just an SQL query\n\nCold email"
+    },
+    {
+      "id": "x-2104979526337896748",
+      "type": "x_post",
+      "title": "claude code with two api keys is a better SEO team than most agencies keywords everywhere ",
+      "url": "https://x.com/codyschneider/status/2104979526337896748",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 9196,
+      "topicIds": [],
+      "excerpt": "claude code with two api keys is a better SEO team than most agencies\n\nkeywords everywhere + dataforseo in a .env file\n\nwhat it can do for a saas:\n\npull your whole keyword universe from the related ke"
+    },
+    {
+      "id": "x-2086936003869393025",
+      "type": "x_post",
+      "title": "last week went on gregs pod you probably missed it bc you're super busy here's everything ",
+      "url": "https://x.com/codyschneider/status/2086936003869393025",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 10758,
+      "topicIds": [],
+      "excerpt": "last week went on gregs pod \n\nyou probably missed it bc you're super busy \n\nhere's everything you'll learn \n\nLinkedIn engagement is a hand-raise signal, beats firmographics\n\nTrack 10–20 category outli"
+    },
+    {
+      "id": "x-2082873860316103166",
+      "type": "x_post",
+      "title": "marketing engineering today how to get claude code to manage your facebook ads why it work",
+      "url": "https://x.com/codyschneider/status/2082873860316103166",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 13153,
+      "topicIds": [],
+      "excerpt": "marketing engineering today\n\nhow to get claude code to manage your facebook ads\n\nwhy it works\n\n- andromeda replaced interest targeting, the creative itself is now the targeting mechanism\n- ad and land"
+    },
+    {
+      "id": "x-2107168997762273345",
+      "type": "x_post",
+      "title": "how to get a new directory site ranking fast have an agent scrape everything for the niche",
+      "url": "https://x.com/codyschneider/status/2107168997762273345",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 9789,
+      "topicIds": [],
+      "excerpt": "how to get a new directory site ranking fast\n\nhave an agent scrape everything for the niche\n\nhave claude code plan the directory off the data, then build the whole thing\n\nsubmit it to other directory "
+    },
+    {
+      "id": "x-2113027600423526575",
+      "type": "x_post",
+      "title": "people overcomplicate gtm engineering here's the whole stack a postgres database with 3 ta",
+      "url": "https://x.com/codyschneider/status/2113027600423526575",
+      "publishedAt": "2026-10-21",
+      "outlet": "X",
+      "views": 9603,
+      "topicIds": [],
+      "excerpt": "people overcomplicate gtm engineering\n\nhere's the whole stack\n\na postgres database with 3 tables: accounts, people, signals\n\nwaterfall enrichment. apollo first, then getleads, then leadmagic, then gue"
+    },
+    {
+      "id": "x-2086905427560673778",
+      "type": "x_post",
+      "title": "stop thinking about marketing as something you do once think about it as a lifestyle choic",
+      "url": "https://x.com/codyschneider/status/2086905427560673778",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 5212,
+      "topicIds": [],
+      "excerpt": "stop thinking about marketing as something you do once \n\nthink about it as a lifestyle choice that you do indefinitely"
+    },
+    {
+      "id": "x-2093337810916831601",
+      "type": "x_post",
+      "title": "I believe more than anything that the most effective startup employees have custom agents ",
+      "url": "https://x.com/codyschneider/status/2093337810916831601",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 7177,
+      "topicIds": [],
+      "excerpt": "I believe more than anything that the most effective startup employees have custom agents and personal software they bring to their jobs\n\nthese people are 100x employees\n\nhow I see this working:\n\npers"
+    },
+    {
+      "id": "x-2061826432167195012",
+      "type": "x_post",
+      "title": "4 weeks ago I deployed a LinkedIn outbound agent for a startup, and since then it's produc",
+      "url": "https://x.com/codyschneider/status/2061826432167195012",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 12759,
+      "topicIds": [],
+      "excerpt": "4 weeks ago I deployed a LinkedIn outbound agent for a startup, and since then it's produced 73 positive responses\n\nthis is what real GTM engineering looks like\n\nagents autonomously driving pipeline f"
+    },
+    {
+      "id": "x-2116243809994502297",
+      "type": "x_post",
+      "title": "this alex hormozi clip channel on youtube started last october and is doing 10M views a mo",
+      "url": "https://x.com/codyschneider/status/2116243809994502297",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 11705,
+      "topicIds": [],
+      "excerpt": "this alex hormozi clip channel on youtube started last october and is doing 10M views a month\n\nit posts a clip an hour\n\nat the end of each clip there's a CTA for their offer\n\nthis is 100% run by AI\n\nh"
+    },
+    {
+      "id": "x-2110430480994619503",
+      "type": "x_post",
+      "title": "I am once again telling you that a coding agent can run your google ads account better tha",
+      "url": "https://x.com/codyschneider/status/2110430480994619503",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 10538,
+      "topicIds": [],
+      "excerpt": "I am once again telling you that a coding agent can run your google ads account better than a human media buyer\n\nGive it data for SEO api, google ads api, all reads from a data warehouse so you don't "
+    },
+    {
+      "id": "x-2115141553752519098",
+      "type": "x_post",
+      "title": "i don't think you understand what is happening with reddit + seed dance + facebook ads rig",
+      "url": "https://x.com/codyschneider/status/2115141553752519098",
+      "publishedAt": "2026-10-27",
+      "outlet": "X",
+      "views": 11095,
+      "topicIds": [],
+      "excerpt": "i don't think you understand what is happening with reddit + seed dance + facebook ads right now\n\nyou can make 30 second ugc ads for about $2.50 each that boomers can't tell are AI\n\nhere's the whole p"
+    },
+    {
+      "id": "x-2104556760799338808",
+      "type": "x_post",
+      "title": "\"what is a marketing engineer?\" >writes the ad copy AND builds the script that spits out 2",
+      "url": "https://x.com/codyschneider/status/2104556760799338808",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 6836,
+      "topicIds": [],
+      "excerpt": "\"what is a marketing engineer?\"\n\n>writes the ad copy AND builds the script that spits out 200 variations of it\n>pipes seedance api to ffmpeg to json2video to the fb ads api so your creative never runs"
+    },
+    {
+      "id": "x-2092295953461944652",
+      "type": "x_post",
+      "title": "we're working with a 300 person software company doing account based marketing for them ad",
+      "url": "https://x.com/codyschneider/status/2092295953461944652",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 11659,
+      "topicIds": [],
+      "excerpt": "we're working with a 300 person software company doing account based marketing for them \n\nads running across facebook ads, google ads, and linkedin ads\n\nthey have an ICP list of 8,000 people they are "
+    },
+    {
+      "id": "x-2110762657947005029",
+      "type": "x_post",
+      "title": "just a reminder to run paid ads to the email that you're cold emailing and they'll respond",
+      "url": "https://x.com/codyschneider/status/2110762657947005029",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 7442,
+      "topicIds": [],
+      "excerpt": "just a reminder to run paid ads to the email that you're cold emailing and they'll respond more\n\nwhy this works:\n\ncold leads show up to the call with no idea who you are\n\na 30-minute call will not fix"
+    },
+    {
+      "id": "x-2110007675824066866",
+      "type": "x_post",
+      "title": "had a conversation with the CRO of 150 person startup last Thursday the quote that's been ",
+      "url": "https://x.com/codyschneider/status/2110007675824066866",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 8462,
+      "topicIds": [],
+      "excerpt": "had a conversation with the CRO of 150 person startup last Thursday\n\nthe quote that's been living rent free all weekend is \"I built the revenue system, now I just need somebody to fill pipeline and no"
+    },
+    {
+      "id": "x-2113646669266825271",
+      "type": "x_post",
+      "title": "you should be making a media company for your company every social media platform with giv",
+      "url": "https://x.com/codyschneider/status/2113646669266825271",
+      "publishedAt": "2026-10-23",
+      "outlet": "X",
+      "views": 6665,
+      "topicIds": [],
+      "excerpt": "you should be making a media company for your company \n\nevery social media platform with give you free impressions if you entertain their audience\n\nthe more time people spend on platform, the more ad "
+    },
+    {
+      "id": "x-2106021448405958689",
+      "type": "x_post",
+      "title": "how to run facebook ads with claude code make a facebook ads api key. create a custom app,",
+      "url": "https://x.com/codyschneider/status/2106021448405958689",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 8091,
+      "topicIds": [],
+      "excerpt": "how to run facebook ads with claude code\n\nmake a facebook ads api key. create a custom app, set it to internal use\n\nput the key in a .env file in your project folder\n\nnow claude can upload creative, s"
+    },
+    {
+      "id": "x-2110370161395929173",
+      "type": "x_post",
+      "title": "You can have Claude Code build a competitor ad library tracker and spy tool in minute snow",
+      "url": "https://x.com/codyschneider/status/2110370161395929173",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 7233,
+      "topicIds": [],
+      "excerpt": "You can have Claude Code build a competitor ad library tracker and spy tool in minute snow for  for Facebook ads, Google ads and LinkedIn ads.\n\nYou just need access to Apify for scraping.\n\nAnd store a"
+    },
+    {
+      "id": "x-2112287697096114669",
+      "type": "x_post",
+      "title": "the fastest seo win right now is the keywords you already rank 11 to 20 for page 2. google",
+      "url": "https://x.com/codyschneider/status/2112287697096114669",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 10007,
+      "topicIds": [],
+      "excerpt": "the fastest seo win right now is the keywords you already rank 11 to 20 for\n\npage 2. google already thinks you're relevant and nobody clicks\n\nno semrush seat needed. dataforseo + search console + clau"
+    },
+    {
+      "id": "x-2099845741040595233",
+      "type": "x_post",
+      "title": "a really interesting thing is starting to happen we're having more and more companies aski",
+      "url": "https://x.com/codyschneider/status/2099845741040595233",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 8133,
+      "topicIds": [],
+      "excerpt": "a really interesting thing is starting to happen\n\nwe're having more and more companies asking us to speedrun marketing agent implementations on our platform, train their team how to use our platform f"
+    },
+    {
+      "id": "x-2082571873108295717",
+      "type": "x_post",
+      "title": "founder let marketing 101 interview people in your industry as video fireside chat turn in",
+      "url": "https://x.com/codyschneider/status/2082571873108295717",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 5053,
+      "topicIds": [],
+      "excerpt": "founder let marketing 101\n\ninterview people in your industry as video fireside chat\n\nturn into podcast for yt and spotify and apple\n\ncore ideas turn into written posts\n\nbuild email newsletter with you"
+    },
+    {
+      "id": "x-2110400262430998555",
+      "type": "x_post",
+      "title": "you can replace ahrefs or semrush with an open source version in minutes with claude code ",
+      "url": "https://x.com/codyschneider/status/2110400262430998555",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 8225,
+      "topicIds": [],
+      "excerpt": "you can replace ahrefs or semrush with an open source version in minutes with claude code\n\nhere's how to clone their app with dataforseo, search console data, and google analytics data\n\nopen claude co"
+    },
+    {
+      "id": "x-2112604829088362697",
+      "type": "x_post",
+      "title": "facebook ads are the best performing B2B channel we run right now, and there's one default",
+      "url": "https://x.com/codyschneider/status/2112604829088362697",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 7321,
+      "topicIds": [],
+      "excerpt": "facebook ads are the best performing B2B channel we run right now, and there's one default you need to turn off before october 28\n\nandromeda is that good at finding your buyer if you give it the right"
+    },
+    {
+      "id": "x-2091239007237689572",
+      "type": "x_post",
+      "title": "sell the market what it wants to buy",
+      "url": "https://x.com/codyschneider/status/2091239007237689572",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 5898,
+      "topicIds": [],
+      "excerpt": "sell the market what it wants to buy"
+    },
+    {
+      "id": "x-2116651482023932135",
+      "type": "x_post",
+      "title": "cancel your influencer database subscription you can pull creator emails off google for fr",
+      "url": "https://x.com/codyschneider/status/2116651482023932135",
+      "publishedAt": "2026-10-31",
+      "outlet": "X",
+      "views": 6013,
+      "topicIds": [],
+      "excerpt": "cancel your influencer database subscription\n\nyou can pull creator emails off google for free\n\nsite:https://t.co/1UUwwKqLtg \"@gmail.com\" + {keyword}\n\nregex the emails out of the results\n\ndedupe and ve"
+    },
+    {
+      "id": "x-2095572542891213148",
+      "type": "x_post",
+      "title": "I need to tell you something when a startup says \"we grew to $100M ARR with basically no m",
+      "url": "https://x.com/codyschneider/status/2095572542891213148",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 4898,
+      "topicIds": [],
+      "excerpt": "I need to tell you something\n\nwhen a startup says \"we grew to $100M ARR with basically no marketing\"\n\nthey are lying to you\n\nbut the saddest thing is \n\nthey're lying to themselves"
+    },
+    {
+      "id": "x-2016209654028583129",
+      "type": "x_post",
+      "title": "people tell startup founders \"talk to your customers\" all the time, but I want you to unde",
+      "url": "https://x.com/codyschneider/status/2016209654028583129",
+      "publishedAt": "2026-01-27",
+      "outlet": "X",
+      "views": 3966,
+      "topicIds": [],
+      "excerpt": "people tell startup founders \"talk to your customers\" all the time, but I want you to understand how hard it actually is to talk to 100 customers\n\n5 business days = 14 calls per day\n\n20 business days "
+    },
+    {
+      "id": "x-2042000790018031620",
+      "type": "x_post",
+      "title": "tools pages are super easy way to get traffic for saas and they are great link magnets if ",
+      "url": "https://x.com/codyschneider/status/2042000790018031620",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 5348,
+      "topicIds": [],
+      "excerpt": "tools pages are super easy way to get traffic for saas and they are great link magnets\n\nif your marketing site isn't managed by cursor or claude code by this point, you're just getting left behind\n\nto"
+    },
+    {
+      "id": "x-2094485380691001448",
+      "type": "x_post",
+      "title": "stop overcomplicating google ads for saas just do this here's how we get a client's cost p",
+      "url": "https://x.com/codyschneider/status/2094485380691001448",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 5633,
+      "topicIds": [],
+      "excerpt": "stop overcomplicating google ads for saas just do this\n\nhere's how we get a client's cost per demo from $1100 to $350 in a couple months with the same budget\n\nuse data for seo to find bottom of funnel"
+    },
+    {
+      "id": "x-2095934965049360760",
+      "type": "x_post",
+      "title": "Marketing Engineering Explained Low IQ: Find the one repetitive thing eating hours. Write ",
+      "url": "https://x.com/codyschneider/status/2095934965049360760",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 7227,
+      "topicIds": [],
+      "excerpt": "Marketing Engineering Explained \n\nLow IQ: \n\nFind the one repetitive thing eating hours. Write a script with a thinking loop connected to a live data stream. Only burn tokens where needed, everything e"
+    },
+    {
+      "id": "x-2116636384194695301",
+      "type": "x_post",
+      "title": "founders will spend $3k on a logo and $0 finding out what their customer actually wants $1",
+      "url": "https://x.com/codyschneider/status/2116636384194695301",
+      "publishedAt": "2026-10-31",
+      "outlet": "X",
+      "views": 2348,
+      "topicIds": [],
+      "excerpt": "founders will spend $3k on a logo and $0 finding out what their customer actually wants\n\n$100 a day on facebook for 30 days is the cheapest market research you'll ever buy\n\n100 ads\n\none VSL landing pa"
+    },
+    {
+      "id": "x-2115790775480946848",
+      "type": "x_post",
+      "title": "an agent is running the SEO for this startup and the part that makes leads isn't the writi",
+      "url": "https://x.com/codyschneider/status/2115790775480946848",
+      "publishedAt": "2026-10-29",
+      "outlet": "X",
+      "views": 2582,
+      "topicIds": [],
+      "excerpt": "an agent is running the SEO for this startup and the part that makes leads isn't the writing\n\nit's where the CTAs go\n\nafter the first paragraph\nat 25% scroll\nat 50% scroll\nat 75% scroll\npopup at 30%\n\n"
+    },
+    {
+      "id": "x-2116213625216012348",
+      "type": "x_post",
+      "title": "i need you to understand what is happening in marketing engineering right now what one per",
+      "url": "https://x.com/codyschneider/status/2116213625216012348",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 3027,
+      "topicIds": [],
+      "excerpt": "i need you to understand what is happening in marketing engineering right now\n\nwhat one person with claude code can ship in a day:\n\n40 facebook ads\n30 google ads ad groups\n100 landing pages\n3 guest po"
+    },
+    {
+      "id": "x-2115926707085459716",
+      "type": "x_post",
+      "title": "first time founder \"here's my app, i built it for 9 months, i hope you like it\" second tim",
+      "url": "https://x.com/codyschneider/status/2115926707085459716",
+      "publishedAt": "2026-10-29",
+      "outlet": "X",
+      "views": 2850,
+      "topicIds": [],
+      "excerpt": "first time founder\n\n\"here's my app, i built it for 9 months, i hope you like it\"\n\nsecond time founder\n\nfinds a job that costs $150k a year\n\nautomates it\n\nsells it for $50k a year\n\nhas a coding agent w"
+    },
+    {
+      "id": "x-2116228742662045746",
+      "type": "x_post",
+      "title": "AI search 101 for b2b saas it's mostly best x for y pages that answer the question fast \"b",
+      "url": "https://x.com/codyschneider/status/2116228742662045746",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 2156,
+      "topicIds": [],
+      "excerpt": "AI search 101 for b2b saas\n\nit's mostly best x for y pages that answer the question fast\n\n\"best crm for roofers\"\n\"best email tool for agencies\"\n\ndataforseo for the keywords\n\npage 1 from serper as sour"
+    },
+    {
+      "id": "x-1881462400622489615",
+      "type": "x_post",
+      "title": "here's how im getting $1.69 leads for my friends local coffee shop using ai avatar ugc ads",
+      "url": "https://x.com/codyschneider/status/1881462400622489615",
+      "publishedAt": "2025-01-20",
+      "outlet": "X",
+      "views": 62533,
+      "topicIds": [],
+      "excerpt": "here's how im getting $1.69 leads for my friends local coffee shop using ai avatar ugc ads made in 11labs and heygen targeting 1 mile radius around their address with a cta for a bogo offer https://t."
+    },
+    {
+      "id": "x-1955411741208350948",
+      "type": "x_post",
+      "title": "if i was 20 and needed to make $40,000 /mo in the next 60 days this is what i would do i w",
+      "url": "https://x.com/codyschneider/status/1955411741208350948",
+      "publishedAt": "2025-08-12",
+      "outlet": "X",
+      "views": 58520,
+      "topicIds": [],
+      "excerpt": "if i was 20 and needed to make $40,000 /mo in the next 60 days this is what i would do \n\ni would start an ai UGC agency that specialized in ads for supplement brands\n\nwhy now\n\nAI UGC can hold products"
+    },
+    {
+      "id": "x-1950179512487948441",
+      "type": "x_post",
+      "title": "if you're a b2b founder read this paid ads pixel everyone touches the site remarketing acr",
+      "url": "https://x.com/codyschneider/status/1950179512487948441",
+      "publishedAt": "2025-07-29",
+      "outlet": "X",
+      "views": 27056,
+      "topicIds": [],
+      "excerpt": "if you're a b2b founder read this\n\npaid ads\n\npixel everyone touches the site\n\nremarketing across all channels\n\nemail nurture\n\nnewsletter weekly product update\n\npodcast interviewing target customers\n\nc"
+    },
+    {
+      "id": "x-1965475312319316098",
+      "type": "x_post",
+      "title": "talked to founder scraped yc directory dm'd them all about the product they made dm'd 500 ",
+      "url": "https://x.com/codyschneider/status/1965475312319316098",
+      "publishedAt": "2025-09-09",
+      "outlet": "X",
+      "views": 18532,
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "talked to founder\n\nscraped yc directory\n\ndm'd them all about the product they made\n\ndm'd 500\n\n6 converted at $300 a month\n\nfounder asked how to get $10,000 MRR\n\n10000/300 = 33 customers\n\ndm to convers"
+    },
+    {
+      "id": "x-1959767716471988671",
+      "type": "x_post",
+      "title": "\"facebook ads don’t work for B2B\" i pray every day you keep thinking this and leave more f",
+      "url": "https://x.com/codyschneider/status/1959767716471988671",
+      "publishedAt": "2025-08-25",
+      "outlet": "X",
+      "views": 28073,
+      "topicIds": [],
+      "excerpt": "\"facebook ads don’t work for B2B\"\n\ni pray every day you keep thinking this and leave more for me"
+    },
+    {
+      "id": "x-1966487036199665887",
+      "type": "x_post",
+      "title": "you need to be doing founder led marketing for your startup make yourself famous in your i",
+      "url": "https://x.com/codyschneider/status/1966487036199665887",
+      "publishedAt": "2025-09-12",
+      "outlet": "X",
+      "views": 14966,
+      "topicIds": [],
+      "excerpt": "you need to be doing founder led marketing for your startup\n\nmake yourself famous in your industry\n\nwhy\n\nit gives you leverage on investors, builds inbound pipeline for you, and makes it easier for yo"
+    },
+    {
+      "id": "x-1955390317286576233",
+      "type": "x_post",
+      "title": "went on my friend gregs pod to talk business ideas and how to grow them youll learn Key Po",
+      "url": "https://x.com/codyschneider/status/1955390317286576233",
+      "publishedAt": "2025-08-12",
+      "outlet": "X",
+      "views": 20555,
+      "topicIds": [],
+      "excerpt": "went on my friend gregs pod to talk business ideas and how to grow them\n\nyoull learn\n\nKey Points:\n\n• AI automation agencies often struggle with sustainability, while productized services offer recurri"
+    },
+    {
+      "id": "x-1970624242526949841",
+      "type": "x_post",
+      "title": "facebook ads for saas 101 do this today you need to text 10+ ads a week to as large of aud",
+      "url": "https://x.com/codyschneider/status/1970624242526949841",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 16325,
+      "topicIds": [],
+      "excerpt": "facebook ads for saas 101 do this today\n\nyou need to text 10+ ads a week to as large of audience as you can with conversion events optimization campaign goal\n\nhow to make ads \n\ngo to perplexity and se"
+    },
+    {
+      "id": "x-1937646972921364528",
+      "type": "x_post",
+      "title": "relationships run the world the easiest way to build more relationships is to throw partie",
+      "url": "https://x.com/codyschneider/status/1937646972921364528",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 6949,
+      "topicIds": [],
+      "excerpt": "relationships run the world\n\nthe easiest way to build more relationships is to throw parties\n\nfeed they\n\nwater them\n\nthey will feel like they owe you things\n\nit instigates word of mouth"
+    },
+    {
+      "id": "x-1879979666238500879",
+      "type": "x_post",
+      "title": "there's two types of content creators people who make content for views and people who mak",
+      "url": "https://x.com/codyschneider/status/1879979666238500879",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 9351,
+      "topicIds": [],
+      "excerpt": "there's two types of content creators\n\npeople who make content for views and people who make content for sales\n\nif you're a business owner and you're taking advice from someone optimizing for views\n\nt"
+    },
+    {
+      "id": "x-1998090203622178828",
+      "type": "x_post",
+      "title": "if you're a founder read this the biggest opportunity for the rest of 2025 is automating a",
+      "url": "https://x.com/codyschneider/status/1998090203622178828",
+      "publishedAt": "2025-12-08",
+      "outlet": "X",
+      "views": 12320,
+      "topicIds": [],
+      "excerpt": "if you're a founder read this the biggest opportunity for the rest of 2025 is automating away an $80k salary with $499/mo subscription\n\nhere's what i'm seeing right now:\n\ncompanies are paying full-tim"
+    },
+    {
+      "id": "x-1973583745245450681",
+      "type": "x_post",
+      "title": "theres only 3 ways to sell a thing sell time saving sell money saving sell status signal t",
+      "url": "https://x.com/codyschneider/status/1973583745245450681",
+      "publishedAt": "2025-10-02",
+      "outlet": "X",
+      "views": 4755,
+      "topicIds": [],
+      "excerpt": "theres only 3 ways to sell a thing\n\nsell time saving\n\nsell money saving\n\nsell status signal\n\ntheres only 3 ways to sell a thing"
+    },
+    {
+      "id": "x-1999509595832611024",
+      "type": "x_post",
+      "title": "the best thing you can do as a founder map where your customers spend time online figure o",
+      "url": "https://x.com/codyschneider/status/1999509595832611024",
+      "publishedAt": "2025-12-12",
+      "outlet": "X",
+      "views": 3475,
+      "topicIds": [],
+      "excerpt": "the best thing you can do as a founder\n\nmap where your customers spend time online\n\nfigure out the content formats work there\n\nbuild a template for that content format\n\nthen automate as much of it as "
+    },
+    {
+      "id": "x-1996217865851052189",
+      "type": "x_post",
+      "title": "facebook ads for a saas client team got them 368 demos scheduled in the last 60 days for t",
+      "url": "https://x.com/codyschneider/status/1996217865851052189",
+      "publishedAt": "2025-12-03",
+      "outlet": "X",
+      "views": 5714,
+      "topicIds": [],
+      "excerpt": "facebook ads for a saas client\n\nteam got them 368 demos scheduled in the last 60 days for them\n\nclose rate about 10%\n\nCLV $5,000\n\nhow\n\ntarget all of FB\n\ntest 40 pieces of creative a month against each"
+    },
+    {
+      "id": "x-1998105319671562429",
+      "type": "x_post",
+      "title": "here's what nobody tells you about early-stage startups: you think the hard part is buildi",
+      "url": "https://x.com/codyschneider/status/1998105319671562429",
+      "publishedAt": "2025-12-08",
+      "outlet": "X",
+      "views": 4122,
+      "topicIds": [],
+      "excerpt": "here's what nobody tells you about early-stage startups:\n\nyou think the hard part is building the product\n\nit's not\nthe hard part is that nobody cares you built it\n\nhere's what actually happens in the"
+    },
+    {
+      "id": "x-1843724288135966918",
+      "type": "x_post",
+      "title": "so my friend's email newsletter has been blowing up lately and I was curious so I asked hi",
+      "url": "https://x.com/codyschneider/status/1843724288135966918",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 178506,
+      "topicIds": [],
+      "excerpt": "so my friend's email newsletter has been blowing up lately and I was curious so I asked him what's your secret\n\nand he laughed and said honestly I just record myself rambling for 30 minutes on video\n\n"
+    },
+    {
+      "id": "x-1799139265252643212",
+      "type": "x_post",
+      "title": "hire for figure-it-out-ability",
+      "url": "https://x.com/codyschneider/status/1799139265252643212",
+      "publishedAt": "2024-06-07",
+      "outlet": "X",
+      "views": 32975,
+      "topicIds": [],
+      "excerpt": "hire for figure-it-out-ability"
+    },
+    {
+      "id": "x-1870184308088156258",
+      "type": "x_post",
+      "title": "most b2b saas can get $1M arr with just cold email and paid ads and cold dms and a weekly ",
+      "url": "https://x.com/codyschneider/status/1870184308088156258",
+      "publishedAt": "2024-12-20",
+      "outlet": "X",
+      "views": 17576,
+      "topicIds": [],
+      "excerpt": "most b2b saas can get $1M arr with just cold email and paid ads and cold dms and a weekly podcast with an email newsletter about the podcast \n\nits not complicated its just really mf hard"
+    },
+    {
+      "id": "x-1802868846807666919",
+      "type": "x_post",
+      "title": "day 1 of cold email for a friends startup im helping out with 400ish landed 50% open 137 c",
+      "url": "https://x.com/codyschneider/status/1802868846807666919",
+      "publishedAt": "2024-06-18",
+      "outlet": "X",
+      "views": 52264,
+      "topicIds": [
+        "cold-outbound"
+      ],
+      "excerpt": "day 1 of cold email for a friends startup im helping out with\n\n400ish landed \n\n50% open\n\n137 clicks\n\n7 replies\n\nhow\n\n10 domains bought through cloudflare\n\n20 inboxes on mircosoft\n\nall lowercase subjec"
+    },
+    {
+      "id": "x-1869523674979782691",
+      "type": "x_post",
+      "title": "friend was paying $1 click for software ads to business owner target customer showed them ",
+      "url": "https://x.com/codyschneider/status/1869523674979782691",
+      "publishedAt": "2024-12-18",
+      "outlet": "X",
+      "views": 37296,
+      "topicIds": [],
+      "excerpt": "friend was paying $1 click for software ads to business owner target customer\n\nshowed them ai avatar UGC ad and script templates\n\nnow doing $0.20 cpc\n\nthis will go down to $0.10 with optimization \n\nwe"
+    },
+    {
+      "id": "x-1816246993896767603",
+      "type": "x_post",
+      "title": "the playbook is simple you build productized services that do marketing for companies then",
+      "url": "https://x.com/codyschneider/status/1816246993896767603",
+      "publishedAt": "2024-07-24",
+      "outlet": "X",
+      "views": 24982,
+      "topicIds": [],
+      "excerpt": "the playbook is simple\n\nyou build productized services that do marketing for companies\n\nthen you build software to automate those services\n\nthen you sell that software publicly\n\nthen you use free cash"
+    },
+    {
+      "id": "x-1855762376177422821",
+      "type": "x_post",
+      "title": "so an ai avatar that is basically an ad got 7500 impressions on my personal linkedin i mad",
+      "url": "https://x.com/codyschneider/status/1855762376177422821",
+      "publishedAt": "2024-11-11",
+      "outlet": "X",
+      "views": 34481,
+      "topicIds": [],
+      "excerpt": "so an ai avatar that is basically an ad got 7500 impressions on my personal linkedin\n\ni made this thing for $1 cost of raw materials and labor\n\nthat's a cpm of $0.13 on LinkedIn\n\nlinkedin average cpm "
+    },
+    {
+      "id": "x-1798746678071382206",
+      "type": "x_post",
+      "title": "its not a product problem its a distribution problem its always a distribution problem",
+      "url": "https://x.com/codyschneider/status/1798746678071382206",
+      "publishedAt": "2024-06-06",
+      "outlet": "X",
+      "views": 23624,
+      "topicIds": [],
+      "excerpt": "its not a product problem its a distribution problem \n\nits always a distribution problem"
+    },
+    {
+      "id": "x-1792706882081046909",
+      "type": "x_post",
+      "title": "cold email that im seeing work currently 40 emails per day per inbox 2 inboxes per domain ",
+      "url": "https://x.com/codyschneider/status/1792706882081046909",
+      "publishedAt": "2024-05-21",
+      "outlet": "X",
+      "views": 76922,
+      "topicIds": [],
+      "excerpt": "cold email that im seeing work currently\n\n40 emails per day per inbox\n\n2 inboxes per domain\n\n50 domains\n\n20 business days a month\n\n80,000 cold emails per month"
+    },
+    {
+      "id": "x-1840835736708247726",
+      "type": "x_post",
+      "title": "\"gOoGlE aDs No WoRk\" bottom of funnel keywords keyword in the ad copy landing page h1 with",
+      "url": "https://x.com/codyschneider/status/1840835736708247726",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 20288,
+      "topicIds": [],
+      "excerpt": "\"gOoGlE aDs No WoRk\"\n\nbottom of funnel keywords\n\nkeyword in the ad copy\n\nlanding page h1 with the exact keyword\n\nsignup conversion event for whatever user action you want\n\noptimize the funnel indefini"
+    },
+    {
+      "id": "x-1828462514188763376",
+      "type": "x_post",
+      "title": "how to get you initial domain authority so you can actually do SEO go find one of those ai",
+      "url": "https://x.com/codyschneider/status/1828462514188763376",
+      "publishedAt": "2024-08-27",
+      "outlet": "X",
+      "views": 76967,
+      "topicIds": [],
+      "excerpt": "how to get you initial domain authority so you can actually do SEO\n\ngo find one of those ai tool directories \n\nand then find all their competitors \n\nand then submit to all of them \n\nand then use index"
+    },
+    {
+      "id": "x-1801105136355282993",
+      "type": "x_post",
+      "title": "\"im selling to smbs and don't know how to find them\" scrape google maps all of the maps sc",
+      "url": "https://x.com/codyschneider/status/1801105136355282993",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 22879,
+      "topicIds": [],
+      "excerpt": "\"im selling to smbs and don't know how to find them\"\n\nscrape google maps\n\nall of the maps\n\nscrapes them\n\nfind the companies emails\n\ncold email them all \n\noh and just run ads of you the founder to them"
+    },
+    {
+      "id": "x-1866940679114670497",
+      "type": "x_post",
+      "title": "here's how id grow playground [.] com to a $10B valuation in 24 months if i was their head",
+      "url": "https://x.com/codyschneider/status/1866940679114670497",
+      "publishedAt": "2024-12-11",
+      "outlet": "X",
+      "views": 19151,
+      "topicIds": [],
+      "excerpt": "here's how id grow playground [.] com to a $10B valuation in 24 months if i was their head of growth\n\ntheir DA is 72\n\nthey literally can rank for anything\n\ni would find every \"how to canva\" keyword an"
+    },
+    {
+      "id": "x-1841610196524712366",
+      "type": "x_post",
+      "title": "an astonishing 90% of homepages h1 titles tell me exactly nothing about what the company d",
+      "url": "https://x.com/codyschneider/status/1841610196524712366",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 10506,
+      "topicIds": [],
+      "excerpt": "an astonishing 90% of homepages h1 titles tell me exactly nothing about what the company does\n\nplease \n\nplease spare me \n\ndont be cool\n\nslap me in the face with what the thing is so i can make a purch"
+    },
+    {
+      "id": "x-1826662379989483814",
+      "type": "x_post",
+      "title": "i hate writing docs everyone does so here's how to automate them screen record talking thr",
+      "url": "https://x.com/codyschneider/status/1826662379989483814",
+      "publishedAt": "2024-08-22",
+      "outlet": "X",
+      "views": 24103,
+      "topicIds": [],
+      "excerpt": "i hate writing docs\n\neveryone does\n\nso here's how to automate them\n\nscreen record talking through the product\n\nyou just record a loom or whatever \n\ntake recording and transcribe word by word with time"
+    },
+    {
+      "id": "x-1805674976101777434",
+      "type": "x_post",
+      "title": "free email newsletter growth entirely automated been growing my personal newsletter for fu",
+      "url": "https://x.com/codyschneider/status/1805674976101777434",
+      "publishedAt": "2024-06-25",
+      "outlet": "X",
+      "views": 19152,
+      "topicIds": [],
+      "excerpt": "free email newsletter growth entirely automated \n\nbeen growing my personal newsletter for fun for the last 30 days\n\nit's grown about 2, 000 subs\n\nthis is for free from social media\n\nhere's how\n\nso the"
+    },
+    {
+      "id": "x-1828145397899911619",
+      "type": "x_post",
+      "title": "growth 101 you try a bunch of things measure them do more of what is working less of what ",
+      "url": "https://x.com/codyschneider/status/1828145397899911619",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 9172,
+      "topicIds": [],
+      "excerpt": "growth 101\n\nyou try a bunch of things\n\nmeasure them\n\ndo more of what is working\n\nless of what isn't\n\nuntil you die"
+    },
+    {
+      "id": "x-1856124759236587842",
+      "type": "x_post",
+      "title": "product channel fit has become more important than product market fit",
+      "url": "https://x.com/codyschneider/status/1856124759236587842",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 11032,
+      "topicIds": [],
+      "excerpt": "product channel fit has become more important than product market fit"
+    },
+    {
+      "id": "x-1710818682182545595",
+      "type": "x_post",
+      "title": "how to find expiring domains in 3 mins godaddy auctions filter by keyword related to brand",
+      "url": "https://x.com/codyschneider/status/1710818682182545595",
+      "publishedAt": "2023-10-08",
+      "outlet": "X",
+      "views": 133481,
+      "topicIds": [],
+      "excerpt": "how to find expiring domains in 3 mins\n\ngodaddy auctions\n\nfilter by keyword related to brand\n\ndownloads domains csv\n\nupload into semrush bulk analysis tool\n\nsort by authority score\n\nbuy domains with h"
+    },
+    {
+      "id": "x-1671658454476541952",
+      "type": "x_post",
+      "title": "how to publish 250,000 words to your blog in the next 24 hours that actually creates traff",
+      "url": "https://x.com/codyschneider/status/1671658454476541952",
+      "publishedAt": "2023-06-21",
+      "outlet": "X",
+      "views": 121455,
+      "topicIds": [],
+      "excerpt": "how to publish 250,000 words to your blog in the next 24 hours\n\nthat actually creates traffic\n\nfind 150 low kd keywords in your niche using semrush\n\nexport as csv\n\ngo to https://t.co/YOpdjH3VKM\n\nuploa"
+    },
+    {
+      "id": "x-1698811942398259264",
+      "type": "x_post",
+      "title": "how to make a company start talking about you internally find all their employees on Linke",
+      "url": "https://x.com/codyschneider/status/1698811942398259264",
+      "publishedAt": "2023-09-04",
+      "outlet": "X",
+      "views": 60990,
+      "topicIds": [],
+      "excerpt": "how to make a company start talking about you internally\n\nfind all their employees on LinkedIn\n\nadd them \n\nwrite content daily \n\nfind all their employee emails \n\ncold email them about the product \n\nru"
+    },
+    {
+      "id": "x-1714008407215059202",
+      "type": "x_post",
+      "title": "my real job as a founder is saying no to everything that doesn't increase signups decrease",
+      "url": "https://x.com/codyschneider/status/1714008407215059202",
+      "publishedAt": "2023-10-16",
+      "outlet": "X",
+      "views": 29061,
+      "topicIds": [],
+      "excerpt": "my real job as a founder is saying no to everything that doesn't \n\nincrease signups\n\ndecrease churn\n\nor build brand"
+    },
+    {
+      "id": "x-1703461460569895002",
+      "type": "x_post",
+      "title": "ai written content on a blog for client no human editing domain 5 years old all we did was",
+      "url": "https://x.com/codyschneider/status/1703461460569895002",
+      "publishedAt": "2023-09-17",
+      "outlet": "X",
+      "views": 65484,
+      "topicIds": [],
+      "excerpt": "ai written content on a blog for client\n\nno human editing \n\ndomain 5 years old\n\nall we did was increase content velocity \n\nwent from a lead a month to a lead per day https://t.co/YTRXq8ksri"
+    },
+    {
+      "id": "x-1699162992565182627",
+      "type": "x_post",
+      "title": "find enterprise software that isn't self service make it self service cold email entire ta",
+      "url": "https://x.com/codyschneider/status/1699162992565182627",
+      "publishedAt": "2023-09-05",
+      "outlet": "X",
+      "views": 34878,
+      "topicIds": [],
+      "excerpt": "find enterprise software that isn't self service\n\nmake it self service\n\ncold email entire target audience\n\nperformance max ads to keywords since they probably high cpc and this will get you 30% cheape"
+    },
+    {
+      "id": "x-1710835134256087485",
+      "type": "x_post",
+      "title": "how to make a weeks worth of content for your company in 2 hours record 1 hour content pub",
+      "url": "https://x.com/codyschneider/status/1710835134256087485",
+      "publishedAt": "2023-10-08",
+      "outlet": "X",
+      "views": 34365,
+      "topicIds": [],
+      "excerpt": "how to make a weeks worth of content for your company in 2 hours\n\nrecord 1 hour content\n\npublish podcast host\n\npublish youtube\n\nget transcript\n\nfind quotes\n\nmake clips\n\nmake linkedin posts\n\nmake twitt"
+    },
+    {
+      "id": "x-1706720292553298092",
+      "type": "x_post",
+      "title": "seo first 1-3 months “this doesnt work and is pointless” seo after 6-12 months: “finally s",
+      "url": "https://x.com/codyschneider/status/1706720292553298092",
+      "publishedAt": "2023-09-26",
+      "outlet": "X",
+      "views": 23151,
+      "topicIds": [],
+      "excerpt": "seo first 1-3 months\n\n“this doesnt work and is pointless”\n\nseo after 6-12 months: \n\n“finally some signups”\n\nseo after 2 years\n\n“so you're telling me if i buy a vacation home the taxes are different”"
+    },
+    {
+      "id": "x-1719084491527032976",
+      "type": "x_post",
+      "title": "how to grow instagram record podcast with industry experts find viral quotes make quote ca",
+      "url": "https://x.com/codyschneider/status/1719084491527032976",
+      "publishedAt": "2023-10-30",
+      "outlet": "X",
+      "views": 22171,
+      "topicIds": [],
+      "excerpt": "how to grow instagram\n\nrecord podcast with industry experts\n\nfind viral quotes\n\nmake quote card template in canva\n\nupload quotes csv\n\npublish a bunch of quote cards a day\n\nhow we grew accounts to 100,"
+    },
+    {
+      "id": "x-1731818931189338534",
+      "type": "x_post",
+      "title": "framework that tells you marketing priorities already existing demand - search no existing",
+      "url": "https://x.com/codyschneider/status/1731818931189338534",
+      "publishedAt": "2023-12-04",
+      "outlet": "X",
+      "views": 10040,
+      "topicIds": [],
+      "excerpt": "framework that tells you marketing priorities\n\nalready existing demand - search\n\nno existing demand - social\n\nmore time than money - content\n\nmore money than time - ads"
+    },
+    {
+      "id": "x-1698477224775565395",
+      "type": "x_post",
+      "title": "only growing this twitter bc it makes my startups grow faster there is no other reason to ",
+      "url": "https://x.com/codyschneider/status/1698477224775565395",
+      "publishedAt": "2023-09-03",
+      "outlet": "X",
+      "views": 14506,
+      "topicIds": [],
+      "excerpt": "only growing this twitter bc it makes my startups grow faster \n\nthere is no other reason to do social media \n\nit is tool\n\ntreat like tool\n\nor be a tool"
+    },
+    {
+      "id": "x-1715020098358943817",
+      "type": "x_post",
+      "title": "i just think about cold email as an impression at this point sending 100,000 a month 40% o",
+      "url": "https://x.com/codyschneider/status/1715020098358943817",
+      "publishedAt": "2023-10-19",
+      "outlet": "X",
+      "views": 12525,
+      "topicIds": [],
+      "excerpt": "i just think about cold email as an impression at this point\n\nsending 100,000 a month\n\n40% open rate\n\n40,000 impressions"
+    },
+    {
+      "id": "x-1678024993832153088",
+      "type": "x_post",
+      "title": "i average 5,000 impressions per tweet i tweet 10 times per day i get 350,000 impressions p",
+      "url": "https://x.com/codyschneider/status/1678024993832153088",
+      "publishedAt": "2023-07-09",
+      "outlet": "X",
+      "views": 14281,
+      "topicIds": [],
+      "excerpt": "i average 5,000 impressions per tweet\n\ni tweet 10 times per day\n\ni get 350,000 impressions per week\n\ni get 70 profile visits per 1000 impressions\n\ni get 24,000 profile visits per week\n\ni introduce 24,"
+    },
+    {
+      "id": "x-1703098930144133513",
+      "type": "x_post",
+      "title": "self-funding a startup 10% of topline rev back into growth indefinitely try to have costs ",
+      "url": "https://x.com/codyschneider/status/1703098930144133513",
+      "publishedAt": "2023-09-16",
+      "outlet": "X",
+      "views": 10691,
+      "topicIds": [],
+      "excerpt": "self-funding a startup \n\n10% of topline rev back into growth indefinitely \n\ntry to have costs at 10% \n\nso company functions at 80% margin\n\ntransactional marketing until you get to $10k mrr\n\nthen start"
+    },
+    {
+      "id": "x-1707529572156117319",
+      "type": "x_post",
+      "title": "the best content doesnt win the most engaged with content wins the best product doesn't wi",
+      "url": "https://x.com/codyschneider/status/1707529572156117319",
+      "publishedAt": "2023-09-28",
+      "outlet": "X",
+      "views": 4696,
+      "topicIds": [],
+      "excerpt": "the best content doesnt win\n\nthe most engaged with content wins\n\nthe best product doesn't win\n\nthe most distributed product wins"
+    },
+    {
+      "id": "x-1663002290553225216",
+      "type": "x_post",
+      "title": "if VCs still writing $1M checks the founders are fleecing you rules have changed real foun",
+      "url": "https://x.com/codyschneider/status/1663002290553225216",
+      "publishedAt": "2023-05-29",
+      "outlet": "X",
+      "views": 9158,
+      "topicIds": [],
+      "excerpt": "if VCs still writing $1M checks the founders are fleecing you\n\nrules have changed\n\nreal founders need who are legit only need:\n\na good growth person augmented by ai\n\na good eng person augmented by ai\n"
+    },
+    {
+      "id": "x-1699994856242721237",
+      "type": "x_post",
+      "title": "how to start a b2b software ask chatgpt \"list 50 white collar service consultants\" find on",
+      "url": "https://x.com/codyschneider/status/1699994856242721237",
+      "publishedAt": "2023-09-08",
+      "outlet": "X",
+      "views": 40867,
+      "topicIds": [],
+      "excerpt": "how to start a b2b software \n\nask chatgpt \"list 50 white collar service consultants\" \n\nfind ones with software already built for them (spoiler there a lot and UI is potato)\n\nmake your version \n\nmake s"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/cody-schneider/mcp",
+    "serverName": "cody-schneider-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Cody Schneider's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Cody Schneider's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

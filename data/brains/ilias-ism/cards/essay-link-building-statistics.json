@@ -1,0 +1,38 @@
+{
+  "id": "essay-link-building-statistics",
+  "title": "Link building statistics 2026: what guest posts cost, what drives price, what publishers demand",
+  "summary": "Ilias Ism's LinkDR essay analyzes a catalog of 10,030 publisher sites to show real link prices. Median guest post is $100 on DR 30+ sites, price is flat from DR 30 to 59, traffic matters as much as DR, and most publishers want upfront payment. It ends with practical buying rules.",
+  "principles": [
+    {
+      "text": "Check a site's organic traffic before buying a link, not just its Domain Rating.",
+      "quote": "Almost half of the DR 30+ sites that sell links get fewer than 1,000 visits a month. DR measures a site's own backlinks, and those can be bought too. **Check organic traffic before you buy, not only DR.**"
+    },
+    {
+      "text": "Don't overpay for a few extra DR points: median price is flat from DR 30 to DR 59, so pay for traffic and relevance.",
+      "quote": "Do not pay DR 60 prices for DR 50 sites.** The median price is flat from DR 30 to DR 59. Pay more for traffic and relevance, not for a few DR points."
+    },
+    {
+      "text": "Publishers price on traffic about as much as DR, so price climbs steadily with traffic.",
+      "quote": "Across DR 30+ sites, log price correlates with log traffic at 0.49 and with DR at 0.45. Publishers price on both, and traffic edges out DR."
+    },
+    {
+      "text": "Compare multiple resellers: the same site can cost twice as much from one seller as another.",
+      "quote": "The most expensive reseller asks a median of **1.44 times** the cheapest. On **30%** of these sites, the gap is 2 times or more."
+    },
+    {
+      "text": "Skip news sites unless you truly need them; they carry a large price premium.",
+      "quote": "Skip news sites unless you need them.** They cost about 11 times more than other DR 30+ sites."
+    },
+    {
+      "text": "Link insertions are rarely cheaper than guest posts, so choose based on fit, not expected savings.",
+      "quote": "The insertion saves the publisher work, but many charge for the link, not the article."
+    }
+  ],
+  "topics": [
+    "seo",
+    "pricing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

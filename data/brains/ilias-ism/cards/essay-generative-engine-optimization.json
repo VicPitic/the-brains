@@ -1,0 +1,39 @@
+{
+  "id": "essay-generative-engine-optimization",
+  "title": "Generative Engine Optimization: how to get cited by ChatGPT, Perplexity and AI Overviews",
+  "summary": "Ilias Ism explains GEO as optimizing content to be cited by AI search engines, not just ranked. He covers the three engine types, the Princeton study's tactics, and his daily manual routine of finding AI-cited listicles and paying for placement.",
+  "principles": [
+    {
+      "text": "GEO builds on SEO rather than replacing it; master traditional SEO first, since AI engines rely on the same crawling and rankings.",
+      "quote": "AI systems cite content that ranks well in traditional search."
+    },
+    {
+      "text": "Optimize for citations in AI answers, not blue-link rankings; being the top citation can beat ranking #1 in Google.",
+      "quote": "Being the top citation in generative AI systems often outperforms ranking #1 in Google for credibility and conversion"
+    },
+    {
+      "text": "Add concrete statistics and credible citations; they were the biggest levers in the Princeton GEO study.",
+      "quote": "Transform vague claims into concrete data points.** AI models prioritize factual, quantifiable information."
+    },
+    {
+      "text": "Tailor tactics to content type: opinion, factual, historical and business content each respond to different optimizations.",
+      "quote": "One-size-fits-all doesn't work in GEO. **Tailor your strategy to your content type**."
+    },
+    {
+      "text": "Track GEO manually for 10 minutes daily: ask AI engines your money queries and see which listicles get cited.",
+      "quote": "So every morning, I spend **10 minutes** checking where I stand."
+    },
+    {
+      "text": "Pitch authors of AI-cited listicles and offer to pay for placement; leading with 'your article is cited by AI' gets replies.",
+      "quote": "I'm not begging for links. I'm offering to pay for placement in content that AI already trusts."
+    }
+  ],
+  "topics": [
+    "seo",
+    "ai",
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

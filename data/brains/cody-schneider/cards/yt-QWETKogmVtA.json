@@ -1,0 +1,39 @@
+{
+  "id": "yt-QWETKogmVtA",
+  "title": "Cody Schneider (Graphed): Building AI marketing agents that actually work in production",
+  "summary": "Cody Schneider explains how to build teams of specialized AI marketing agents with feedback loops, evals and safety guardrails rather than one generalist agent. He covers choosing businesses by search intent, why data ontology and good signals decide whether agents succeed, and why buyers want outcomes, not tools.",
+  "principles": [
+    {
+      "text": "Pick businesses by real demand: search intent and a problem people already try to solve.",
+      "quote": "or it's just like based off of search intent."
+    },
+    {
+      "text": "A business is what the market wants to buy and how you get in front of it. Use that as first principles.",
+      "quote": "a business at its core is always the simplest thing. Like it's it's basically like what does the market want to buy and like how you know, how do I sell it?"
+    },
+    {
+      "text": "Growth is engineering: an outcome, limited time/money/energy, and a system distributing resources toward it.",
+      "quote": "I have an outcome that I'm trying to get. I have limited resources of time, money, and mental energy."
+    },
+    {
+      "text": "Agents fail when they optimize the wrong metric. The AI SDR got leads, but poor quality ones; fix the signal fed back.",
+      "quote": "if you have the wrong signal going back to it, then that's like it's not the agent's fault. It's just it's doing its job, right?"
+    },
+    {
+      "text": "Vibe coding gets you to 80%; production needs evals, feedback loops and narrow agent roles.",
+      "quote": "vibe coding from 0 to 80% is pretty cool. 80 to production and live is is like a chasm."
+    },
+    {
+      "text": "Agents guess at raw data columns, so teach them the data's ontology; decisions on bad data are the worst failure.",
+      "quote": "unless you're teaching them the ontology of the underlying data, it becomes a massive problem."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "growth",
+    "sales"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

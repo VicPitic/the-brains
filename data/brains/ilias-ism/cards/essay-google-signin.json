@@ -1,0 +1,38 @@
+{
+  "id": "essay-google-signin",
+  "title": "How Ilias Ism got a 107% trial lift by making Google Sign-In prominent (A/B test)",
+  "summary": "Ilias Ism shares a live A/B test on GenPPT where a prominent Google Sign-In button in the hero plus a scroll-triggered sticky modal lifted trial starts from 7.48% to 15.5%. He backs it with six other case studies and a playbook for placement, fallbacks, measurement and controlled rollout.",
+  "principles": [
+    {
+      "text": "Making Google Sign-In prominent can double trial conversion by removing form friction.",
+      "quote": "prominently adding Google Sign-In more than doubled our trial conversion rate."
+    },
+    {
+      "text": "Put the Google button in both navbar and hero, and add a scroll-triggered modal, for maximum visibility.",
+      "quote": "Show the Google button in both nav and hero for max visibility."
+    },
+    {
+      "text": "Always keep email and other login alternatives visible; hiding them can reduce total conversions.",
+      "quote": "Keep an email fallback—hiding it can hurt conversions if Google is blocked."
+    },
+    {
+      "text": "Measure completed, verified sign-ups per unique visitor, then check activation and retention, since social login may not lift long-term usage.",
+      "quote": "Social logins often boost sign-ups, but not always long-term usage."
+    },
+    {
+      "text": "Validate with a controlled 2-week A/B test; use sequential or Bayesian testing if traffic is low.",
+      "quote": "Run a 2-week A/B test: 50% see the new, prominent Google CTA; 50% see the old flow"
+    },
+    {
+      "text": "Track every funnel step and respect One Tap cooldowns so you don't over-prompt.",
+      "quote": "Track each step: page view → button click → credential issued → onboarding."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

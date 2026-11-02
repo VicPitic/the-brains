@@ -1,0 +1,39 @@
+{
+  "id": "essay-churn-tips",
+  "title": "How Ilias Ism reduces SaaS churn: segment it, fix the product, shorten time to value",
+  "summary": "Ilias argues churn is a product-quality signal, not a funnel problem. He says to split churn into types, measure it honestly, get users to one real result fast, build honest cancellation flows, and price to attract customers with a real job to do.",
+  "principles": [
+    {
+      "text": "Churn isn't one number. Segment it by type (voluntary, involuntary, bad-fit, activation, value) before choosing a fix.",
+      "quote": "Most founders mix these together, then build the wrong fix."
+    },
+    {
+      "text": "Fix the product before the funnel; churn mostly drops from fewer bugs, clearer setup and removing reasons users feel betrayed.",
+      "quote": "People churn when the value they get is lower than the cost they feel."
+    },
+    {
+      "text": "Onboarding should get the user to one real outcome with as few choices as possible, not tour every feature.",
+      "quote": "Onboarding is not a museum tour. Nobody needs to see every room."
+    },
+    {
+      "text": "Measure churn correctly. Don't mix trials, failed payments and serious customers; track logo, revenue, cohort and plan-level churn.",
+      "quote": "Do not mix free trials, failed payments, one-off users, and serious customers into the same emotional spreadsheet."
+    },
+    {
+      "text": "Price like a bouncer: the wrong low price attracts browsers who churn; sometimes the fix is removing the plan that invites the wrong customer.",
+      "quote": "Sometimes the churn fix is not a discount. It is removing the plan that invites the wrong customer."
+    },
+    {
+      "text": "Send value recaps showing what the customer achieved instead of 'we miss you' emails, so they remember the value before renewal.",
+      "quote": "If your product creates value quietly in the background, surface it. Otherwise the customer only feels the invoice."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

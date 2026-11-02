@@ -1,0 +1,38 @@
+{
+  "id": "essay-programmatic-seo-nextjs",
+  "title": "Programmatic SEO with Next.js: building thousands of pages from one template",
+  "summary": "A hands-on tutorial on building a programmatic SEO site in Next.js. Prefer static generation for speed, drive many pages from one dynamic-route template and a data file, give every page unique metadata, ship a dynamic sitemap, and deploy on Vercel. Includes scaling notes for very large sites.",
+  "principles": [
+    {
+      "text": "For pSEO at scale, prefer static site generation: pre-render pages at build time for fast loads.",
+      "quote": "SSG generates static HTML files at build time, resulting in incredibly fast page load times – a key ranking factor. For pSEO, SSG is often the ideal choice, especially for large sites."
+    },
+    {
+      "text": "One template plus a data source plus dynamic routes yields hundreds or thousands of pages.",
+      "quote": "Next.js makes it incredibly easy to create dynamic routes, which are essential for generating hundreds or thousands of programmatic pages from a single template."
+    },
+    {
+      "text": "Give every programmatic page unique metadata (title, description) built from its own data.",
+      "quote": "This is _essential_ for programmatic SEO, as you need unique metadata for each page."
+    },
+    {
+      "text": "Put a clean slug in your dataset so URLs are readable and SEO-friendly.",
+      "quote": "We've added a `slug` field to each city object. This will be used for creating clean, SEO-friendly URLs."
+    },
+    {
+      "text": "Past 50,000 URLs or 50MB, split into multiple sitemaps with a sitemap index file.",
+      "quote": "If you have more than 50,000 URLs or your sitemap file exceeds 50MB, you'll need to create multiple sitemaps and a sitemap index file."
+    },
+    {
+      "text": "On very large sites, update sitemap entries incrementally instead of regenerating everything.",
+      "quote": "For very large sites, regenerating the entire sitemap on every change can be inefficient."
+    }
+  ],
+  "topics": [
+    "seo",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

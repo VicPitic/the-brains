@@ -1,0 +1,39 @@
+{
+  "id": "essay-ai-apps-50-seo-report",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "AI Apps 50 SEO report: what separates winning AI tools in organic search",
+  "summary": "MagicSpace (Ilias Ism, Sasha, Hiren) pulled Ahrefs data on the a16z AI Apps 50 list. Traffic is highly concentrated, organic dwarfs paid, and winners ship large indexable content libraries and category-owning educational content rather than relying on links.",
+  "topics": [
+    "seo",
+    "growth",
+    "marketing",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Organic search is the only sustainable acquisition channel at scale; even well-funded AI tools barely use paid search.",
+      "quote": "Even these well-funded tools barely use paid search. Organic is the only sustainable acquisition channel at scale, something we also see with our clients."
+    },
+    {
+      "text": "Don't chase long-tail keywords that bring 1-2 visits a month. Focus on the few keywords that actually matter.",
+      "quote": "Most tools waste resources chasing long-tail keywords that generate 1-2 visits/month. Focus on the 1-5 keywords that matter."
+    },
+    {
+      "text": "Programmatic SEO: every template, tool or asset is a new indexable page, so content volume beats selective link building.",
+      "quote": "Every new template/tool/asset = new indexable page = new ranking opportunity."
+    },
+    {
+      "text": "High domain authority is wasted without a content strategy to turn it into visitors.",
+      "quote": "Links without content strategy = wasted authority."
+    },
+    {
+      "text": "Own your category's educational content: teach how to use the category, not why to use your tool.",
+      "quote": "\"How to use [category]\" content > \"Why use [our tool]\" content."
+    },
+    {
+      "text": "Go deep in one category rather than spreading thin across many; ideally narrow to one keyword.",
+      "quote": "Own one category completely > weak presence in multiple categories."
+    }
+  ]
+}

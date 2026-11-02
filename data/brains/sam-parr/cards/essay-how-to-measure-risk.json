@@ -1,0 +1,36 @@
+{
+  "id": "essay-how-to-measure-risk",
+  "title": "How to measure risk: write out worst cases and plan around each before taking a leap",
+  "summary": "A 2017 essay where Sam Parr lays out his process for deciding on a risky move like quitting a job for a startup. List the worst-case scenarios, build a contingency plan for each, and only then weigh the upside. Writing it down shows that downsides are usually smaller than they feel.",
+  "principles": [
+    {
+      "text": "Most people are bad at analyzing risk; use a deliberate process instead of gut emotion.",
+      "quote": "I think most people are HORRIBLE at measuring risk…"
+    },
+    {
+      "text": "Start by writing out the exact risk you're deciding on, then list the possible worst-case scenarios.",
+      "quote": "Write out the risk you’re deciding on."
+    },
+    {
+      "text": "For each worst case, decide if you could be happy if it happened. If not, build solutions that make it nearly impossible.",
+      "quote": "Address each possible worst case scenario and decide if you’re willing and able to be happy if that scenario happens."
+    },
+    {
+      "text": "Make downside plans concrete with numbers: savings, monthly burn cap, runway, and a fallback job you'd accept.",
+      "quote": "I have $30k in savings. So as long as I spend less than $3k a month, I’ll have 10 months of runway."
+    },
+    {
+      "text": "Only after you're comfortable with the downsides and confident in your contingency plans should you consider the upside; if you like it, do it.",
+      "quote": "If I’m comfortable with all the downsides I’ve listed out and am confident that I can execute on the contingency plans all while living a life that I’m willing to live, then I consider the upsides."
+    },
+    {
+      "text": "The value is in the process: writing outcomes down shows downsides are usually not that bad, so emotions stop holding you back.",
+      "quote": "Most people let their emotions hold them back from doing what they really want."
+    }
+  ],
+  "topics": [
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

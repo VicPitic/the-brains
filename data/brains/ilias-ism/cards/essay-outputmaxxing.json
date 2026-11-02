@@ -1,0 +1,39 @@
+{
+  "id": "essay-outputmaxxing",
+  "title": "Outputmaxxing: why AI tools should ship outputs, not reports",
+  "summary": "Ilias Ism compares three of his own products and finds the tool that produces a finished artifact (GenPPT, ~$10k/mo) earns roughly 100x the pure detection tool (AI SEO Tracker, ~$200/mo). His principle, \"outputmaxxing\": AI made knowing free, so build tools that end with something that didn't exist before, and loop detection into production into verification.",
+  "principles": [
+    {
+      "text": "People don't pay to know; they pay for the thing to exist. Detection tools earn far less than tools that produce outputs.",
+      "quote": "People do not pay to know. They pay for the thing to exist."
+    },
+    {
+      "text": "Test every product with one question: after someone uses it, what exists that didn't exist before? A decision or awareness is just a feature an agent will eat.",
+      "quote": "After someone uses your tool, what exists that didn't exist before?"
+    },
+    {
+      "text": "AI made detection and audits a commodity; the scarce, valuable bottleneck has moved from knowing to shipping.",
+      "quote": "The bottleneck moved from knowing to shipping, and almost every tool in my industry is still selling knowing."
+    },
+    {
+      "text": "Turn every report row into an action: attach the contact, draft the personalized pitch or comment, and let the user fire it with one click.",
+      "quote": "The old version of this page is a report. You read it, nod, and the work still has not started."
+    },
+    {
+      "text": "Close the loop across products so detection feeds production and production feeds verification.",
+      "quote": "Detection feeds production. Production feeds verification."
+    },
+    {
+      "text": "Third-party placements can be your best-converting channel, and you can be blind to them if you only track assets you own.",
+      "quote": "I never saw it happen, because the page was never mine."
+    }
+  ],
+  "topics": [
+    "product",
+    "ai",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

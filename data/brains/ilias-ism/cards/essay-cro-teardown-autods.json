@@ -1,0 +1,39 @@
+{
+  "id": "essay-cro-teardown-autods",
+  "title": "AutoDS CRO teardown: conversion tactics from a $1B dropshipping platform's funnel",
+  "summary": "Ilias Ism breaks down 57 screenshots of AutoDS's funnel (homepage, pricing, blog, mobile) and distills the conversion tactics: specific timeframes, dual CTAs, third-party proof, value stacking, platform-based pricing, and content built to convert. The core lesson is that every page serves one role in a single journey toward paid customers.",
+  "principles": [
+    {
+      "text": "Use specific timeframes instead of vague speed claims; they feel believable and create commitment.",
+      "quote": "AutoDS doesn't say \"quickly\" or \"fast\"—they say **\"2 minutes\"**. This specificity serves multiple psychological purposes"
+    },
+    {
+      "text": "Run two CTAs aimed at different user mindsets: an action-oriented one and a process-oriented one.",
+      "quote": "Create 2 CTAs serving different psychological states"
+    },
+    {
+      "text": "Prefer third-party validation (app store and review-site ratings) over self-promotion.",
+      "quote": "Third-party validation over self-promotion"
+    },
+    {
+      "text": "Stack and quantify every trial benefit in dollars so a tiny price feels like a steal.",
+      "quote": "Quantify and stack every trial benefit with dollar values"
+    },
+    {
+      "text": "Adjust pricing by platform, billing frequency and segment rather than showing one price to everyone.",
+      "quote": "Adjust pricing based on traffic source or user segment"
+    },
+    {
+      "text": "Make AI feel controllable and tangible, with user control and concrete benefits.",
+      "quote": "Give users control over automated features"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "pricing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-cody-schneider",
+  "personIsSpeaker": true,
+  "quality": 5,
+  "title": "Cody Schneider: Distribution, owned media and \"digital gravity\" as the only moat in the AI era",
+  "summary": "Cody argues that as AI drives feature parity and the cost of building software toward zero, distribution and brand are the only durable moats. He covers owned media (a16z, Arrow Electronics, Red Bull, Rupa Health's podcast), tracking branded search, bottom-up AI adoption, guardrails and domain vocabulary for AI output, and using social as a public idea-testing ground.",
+  "topics": [
+    "distribution",
+    "marketing",
+    "ai",
+    "growth"
+  ],
+  "principles": [
+    {
+      "text": "With feature parity, the product with better marketing and distribution wins every time.",
+      "quote": "if I have a product A and product B, and their feature there's feature parity, right? But product A has better marketing and distribution than product B, product A is going to win every time, full stop."
+    },
+    {
+      "text": "Build owned media that speaks to one well-defined target customer; it gives distribution, defensibility and negotiation leverage.",
+      "quote": "you have to make media that is selling to your target customer. And if you're like, our target customer is everyone, like you're going to create terrible media."
+    },
+    {
+      "text": "Track brand as the compounding moat: measure branded searches in Search Console month over month.",
+      "quote": "are the brand volume searches increasing month over month?. And I think for growing companies, this is, for example, this is my, like, one of my biggest metrics for 2026"
+    },
+    {
+      "text": "Content marketing fights rising ad costs: as CPCs climb, organic content drives acquisition toward zero.",
+      "quote": "it basically is how you fight that increased, you know, advertising costs that's going to naturally happen within a market."
+    },
+    {
+      "text": "Build 'digital gravity': enough content mass that you catch prospects at every stage of a messy, non-linear funnel.",
+      "quote": "you basically need to build digital mass on the internet so that you create digital gravity within your, your space."
+    },
+    {
+      "text": "Roll out AI bottom-up: give individuals tooling to automate tasks they hate, then reward sharing with status.",
+      "quote": "I think the best way to do this is to give your individual contributors the tooling that they can, or that they need to automate as much of their own daily workflows or jobs as possible."
+    }
+  ]
+}

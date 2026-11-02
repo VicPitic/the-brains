@@ -1,0 +1,39 @@
+{
+  "id": "essay-extension-store-assets",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "How I generate Chrome extension store assets with AI: a three-phase skill",
+  "summary": "Ilias Ism turns the workflow he used for Peel UI into an open-source Cursor skill that generates a Chrome extension's icon, brand guide, promo tiles, benefit slides and listing copy. The core lessons: explore many icon concepts first, derive a brand guide from the winner, and use full-bleed promotional slides rather than popup screenshots.",
+  "topics": [
+    "ai",
+    "launch",
+    "marketing",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Explore several unrelated icon concepts before committing; never lock into the first mediocre direction.",
+      "quote": "Run phase 1. \"Just make the icon\" locks you into the first mediocre direction."
+    },
+    {
+      "text": "Derive a brand guide from the winning icon so every later asset stays on palette.",
+      "quote": "After you pick an icon, generate a 16:9 brand guide: hex palette, typography direction, button mocks, 24px toolbar glyph, voice tags. Every store slide references this file."
+    },
+    {
+      "text": "Store screenshots should be promotional benefit slides that explain the job, not zoomed popup screenshots.",
+      "quote": "Show what the extension _does_, not what the popup looks like zoomed to 90%."
+    },
+    {
+      "text": "Fill the whole frame with multi-column layouts and concrete sample data instead of a small centered icon on empty background.",
+      "quote": "Multi-column layouts with sample data beat centered icon rows on empty background."
+    },
+    {
+      "text": "One idea per slide; cramming hero, picker and export into one image reads cramped.",
+      "quote": "One slide, one idea. Hero + picker + export in one 1280×800 image reads cramped."
+    },
+    {
+      "text": "Package repeatable workflows as open-source skills with a per-product config file, replacing per-product design work.",
+      "quote": "I wrote a three-phase workflow, packaged it as a Cursor skill, and stopped opening Figma for every extension."
+    }
+  ]
+}

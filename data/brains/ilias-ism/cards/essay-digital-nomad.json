@@ -1,0 +1,37 @@
+{
+  "id": "essay-digital-nomad",
+  "title": "Why Ilias Ism chose a location independent lifestyle and how to sustain it",
+  "summary": "Ilias recounts going remote at 18 with design and web dev skills, freelancing, then founding Officient and moving through Paris, the Canary Islands and Switzerland. He distills a survival checklist (steady cash flow, in-demand skills, insurance, adaptability) and a mindset built on balance, constant learning, networks and embracing change.",
+  "principles": [
+    {
+      "text": "Have a reliable income and an emergency fund before going location independent.",
+      "quote": "Whether it's online jobs, freelancing, or running your own biz, you need a reliable income. Having an emergency fund for those unexpected hiccups is a smart move."
+    },
+    {
+      "text": "Build skills that are in demand online; they are what let you thrive remotely.",
+      "quote": "the key to thriving as a digital nomad is having skills that are hot online."
+    },
+    {
+      "text": "Freelancing with marketable skills is a low-barrier way to start before launching your own business.",
+      "quote": "Freelancing was my golden ticket to the world of digital nomad jobs"
+    },
+    {
+      "text": "Never stop learning; every project and place teaches something, however much you've hustled.",
+      "quote": "Every new job, project, and city teaches you something."
+    },
+    {
+      "text": "Your network is a lifeline; connect with peers and build a social presence early.",
+      "quote": "Connect with other digital nomads, join Facebook groups, and build a strong social media presence. You never know when these connections might come in handy."
+    },
+    {
+      "text": "Adaptability is key; plans, income and circumstances will shift, so roll with it.",
+      "quote": "Learning to adapt and roll with the punches is key."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

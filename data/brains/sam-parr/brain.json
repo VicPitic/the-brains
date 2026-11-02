@@ -1,0 +1,2340 @@
+{
+  "schemaVersion": 1,
+  "slug": "sam-parr",
+  "name": "Sam Parr",
+  "shortName": "Sam Parr",
+  "tagline": "Sold The Hustle to HubSpot, co-hosts My First Million, runs Hampton",
+  "role": "Founder & President",
+  "company": "Hampton",
+  "categories": [
+    "ceos",
+    "marketers",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "There's no such thing as too long, just too boring.",
+    "sourceId": "yt-uf4fR3qcDkU"
+  },
+  "topics": [
+    {
+      "id": "copywriting",
+      "label": "Copywriting",
+      "summary": "Sales on paper: AIDA, long copy, plain language, headlines and learning by hand-copying great work.",
+      "sampleQuestion": "How do I learn to write copy that actually sells?",
+      "sourceIds": [
+        "yt-uYmJiGa1MPo",
+        "yt-uf4fR3qcDkU",
+        "yt-XNi0sdjtErU",
+        "essay-copywriting-skills",
+        "essay-write-like-hustle-boring-stuff-writing-no-one-talks",
+        "yt-itWzn8ZyRBE"
+      ]
+    },
+    {
+      "id": "newsletter-growth",
+      "label": "Newsletters and distribution",
+      "summary": "How The Hustle grew to about 2M readers: go where readers are, siphon them, then buy ads on proven math.",
+      "sampleQuestion": "How do I get my newsletter's first 100,000 subscribers?",
+      "sourceIds": [
+        "yt-CO2ELWa3jsc",
+        "yt-EvI6c_keS7Y",
+        "yt-JNqrTePp_T4",
+        "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra",
+        "essay-creatorscience-sam-parr",
+        "yt-qLdQJBKKSYs",
+        "x-1753145660612735027"
+      ]
+    },
+    {
+      "id": "validating-ideas",
+      "label": "Validating and launching ideas",
+      "summary": "Back-of-envelope math, cheap research, and a first sale before a website, domain or LLC.",
+      "sampleQuestion": "How do I vet a business idea before building anything?",
+      "sourceIds": [
+        "yt-xHrjktuM1Dc",
+        "yt-6IKyi9gfxqw",
+        "yt-V-x7v69YZIM",
+        "x-1555564495392710657",
+        "x-1632854354888650755",
+        "yt-7yLGPotEkAE"
+      ]
+    },
+    {
+      "id": "communities",
+      "label": "Paid communities",
+      "summary": "Audience versus community, starting low-friction, curating members and charging more than you think.",
+      "sampleQuestion": "How do I build a paid community that keeps its culture?",
+      "sourceIds": [
+        "yt-fBUTbkD2RB8",
+        "yt-8pwR5n63y84",
+        "yt-V-x7v69YZIM",
+        "yt-iGhgzj1L5OA",
+        "essay-my-new-company"
+      ]
+    },
+    {
+      "id": "pricing-monetization",
+      "label": "Pricing and monetization",
+      "summary": "Charge more, bill annually, avoid no-man's-land prices, and don't lean on ads as your main revenue.",
+      "sampleQuestion": "How should I price my paid newsletter or membership?",
+      "sourceIds": [
+        "yt-mClL18_H9tU",
+        "yt-7yLGPotEkAE",
+        "yt-8pwR5n63y84",
+        "yt-iGhgzj1L5OA",
+        "essay-22-immutable-laws-of-marketing"
+      ]
+    },
+    {
+      "id": "bootstrapping-focus",
+      "label": "Bootstrapping, focus and goals",
+      "summary": "Why he self-funds, works on one thing for years, sets A, B, Z goals and hires for leverage.",
+      "sampleQuestion": "Should I raise venture capital or bootstrap my company?",
+      "sourceIds": [
+        "yt-wJPLYR5rNx4",
+        "essay-set-a-goal",
+        "x-1620818040949727232",
+        "x-1977675750825140545",
+        "yt-itWzn8ZyRBE",
+        "x-2026323758189879478"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Copywriting is sales on paper: it scales your one-to-one selling to an unlimited audience.",
+      "sourceIds": [
+        "yt-uYmJiGa1MPo",
+        "yt-itWzn8ZyRBE"
+      ]
+    },
+    {
+      "text": "Go where your target readers already are, make content that wins there, and siphon them to your list.",
+      "sourceIds": [
+        "yt-JNqrTePp_T4",
+        "yt-CO2ELWa3jsc",
+        "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra"
+      ]
+    },
+    {
+      "text": "Get a sale within days, by cold email, phone and a payment link, before a website, LLC or product.",
+      "sourceIds": [
+        "x-1555564495392710657",
+        "yt-6IKyi9gfxqw",
+        "yt-8pwR5n63y84"
+      ]
+    },
+    {
+      "text": "Charge more than you think: a higher price funds a good service and pays to acquire customers.",
+      "sourceIds": [
+        "yt-8pwR5n63y84",
+        "yt-fBUTbkD2RB8",
+        "yt-mClL18_H9tU"
+      ]
+    },
+    {
+      "text": "Working on one good business for 10 years will likely beat 10 decent things for a year each.",
+      "sourceIds": [
+        "x-1620818040949727232",
+        "x-1977675750825140545",
+        "x-1963578140279607586"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I grow a newsletter from zero without an ad budget?",
+      "answer": [
+        {
+          "text": "Start with distribution: before you have an article idea, decide who you want to reach and where they already are.",
+          "sourceIds": [
+            "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra"
+          ]
+        },
+        {
+          "text": "Write posts built to rank in specific communities like subreddits and Hacker News, then convert that traffic with a strong pop-up.",
+          "sourceIds": [
+            "yt-qLdQJBKKSYs",
+            "x-1753145660612735027"
+          ]
+        },
+        {
+          "text": "Make the forgotten text good too, like thank-you pages and welcome emails, and spend real time on headlines, since they can move click-through from 1% to 10%.",
+          "sourceIds": [
+            "yt-CO2ELWa3jsc"
+          ]
+        },
+        {
+          "text": "Hold off on paid marketing until you have about 20,000 to 40,000 people. Then work out what a subscriber is worth and buy ads up to your payback window.",
+          "sourceIds": [
+            "yt-6IKyi9gfxqw",
+            "yt-JNqrTePp_T4"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I test an idea before building it?",
+      "answer": [
+        {
+          "text": "Use back-of-the-envelope math and check that a big player exists, which shows the market is large enough. Detailed spreadsheets this early are procrastination driven by fear.",
+          "sourceIds": [
+            "yt-xHrjktuM1Dc"
+          ]
+        },
+        {
+          "text": "Research by cold-calling bankers, founders and ex-employees, and by reading reviews.",
+          "sourceIds": [
+            "yt-6IKyi9gfxqw"
+          ]
+        },
+        {
+          "text": "Launch with a Google Doc and a Typeform, or post a public offer and count replies, then call every lead personally and take payment through a simple link.",
+          "sourceIds": [
+            "yt-6IKyi9gfxqw",
+            "yt-V-x7v69YZIM"
+          ]
+        },
+        {
+          "text": "Make at least $100 in sales before you buy a domain name.",
+          "sourceIds": [
+            "x-1632854354888650755"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I bootstrap or raise venture capital?",
+      "answer": [
+        {
+          "text": "If your main goal is freedom and making money for yourself, bootstrap. VC fits founders who want to go huge, so pick deliberately.",
+          "sourceIds": [
+            "yt-wJPLYR5rNx4"
+          ]
+        },
+        {
+          "text": "Your cap table is one of the few business mistakes you can't undo, and raising commits you to optimizing for investor returns.",
+          "sourceIds": [
+            "yt-wJPLYR5rNx4"
+          ]
+        },
+        {
+          "text": "Choose a model that doesn't need outside money. Hampton charges up front and reached millions in run rate before it had a website.",
+          "sourceIds": [
+            "yt-wJPLYR5rNx4",
+            "yt-6IKyi9gfxqw"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-CO2ELWa3jsc",
+    "yt-uYmJiGa1MPo",
+    "yt-xHrjktuM1Dc",
+    "yt-itWzn8ZyRBE",
+    "yt-wJPLYR5rNx4",
+    "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1474048180908175363/b6PCpGwj_400x400.jpg",
+    "alt": "Photo of Sam Parr"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/thesamparr",
+      "label": "@thesamparr"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@MyFirstMillionPod"
+    },
+    {
+      "kind": "website",
+      "url": "https://thesamparr.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://copythat.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://joinhampton.com"
+    }
+  ],
+  "followers": {
+    "x": 389464,
+    "youtube": 969000,
+    "asOf": "2026-11-01"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 48,
+    "xPostCount": 136,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 136,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 19,
+      "podcast": 0,
+      "essay": 29
+    },
+    "transcriptMinutes": 1303,
+    "dateRange": {
+      "from": "2013-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-11-01T17:54:31.200Z",
+  "updatedAt": "2026-11-01T17:54:31.200Z",
+  "sources": [
+    {
+      "id": "yt-uYmJiGa1MPo",
+      "type": "youtube",
+      "title": "Sam Parr on copywriting: long-form, AIDA, plain writing and copy work",
+      "url": "https://www.youtube.com/watch?v=uYmJiGa1MPo",
+      "publishedAt": "2026-01-01",
+      "outlet": "This Week in Startups",
+      "durationSec": 3974,
+      "views": 253147,
+      "topicIds": [
+        "copywriting"
+      ],
+      "excerpt": "Sam explains why he obsessed over copywriting (sales on paper scales one-to-one selling) and which timeless principles still work: long copy, AIDA, fourth-grade writing, and hand-copying great sales p"
+    },
+    {
+      "id": "yt-uf4fR3qcDkU",
+      "type": "youtube",
+      "title": "Sam Parr on copywriting: hooks, slippery slope, long copy and copy work",
+      "url": "https://www.youtube.com/watch?v=uf4fR3qcDkU",
+      "publishedAt": "2026-06-01",
+      "outlet": "Sweat Equity",
+      "durationSec": 3359,
+      "views": 105338,
+      "topicIds": [
+        "copywriting"
+      ],
+      "excerpt": "Sam Parr breaks down the copywriting frameworks he used at The Hustle and Hampton: punchy first lines, the curiosity gap, stories with the customer as hero, and short sentences. He also explains why l"
+    },
+    {
+      "id": "yt-EvI6c_keS7Y",
+      "type": "youtube",
+      "title": "How Sam Parr built The Hustle newsletter and how to reach $3M/year solo: math, writing, growth",
+      "url": "https://www.youtube.com/watch?v=EvI6c_keS7Y",
+      "publishedAt": "2024-11-01",
+      "outlet": "The Calum Johnson Show",
+      "durationSec": 6202,
+      "views": 109020,
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr explains how he went from HustleCon conferences to a daily newsletter that reached ~2M readers and sold to HubSpot. He covers the audience-value math (CPM, niche, B2B), copywriting practice w"
+    },
+    {
+      "id": "yt-JNqrTePp_T4",
+      "type": "youtube",
+      "title": "Sam Parr on newsletters, differentiation, and building Hampton to last",
+      "url": "https://www.youtube.com/watch?v=JNqrTePp_T4",
+      "publishedAt": "2025-12-01",
+      "outlet": "Young and Profiting",
+      "durationSec": 3464,
+      "views": 72237,
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr explains how he grew The Hustle to 100,000 subscribers with zero ad spend, then scaled it with paid acquisition and ad sales. He also covers why he built Hampton as a forever business, how ni"
+    },
+    {
+      "id": "yt-CO2ELWa3jsc",
+      "type": "youtube",
+      "title": "Sam Parr on writing, copy and growth: how The Hustle got to 150K subscribers in year one",
+      "url": "https://www.youtube.com/watch?v=CO2ELWa3jsc",
+      "publishedAt": "2023-11-01",
+      "outlet": "David Perell",
+      "durationSec": 4288,
+      "views": 67079,
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr explains how he built The Hustle's newsletter audience: do the email math, siphon traffic from subreddits with viral stunts, and obsess over headlines and welcome copy. He also covers hiring "
+    },
+    {
+      "id": "yt-6IKyi9gfxqw",
+      "type": "youtube",
+      "title": "Sam Parr on plotting, bootstrapping Hampton, and building cash-flow businesses fast",
+      "url": "https://www.youtube.com/watch?v=6IKyi9gfxqw",
+      "publishedAt": "2023-11-01",
+      "outlet": "Anthony Pompliano",
+      "durationSec": 6593,
+      "views": 42328,
+      "topicIds": [
+        "validating-ideas"
+      ],
+      "excerpt": "Sam Parr explains how he validates and launches businesses: research obsessively, then act within 24 hours and sell by hand before building anything. He covers why he bootstraps Hampton, how to grow a"
+    },
+    {
+      "id": "yt-qLdQJBKKSYs",
+      "type": "youtube",
+      "title": "Sam Parr: Reddit growth hacks, collecting people, and building a decades-long business like Hampton",
+      "url": "https://www.youtube.com/watch?v=qLdQJBKKSYs",
+      "publishedAt": "2023-11-01",
+      "outlet": "Our Future Podcast",
+      "durationSec": 4275,
+      "views": 29412,
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr tells how The Hustle got its first 100-150k subscribers through Reddit and Hacker News stunts, why he surrounds himself with more successful people, and why he now builds for decades with Ham"
+    },
+    {
+      "id": "yt-itWzn8ZyRBE",
+      "type": "youtube",
+      "title": "The 5 levels of making money: Sam Parr on $10K to $100M and what changes at each stage",
+      "url": "https://www.youtube.com/watch?v=itWzn8ZyRBE",
+      "publishedAt": "2026-02-01",
+      "outlet": "Grant Owen and My First Million",
+      "durationSec": 5869,
+      "views": 28945,
+      "topicIds": [
+        "copywriting",
+        "bootstrapping-focus"
+      ],
+      "excerpt": "Sam Parr walks through the stages from $10K to $100M. Early on it's selling a service, asking for money and cold emailing. At the middle stages you need distribution, hiring and systems. Past $10M it'"
+    },
+    {
+      "id": "yt-wJPLYR5rNx4",
+      "type": "youtube",
+      "title": "Sam Parr: Why he bootstrapped Hampton instead of raising VC, and how he designs a business around a rich life",
+      "url": "https://www.youtube.com/watch?v=wJPLYR5rNx4",
+      "publishedAt": "2026-10-18",
+      "outlet": "Antler Global",
+      "durationSec": 2755,
+      "views": 24569,
+      "topicIds": [
+        "bootstrapping-focus"
+      ],
+      "excerpt": "Sam Parr explains why he chose not to raise venture capital for Hampton, how he reverse-engineers a business from constraints (Ikigai plus email CPM math), and why aligning co-founders on lifestyle no"
+    },
+    {
+      "id": "yt-CgH0d5TWeWc",
+      "type": "youtube",
+      "title": "Sam Parr on insecurity as fuel, delegating to a CEO, and a boring daily routine",
+      "url": "https://www.youtube.com/watch?v=CgH0d5TWeWc",
+      "publishedAt": "2024-11-01",
+      "outlet": "Andrew Wilkinson",
+      "durationSec": 3050,
+      "views": 24172,
+      "topicIds": [],
+      "excerpt": "Sam Parr tells Andrew Wilkinson how he went from a hot dog stand to The Hustle exit, MFM and Hampton. He covers why feeling inadequate drives ambition, why meeting successful founders removed his fear"
+    },
+    {
+      "id": "yt-8pwR5n63y84",
+      "type": "youtube",
+      "title": "Sam Parr: audience vs community, pricing high, and building brand before spreadsheets",
+      "url": "https://www.youtube.com/watch?v=8pwR5n63y84",
+      "publishedAt": "2023-11-01",
+      "outlet": "The Nick Bare Podcast",
+      "durationSec": 7041,
+      "views": 21166,
+      "topicIds": [
+        "communities",
+        "pricing-monetization"
+      ],
+      "excerpt": "Sam Parr explains why he sold The Hustle to HubSpot and what he changed building Hampton. He covers prioritizing brand over finance early, charging more, launching businesses to an audience, and the r"
+    },
+    {
+      "id": "yt-xHrjktuM1Dc",
+      "type": "youtube",
+      "title": "How Sam Parr vets business ideas: back-of-envelope math and a free research toolkit",
+      "url": "https://www.youtube.com/watch?v=xHrjktuM1Dc",
+      "publishedAt": "2022-11-01",
+      "outlet": "Marketing Against the Grain",
+      "durationSec": 2895,
+      "views": 20038,
+      "topicIds": [
+        "validating-ideas"
+      ],
+      "excerpt": "Sam argues ideas matter for people who actually ship, and that you vet them with quick back-of-envelope math plus lots of cheap research, not spreadsheets. He shares his research stack (Companies Hous"
+    },
+    {
+      "id": "yt-iGhgzj1L5OA",
+      "type": "youtube",
+      "title": "Sam Parr on building media and communities: study winners, narrow niche, avoid ads-only revenue",
+      "url": "https://www.youtube.com/watch?v=iGhgzj1L5OA",
+      "publishedAt": "2026-09-01",
+      "outlet": "Newcomer",
+      "durationSec": 3404,
+      "views": 13855,
+      "topicIds": [
+        "communities",
+        "pricing-monetization"
+      ],
+      "excerpt": "Sam Parr explains how he reverse-engineers successful businesses, builds from a narrow niche, and uses staged goals and stakes to scale. He covers newsletter and podcast content tradeoffs, the founder"
+    },
+    {
+      "id": "yt-mClL18_H9tU",
+      "type": "youtube",
+      "title": "Sam Parr: Selling The Hustle to HubSpot and growing a newsletter to 2M subscribers",
+      "url": "https://www.youtube.com/watch?v=mClL18_H9tU",
+      "publishedAt": "2021-11-01",
+      "outlet": "Nathan Barry Archive",
+      "durationSec": 4382,
+      "views": 13350,
+      "topicIds": [
+        "pricing-monetization"
+      ],
+      "excerpt": "Sam Parr explains how The Hustle grew to nearly 2M subscribers, what due diligence on the HubSpot sale was like, and how he hires and hands off. He gives concrete advice on paid newsletters: charge mo"
+    },
+    {
+      "id": "yt-aWQ-RqLPFLs",
+      "type": "youtube",
+      "title": "Sam Parr on money, sobriety, and what \"enough\" means after selling The Hustle",
+      "url": "https://www.youtube.com/watch?v=aWQ-RqLPFLs",
+      "publishedAt": "2024-11-01",
+      "outlet": "Daily Stoic",
+      "durationSec": 6743,
+      "views": 12747,
+      "topicIds": [],
+      "excerpt": "Sam Parr talks with Ryan Holiday about setting a $20M goal at 24 and hitting it by 31, why he still wants more, and why success never feels like arriving. He also covers investing in the business mach"
+    },
+    {
+      "id": "yt-V-x7v69YZIM",
+      "type": "youtube",
+      "title": "How Sam Parr launched Hampton, a founder peer network, to ~$1M ARR with no website",
+      "url": "https://www.youtube.com/watch?v=V-x7v69YZIM",
+      "publishedAt": "2025-11-01",
+      "outlet": "Personal IPO Podcast",
+      "durationSec": 3197,
+      "views": 6980,
+      "topicIds": [
+        "validating-ideas",
+        "communities"
+      ],
+      "excerpt": "Sam Parr explains how he and co-founder Joe Spiser tested demand with a public tweet, personally called every respondent, and sold group spots through a Stripe link before building anything. He covers"
+    },
+    {
+      "id": "yt-fBUTbkD2RB8",
+      "type": "youtube",
+      "title": "Community building: why Sam Parr says start low-friction, run it as a dictatorship, and charge more",
+      "url": "https://www.youtube.com/watch?v=fBUTbkD2RB8",
+      "publishedAt": "2023-11-01",
+      "outlet": "HubSpot ",
+      "durationSec": 1790,
+      "views": 35296,
+      "topicIds": [
+        "communities"
+      ],
+      "excerpt": "Sam Parr explains how he thinks about building paid communities (Hustle Trends, Hampton). He separates an audience from a community, says to launch where people already are, seed it with a leader post"
+    },
+    {
+      "id": "yt-XNi0sdjtErU",
+      "type": "youtube",
+      "title": "Sam Parr on cold email, copy work and long-form copy: AIDA, 50 follow-ups, picking businesses",
+      "url": "https://www.youtube.com/watch?v=XNi0sdjtErU",
+      "publishedAt": "2025-11-01",
+      "outlet": "Horizons Marketing Podcast with Nate Desmond",
+      "durationSec": 1937,
+      "views": 676,
+      "topicIds": [
+        "copywriting"
+      ],
+      "excerpt": "Sam Parr explains how copy work trained his writing, why long-form copy and simple stories convert, and how he writes cold emails with attention, interest, desire, action plus heavy follow-up. He also"
+    },
+    {
+      "id": "yt-7yLGPotEkAE",
+      "type": "youtube",
+      "title": "How Sam Parr Builds Businesses: deal climbing, pricing, focus and zero friction",
+      "url": "https://www.youtube.com/watch?v=7yLGPotEkAE",
+      "publishedAt": "2022-11-01",
+      "outlet": "Aaron Watson ",
+      "durationSec": 2965,
+      "views": 9619,
+      "topicIds": [
+        "validating-ideas",
+        "pricing-monetization"
+      ],
+      "excerpt": "Sam Parr traces his climb from $10 hot dogs to the Hustle's sale to HubSpot, showing how each larger deal came from delivering more value. He covers copywriting, pricing mistakes, selling to early adv"
+    },
+    {
+      "id": "essay-how-to-make-money-hosting-a-conference",
+      "type": "essay",
+      "title": "How Sam Parr ran a sold-out 120-person event for $1,090 profit",
+      "url": "https://samparr.com/how-to-make-money-hosting-a-conference/",
+      "publishedAt": "2014-01-27",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr's 2014 breakdown of hosting Bootstrap LIVE, a 3-hour meetup. He explains landing a \"whale\" speaker first, standing out with a handwritten letter, getting a free venue by appealing to the host"
+    },
+    {
+      "id": "essay-copywriting-skills",
+      "type": "essay",
+      "title": "Write for a 5th grader: Sam Parr's copywriting rule for making people keep reading",
+      "url": "https://samparr.com/copywriting-skills/",
+      "publishedAt": "2015-03-19",
+      "outlet": "samparr.com",
+      "topicIds": [
+        "copywriting"
+      ],
+      "excerpt": "A 2015 essay on writing that gets people to act. Sam's core rule: write like you're talking to a 5th grader, using short words, short sentences, and short paragraphs so each sentence earns the next. H"
+    },
+    {
+      "id": "essay-make-ideas-stick-forever",
+      "type": "essay",
+      "title": "How to make ideas stick: Sam Parr's six-principle Made to Stick cheat sheet",
+      "url": "https://samparr.com/make-ideas-stick-forever/",
+      "publishedAt": "2014-01-29",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2014 essay where Sam Parr summarizes Made to Stick into six principles (simple, unexpected, concrete, credible, emotional, story) with examples from his own campaigns. Useful as a basic messaging an"
+    },
+    {
+      "id": "essay-the-reciprocity-rule",
+      "type": "essay",
+      "title": "The reciprocity rule: how a $1.99 Coke saved $400 on a Craigslist motorcycle",
+      "url": "https://samparr.com/the-reciprocity-rule/",
+      "publishedAt": "2014-02-10",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2014 Sam Parr essay on using the reciprocity rule in negotiation. Give a small, unrequested gift before you ask for something, and the other person feels indebted. He shows it with a Coke on a motor"
+    },
+    {
+      "id": "essay-the-best-business-books-ever",
+      "type": "essay",
+      "title": "Sam Parr's best business books: Titan, 48 Laws, Carnegie, Sugarman, Cialdini",
+      "url": "https://samparr.com/the-best-business-books-ever/",
+      "publishedAt": "2017-11-15",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2017 reading list from Sam's old blog naming the business books that shaped him. His emphasis falls on perseverance, networking by being interested in others, and copywriting and persuasion as the c"
+    },
+    {
+      "id": "essay-how-to-measure-risk",
+      "type": "essay",
+      "title": "How to measure risk: write out worst cases and plan around each before taking a leap",
+      "url": "https://samparr.com/how-to-measure-risk/",
+      "publishedAt": "2017-12-02",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2017 essay where Sam Parr lays out his process for deciding on a risky move like quitting a job for a startup. List the worst-case scenarios, build a contingency plan for each, and only then weigh t"
+    },
+    {
+      "id": "essay-22-immutable-laws-of-marketing",
+      "type": "essay",
+      "title": "Sam Parr's summary of the 22 Immutable Laws of Marketing: own a word, be first, be the opposite",
+      "url": "https://samparr.com/22-immutable-laws-of-marketing/",
+      "publishedAt": "2025-08-05",
+      "outlet": "samparr.com",
+      "topicIds": [
+        "pricing-monetization"
+      ],
+      "excerpt": "Sam Parr summarizes the book The 22 Immutable Laws of Marketing (which he rates 9/10) law by law. The core theme is positioning: win by being first in the customer's mind, owning one simple idea, sacr"
+    },
+    {
+      "id": "essay-the-type-of-successful-people-i-like-all-have-these-things-i",
+      "type": "essay",
+      "title": "What kind of successful people Sam Parr likes: kind, curious, humble, and often once poor",
+      "url": "https://samparr.com/the-type-of-successful-people-i-like-all-have-these-things-in-common/",
+      "publishedAt": "2026-03-02",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam describes the traits shared by the successful people he enjoys being around. He prefers kind over cut-throat, people who talk about life and ideas over business, people who grew up poor or middle "
+    },
+    {
+      "id": "essay-notes-from-hanging-out-with-a-powerful-person",
+      "type": "essay",
+      "title": "Notes from hanging out with a powerful person: what Sam Parr learned meeting Lloyd Blankfein",
+      "url": "https://samparr.com/notes-from-hanging-out-with-a-powerful-person/",
+      "publishedAt": "2026-06-04",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr's field notes after recording My First Million with ex-Goldman Sachs CEO Lloyd Blankfein. The takeaways are about mindset: thick skin, relatability as a leadership trait, studying history, an"
+    },
+    {
+      "id": "essay-set-a-goal",
+      "type": "essay",
+      "title": "Set goals with A, B, Z: a 3-5 year ambitious Z, a 3-6 month near-term B, and ignore the rest",
+      "url": "https://samparr.com/set-a-goal/",
+      "publishedAt": "2026-08-20",
+      "outlet": "samparr.com",
+      "topicIds": [
+        "bootstrapping-focus"
+      ],
+      "excerpt": "Sam Parr explains his A, B, Z goal framework: start at A, pick a near-term B 3-6 months out, and set an ambitious 3-5 year Z, working backwards from Z. Goals must be specific, include both process and"
+    },
+    {
+      "id": "essay-35-growth-is-boring",
+      "type": "essay",
+      "title": "Why 35% growth is boring: the tedious price of Buffett-style steady growth and profitability",
+      "url": "https://samparr.com/35-growth-is-boring/",
+      "publishedAt": "2026-08-27",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam reflects on Warren Buffett's time on the Washington Post board, where revenue grew a steady 12% a year and profitability surged but the company became stodgy. He argues that building a Buffett-lik"
+    },
+    {
+      "id": "essay-inside-the-life-of-a-100m-person",
+      "type": "essay",
+      "title": "Sam Parr: Inside the life of a $100m person (paywalled newsletter teaser)",
+      "url": "https://samparr.com/inside-the-life-of-a-100m-person/",
+      "publishedAt": "2026-09-21",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A truncated, subscriber-gated newsletter essay. The visible part covers Sam's Boston Inbound talk \"Be Chalant: The Art of Giving a Damn\" and one lesson: acting uncool and openly enthusiastic attracted"
+    },
+    {
+      "id": "essay-2-9-decisions-a-year-and-50-million",
+      "type": "essay",
+      "title": "Why a 2.9-decisions-a-year investor beat the market: make few decisions, study deeply, wait",
+      "url": "https://samparr.com/2-9-decisions-a-year-and-50-million/",
+      "publishedAt": "2026-10-19",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam profiles an investor who turned ~$10m into ~$50m making about 2.9 buy/sell decisions a year. He distills four habits of successful stock pickers (few decisions, don't agonize over reversible ones,"
+    },
+    {
+      "id": "essay-natural-moneymakers",
+      "type": "essay",
+      "title": "Natural moneymakers: the unemotional deal-makers who look like they're cheating",
+      "url": "https://samparr.com/natural-moneymakers/",
+      "publishedAt": "2026-10-12",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr introduces his newsletter and the idea of \"natural moneymakers\", entrepreneurs who make $100m to $1b through deal making and brokering. He says they are unemotional and logical about money. T"
+    },
+    {
+      "id": "essay-10m-a-year-1-person-biz",
+      "type": "essay",
+      "title": "Sam Parr: creators are making $1m-$10m+ a year with tiny teams",
+      "url": "https://samparr.com/10m-a-year-1-person-biz/",
+      "publishedAt": "2026-09-28",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A short, paywalled teaser from Sam Parr's newsletter test. He reports that content creators he spoke with are earning $1m to $10m+ a year with small teams, cites The Hustle's growth to ~$13m revenue a"
+    },
+    {
+      "id": "essay-my-new-company",
+      "type": "essay",
+      "title": "Why Sam Parr started Hampton: a CEO peer group born from his own",
+      "url": "https://samparr.com/my-new-company/",
+      "publishedAt": "2023-03-20",
+      "outlet": "samparr.com",
+      "topicIds": [
+        "communities"
+      ],
+      "excerpt": "Short announcement of Hampton, an executive peer group for CEOs. Sam says the peer group he built while running The Hustle helped him grow and sell the company, which is why he started Hampton. Includ"
+    },
+    {
+      "id": "essay-2023-end-of-year-review-finance-fitness-family-fun",
+      "type": "essay",
+      "title": "Sam Parr's 2023 year in review: the four F's framework and 13 income streams",
+      "url": "https://samparr.com/2023-end-of-year-review-finance-fitness-family-fun/",
+      "publishedAt": "2024-01-03",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam's annual personal review organized as Family, Fitness, Finance, Fun. Mostly personal, but it shows how he sets goals, how his income accumulated from side projects, and what he learned from real e"
+    },
+    {
+      "id": "essay-were-all-idiots",
+      "type": "essay",
+      "title": "Sam Parr: Every piece of success advice has a successful opposite, so don't treat any as law",
+      "url": "https://samparr.com/were-all-idiots/",
+      "publishedAt": "2026-10-26",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "After 800+ founder conversations and hundreds of books, Sam concludes that for any advice from a successful person, you can still win by doing the opposite. He backs this with paired founder quotes on"
+    },
+    {
+      "id": "essay-how-many-years-does-it-take-to-become-a-millionaire",
+      "type": "essay",
+      "title": "Overnight success takes years: Sam Parr's 2013 CEO Doc on apprenticeship and mastery",
+      "url": "https://samparr.com/how-many-years-does-it-take-to-become-a-millionaire/",
+      "publishedAt": "2013-12-31",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2013 essay from Sam Parr's old blog arguing that \"overnight success\" is mostly a myth. Drawing on Robert Greene's Mastery, he says most monetary success takes decades of apprenticeship, and he built"
+    },
+    {
+      "id": "essay-6-things-learned-drinking-1-year",
+      "type": "essay",
+      "title": "Sam Parr on quitting alcohol: 6 lessons from one year sober (2014)",
+      "url": "https://samparr.com/6-things-learned-drinking-1-year/",
+      "publishedAt": "2014-07-22",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "A 2014 personal essay where Sam Parr shares what changed after a year of sobriety: fitness, confidence, clarity, and emotional control. Mostly personal reflection, with durable mindset lessons about f"
+    },
+    {
+      "id": "essay-this-guy-is-a-douche-the-power-of-negative-feedback",
+      "type": "essay",
+      "title": "How Sam Parr gets useful negative feedback: an anonymous two-question Google Form",
+      "url": "https://samparr.com/this-guy-is-a-douche-the-power-of-negative-feedback/",
+      "publishedAt": "2014-10-22",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam argues negative feedback is more valuable and actionable than positive feedback, provided you separate your performance from your self-worth. He shares a simple three-step method: send an anonymou"
+    },
+    {
+      "id": "essay-customer-service-successful-complain-still-get-want",
+      "type": "essay",
+      "title": "How to complain to companies and actually get refunds and credits",
+      "url": "https://samparr.com/customer-service-successful-complain-still-get-want/",
+      "publishedAt": "2014-04-30",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr explains how to give customer service feedback so it gets results. Stay polite, say you want to keep using the product, and mention a competitor. His rewritten Uber email got a friend $50 bac"
+    },
+    {
+      "id": "essay-how-i-save-over-50-of-my-income",
+      "type": "essay",
+      "title": "How Sam Parr saves over 50% of his income: a 7-step savings system",
+      "url": "https://samparr.com/how-i-save-over-50-of-my-income/",
+      "publishedAt": "2019-04-16",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr explains his personal finance process from his early 20s: track spending obsessively, calculate burn and runway, set tiered savings goals up to 36 months, and deliberately feel the pain of un"
+    },
+    {
+      "id": "essay-i-just-spoke-with-one-of-the-most-impressive-businessmen-ive",
+      "type": "essay",
+      "title": "Sam Parr on moving from creative founder to capital allocator, inspired by Syed Balkhi",
+      "url": "https://samparr.com/i-just-spoke-with-one-of-the-most-impressive-businessmen-ive-ever-chatted-with/",
+      "publishedAt": "2023-08-16",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr recaps Syed Balkhi's path from a WordPress blog to a bootstrapped company with over $100m in revenue, built by buying plugins. He reflects that creativity and gut get you initial traction, bu"
+    },
+    {
+      "id": "essay-owning-stuff",
+      "type": "essay",
+      "title": "Owning stuff: measure cost in maintenance hours, not purchase price",
+      "url": "https://samparr.com/owning-stuff/",
+      "publishedAt": "2026-09-01",
+      "outlet": "samparr.com",
+      "topicIds": [],
+      "excerpt": "Sam argues the real cost of an asset is the maintenance time it demands, not what you paid for it. He went from owning cars and houses to renting and owning little, and says his mind is lighter and li"
+    },
+    {
+      "id": "essay-write-like-hustle-boring-stuff-writing-no-one-talks",
+      "type": "essay",
+      "title": "How The Hustle writes: Sam Parr's 14-step process for high-volume content",
+      "url": "https://thehustle.co/write-like-hustle-boring-stuff-writing-no-one-talks",
+      "publishedAt": "2024-10-01",
+      "outlet": "thehustle.co",
+      "topicIds": [
+        "copywriting"
+      ],
+      "excerpt": "Sam Parr shares the repeatable writing process he and John used to launch The Hustle, publishing 3-6 posts a day without formal writing backgrounds. It covers headline-first writing, ugly drafts, ruth"
+    },
+    {
+      "id": "essay-sam-parr",
+      "type": "essay",
+      "title": "Sam Parr on selling The Hustle to HubSpot and optimizing for time, not titles",
+      "url": "https://lifestyleinvestor.com/sam-parr/",
+      "publishedAt": "2022-04-07",
+      "outlet": "lifestyleinvestor.com",
+      "topicIds": [],
+      "excerpt": "Sam Parr explains how The Hustle's revenue streams (ads, conferences, subscriptions) were valued by a strategic buyer, why he took cash and stock with no earn-out, and why he optimizes for time. He al"
+    },
+    {
+      "id": "essay-sam-parr-how-he-disrupted-media-and-got-an-8-figure-exit-tra",
+      "type": "essay",
+      "title": "How Sam Parr built The Hustle to millions of readers and an 8-figure exit with content and no ad spend",
+      "url": "https://www.capitalism.com/wp-content/uploads/2021/12/Sam-Parr-How-He-Disrupted-Media-And-Got-An-8-Figure-Exit-Transcript.pdf",
+      "publishedAt": null,
+      "outlet": "www.capitalism.com",
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr explains how The Hustle grew to roughly 2M daily email readers and sold to HubSpot by starting every piece of content with distribution, riding conversations already happening on Reddit and H"
+    },
+    {
+      "id": "essay-creatorscience-sam-parr",
+      "type": "essay",
+      "title": "Sam Parr: how The Hustle and My First Million grew via content, copywriting and paid ads",
+      "url": "https://creatorscience.com/podcast/sam-parr/",
+      "publishedAt": null,
+      "outlet": "creatorscience.com",
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "Sam Parr explains how The Hustle grew from a conference blog to a 1.5M-subscriber newsletter without ad spend, and when he started paying for growth. He also covers learning copywriting by copying, sp"
+    },
+    {
+      "id": "x-1969929145879867536",
+      "type": "x_post",
+      "title": "What’s the difference between a $10m, $100m, and $1b lifestyle? Asked this question in Ham",
+      "url": "https://x.com/thesamparr/status/1969929145879867536",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 1464337,
+      "topicIds": [],
+      "excerpt": "What’s the difference between a $10m, $100m, and $1b lifestyle?\n\nAsked this question in Hampton's Slack community since we have people worth $10m - $2b.\n\nA few takeaways from the 50+ replies:\n\n$50k – "
+    },
+    {
+      "id": "x-1843273838546800990",
+      "type": "x_post",
+      "title": "Bridgewater (4% returns) vs index funds (18%). I'm not saying you can't beat the market. B",
+      "url": "https://x.com/thesamparr/status/1843273838546800990",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 1613753,
+      "topicIds": [],
+      "excerpt": "Bridgewater (4% returns) vs index funds (18%).\n\nI'm not saying you can't beat the market. \n\nBut Bridgewater is a hedge fund with 2,000 employees. Some of the smartest, highest paid people on earth who"
+    },
+    {
+      "id": "x-1303135512081858560",
+      "type": "x_post",
+      "title": "I'm SHOCKED at how many $30k-$50k trucks and SUVs I see in poor areas of the country. We'v",
+      "url": "https://x.com/thesamparr/status/1303135512081858560",
+      "publishedAt": "2020-09-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm SHOCKED at how many $30k-$50k trucks and SUVs I see in poor areas of the country. \n\nWe've been tricked to spend WAY too much on cars.\n\nMy thinking: spend no more than 1/10th your gross annual inco"
+    },
+    {
+      "id": "x-1550594790282215426",
+      "type": "x_post",
+      "title": "When I sold my company I called my mom. I told her how much I made, some big media outlets",
+      "url": "https://x.com/thesamparr/status/1550594790282215426",
+      "publishedAt": "2022-07-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I sold my company I called my mom. \n\nI told her how much I made, some big media outlets were covering it, the buyer was a $20b company, and how my financial dreams have come true.\n\nHer response:\n"
+    },
+    {
+      "id": "x-2041556393136664708",
+      "type": "x_post",
+      "title": "My father owns a produce brokerage company. He sells +$10m a year in onions a year with a ",
+      "url": "https://x.com/thesamparr/status/2041556393136664708",
+      "publishedAt": "2026-04-07",
+      "outlet": "X",
+      "views": 813217,
+      "topicIds": [],
+      "excerpt": "My father owns a produce brokerage company.\n\nHe sells +$10m a year in onions a year with a phone, fax machine, and file cabinet.\n\nTLDR:\n\n- he calls farmers and will buy two or three truckloads of onio"
+    },
+    {
+      "id": "x-2001305252100706551",
+      "type": "x_post",
+      "title": "Carnegie became a billionaire working only 2 hours a day. He famously said: \"You must be a",
+      "url": "https://x.com/thesamparr/status/2001305252100706551",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 261761,
+      "topicIds": [],
+      "excerpt": "Carnegie became a billionaire working only 2 hours a day.\n\nHe famously said: \"You must be a lazy man if it takes you ten hours to do a day's work.\"\n\nHe never went to his factories and worked from Euro"
+    },
+    {
+      "id": "x-2036953786904719361",
+      "type": "x_post",
+      "title": "My buddy runs a company helping manufactures implement ai. He showed me the leads he’s get",
+      "url": "https://x.com/thesamparr/status/2036953786904719361",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 886055,
+      "topicIds": [],
+      "excerpt": "My buddy runs a company helping manufactures implement ai. \n\nHe showed me the leads he’s getting. It’s nuts. \n\nFamily businesses I’ve never heard of making $100m a year. They know the need ai but no i"
+    },
+    {
+      "id": "x-1658638422741753859",
+      "type": "x_post",
+      "title": "Go to 21 seconds in. Elon pauses for 15 seconds before answering a question. If you're the",
+      "url": "https://x.com/thesamparr/status/1658638422741753859",
+      "publishedAt": "2023-05-17",
+      "outlet": "X",
+      "views": 1252391,
+      "topicIds": [],
+      "excerpt": "Go to 21 seconds in.\n\nElon pauses for 15 seconds before answering a question.\n\nIf you're the interviewer or want info from someone, NEVER EVER interrupt that silence.\n\nMost people do because its uncom"
+    },
+    {
+      "id": "x-1978038094008869291",
+      "type": "x_post",
+      "title": "My progress always looks the same: Start → suck → grind for months/years with no noticeabl",
+      "url": "https://x.com/thesamparr/status/1978038094008869291",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 183446,
+      "topicIds": [],
+      "excerpt": "My progress always looks the same:\n\nStart → suck → grind for months/years with no noticeable progress → suddenly look up after a long time and it’s 3x better.\n\nFitness: no change for months. “why isn’"
+    },
+    {
+      "id": "x-1971778528170451055",
+      "type": "x_post",
+      "title": "How to live a miserable life in 5 easy steps: 1. Don’t decide. Spend tons of time planning",
+      "url": "https://x.com/thesamparr/status/1971778528170451055",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 201995,
+      "topicIds": [],
+      "excerpt": "How to live a miserable life in 5 easy steps:\n\n1. Don’t decide. Spend tons of time planning and thinking, very little doing. \n\n2. Don't set goals. And certainly don't track progress (or lack thereof)."
+    },
+    {
+      "id": "x-1295718343694065665",
+      "type": "x_post",
+      "title": "I LOVE boring non-Silicon Valley, family-owned businesses. This one's a good one: ABC Supp",
+      "url": "https://x.com/thesamparr/status/1295718343694065665",
+      "publishedAt": "2020-08-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I LOVE boring non-Silicon Valley, family-owned businesses. \n\nThis one's a good one: ABC Supply, a roofing material business. 1 of the largest private companies in America with $10billion in revenue. \n"
+    },
+    {
+      "id": "x-1640680965830762496",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: I'm back. Last July I founded a new startup. Today I'm sharing it with the w",
+      "url": "https://x.com/thesamparr/status/1640680965830762496",
+      "publishedAt": "2023-03-28",
+      "outlet": "X",
+      "views": 2542031,
+      "topicIds": [],
+      "excerpt": "ANNOUNCEMENT: I'm back.\n\nLast July I founded a new startup. Today I'm sharing it with the world.\n\nIt's called Hampton: a highly vetted membership community for entrepreneurs, founders and CEOs.\n\nWhy l"
+    },
+    {
+      "id": "x-1577687419670986754",
+      "type": "x_post",
+      "title": "Rule: no swag (t-shirts and shit) until product market fit or profitability.",
+      "url": "https://x.com/thesamparr/status/1577687419670986754",
+      "publishedAt": "2022-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Rule: no swag (t-shirts and shit) until product market fit or profitability."
+    },
+    {
+      "id": "x-1532771361025925121",
+      "type": "x_post",
+      "title": "Talked to 2 different people who created amazing automations so they don't have to hire lo",
+      "url": "https://x.com/thesamparr/status/1532771361025925121",
+      "publishedAt": "2022-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Talked to 2 different people who created amazing automations so they don't have to hire loads of employees.\n\n1. A guy with a $1m/year 8 Airbnb properties. Lots of Zapier. Only has cleaners on staff.\n\n"
+    },
+    {
+      "id": "x-1356364890223636482",
+      "type": "x_post",
+      "title": "The most important financial decision you'll ever make: Picking the right spouse!",
+      "url": "https://x.com/thesamparr/status/1356364890223636482",
+      "publishedAt": "2021-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most important financial decision you'll ever make:\n\nPicking the right spouse!"
+    },
+    {
+      "id": "x-1984282198690980264",
+      "type": "x_post",
+      "title": "A hill I will die on: Buying a a home is almost always not a great financial investment. y",
+      "url": "https://x.com/thesamparr/status/1984282198690980264",
+      "publishedAt": "2025-10-31",
+      "outlet": "X",
+      "views": 1661966,
+      "topicIds": [],
+      "excerpt": "A hill I will die on:\n\nBuying a a home is almost always not a great financial investment. \n\nyes, even taking into account leverage. looking at averages, investing in SP500 is more profitable (on avera"
+    },
+    {
+      "id": "x-1551360179437977601",
+      "type": "x_post",
+      "title": "Success is dreaming of becoming a certain type of person and then becoming it. Nothing to ",
+      "url": "https://x.com/thesamparr/status/1551360179437977601",
+      "publishedAt": "2022-07-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Success is dreaming of becoming a certain type of person and then becoming it. \n\nNothing to do with money."
+    },
+    {
+      "id": "x-1620818040949727232",
+      "type": "x_post",
+      "title": "My current belief: Working on 1 good business for 10 years will likely beat working on 10 ",
+      "url": "https://x.com/thesamparr/status/1620818040949727232",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 320998,
+      "topicIds": [
+        "bootstrapping-focus"
+      ],
+      "excerpt": "My current belief:\n\nWorking on 1 good business for 10 years will likely beat working on 10 decent things for 1 year each.\n\nFocus is hard. \n\nBut I think working on 1 thing for a long time will create w"
+    },
+    {
+      "id": "x-1965781022101880912",
+      "type": "x_post",
+      "title": "Writing down goals. Quarterly, annual, 5 year. I think this is TERRIBLY important. For bus",
+      "url": "https://x.com/thesamparr/status/1965781022101880912",
+      "publishedAt": "2025-09-10",
+      "outlet": "X",
+      "views": 109229,
+      "topicIds": [],
+      "excerpt": "Writing down goals.\n\nQuarterly, annual, 5 year. \n\nI think this is TERRIBLY important. For business and life.  I started doing it in my early 20s. \n\nHaving direction, end destination in mind made decis"
+    },
+    {
+      "id": "x-1977675750825140545",
+      "type": "x_post",
+      "title": "One reason why entrepreneurship is hard is because you fear that what you’re working on to",
+      "url": "https://x.com/thesamparr/status/1977675750825140545",
+      "publishedAt": "2025-10-13",
+      "outlet": "X",
+      "views": 120132,
+      "topicIds": [
+        "bootstrapping-focus"
+      ],
+      "excerpt": "One reason why entrepreneurship is hard is because you fear that what you’re working on today won’t pay dividends in 5 years.\n\nAnd that it’ll all be a waste of time.\n\nAnd so, you switch, from thing to"
+    },
+    {
+      "id": "x-1747664164992991406",
+      "type": "x_post",
+      "title": "12 years ago I read a blog post by @noahkagan. It inspired my to start a conference biz, w",
+      "url": "https://x.com/thesamparr/status/1747664164992991406",
+      "publishedAt": "2024-01-17",
+      "outlet": "X",
+      "views": 215741,
+      "topicIds": [],
+      "excerpt": "12 years ago I read a blog post by @noahkagan. \n\nIt inspired my to start a conference biz, which made 6 figures personally when i was like 23. \n\nLiterally just copied him.\n\nObsessed over his blog http"
+    },
+    {
+      "id": "x-2077781994818175147",
+      "type": "x_post",
+      "title": "Some of my personal finance rules: 1. most all money goes into index funds. virtually 0 st",
+      "url": "https://x.com/thesamparr/status/2077781994818175147",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 111237,
+      "topicIds": [],
+      "excerpt": "Some of my personal finance rules:\n\n1. most all money goes into index funds. virtually 0 stock picking.\n2. stick to a monthly budget\n3. meet monthly with spouse to review past spending, discuss if we'"
+    },
+    {
+      "id": "x-1546228948648050688",
+      "type": "x_post",
+      "title": "The book that made the biggest impact on my entrepreneurial career: How to Get Rich by Fel",
+      "url": "https://x.com/thesamparr/status/1546228948648050688",
+      "publishedAt": "2022-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The book that made the biggest impact on my entrepreneurial career:\n\nHow to Get Rich by Felix Dennis. \n\nYes, the titles cringe. \n\nBut it has the best writing, information, perspective and stories for "
+    },
+    {
+      "id": "x-1570810143528591360",
+      "type": "x_post",
+      "title": "A big regret: not learning how to code+learn SOME type of technical stuff so I can make wh",
+      "url": "https://x.com/thesamparr/status/1570810143528591360",
+      "publishedAt": "2022-09-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A big regret: not learning how to code+learn SOME type of technical stuff so I can make what I want. \n\nI can’t even use Wordpress. Have to draw what I want then get others to do it. \n\nPeople say you d"
+    },
+    {
+      "id": "x-1984717308221104213",
+      "type": "x_post",
+      "title": "Sharing this here. This was my reply to this Jesse guy. 1. The price paid cash up front (s",
+      "url": "https://x.com/thesamparr/status/1984717308221104213",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 1182009,
+      "topicIds": [],
+      "excerpt": "Sharing this here.\n\nThis was my reply to this Jesse guy.\n\n1. The price paid cash up front (something like 21 or 22m).\n\n2. Then I personally was given a bunch of stock as talent  (I was hosting MFM and"
+    },
+    {
+      "id": "x-2103630502741635094",
+      "type": "x_post",
+      "title": "Man in the past ~4 weeks I've talked to like 3 or 4 creators in the tech space. Little 1-2",
+      "url": "https://x.com/thesamparr/status/2103630502741635094",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 132269,
+      "topicIds": [],
+      "excerpt": "Man in the past ~4 weeks I've talked to like 3 or 4 creators in the tech space. \n\nLittle 1-2 person businesses. Newsletter, podcast, the usual shit. Read by the VC, tech crowd. \n\nI've been doing this "
+    },
+    {
+      "id": "x-1868686547954118801",
+      "type": "x_post",
+      "title": "Because I moved to San Francisco when I was 21, I know a bunch of people who were nothing ",
+      "url": "https://x.com/thesamparr/status/1868686547954118801",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 165372,
+      "topicIds": [],
+      "excerpt": "Because I moved to San Francisco when I was 21, I know a bunch of people who were nothing and are now legit (rich, popular, powerful, whatever).\n\nOne thing I've been thinking about: most of them who w"
+    },
+    {
+      "id": "x-1515328503843115010",
+      "type": "x_post",
+      "title": "Show me 1000 people who've had outsized success in any field. Sports, business, authors, a",
+      "url": "https://x.com/thesamparr/status/1515328503843115010",
+      "publishedAt": "2022-04-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Show me 1000 people who've had outsized success in any field. \n\nSports, business, authors, art, music, politics. Whatever.\n\nHow many worked only 40 hours a week/put in normal hours when they were up a"
+    },
+    {
+      "id": "x-1396835864005726211",
+      "type": "x_post",
+      "title": "How to make yourself miserable: Compare yourself to others.",
+      "url": "https://x.com/thesamparr/status/1396835864005726211",
+      "publishedAt": "2021-05-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How to make yourself miserable: \n\nCompare yourself to others."
+    },
+    {
+      "id": "x-1605773556465401856",
+      "type": "x_post",
+      "title": "I sold The Hustle's first ads. About $100k worth. Here's the 1st cold email I sent that go",
+      "url": "https://x.com/thesamparr/status/1605773556465401856",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 406513,
+      "topicIds": [],
+      "excerpt": "I sold The Hustle's first ads. About $100k worth. \n\nHere's the 1st cold email I sent that got a sale. It was Wealthfront. \n\nMaybe sent emails to 20 diff brands, 5-8 showed interest.\n\nWe had 93,535 sub"
+    },
+    {
+      "id": "x-1775515621377151075",
+      "type": "x_post",
+      "title": "I think people underestimate how many businesses are out there doing $10-$100m a year in r",
+      "url": "https://x.com/thesamparr/status/1775515621377151075",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 266898,
+      "topicIds": [],
+      "excerpt": "I think people underestimate how many businesses are out there doing $10-$100m a year in revenue with huge profits. \n\nSo at Hampton, most all new members introduce themselves. \n\nThey say what their co"
+    },
+    {
+      "id": "x-1555564495392710657",
+      "type": "x_post",
+      "title": "Any new project I start: try to get some type of sale or user ASAP. Like, within 5 days. W",
+      "url": "https://x.com/thesamparr/status/1555564495392710657",
+      "publishedAt": "2022-08-05",
+      "outlet": "X",
+      "topicIds": [
+        "validating-ideas"
+      ],
+      "excerpt": "Any new project I start: try to get some type of sale or user ASAP. \n\nLike, within 5 days. \n\nWhy: momentum is addicting.\n\nNo branding, often no website, no LLC, often no product.\n\nJust cold email + ph"
+    },
+    {
+      "id": "x-1536340369880801281",
+      "type": "x_post",
+      "title": "Instead of freaking out about the stock market, I'd rather just focus on making more $ thr",
+      "url": "https://x.com/thesamparr/status/1536340369880801281",
+      "publishedAt": "2022-06-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Instead of freaking out about the stock market, I'd rather just focus on making more $ through business building."
+    },
+    {
+      "id": "x-1777682633872351310",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: I made a website that’s Yelp for accountants: https://t.co/rqlXb2EyUC I am l",
+      "url": "https://x.com/thesamparr/status/1777682633872351310",
+      "publishedAt": "2024-04-09",
+      "outlet": "X",
+      "views": 328787,
+      "topicIds": [],
+      "excerpt": "ANNOUNCEMENT: I made a website that’s Yelp for accountants: https://t.co/rqlXb2EyUC\n\nI am looking for a new accountant. Finding one that’s good + fit my needs is hard and time consuming.\n\nSo, I tweete"
+    },
+    {
+      "id": "x-1970290354625646830",
+      "type": "x_post",
+      "title": "Something I’ve been thinking about a lot lately: Most decisions are small. What’s for lunc",
+      "url": "https://x.com/thesamparr/status/1970290354625646830",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 176525,
+      "topicIds": [],
+      "excerpt": "Something I’ve been thinking about a lot lately:\nMost decisions are small. \n\nWhat’s for lunch. Which app to cancel. Whether to take the meeting at 3pm or 4pm.\n\nTiny stuff that moves the needle maybe 1"
+    },
+    {
+      "id": "x-1587139761206091782",
+      "type": "x_post",
+      "title": "Don't job search...job hunt! Search: see what's available, apply. Hunt: find a company you",
+      "url": "https://x.com/thesamparr/status/1587139761206091782",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Don't job search...job hunt!\n\nSearch: see what's available, apply.\n\nHunt: find a company you love, show how you can help, provide some free value, then try to get gig."
+    },
+    {
+      "id": "x-1712124025168662928",
+      "type": "x_post",
+      "title": "I read about 1 book a week. I've gotten nerdy about my routine. - Always on Kindle. So I c",
+      "url": "https://x.com/thesamparr/status/1712124025168662928",
+      "publishedAt": "2023-10-11",
+      "outlet": "X",
+      "views": 349460,
+      "topicIds": [],
+      "excerpt": "I read about 1 book a week. I've gotten nerdy about my routine.\n\n- Always on Kindle. So I can read at night without light on. Plus, turning a physical page adds like 10% of the time. Turning page, fin"
+    },
+    {
+      "id": "x-1233921719686971392",
+      "type": "x_post",
+      "title": "I was 100% a Facebook guy a few months ago and rarely tweeted. Now all in on Twitter. Wayy",
+      "url": "https://x.com/thesamparr/status/1233921719686971392",
+      "publishedAt": "2020-03-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was 100% a Facebook guy a few months ago and rarely tweeted. Now all in on Twitter. Wayyyy easier to build an audience and meet people. About to cross 10k followers vs the 5k cap on FB. Anyone else "
+    },
+    {
+      "id": "x-2033570076083753157",
+      "type": "x_post",
+      "title": "How to develop good taste: 1. Copy others 2. Learn the rules 3. Study history and learn wh",
+      "url": "https://x.com/thesamparr/status/2033570076083753157",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 55822,
+      "topicIds": [],
+      "excerpt": "How to develop good taste:\n\n1. Copy others\n2. Learn the rules\n3. Study history and learn why the rules are the rules\n\nGood taste = a language. Good taste means speaking the right words so you can say "
+    },
+    {
+      "id": "x-1384144428911054855",
+      "type": "x_post",
+      "title": "Focus! I think a startup will fail if a just-off-the-ground founder is doing side hustles,",
+      "url": "https://x.com/thesamparr/status/1384144428911054855",
+      "publishedAt": "2021-04-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Focus!\n\nI think a startup will fail if a just-off-the-ground founder is doing side hustles, investing, posting on social media constantly and 4 other things while also starting a company.\n\nYes. It can"
+    },
+    {
+      "id": "x-1948407271198708046",
+      "type": "x_post",
+      "title": "Dog most of the stuff on twitter seems exciting and cool and jumping project to project. B",
+      "url": "https://x.com/thesamparr/status/1948407271198708046",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 102065,
+      "topicIds": [],
+      "excerpt": "Dog most of the stuff on twitter seems exciting and cool and jumping project to project. \n\nBut I'm telling you. I've seen it. \n\nMost of the big shit ballers...they just sit in front of a computer and "
+    },
+    {
+      "id": "x-1981796904129425461",
+      "type": "x_post",
+      "title": "I sold my company for over $40 million when I was 31. Here’s every idea I tried before my ",
+      "url": "https://x.com/thesamparr/status/1981796904129425461",
+      "publishedAt": "2025-10-24",
+      "outlet": "X",
+      "views": 769586,
+      "topicIds": [],
+      "excerpt": "I sold my company for over $40 million when I was 31.\n\nHere’s every idea I tried before my big win:\n\n1. In high school I made $2,500 one summer flipping seniors’ used sports gear on eBay.\n\n2. At 20, I"
+    },
+    {
+      "id": "x-1345396526978396160",
+      "type": "x_post",
+      "title": "Stop collecting domains. Buying a domain name should NOT be step 1 in starting something. ",
+      "url": "https://x.com/thesamparr/status/1345396526978396160",
+      "publishedAt": "2021-01-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Stop collecting domains. \n\nBuying a domain name should NOT be step 1 in starting something. Getting paying customer #1 should be. \n\nIn MOST cases, your domain name is meaningless. https://t.co/EBBSSnW"
+    },
+    {
+      "id": "x-2031412322766397497",
+      "type": "x_post",
+      "title": "How to not be broke: - Set a 5 year goal. “I want $x in on 1/1/2031”. - List benchmarks wh",
+      "url": "https://x.com/thesamparr/status/2031412322766397497",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 44970,
+      "topicIds": [],
+      "excerpt": "How to not be broke:\n\n- Set a 5 year goal. “I want $x in on 1/1/2031”.\n- List benchmarks where you need to be each quarter.\n- Make a plan to get you to each next benchmark (and execute).\n- Don’t worry"
+    },
+    {
+      "id": "x-1384510788384169991",
+      "type": "x_post",
+      "title": "Avoid people who don’t follow through or take action. All they do is talk about what they’",
+      "url": "https://x.com/thesamparr/status/1384510788384169991",
+      "publishedAt": "2021-04-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Avoid people who don’t follow through or take action. \n\nAll they do is talk about what they’re gonna do.\n\nThey cannot be fixed. And even if they can, don’t waste your energy. \n\nTry to surround yoursel"
+    },
+    {
+      "id": "x-1306789501197602819",
+      "type": "x_post",
+      "title": "For years I thought selling a company was the goal. It’s completely changed. In most cases",
+      "url": "https://x.com/thesamparr/status/1306789501197602819",
+      "publishedAt": "2020-09-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For years I thought selling a company was the goal. It’s completely changed. \n\nIn most cases, if you have a profitable company, I think you should rarely ever sell. \n\nI’ve spoken to so many people who"
+    },
+    {
+      "id": "x-1745857889615409645",
+      "type": "x_post",
+      "title": "Something I want to beat into everyone's brain: THE WORLD WANTS YOU TO BE VANILLA WITH YOU",
+      "url": "https://x.com/thesamparr/status/1745857889615409645",
+      "publishedAt": "2024-01-12",
+      "outlet": "X",
+      "views": 112548,
+      "topicIds": [],
+      "excerpt": "Something I want to beat into everyone's brain:\n\nTHE WORLD WANTS YOU TO BE VANILLA WITH YOUR WRITING. AND YOU SHOULD FIGHT AGAINST THAT.\n\nAka corporate crap (but they'll mask it by calling it \"being p"
+    },
+    {
+      "id": "x-2060335100282200122",
+      "type": "x_post",
+      "title": "I don't own a lot of stuff. Homes, cars, toys, etc. Yes, this is normal for many urban liv",
+      "url": "https://x.com/thesamparr/status/2060335100282200122",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 105462,
+      "topicIds": [],
+      "excerpt": "I don't own a lot of stuff. \n\nHomes, cars, toys, etc. \n\nYes, this is normal for many urban living people. \n\nBut my perspective may be slightly unique to you because previously I did own a lot of stuff"
+    },
+    {
+      "id": "x-1408294165004365824",
+      "type": "x_post",
+      "title": "Knowing what I know now ...if I wanted to make a lot of money and was willing to put in 15",
+      "url": "https://x.com/thesamparr/status/1408294165004365824",
+      "publishedAt": "2021-06-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Knowing what I know now\n\n...if I wanted to make a lot of money and was willing to put in 15-20 years of hard work\n\nI'd tell my younger self to start an enterprise SaaS co and work tirelessly to get po"
+    },
+    {
+      "id": "x-1749467267786481714",
+      "type": "x_post",
+      "title": "I got ~30 agencies owners in Hampton to reveal their: - revenue - profit - profit per empl",
+      "url": "https://x.com/thesamparr/status/1749467267786481714",
+      "publishedAt": "2024-01-22",
+      "outlet": "X",
+      "views": 242465,
+      "topicIds": [],
+      "excerpt": "I got ~30 agencies owners in Hampton to reveal their:\n\n- revenue\n- profit\n- profit per employee\n- a list of challenges they're facing\n\nA few interesting takeaways:\n\n- agencies that offered consulting "
+    },
+    {
+      "id": "x-1379940034858602497",
+      "type": "x_post",
+      "title": "Seeing the inside of a $1b/year SaaS company is super fascinating. I totally get why softw",
+      "url": "https://x.com/thesamparr/status/1379940034858602497",
+      "publishedAt": "2021-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Seeing the inside of a $1b/year SaaS company is super fascinating. \n\nI totally get why software companies are more valuable than anything else.\n\nPositive net churn is freaking machine. My next co, if "
+    },
+    {
+      "id": "x-1753145660612735027",
+      "type": "x_post",
+      "title": "How The Hustle got its first 100k users: My team and I wrote lots of blog posts that went ",
+      "url": "https://x.com/thesamparr/status/1753145660612735027",
+      "publishedAt": "2024-02-01",
+      "outlet": "X",
+      "views": 187377,
+      "topicIds": [
+        "newsletter-growth"
+      ],
+      "excerpt": "How The Hustle got its first 100k users: \n\nMy team and I wrote lots of blog posts that went viral. \n\nI'd study where my potential users were (tech nerds) and what type of content would get their atten"
+    },
+    {
+      "id": "x-1632854354888650755",
+      "type": "x_post",
+      "title": "New rule: make at least $100 in sales before you buy a domain name for your internet proje",
+      "url": "https://x.com/thesamparr/status/1632854354888650755",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 161195,
+      "topicIds": [
+        "validating-ideas"
+      ],
+      "excerpt": "New rule: make at least $100 in sales before you buy a domain name for your internet project."
+    },
+    {
+      "id": "x-2102906551509938670",
+      "type": "x_post",
+      "title": "When I was 22 I made a list of all the stuff I'd wanna buy by 30. Just found my old wish l",
+      "url": "https://x.com/thesamparr/status/2102906551509938670",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 161701,
+      "topicIds": [],
+      "excerpt": "When I was 22 I made a list of all the stuff I'd wanna buy by 30. Just found my old wish list. \n\nLet's recap:\n\nRanch -> bought one. Owned for ~2 years. It wsa small...about 20 acres. For sure fun to r"
+    },
+    {
+      "id": "x-1899562987553194201",
+      "type": "x_post",
+      "title": "Been obsessed with making ChatGPT a business consultant for me. So I uploaded my p+l, webs",
+      "url": "https://x.com/thesamparr/status/1899562987553194201",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 125480,
+      "topicIds": [],
+      "excerpt": "Been obsessed with making ChatGPT a business consultant for me. \n\nSo I uploaded my p+l, website, deck, notion files, and more stuff to chat got and ask ai it’s opinion on different issues I have on my"
+    },
+    {
+      "id": "x-1912518987377766609",
+      "type": "x_post",
+      "title": "Life update: Joe and I are now the CEOs of Hampton It was actually a quote from Palmer Luc",
+      "url": "https://x.com/thesamparr/status/1912518987377766609",
+      "publishedAt": "2025-04-16",
+      "outlet": "X",
+      "views": 166290,
+      "topicIds": [],
+      "excerpt": "Life update: Joe and I are now the CEOs of Hampton\n\nIt was actually a quote from Palmer Luckey that made me want to go all in…\n\n(I talk about it in the video below if you want to hear it)\n\nPalmer's ba"
+    },
+    {
+      "id": "x-1518016307618320385",
+      "type": "x_post",
+      "title": "My next company’s mission: create a way so I can employ people I enjoy spending time with.",
+      "url": "https://x.com/thesamparr/status/1518016307618320385",
+      "publishedAt": "2022-04-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My next company’s mission: create a way so I can employ people I enjoy spending time with. \n\nWhat we sell/make to do that happen, I care way less about. \n\nA cool product with boring people ain’t fun. "
+    },
+    {
+      "id": "x-1311711410204872705",
+      "type": "x_post",
+      "title": "I'm trying to convince a bunch of marketers that... 1. Long-form copy is mostly more effec",
+      "url": "https://x.com/thesamparr/status/1311711410204872705",
+      "publishedAt": "2020-10-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm trying to convince a bunch of marketers that...\n\n1. Long-form copy is mostly more effective than short-form copy\n\n2. \"Ugly\" ads typically work better than pretty\n\n3. \"Ugly\" websites convert better"
+    },
+    {
+      "id": "x-1336718001983393801",
+      "type": "x_post",
+      "title": "I LOVE when applicants go the extra mile. This guy is still in college. Sent us a cold ema",
+      "url": "https://x.com/thesamparr/status/1336718001983393801",
+      "publishedAt": "2020-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I LOVE when applicants go the extra mile.\n\nThis guy is still in college. Sent us a cold email explaining how he can provide value to our company.\n\nAnd he did it using our daily email format.\n\nEASILY g"
+    },
+    {
+      "id": "x-1983206945210171727",
+      "type": "x_post",
+      "title": "How to write better than 99% of people: - Object then action: “the boy hit the ball” is be",
+      "url": "https://x.com/thesamparr/status/1983206945210171727",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 51481,
+      "topicIds": [],
+      "excerpt": "How to write better than 99% of people:\n\n- Object then action: “the boy hit the ball” is better than “the ball was hit by the boy.” Both sentences mean the same, but it’s easier to imagine the object "
+    },
+    {
+      "id": "x-1777311359958454691",
+      "type": "x_post",
+      "title": "In terms of growth, I think this is order of easiest to hardest: 1. Newsletter 2. Social 3",
+      "url": "https://x.com/thesamparr/status/1777311359958454691",
+      "publishedAt": "2024-04-08",
+      "outlet": "X",
+      "views": 143509,
+      "topicIds": [],
+      "excerpt": "In terms of growth, I think this is order of easiest to hardest:\n\n1. Newsletter\n2. Social\n3. Blog\n4. Youtube\n5. Podcast\n\nIn terms of most valuable (harder to rank tho):\n\n1. Podcast\n2. Newsletter, Yout"
+    },
+    {
+      "id": "x-1761834661066478033",
+      "type": "x_post",
+      "title": "As I progress in my career and rack up some wins (and losses!), my opinion on luck has cha",
+      "url": "https://x.com/thesamparr/status/1761834661066478033",
+      "publishedAt": "2024-02-25",
+      "outlet": "X",
+      "views": 97905,
+      "topicIds": [],
+      "excerpt": "As I progress in my career and rack up some wins (and losses!), my opinion on luck has changed. \n\nLucks been a huge factor in many of my wins. \n\nI didn’t used to think luck was a factor. It is!"
+    },
+    {
+      "id": "x-2026323758189879478",
+      "type": "x_post",
+      "title": "How much should a startup CEO pay themselves? When my last co did $2m, I paid myself ~$24,",
+      "url": "https://x.com/thesamparr/status/2026323758189879478",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 185542,
+      "topicIds": [
+        "bootstrapping-focus"
+      ],
+      "excerpt": "How much should a startup CEO pay themselves?\n\nWhen my last co did $2m, I paid myself ~$24,000/year. At around $5m, I paid myself like $50,000. \n\nThat was VERY stupid of me. Made me feel defensive, li"
+    },
+    {
+      "id": "x-1961604346052764090",
+      "type": "x_post",
+      "title": "Let me tell you about the creator tension. On Youtube, My First Million episodes mostly ge",
+      "url": "https://x.com/thesamparr/status/1961604346052764090",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 104045,
+      "topicIds": [],
+      "excerpt": "Let me tell you about the creator tension.\n\nOn Youtube, My First Million episodes mostly get ~60k-300k views per pod lately. \n\nSpotify + iTunes, consistently  in the 100k range (haven't looked in fore"
+    },
+    {
+      "id": "x-1559535472447307778",
+      "type": "x_post",
+      "title": "Before starting a new project w/ someone, I make us answer some alignment questions: -what",
+      "url": "https://x.com/thesamparr/status/1559535472447307778",
+      "publishedAt": "2022-08-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Before starting a new project w/ someone, I make us answer some alignment questions:\n\n-what does success look like (specifically)?\n-what lifestyle do we want?\n-what will we give up to achieve this?\n\nD"
+    },
+    {
+      "id": "x-1875188848105320462",
+      "type": "x_post",
+      "title": "Around like 2015, I started The Hustle (a newsletter) because I predicted that Facebook wo",
+      "url": "https://x.com/thesamparr/status/1875188848105320462",
+      "publishedAt": "2025-01-03",
+      "outlet": "X",
+      "views": 165156,
+      "topicIds": [],
+      "excerpt": "Around like 2015, I started The Hustle (a newsletter) because I predicted that Facebook would pull back the reach of diff media companies and crush them. \n\nSo like if you're Buzzfeed, you had 1m likes"
+    },
+    {
+      "id": "x-1198328628083216384",
+      "type": "x_post",
+      "title": "A few mentors have told me that you shouldn’t default to hiring even though most of your t",
+      "url": "https://x.com/thesamparr/status/1198328628083216384",
+      "publishedAt": "2019-11-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A few mentors have told me that you shouldn’t default to hiring even though most of your team will push for it. Instead you should figure out how to automate things. Today a good buddy just hit $2m in"
+    },
+    {
+      "id": "x-1288507752491302912",
+      "type": "x_post",
+      "title": "I've built a pretty amazing network from scratch over the last 10 years. It's been my unfa",
+      "url": "https://x.com/thesamparr/status/1288507752491302912",
+      "publishedAt": "2020-07-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've built a pretty amazing network from scratch over the last 10 years. It's been my unfair advantage. Humblebrag, I know.\n\nThe secret of how to do this shocks most people: Uber successful people get"
+    },
+    {
+      "id": "x-1532810704817881091",
+      "type": "x_post",
+      "title": "I’m friends with people with tons of money (billionaires) and people just getting by. And,",
+      "url": "https://x.com/thesamparr/status/1532810704817881091",
+      "publishedAt": "2022-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’m friends with people with tons of money (billionaires) and people just getting by. \n\nAnd, more often than not, it seems people think they’ll be happier than 2x more money (net worth) than they curr"
+    },
+    {
+      "id": "x-1963578140279607586",
+      "type": "x_post",
+      "title": "A huge kick in the ass that I’ve gotten over the last couple of years from hanging w/ peop",
+      "url": "https://x.com/thesamparr/status/1963578140279607586",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 51993,
+      "topicIds": [],
+      "excerpt": "A huge kick in the ass that I’ve gotten over the last couple of years from hanging w/ people more successful than me:\n\nFocus on one thing for years. \n\nRunning sh*t isn’t glamorous and not as exciting "
+    },
+    {
+      "id": "x-1686474059058483202",
+      "type": "x_post",
+      "title": "In 2015 I told a CEO of a large media company that I was starting a newsletter. You all kn",
+      "url": "https://x.com/thesamparr/status/1686474059058483202",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 228978,
+      "topicIds": [],
+      "excerpt": "In 2015 I told a CEO of a large media company that I was starting a newsletter. \n\nYou all know this CEO. Was one of the darlings during Buzzfeed era.\n\nHe told me a newsletter would barely make $2m/yea"
+    },
+    {
+      "id": "x-1666131323524722733",
+      "type": "x_post",
+      "title": "Something I'd almost aways bet against: flashy + slick landing pages. In my experience, la",
+      "url": "https://x.com/thesamparr/status/1666131323524722733",
+      "publishedAt": "2023-06-06",
+      "outlet": "X",
+      "views": 221458,
+      "topicIds": [],
+      "excerpt": "Something I'd almost aways bet against: flashy + slick landing pages.\n\nIn my experience, landing pages that Brooklyn-based graphic designers think are cool looking rarely get better conversion or resu"
+    },
+    {
+      "id": "x-1407926335385784331",
+      "type": "x_post",
+      "title": "Writing some sales copy. (helping a friend w/ they're landing page). 2 reminders: • Copywr",
+      "url": "https://x.com/thesamparr/status/1407926335385784331",
+      "publishedAt": "2021-06-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Writing some sales copy.\n\n(helping a friend w/ they're landing page). \n\n2 reminders:\n\n• Copywriting is the most important skill in biz (and very important to life!)\n• I'm still really, really, really "
+    },
+    {
+      "id": "x-1733142939189064145",
+      "type": "x_post",
+      "title": "Casual but professional. In my humble opinion, that's how most work communication should b",
+      "url": "https://x.com/thesamparr/status/1733142939189064145",
+      "publishedAt": "2023-12-08",
+      "outlet": "X",
+      "views": 125075,
+      "topicIds": [],
+      "excerpt": "Casual but professional. \n\nIn my humble opinion, that's how most work communication should be. Outbound emails, sales copy, talking to clients.\n\nMost is just professional. And that's lame and cold.\n\nW"
+    },
+    {
+      "id": "x-1546857258650411009",
+      "type": "x_post",
+      "title": "Things that I’m more afraid of than failing: Spending years working on something that’s on",
+      "url": "https://x.com/thesamparr/status/1546857258650411009",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Things that I’m more afraid of than failing:\n\nSpending years working on something that’s only mediocre."
+    },
+    {
+      "id": "x-1916182817890881677",
+      "type": "x_post",
+      "title": "No idea about the product or team. But I bet a lot that this site converts super well. No ",
+      "url": "https://x.com/thesamparr/status/1916182817890881677",
+      "publishedAt": "2025-04-26",
+      "outlet": "X",
+      "views": 113672,
+      "topicIds": [],
+      "excerpt": "No idea about the product or team. \n\nBut I bet a lot that this site converts super well. \n\nNo shade to brett (he seems cool)…but in general I think if a landing page has 1) lots of copy 2) a designer "
+    },
+    {
+      "id": "x-1770107768353296503",
+      "type": "x_post",
+      "title": "Let your freak flag fly. One of my mottos when it comes to hiring. I LOVE hiring freaks, n",
+      "url": "https://x.com/thesamparr/status/1770107768353296503",
+      "publishedAt": "2024-03-19",
+      "outlet": "X",
+      "views": 265914,
+      "topicIds": [],
+      "excerpt": "Let your freak flag fly. \n\nOne of my mottos when it comes to hiring. \n\nI LOVE hiring freaks, nerds, quirky, eccentric, extreme people. \n\nPeople who don’t fit in most other companies. Or were chastised"
+    },
+    {
+      "id": "x-1817929906929483956",
+      "type": "x_post",
+      "title": "11 years ago this month I gave up alcohol. Each July I share a post giving an update. How ",
+      "url": "https://x.com/thesamparr/status/1817929906929483956",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 72640,
+      "topicIds": [],
+      "excerpt": "11 years ago this month I gave up alcohol. \n\nEach July I share a post giving an update.\n\nHow my perspective towards being sober as evolved, how I got sober, and changes it made in my life...things lik"
+    },
+    {
+      "id": "x-1813273559856185492",
+      "type": "x_post",
+      "title": "Something I've noticed: You get done doing something creative at work. Writing copy, desig",
+      "url": "https://x.com/thesamparr/status/1813273559856185492",
+      "publishedAt": "2024-07-16",
+      "outlet": "X",
+      "views": 62145,
+      "topicIds": [],
+      "excerpt": "Something I've noticed:\n\nYou get done doing something creative at work. \n\nWriting copy, designing something, whatever.\n\nThen you show it to coworkers for feedback. \n\n80% of the feedback is nitpicky, u"
+    },
+    {
+      "id": "x-1378018626465333253",
+      "type": "x_post",
+      "title": "Blogs are dead. But they're gonna make a comeback. Start one now. Just like how we did wit",
+      "url": "https://x.com/thesamparr/status/1378018626465333253",
+      "publishedAt": "2021-04-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Blogs are dead. \n\nBut they're gonna make a comeback.\n\nStart one now. \n\nJust like how we did with newsletters. They were silly when we started. Now they're not."
+    },
+    {
+      "id": "x-1520053087175647232",
+      "type": "x_post",
+      "title": "Angel investing mostly sucks - tons of meetings - ~10 years to see real results - dopamine",
+      "url": "https://x.com/thesamparr/status/1520053087175647232",
+      "publishedAt": "2022-04-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Angel investing mostly sucks\n\n- tons of meetings\n- ~10 years to see real results\n- dopamine rush when you land a deal but not much after that. Kinda boring."
+    },
+    {
+      "id": "x-1716462329418653837",
+      "type": "x_post",
+      "title": "For every biz biography I read, I make an excel sheet that shows - major points in their b",
+      "url": "https://x.com/thesamparr/status/1716462329418653837",
+      "publishedAt": "2023-10-23",
+      "outlet": "X",
+      "views": 90765,
+      "topicIds": [],
+      "excerpt": "For every biz biography I read, I make an excel sheet that shows\n\n- major points in their business and career\n- the numbers related to the point\n- how that money translates into today's money\n\nHere's "
+    },
+    {
+      "id": "x-1857114676934414443",
+      "type": "x_post",
+      "title": "My company, Hampton, is in the midst of a major change. We're switching to in real life me",
+      "url": "https://x.com/thesamparr/status/1857114676934414443",
+      "publishedAt": "2024-11-14",
+      "outlet": "X",
+      "views": 133000,
+      "topicIds": [],
+      "excerpt": "My company, Hampton, is in the midst of a major change.\n\nWe're switching to in real life meetings (vs. digital).\n\nSo the way Hampton works: you're put into an 8 person Core group. These people, they'r"
+    },
+    {
+      "id": "x-1793298417487114268",
+      "type": "x_post",
+      "title": "Had two people join Hampton last month. Both had +$500m exits. Both now have over $100m. B",
+      "url": "https://x.com/thesamparr/status/1793298417487114268",
+      "publishedAt": "2024-05-22",
+      "outlet": "X",
+      "views": 145233,
+      "topicIds": [],
+      "excerpt": "Had two people join Hampton last month. \n\nBoth had +$500m exits. \n\nBoth now have over $100m.\n\nBoth have the same issues: \n\nWhat should I do next? I feel lost. I want to do something again, but I'm sca"
+    },
+    {
+      "id": "x-2057129228660093254",
+      "type": "x_post",
+      "title": "About 2 or 3 years ago, I tweeted out, who has a good accountant? We got 300 people who re",
+      "url": "https://x.com/thesamparr/status/2057129228660093254",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 30897,
+      "topicIds": [],
+      "excerpt": "About 2 or 3 years ago, I tweeted out, who has a good accountant?\n\nWe got 300 people who replied. I thought it’d be cool to call 300 of these accountants and create a website where we just list them a"
+    },
+    {
+      "id": "x-1918014906638418240",
+      "type": "x_post",
+      "title": "Nobody cares about you, they only care about themselves. Good advice for business, copywri",
+      "url": "https://x.com/thesamparr/status/1918014906638418240",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 64869,
+      "topicIds": [],
+      "excerpt": "Nobody cares about you, they only care about themselves. \n\nGood advice for business, copywriting, and life. https://t.co/YVz1R1wrV7"
+    },
+    {
+      "id": "x-1381268507812360194",
+      "type": "x_post",
+      "title": "The cycle of content company: - Start as edgy/cool/unique - get popular - start hiring SJW",
+      "url": "https://x.com/thesamparr/status/1381268507812360194",
+      "publishedAt": "2021-04-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The cycle of content company: \n\n- Start as edgy/cool/unique\n- get popular\n- start hiring SJWs\n- conform, lose creativity, new staff groupthink would never allow old staffs antics\n- lose popularity. \n-"
+    },
+    {
+      "id": "x-1445169546818723843",
+      "type": "x_post",
+      "title": "I’ve hired people to run businesses before (and have friends who have). My current view: y",
+      "url": "https://x.com/thesamparr/status/1445169546818723843",
+      "publishedAt": "2021-10-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’ve hired people to run businesses before (and have friends who have). \n\nMy current view: you can hire people to keep the trains running on time. \n\nBut those people, often, are horrible at innovation"
+    },
+    {
+      "id": "x-2036158907911962757",
+      "type": "x_post",
+      "title": "We asked 561 founders in Hampton what luxury purchases were actually worth it. Nobody argu",
+      "url": "https://x.com/thesamparr/status/2036158907911962757",
+      "publishedAt": "2026-03-23",
+      "outlet": "X",
+      "views": 76584,
+      "topicIds": [],
+      "excerpt": "We asked 561 founders in Hampton what luxury purchases were actually worth it.\n\nNobody argued for a Ferrari or fancy watches.\n\nThis was the list that came up:\n\n- buying back your time (chef, housekeep"
+    },
+    {
+      "id": "x-1851263361574371643",
+      "type": "x_post",
+      "title": "High net worth people talk about money a lot. But its always behind closed doors. I don’t ",
+      "url": "https://x.com/thesamparr/status/1851263361574371643",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 89773,
+      "topicIds": [],
+      "excerpt": "High net worth people talk about money a lot. But its always behind closed doors.\n\nI don’t like that. Because it makes it harder to learn.\n\nWe’ve now done 25 episodes of Moneywise where wealthy people"
+    },
+    {
+      "id": "x-1530221858833956865",
+      "type": "x_post",
+      "title": "Blogs: very easy to grow. monetizes OK. hard to retain users. Newsletters: easy to grow. m",
+      "url": "https://x.com/thesamparr/status/1530221858833956865",
+      "publishedAt": "2022-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Blogs: very easy to grow. monetizes OK. hard to retain users.\n\nNewsletters: easy to grow. monetizes amazing. tough to engage/maintain. medium to retain.\n\nPodcast: very hard to grow. very hard to retai"
+    },
+    {
+      "id": "x-1786090515831652809",
+      "type": "x_post",
+      "title": "Alright folks. https://t.co/ezp4bXgk6P. Its officially a thing. So we made this lil site a",
+      "url": "https://x.com/thesamparr/status/1786090515831652809",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 95989,
+      "topicIds": [],
+      "excerpt": "Alright folks.\n\nhttps://t.co/ezp4bXgk6P. Its officially a thing.\n\nSo we made this lil site as a hobby. No business model, zero plan. \n\nWell, it got a lot of traction and people like it. \n\nSo...Joe and"
+    },
+    {
+      "id": "x-1288505020074270722",
+      "type": "x_post",
+      "title": "People ask me about starting newsletters a lot. They hate my advice: 1. write a blog post ",
+      "url": "https://x.com/thesamparr/status/1288505020074270722",
+      "publishedAt": "2020-07-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People ask me about starting newsletters a lot. They hate my advice: \n1. write a blog post\n2. Post on reddit\n3. Get traffic and collect emails\n4. Talk to customers and iterate\n\nDo that 1000 times. It'"
+    },
+    {
+      "id": "x-1815758819005276469",
+      "type": "x_post",
+      "title": "Through my conferences, podcasts, and @HamptonFounders...I've learned this: there are a th",
+      "url": "https://x.com/thesamparr/status/1815758819005276469",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 53114,
+      "topicIds": [],
+      "excerpt": "Through my conferences, podcasts, and @HamptonFounders...I've learned this: there are a thousand ways to build a great company, make a ton of $$$ and be happy. \n\nI've seen just about every approach wo"
+    },
+    {
+      "id": "x-1242856593718300673",
+      "type": "x_post",
+      "title": "Let’s replace the world founder with small business owner. Founder: dweeb who defaults to ",
+      "url": "https://x.com/thesamparr/status/1242856593718300673",
+      "publishedAt": "2020-03-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Let’s replace the world founder with small business owner. \n\nFounder: dweeb who defaults to raising funding with little to no traction and shit model, pivots if these get hard. Wears black shoes with "
+    },
+    {
+      "id": "x-1912895836847042762",
+      "type": "x_post",
+      "title": "Sam's List update: - a small website i made that's yelp for accountants, financial advisor",
+      "url": "https://x.com/thesamparr/status/1912895836847042762",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 40394,
+      "topicIds": [],
+      "excerpt": "Sam's List update:\n\n- a small website i made that's yelp for accountants, financial advisors, and more (soon)\n- march rev: $15,500\n- 2025 revenue so far: $32,375\n- turned 1 this month\n- @NotGoKGreen i"
+    },
+    {
+      "id": "x-1545218373784686592",
+      "type": "x_post",
+      "title": "I LOVE the whole “buy a business” stuff. Personally tho, it ain’t me. Gotta start it. Gott",
+      "url": "https://x.com/thesamparr/status/1545218373784686592",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I LOVE the whole “buy a business” stuff. \n\nPersonally tho, it ain’t me. \n\nGotta start it. Gotta inject that soul early on. \n\nStarting sh*t is my art! Buying, while lucrative, snoozefest for me."
+    },
+    {
+      "id": "x-2074455106175570160",
+      "type": "x_post",
+      "title": "Been playing around with a bunch of ai website builders to test them out. I notice they ma",
+      "url": "https://x.com/thesamparr/status/2074455106175570160",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 46829,
+      "topicIds": [],
+      "excerpt": "Been playing around with a bunch of ai website builders to test them out.\n\nI notice they make pretty sites and landing pages with minimal words. \n\nBut the fact is: long form copy wins. \n\nLong form + u"
+    },
+    {
+      "id": "x-1556756038606589952",
+      "type": "x_post",
+      "title": "Screwing up your cap table is likely one of the only things in business that when you fuck",
+      "url": "https://x.com/thesamparr/status/1556756038606589952",
+      "publishedAt": "2022-08-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Screwing up your cap table is likely one of the only things in business that when you fuck up, you can’t take it back. \n\nMost every other decision is reversible."
+    },
+    {
+      "id": "x-2008721804945183215",
+      "type": "x_post",
+      "title": "I’ve been building communities (online and offline) for +13 years. A few things I’ve been ",
+      "url": "https://x.com/thesamparr/status/2008721804945183215",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 40471,
+      "topicIds": [],
+      "excerpt": "I’ve been building communities (online and offline) for +13 years. \n\nA few things I’ve been thinking about lately. \n\nSponsors. Don’t do it (in most cases). Charge customers membership fees and don’t l"
+    },
+    {
+      "id": "x-1251239935207542788",
+      "type": "x_post",
+      "title": "One of the best resources for marketing: look at what the \"scammy\" marketers do. These peo",
+      "url": "https://x.com/thesamparr/status/1251239935207542788",
+      "publishedAt": "2020-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of the best resources for marketing: look at what the \"scammy\" marketers do. These people may or may not be unethical (selling shit products, lying). Some are, some aren't. But they're often categ"
+    },
+    {
+      "id": "x-1767293059060871502",
+      "type": "x_post",
+      "title": "I think \"every company is a media company\" is stupid. They're trying to say \"make content,",
+      "url": "https://x.com/thesamparr/status/1767293059060871502",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 35587,
+      "topicIds": [],
+      "excerpt": "I think \"every company is a media company\" is stupid.\n\nThey're trying to say \"make content, regardless of your biz model\".\n\nI prefer the line \"every biz should be in the entertainment biz.\"\n\nMake your"
+    },
+    {
+      "id": "x-1627703226416996355",
+      "type": "x_post",
+      "title": "Creation happens in silence. Any idea or creative work you can think of happens in silence",
+      "url": "https://x.com/thesamparr/status/1627703226416996355",
+      "publishedAt": "2023-02-20",
+      "outlet": "X",
+      "views": 81969,
+      "topicIds": [],
+      "excerpt": "Creation happens in silence.\n\nAny idea or creative work you can think of happens in silence.\n\nThis isolation happens in all fields: movies, music, literature, or product development. But it’s necessar"
+    },
+    {
+      "id": "x-1290736549168963584",
+      "type": "x_post",
+      "title": "Here's what my company is doing: 1. The Hustle: build 5m email audience+loyalty and profit",
+      "url": "https://x.com/thesamparr/status/1290736549168963584",
+      "publishedAt": "2020-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's what my company is doing:\n\n1. The Hustle: build 5m email audience+loyalty and profit with some ads\n2. Trends - research businesses we should start/invest in and keep paying subscribers in the k"
+    },
+    {
+      "id": "x-1508419569270013952",
+      "type": "x_post",
+      "title": "Copywriting is the #1 most important skill for business + making $. Copywriting has made m",
+      "url": "https://x.com/thesamparr/status/1508419569270013952",
+      "publishedAt": "2022-03-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Copywriting is the #1 most important skill for business + making $. \n\nCopywriting has made me or my businesses tens of millions of $. \n\nThe way I learned: copywork, a little known learning technique. "
+    },
+    {
+      "id": "x-1801272279889780896",
+      "type": "x_post",
+      "title": "This is for all the media nerds and people who wanna start media businesses: You will like",
+      "url": "https://x.com/thesamparr/status/1801272279889780896",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 68151,
+      "topicIds": [],
+      "excerpt": "This is for all the media nerds and people who wanna start media businesses:\n\nYou will likely make more money, have a better business, and a better life if...\n\nyou don't raise VC.\n\nRarely does VC + me"
+    },
+    {
+      "id": "x-1377634071975768074",
+      "type": "x_post",
+      "title": "RESEARCH HACK FOR STARTUP BUILDERS •Read real estate blogs → find out who's buying $20m ho",
+      "url": "https://x.com/thesamparr/status/1377634071975768074",
+      "publishedAt": "2021-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "RESEARCH HACK FOR STARTUP BUILDERS\n\n•Read real estate blogs → find out who's buying $20m home\n•Buying $20m homes → likely owned a big biz\n•Researching that big biz →shows you new opportunity\n\nIts how "
+    },
+    {
+      "id": "x-1829138094064390203",
+      "type": "x_post",
+      "title": "We’re making a change to Hampton’s membership requirements. Raising revenue minimum form $",
+      "url": "https://x.com/thesamparr/status/1829138094064390203",
+      "publishedAt": "2024-08-29",
+      "outlet": "X",
+      "views": 98554,
+      "topicIds": [],
+      "excerpt": "We’re making a change to Hampton’s membership requirements.\n\nRaising revenue minimum form $1m-$3m.\n\nWhen we started, it was for marketers. We had a few join, but quickly realized that not many of them"
+    },
+    {
+      "id": "x-1765783649943703985",
+      "type": "x_post",
+      "title": "There are a few things first time founders get wrong with growth. For example, first time ",
+      "url": "https://x.com/thesamparr/status/1765783649943703985",
+      "publishedAt": "2024-03-07",
+      "outlet": "X",
+      "views": 77820,
+      "topicIds": [],
+      "excerpt": "There are a few things first time founders get wrong with growth. \n\nFor example, first time founders often do TONS of diff marketing initiations (PR, SEO, blogging, etc).\n\nBut often, 1 or MAYBE 2 thin"
+    },
+    {
+      "id": "x-2059318663476375827",
+      "type": "x_post",
+      "title": "I knew nothing when I started a media company (The Hustle). Nothing! Had never worked in t",
+      "url": "https://x.com/thesamparr/status/2059318663476375827",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 21713,
+      "topicIds": [],
+      "excerpt": "I knew nothing when I started a media company (The Hustle). Nothing! Had never worked in the industry, didn’t know what CPM meant, didn’t know a single person who worked in the field.\n\nSo I reached ou"
+    },
+    {
+      "id": "x-1524498490969178112",
+      "type": "x_post",
+      "title": "Years ago, when I was first starting my conference business, we couldn’t afford fancy cate",
+      "url": "https://x.com/thesamparr/status/1524498490969178112",
+      "publishedAt": "2022-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Years ago, when I was first starting my conference business, we couldn’t afford fancy catering for breakfast. \n\nSo, we’d go to Costco and buy $10k of bakery goods.\n\nScrappiness helped us bootstrap but"
+    },
+    {
+      "id": "x-2089467536777806047",
+      "type": "x_post",
+      "title": "We just looked at the transcripts from thousands of CEOs who interviewed to join Hampton. ",
+      "url": "https://x.com/thesamparr/status/2089467536777806047",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 33680,
+      "topicIds": [],
+      "excerpt": "We just looked at the transcripts from thousands of CEOs who interviewed to join Hampton.\n\n$10m in revenue appears to be the threshold where founders/CEO no longer list money as a top issue for their "
+    },
+    {
+      "id": "x-1430587810021527552",
+      "type": "x_post",
+      "title": "I know a ton of the popular people on twitter who give the catchiest, cutest business advi",
+      "url": "https://x.com/thesamparr/status/1430587810021527552",
+      "publishedAt": "2021-08-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I know a ton of the popular people on twitter who give the catchiest, cutest business advice.\n\nMany of 'em are hacks.\n\nCareful who you take advice from!"
+    },
+    {
+      "id": "x-1645840576330203159",
+      "type": "x_post",
+      "title": "A cool part about startups is creating a team that's better than you. They build stuff and",
+      "url": "https://x.com/thesamparr/status/1645840576330203159",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 48033,
+      "topicIds": [],
+      "excerpt": "A cool part about startups is creating a team that's better than you.\n\nThey build stuff and you're in awe.\n\nIt took a years to do this at my last startups.\n\nAt Hampton, it took ~6 months. They make st"
+    },
+    {
+      "id": "x-1678841568097173504",
+      "type": "x_post",
+      "title": "Its very, very hard to be both a media startup and a SaaS startup at the same time. I can'",
+      "url": "https://x.com/thesamparr/status/1678841568097173504",
+      "publishedAt": "2023-07-11",
+      "outlet": "X",
+      "views": 135495,
+      "topicIds": [],
+      "excerpt": "Its very, very hard to be both a media startup and a SaaS startup at the same time. \n\nI can't think of many examples, but I'm sure there are a few.\n\nIts super, super hard to do 1 thing well, let alone"
+    },
+    {
+      "id": "x-1318680777526312961",
+      "type": "x_post",
+      "title": "Hiring AND firing. HOLY HELL. Once you get profitable, it's HANDS DOWN the most profitable",
+      "url": "https://x.com/thesamparr/status/1318680777526312961",
+      "publishedAt": "2020-10-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hiring AND firing. \n\nHOLY HELL. Once you get profitable, it's HANDS DOWN the most profitable thing an exec should focus on.\n\nI've learned this the hard way so many times. Having the wrong people in pl"
+    },
+    {
+      "id": "x-1203025229632507904",
+      "type": "x_post",
+      "title": "Here's what I've learned from years of talking to founders of all types of companies: Ther",
+      "url": "https://x.com/thesamparr/status/1203025229632507904",
+      "publishedAt": "2019-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's what I've learned from years of talking to founders of all types of companies:\n\nThere's an unlimited way to build a $100m-$1b business. You can raise money, bootstrap, have few employees, lots "
+    },
+    {
+      "id": "x-1770920319441629207",
+      "type": "x_post",
+      "title": "Dear \"my future first growth marketing hire\", My company @HamptonFounders, we're on a marc",
+      "url": "https://x.com/thesamparr/status/1770920319441629207",
+      "publishedAt": "2024-03-21",
+      "outlet": "X",
+      "views": 111810,
+      "topicIds": [],
+      "excerpt": "Dear \"my future first growth marketing hire\",\n\nMy company @HamptonFounders, we're on a march to $100m in recurring revenue. \n\nThat's a goal of ours. \n\nTo get there entirely bootstrapped while having a"
+    },
+    {
+      "id": "x-1263644118850220034",
+      "type": "x_post",
+      "title": "I was 100% against remote. Without commute I'm way more refreshed, happier, and absolutely",
+      "url": "https://x.com/thesamparr/status/1263644118850220034",
+      "publishedAt": "2020-05-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was 100% against remote. Without commute I'm way more refreshed, happier, and absolutely work harder. \n\nI can't remember ever being home by 5, but now working out around that time, dinner/chill, the"
+    },
+    {
+      "id": "x-1223653535067201537",
+      "type": "x_post",
+      "title": "My twitter feed is full of people delivery advice in short punchy, motivational sentences ",
+      "url": "https://x.com/thesamparr/status/1223653535067201537",
+      "publishedAt": "2020-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My twitter feed is full of people delivery advice in short punchy, motivational sentences using startup jargon. Some of it is cool but a lot is nonsense advice that’s pretty horrible. If I ever sound "
+    },
+    {
+      "id": "x-2112939576746733633",
+      "type": "x_post",
+      "title": "I'm a lifelong wordpress user. It feels the wordpress plugin and theme spaced is totally f",
+      "url": "https://x.com/thesamparr/status/2112939576746733633",
+      "publishedAt": "2026-10-21",
+      "outlet": "X",
+      "views": 107279,
+      "topicIds": [],
+      "excerpt": "I'm a lifelong wordpress user.\n\nIt feels the wordpress plugin and theme spaced is totally f-ed. I'm still using wp but claude's doing everything for me.\n\nthese theme businesses were huge. But seem unn"
+    },
+    {
+      "id": "x-1978277698523758951",
+      "type": "x_post",
+      "title": "The big $$$ is obviously in ai. But...for those who want to start a business and: 1. don't",
+      "url": "https://x.com/thesamparr/status/1978277698523758951",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 67403,
+      "topicIds": [],
+      "excerpt": "The big $$$ is obviously in ai.\n\nBut...for those who want to start a business and:\n\n1. don't love the idea of dedicating your life to ai \n2. it isn't in your skillet \n\nI think we're going to experienc"
+    },
+    {
+      "id": "x-2099845926856880513",
+      "type": "x_post",
+      "title": "We were offered like $600k to sell our company data to Micro1. 100% not doing it. But it d",
+      "url": "https://x.com/thesamparr/status/2099845926856880513",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 620867,
+      "topicIds": [],
+      "excerpt": "We were offered like $600k to sell our company data to Micro1. 100% not doing it.\n\nBut it does interest me like crazy.\n\nWhat a crazy business model and idea.\n\nIf you don't know, here's all I know abou"
+    },
+    {
+      "id": "x-1537087519812108289",
+      "type": "x_post",
+      "title": "I love the idea of: - less, but higher quality employees who are over paid - vs. lots of p",
+      "url": "https://x.com/thesamparr/status/1537087519812108289",
+      "publishedAt": "2022-06-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I love the idea of:\n\n- less, but higher quality employees who are over paid \n\n- vs. lots of people who are OK (most tech companies). \n\nBut…is this actually realistic? \n\nAny examples?"
+    },
+    {
+      "id": "x-1846531591264252355",
+      "type": "x_post",
+      "title": "The research team at Hampton did a deep dive on what makes Duolingo addictive. Their growt",
+      "url": "https://x.com/thesamparr/status/1846531591264252355",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 81863,
+      "topicIds": [],
+      "excerpt": "The research team at Hampton did a deep dive on what makes Duolingo addictive.\n\nTheir growth is insane.\n\nRevenue up 43% in the last 12 months. Daily active users up 59% (34.1m). Gross profit margin of"
+    },
+    {
+      "id": "x-1454092980504178691",
+      "type": "x_post",
+      "title": "Doing some pod research. Here's a preview: A few companies I like who don't advertise: 1. ",
+      "url": "https://x.com/thesamparr/status/1454092980504178691",
+      "publishedAt": "2021-10-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Doing some pod research. \n\nHere's a preview: A few companies I like who don't advertise:\n\n1. Dr. Bronners Soap: \n\n$100M+ revenue, no advertising yet. They continue to grow and gain market share.\n\nAmaz"
+    },
+    {
+      "id": "x-1786080980727398717",
+      "type": "x_post",
+      "title": "Check this out. Pretty cool. We got 100 Hampton members to show how their using AI to grow",
+      "url": "https://x.com/thesamparr/status/1786080980727398717",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 74341,
+      "topicIds": [],
+      "excerpt": "Check this out. Pretty cool.   \n\nWe got 100 Hampton members to show how their using AI to grow their business.   \n\nSome people used it to grow their Insta to 1m or publish newsletters.   \n\nPretty wild"
+    },
+    {
+      "id": "x-2112574603004662091",
+      "type": "x_post",
+      "title": "Last week I talked to four creators doing over $1m a year in ad revenue, almost entirely f",
+      "url": "https://x.com/thesamparr/status/2112574603004662091",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 32054,
+      "topicIds": [],
+      "excerpt": "Last week I talked to four creators doing over $1m a year in ad revenue, almost entirely from AI companies.\n\nAll had fewer than 100k followers. Most of the ads are on Instagram.\n\nOn My First Million, "
+    },
+    {
+      "id": "x-1876291942415507745",
+      "type": "x_post",
+      "title": "Ok so hear me out: I think a marriage should be run like a business. Specially, the financ",
+      "url": "https://x.com/thesamparr/status/1876291942415507745",
+      "publishedAt": "2025-01-06",
+      "outlet": "X",
+      "views": 80011,
+      "topicIds": [],
+      "excerpt": "Ok so hear me out:\n\nI think a marriage should be run like a business. \n\nSpecially, the finance and goal setting part of the relationship should be just like a business.\n\nI've done this with my family "
+    },
+    {
+      "id": "x-2039326930860965909",
+      "type": "x_post",
+      "title": "The agency business model just got really interesting. Shaan and I were talking about this",
+      "url": "https://x.com/thesamparr/status/2039326930860965909",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 141139,
+      "topicIds": [],
+      "excerpt": "The agency business model just got really interesting.\n\nShaan and I were talking about this thesis called \"service as a software\" on MFM.\n\nI always thought running an agency was a huge pain in the ass"
+    },
+    {
+      "id": "x-1452685169555542022",
+      "type": "x_post",
+      "title": "One of our early employees started as an intern. He just announced he's leaving us to star",
+      "url": "https://x.com/thesamparr/status/1452685169555542022",
+      "publishedAt": "2021-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of our early employees started as an intern. \n\nHe just announced he's leaving us to start a startup.\n\nAlready has raised $1.5m. \n\nI'm so excited for him and will share. \n\nThis is the cool part abo"
+    },
+    {
+      "id": "x-1873811579285758114",
+      "type": "x_post",
+      "title": "something wild about startup taxes there’s a way to potentially legally pay zero taxes on ",
+      "url": "https://x.com/thesamparr/status/1873811579285758114",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 164364,
+      "topicIds": [],
+      "excerpt": "something wild about startup taxes\n\nthere’s a way to potentially legally pay zero taxes on a $400m+ exit.\n\nHere's how.\n\nYou might know about QSBS (but surprisingly a lot of founders don’t). You don’t "
+    },
+    {
+      "id": "x-1665742997089075202",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT: Last summer I grew my Insta from 0-50k. The secret? Took my pod videos and c",
+      "url": "https://x.com/thesamparr/status/1665742997089075202",
+      "publishedAt": "2023-06-05",
+      "outlet": "X",
+      "views": 295303,
+      "topicIds": [],
+      "excerpt": "ANNOUNCEMENT:\n\nLast summer I grew my Insta from 0-50k. The secret? Took my pod videos and chopped 'em up.\n\nThe problem: takes forever.  And is tedious. So, I hired help. AND IT WORKED.\n\nSo, we decided"
+    },
+    {
+      "id": "x-1501246083791470598",
+      "type": "x_post",
+      "title": "Wanted to brush up on my copywriting. So I made a product and started selling it. On about",
+      "url": "https://x.com/thesamparr/status/1501246083791470598",
+      "publishedAt": "2022-03-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Wanted to brush up on my copywriting.\n\nSo I made a product and started selling it.\n\nOn about 500 sales, this is the conversion rate. \n\nNot bad! https://t.co/gSTHjAm9jl"
+    },
+    {
+      "id": "x-2021913344903418251",
+      "type": "x_post",
+      "title": "In her 50s, after being a stay at home mom, a few years ago my mother in law started an on",
+      "url": "https://x.com/thesamparr/status/2021913344903418251",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 50242,
+      "topicIds": [],
+      "excerpt": "In her 50s, after being a stay at home mom, a few years ago my mother in law started an online pillow store. \n\nIt makes over $1,000,000 a year and very profitable. \n\nShe didn’t know anything about com"
+    },
+    {
+      "id": "x-2019132409451626848",
+      "type": "x_post",
+      "title": "I've got a buddy who sold his company for ~$70m. So, it was a massive financial success. H",
+      "url": "https://x.com/thesamparr/status/2019132409451626848",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 64106,
+      "topicIds": [],
+      "excerpt": "I've got a buddy who sold his company for ~$70m.\n\nSo, it was a massive financial success. \n\nHowever, he HATED the life he made for himself while running it.\n\nHis company felt like a prison:\n\n- 16-hour"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/sam-parr/mcp",
+    "serverName": "sam-parr-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Sam Parr's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Sam Parr's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

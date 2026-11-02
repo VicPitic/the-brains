@@ -1,0 +1,39 @@
+{
+  "id": "yt-mD7JpNHLT70",
+  "title": "Cody Schneider: Building marketing agents for LinkedIn-signal cold outbound and organic content",
+  "summary": "Cody walks through two marketing agents. One scrapes engagers from niche LinkedIn influencer posts, runs waterfall enrichment, and cold emails or DMs them. The other turns real conversations into LinkedIn posts for a whole team. His core view is that an agent is just code on a cron job with an optional LLM thinking loop, not tokens burned per action.",
+  "principles": [
+    {
+      "text": "Target people who engaged with niche content; engagement is a hand-raise signal beating firmographics.",
+      "quote": "you have to look for signals or triggers that basically show that people are hand raising um saying hey I want I want this thing."
+    },
+    {
+      "text": "Track only 10-20 outlier creators in your niche; they cover most of the audience.",
+      "quote": "If you just monitor those outliers, you're actually going to get, you know, 80% surface area coverage for that entire industry."
+    },
+    {
+      "text": "Waterfall enrichment: start with the cheapest, most accurate data source, then fall through to pricier ones.",
+      "quote": "you're starting with what is the cheapest, most accurate and then moving your way down into the more expensive uh uh validation tools."
+    },
+    {
+      "text": "Send cold email from separate burner domains and inboxes to protect your core domain's deliverability.",
+      "quote": "you're buying inboxes and domains that are burner domains that enable you to send cold email um not from your core domain."
+    },
+    {
+      "text": "Pay for software that does the job, not tokens on every action; use inference only where needed.",
+      "quote": "Build the software that does the solution for you, not tokens burning every time that you're trying to do the action."
+    },
+    {
+      "text": "Source social content from real human conversations, then find winners and remix them on a recurring cadence.",
+      "quote": "source this from real human conversation because that's where these original ideas are coming from."
+    }
+  ],
+  "topics": [
+    "growth",
+    "distribution",
+    "ai",
+    "sales"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

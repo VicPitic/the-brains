@@ -1,0 +1,39 @@
+{
+  "id": "essay-strategy",
+  "title": "SEO strategy for SaaS startups: keywords, content, links, technical, and case studies",
+  "summary": "Ilias Ism lays out a SaaS SEO playbook: know your audience and set 3-5 KPIs, research keywords by intent, publish content for each funnel stage, earn quality backlinks, fix technical SEO, promote, then measure and iterate. He backs it with Zapier, Ahrefs and Intercom examples.",
+  "principles": [
+    {
+      "text": "SEO compounds: it's a cheap, long-term channel that can become your top signup source within 6-12 months.",
+      "quote": "The results of SEO compound over time as you build authority and rankings. Within 6-12 months, SEO can become your top channel for new signups."
+    },
+    {
+      "text": "Start from the customer: personas, journey and funnel stage decide which keywords and content you make.",
+      "quote": "Every effective SEO strategy starts with a deep understanding of your target customers."
+    },
+    {
+      "text": "Pick only 3-5 core metrics, set aggressive but realistic targets, and get stakeholder buy-in.",
+      "quote": "Choose 3-5 core metrics to focus on and establish aggressive but realistic targets."
+    },
+    {
+      "text": "Mix head keywords with long-tail ones tied to use cases and pain points, and tag every keyword by intent and funnel stage.",
+      "quote": "In addition to \"head\" keywords that define your product category, go after long-tail keywords that align with specific use cases, features, and customer pain points."
+    },
+    {
+      "text": "For backlinks, a few relevant, high-quality links beat dozens of low-quality ones. Original data earns links naturally.",
+      "quote": "A few high-value links will do more for your SEO than dozens of low-quality ones."
+    },
+    {
+      "text": "Publishing isn't enough. Promote content, then track results, reinvest revenue and scale what works.",
+      "quote": "Creating optimized content is only half the battle."
+    }
+  ],
+  "topics": [
+    "seo",
+    "growth",
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

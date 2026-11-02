@@ -1,0 +1,38 @@
+{
+  "id": "essay-perfect-landing-page-formula",
+  "personIsSpeaker": true,
+  "title": "Perfect Landing Page Formula: headline, description and bullet-point benefits",
+  "summary": "Ilias Ism lays out a simple landing page formula: a short headline showing value and USP, a description with specific numbers and reasons, and 3-5 benefit bullets. He illustrates it with Pieter Levels' Nomad List, Interior AI and Photo AI pages and packages it as a reusable AI prompt.",
+  "principles": [
+    {
+      "text": "Headline should be very short, simple, concise, and show value and the USP.",
+      "quote": "Title: Very short, simple to understand, concise, shows value and USP"
+    },
+    {
+      "text": "Description carries the specifics: numbers, benefits, reasons why, and the mission.",
+      "quote": "Description: Specific numbers, benefits, reasons why, mission"
+    },
+    {
+      "text": "Use 3-5 bullet points with numbers and key points to summarize the product.",
+      "quote": "Bullet points: 3-5 bullet points with numbers & key points"
+    },
+    {
+      "text": "Bullet points are the most important part of a landing page because they summarize benefits in an easy-to-remember way.",
+      "quote": "The bullet points are the most important part of the landing page. They summarize the product and its benefits in a way that's easy to understand and remember."
+    },
+    {
+      "text": "Design for scanners: most visitors skim to decide if the page is worth their time.",
+      "quote": "They're also easy to scan, which is important because most people don't read every word on a landing page. They scan it to see if it's worth their time."
+    },
+    {
+      "text": "Reuse a proven landing page style across products; copying one style lifted Nomad List conversion from 1% to almost 4%.",
+      "quote": "I copy-pasted Photo AI and Interior AI's landing page style and put it on Nomad List and conversion is now up from 1% to almost 4%"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "product"
+  ],
+  "quality": 3
+}

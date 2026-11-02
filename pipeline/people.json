@@ -1304,5 +1304,83 @@
       "xTerms": "(discipline OR mind OR mental OR suffering OR hard OR pain OR run OR running OR excuses OR accountability OR comfort OR soft OR callous OR grind OR work)",
       "search": "principles on discipline, mental toughness and pushing past limits"
     }
+  },
+  {
+    "slug": "ilias-ism",
+    "name": "Ilias Ism",
+    "x": "illyism",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Ilias Ism interview",
+      "Ilias Ism SEO podcast",
+      "illyism SEO",
+      "Ilias Ism MagicSpace SEO",
+      "Ilias Ism LinkDR backlinks",
+      "Ilias Ismanalijev"
+    ],
+    "sites": [
+      {
+        "domain": "il.ly",
+        "search": "Ilias Ism essays on SEO, backlinks, startups, building SaaS, AI, growth"
+      },
+      {
+        "domain": "magicspace.agency",
+        "search": "Ilias Ism articles on SaaS SEO, link building, AI search, programmatic SEO"
+      },
+      {
+        "domain": "linkdr.com",
+        "search": "Ilias Ism on link building, backlinks, SEO strategy"
+      }
+    ]
+  },
+  {
+    "slug": "cody-schneider",
+    "name": "Cody Schneider",
+    "x": "codyschneider",
+    "youtubeChannelQuery": "Cody Schneider In the Pit",
+    "youtubeQueries": [
+      "Cody Schneider interview",
+      "Cody Schneider growth marketing podcast",
+      "Cody Schneider Startup Ideas Podcast Greg Isenberg",
+      "Cody Schneider Graphed",
+      "Cody Schneider Swell AI",
+      "Cody Schneider GTM engineering AI agents",
+      "Cody Schneider SEO programmatic"
+    ],
+    "sites": [
+      {
+        "domain": "graphed.com",
+        "search": "Cody Schneider on marketing analytics, growth, GTM engineering, AI agents"
+      }
+    ]
+  },
+  {
+    "slug": "sam-parr",
+    "name": "Sam Parr",
+    "x": "thesamparr",
+    "youtubeChannelQuery": "My First Million",
+    "youtubeQueries": [
+      "Sam Parr interview",
+      "Sam Parr podcast guest The Hustle",
+      "Sam Parr sold The Hustle HubSpot story",
+      "Sam Parr Hampton founders",
+      "Sam Parr copywriting Copy That",
+      "Sam Parr My First Million business ideas",
+      "Sam Parr lessons money"
+    ],
+    "sites": [
+      {
+        "domain": "thesamparr.com",
+        "search": "Sam Parr essays on business, copywriting, newsletters, money, life"
+      },
+      {
+        "domain": "copythat.com",
+        "search": "Sam Parr on copywriting and writing that sells"
+      },
+      {
+        "domain": "joinhampton.com",
+        "search": "Sam Parr on founders, community, building Hampton"
+      }
+    ]
   }
 ]

@@ -1,0 +1,39 @@
+{
+  "id": "yt-U2hogriGmEw",
+  "title": "How Cody Schneider builds marketing agents that run Facebook ads on live business data",
+  "summary": "Cody defines a real marketing agent as unified data in a warehouse, autonomous decisions on a cadence, and cloud hosting. He walks through a full Facebook ads agent (research, creative, publishing, culling winners) and an AI-for-WordPress startup idea to market with it.",
+  "principles": [
+    {
+      "text": "A real marketing agent needs unified data, autonomous decisions on a cadence, and cloud hosting; a linear automation workflow is not one.",
+      "quote": "you have to solve the data problem to like give the agent unified data clarity of like the whole pipeline."
+    },
+    {
+      "text": "Put all channel data (ads, analytics, CRM, Stripe) in one warehouse so the agent can tie a specific ad to revenue.",
+      "quote": "A data warehouse is a way to unify all of your data sources into a single location so that your agent has the ability to understand all of the data in context"
+    },
+    {
+      "text": "Use the Facebook marketing API only for writes (publish, turn off, promote); bulk pulling data breaks TOS and gets accounts banned.",
+      "quote": "So, how you actually use the Facebook ads API is you use the API only for rights, like only to publish content to the Facebook ads account"
+    },
+    {
+      "text": "After Andromeda, skip interest targeting: make creative about a specific pain point and Facebook finds the buyers, making it a strong B2B channel.",
+      "quote": "Facebook has turned into the best B2B ads channel and that exists right now."
+    },
+    {
+      "text": "Run a test-and-cull loop: publish ads daily, let them run 2 to 3 days, kill losers, and pool winners to compete for budget.",
+      "quote": "The winning ad sets, they go into a winners pool, and they're competing against each other for the ad budget that's available."
+    },
+    {
+      "text": "Marketing is continuous, not campaign-based; fast feedback loops mean you must observe trends and keep adjusting.",
+      "quote": "Like how marketing actually functions now is like you're continuously doing this and because the feedback loops are so fast"
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

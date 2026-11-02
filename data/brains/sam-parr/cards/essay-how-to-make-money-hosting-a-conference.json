@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-to-make-money-hosting-a-conference",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "How Sam Parr ran a sold-out 120-person event for $1,090 profit",
+  "summary": "Sam Parr's 2014 breakdown of hosting Bootstrap LIVE, a 3-hour meetup. He explains landing a \"whale\" speaker first, standing out with a handwritten letter, getting a free venue by appealing to the host's interests, selling tickets through free channels, and the actual P&L.",
+  "topics": [
+    "marketing",
+    "distribution",
+    "building",
+    "launch"
+  ],
+  "principles": [
+    {
+      "text": "Land one credible anchor first; make it effortless for them to say yes by pre-building the event page.",
+      "quote": "Before we even asked him we created the event page on Eventbrite with all the details like speakers, schedule, location, and stuff like that."
+    },
+    {
+      "text": "Stand out to busy, in-demand people with a personal gesture and make the benefit to them crystal clear.",
+      "quote": "In Andrew’s case, it was a handwritten letter and bottle of scotch. In the letter, we made it very, very, very clear about how this event would benefit him."
+    },
+    {
+      "text": "Pick speakers who are real practitioners with great stories, not self-proclaimed experts.",
+      "quote": "We wanted accomplished people who were actually experts in their field, had a great story, and were genuinely nice and fun people"
+    },
+    {
+      "text": "Get free venues by pitching what's in it for them; people only care about their own interests.",
+      "quote": "NO ONE CARES ABOUT YOU…THEY ONLY CARE ABOUT THEMSELVES."
+    },
+    {
+      "text": "Map every free channel up front and trade free tickets for promotion; word of mouth sells most tickets.",
+      "quote": "Besides $50 in Facebook ads, all of the advertising was free."
+    },
+    {
+      "text": "Set a clear purpose, write a plan, then over-prepare and sweat the details; ignorance of how events usually go helps.",
+      "quote": "Once we had a plan we executed like crazy."
+    }
+  ]
+}
