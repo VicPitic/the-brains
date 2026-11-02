@@ -1,0 +1,39 @@
+{
+  "id": "yt-pcAlM_s1Bz4",
+  "title": "Why AI killed micro SaaS: own your stack and distribution (the drop shipping parallel)",
+  "summary": "Simon argues micro SaaS is following the drop shipping path: founders renting 95% of their operation (hosting, database, AI, payments, traffic) get squeezed as AI makes software cheap to copy. Survivors own their infrastructure, data and audience. He shares his own response: a one-time-purchase bundle (FounderStack), self-hostable or open-source products, and eventually owned hardware.",
+  "principles": [
+    {
+      "text": "A business built almost entirely on rented services gets squeezed, because every layer gets paid before the founder does.",
+      "quote": "Meanwhile, every rented layer still gets paid before the founder does."
+    },
+    {
+      "text": "Easy-to-start businesses attract everyone, and suppliers and platforms then slowly take the margin until nothing is left.",
+      "quote": "But easy businesses attract everyone. Then the suppliers, platforms, and advertisers slowly take the margin until there's nothing left."
+    },
+    {
+      "text": "To survive, own your product stack: self-host, control data and configuration, and make every key dependency replaceable.",
+      "quote": "self-host the product, control the data and configuration, understand the infrastructure and make every important dependency replaceable."
+    },
+    {
+      "text": "Own your distribution through social audiences and an email list you control; use ads to amplify it, not as your only channel.",
+      "quote": "Ads should amplify that distribution instead of being the only way you can reach a customer."
+    },
+    {
+      "text": "Offer a one-time-purchase bundle next to subscriptions; efficient infrastructure makes it viable without monthly payments from every customer.",
+      "quote": "I've spent a lot of time making our infrastructure super efficient so that we can maintain these products without every customer paying us every month."
+    },
+    {
+      "text": "Lifetime deals can work when the software is serious and keeps improving, so buyers genuinely own it rather than lease it forever.",
+      "quote": "My goal with FounderStack is serious software that we keep improving while the people who buy it get to own it instead of leasing it forever."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "distribution",
+    "pricing",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

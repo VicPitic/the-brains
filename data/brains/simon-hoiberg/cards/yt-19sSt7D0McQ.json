@@ -1,0 +1,39 @@
+{
+  "id": "yt-19sSt7D0McQ",
+  "title": "Simon Høiberg on taking a SaaS to $1M ARR: paywalls, free-plan widget distribution and bootstrapped growth",
+  "summary": "First episode of Zero To Million SaaS. Simon explains why a $1M ARR SaaS is the right bootstrapper target, why SaaS is worth the risk, and how he is growing his new AI support tool 8base: a free plan with a branded chat widget as a distribution and backlink engine, funded at a loss, versus the hard-paywall trials that grew his other products faster.",
+  "principles": [
+    {
+      "text": "Aim for a $1M ARR SaaS, not a billion-dollar headline; it's achievable for normal bootstrappers.",
+      "quote": "forget all the big billion dollar headlines and just build a million dollar sass it's possible like we can do it many people can do it today"
+    },
+    {
+      "text": "A card-required, opt-out trial behind a paywall grew his products much faster than freemium.",
+      "quote": "as soon as we put everything behind a pay wall um our growth just increased much much much faster"
+    },
+    {
+      "text": "Use a free plan with a branded embedded widget as distribution; the priority is getting the widget on as many sites as possible.",
+      "quote": "my main goal is actually to get these chat widgets out on as many websites as possible"
+    },
+    {
+      "text": "Widgets built without iframes pass as normal backlinks, so every installed widget also helps SEO.",
+      "quote": "whenever people put this chat on their website it's a backlink"
+    },
+    {
+      "text": "A bootstrapper can deliberately run at a loss to fund a growth loop rather than chase early profitability.",
+      "quote": "happy to invest in getting these widget out on as many websites as absolutely possible"
+    },
+    {
+      "text": "A launch spike fades after churn; the real work is building a consistent, continuous growth engine.",
+      "quote": "growth has flattened a little bit so we're now working on how to get this growth engine running a little bit more consistently"
+    }
+  ],
+  "topics": [
+    "growth",
+    "bootstrapping",
+    "distribution",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

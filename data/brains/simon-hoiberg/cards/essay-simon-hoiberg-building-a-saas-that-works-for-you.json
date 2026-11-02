@@ -1,0 +1,39 @@
+{
+  "id": "essay-simon-hoiberg-building-a-saas-that-works-for-you",
+  "title": "How Simon Høiberg builds SaaS products without burning out: reusable building blocks, ecosystem thinking, joy-driven work",
+  "summary": "Simon explains how he runs FeedHive, LinkDrip, a YouTube channel and a small team without burnout. He covers building reusable blocks, picking a pre-validated market and validating with 30 hand-picked users, using lifetime deals carefully, and replacing funnels with an ecosystem of products and content.",
+  "principles": [
+    {
+      "text": "Turn every output into a reusable building block or checklist so each next project is faster and effort compounds.",
+      "quote": "every time I finished a YouTube video, so strip that video apart and see is there anything in this video I can turn into a reusable building block that I can use to make the next video even faster?"
+    },
+    {
+      "text": "Pick a well-established, pre-validated market and win a small niche with a tiny difference, rather than trying to innovate.",
+      "quote": "I’m gonna try to be going into a market that is as well established and pre validated as I possibly can."
+    },
+    {
+      "text": "Validate by building with ~30 people from your audience who voice a specific pain, asking them questions daily.",
+      "quote": "I built in secret with these 30 so users and it was literally fully community driven. I was in there talking to them daily asking them questions daily"
+    },
+    {
+      "text": "Sell lifetime deals only on a limited basis: model the costs first and communicate clearly that it is an early-access validation offer.",
+      "quote": "make that Excel sheet first of all to make sure that your finances can actually support this"
+    },
+    {
+      "text": "Think ecosystem, not funnel: people who drop off can land on another product or content, and each bet should feed the web.",
+      "quote": "whenever I put out something new, my first question that I asked myself is, does this fit into a web in any way?"
+    },
+    {
+      "text": "Run joy-driven with an empty calendar and async written work; burnout comes from forced work, so build processes to prevent repeats.",
+      "quote": "I think people don’t burn out from working a lot. I think people burning out from be feeling forced to work on something"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "product",
+    "mindset",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

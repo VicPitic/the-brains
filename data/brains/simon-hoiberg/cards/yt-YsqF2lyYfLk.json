@@ -1,0 +1,39 @@
+{
+  "id": "yt-YsqF2lyYfLk",
+  "title": "5 SaaS mistakes to avoid: lean pricing, real execution, and marketing from day one",
+  "summary": "Simon Høiberg walks through five common SaaS founder mistakes drawn from building FeedHive: underpricing, poor execution of the build-measure-learn loop, fearing existing markets, staying in your comfort zone, and neglecting marketing. He offers a concrete \"lean pricing\" method and argues distribution beats product quality.",
+  "principles": [
+    {
+      "text": "Don't price far below competitors; low price signals a bad product and can't fund support or marketing.",
+      "quote": "if you come across a product and they price themselves significantly lower than all your competitors what's your first thought that is a shitty product right"
+    },
+    {
+      "text": "Lean pricing: start a little below top competitors, then grow ARPU 5% monthly until you hit resistance.",
+      "quote": "you start at a reasonable pricing point a little below your biggest competitors but not too much now you should aim at increasing the average revenue per user by five percent each month until you meet resistance"
+    },
+    {
+      "text": "Raise ARPU via several levers (yearly discount, tier upsell, price anchor, price), not just raw price.",
+      "quote": "aiming at a revenue increase of five percent instead of only targeting the price Bond itself gives you way more room to experiment with your pricing model"
+    },
+    {
+      "text": "Good execution is the full build-measure-learn loop: don't get stuck researching, over-building, or endlessly restarting.",
+      "quote": "great execution is somewhere in between these two extremes you don't want a long and comprehensive business plan so to a certain extent you should definitely just throw yourself at it and get started"
+    },
+    {
+      "text": "Existing competitors in a market are a good sign: demand is validated and you can win with less friction.",
+      "quote": "if you don't want that if you're perfectly fine with building a small SAS that do a few Millions a year then you don't have to be discouraged when you go on search for your great idea just to discover that it already has huge competitors in fact that's a super good sign"
+    },
+    {
+      "text": "Products are easy to build now, so a clear go-to-market strategy and distribution channels are the real edge.",
+      "quote": "it has actually become really easy to create great products so everyone's got them now if you think your competitive advantages is a better more high quality product think again"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "product",
+    "bootstrapping",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

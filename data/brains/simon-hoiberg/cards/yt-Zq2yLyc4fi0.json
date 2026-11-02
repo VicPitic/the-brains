@@ -1,0 +1,39 @@
+{
+  "id": "yt-Zq2yLyc4fi0",
+  "title": "How Simon Høiberg made $160K+ selling SaaS lifetime deals (and the 3 rules that make them safe)",
+  "summary": "Simon explains why common objections to lifetime deals (unsustainable, entitled users, cannibalized subscribers, no trust) mostly fail, using data from AppSumo, LinkDrip and his Founder's Stack bundle. He lays out three rules: price high, keep costs and support low, and build a public reputation.",
+  "principles": [
+    {
+      "text": "Lifetime users churn too, so a lifetime deal isn't a forever liability; pick a price high enough to be profitable before the average user leaves.",
+      "quote": "Lifetime users do churn. And they churn for just about the same reason subscribers churn."
+    },
+    {
+      "text": "Set a relatively high price for a lifetime deal so the break-even horizon is far longer than any realistic customer lifespan.",
+      "quote": "Set a relatively high price point for your offer. We're selling Founder's Stack for $799 for all four tools."
+    },
+    {
+      "text": "Sell simple, specialized, self-serve tools with minimal support so lifetime customers don't create ongoing cost; estimate costs conservatively.",
+      "quote": "Keep your products low touch and self-serve. Make a big deal out of the product onboarding experience and have a lot of guides, tutorials, and videos ready so the user can help themselves effectively."
+    },
+    {
+      "text": "Underpricing a lifetime deal on a product with high running costs (e.g. AI usage) is the surest way to go bankrupt.",
+      "quote": "If you're pricing too low and your product costs too much to run, this is where you get into trouble."
+    },
+    {
+      "text": "A big price gap between the lifetime deal and your monthly plan limits cannibalization; the deal can even bring new subscribers.",
+      "quote": "my clear impression is that if the price distance is big enough, you probably don't have to worry that your entire subscriber base is jumping the ship and grabbing your lifetime deal all at once."
+    },
+    {
+      "text": "Trust is the key barrier to lifetime deals; the founder must be a visible, reachable public face who builds a reputation.",
+      "quote": "You, as the founder, should be the public face of your company. You should be on social media, on YouTube, in people's emails, building trust."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "launch",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

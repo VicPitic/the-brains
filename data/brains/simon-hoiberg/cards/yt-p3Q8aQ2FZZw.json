@@ -1,0 +1,39 @@
+{
+  "id": "yt-p3Q8aQ2FZZw",
+  "title": "How Simon Høiberg uses AI agents to audit ICP, churn and new SaaS ideas",
+  "summary": "Simon argues AI can now handle founder judgment if given real business data. He runs three audits: finding the real ICP from billing, database and domain data; reconstructing churn by joining cancellation feedback, support history and product usage; and mining reviews and communities for repeated buyer pain that fits his portfolio. Each audit ends in a prepared experiment.",
+  "principles": [
+    {
+      "text": "Derive your real ICP from payment, product usage and customer context data, not from a brainstormed persona.",
+      "quote": "for this to work, the agent needs access to the places where your real customer signals already exist. It starts with the payment signal."
+    },
+    {
+      "text": "Founders review data in pieces; AI can connect payments, behavior and context at once and show which customers look alike.",
+      "quote": "AI is much better at looking at all of it at once. It can connect the payment signal, the product behavior, and the customer context"
+    },
+    {
+      "text": "Messy analytics don't block the audit; read-only access to the raw database is enough to find patterns.",
+      "quote": "If the agent has read-only access to the raw database, it can still dig through tables, run queries, and make sense of a lot of the messy product data."
+    },
+    {
+      "text": "Turn every audit finding into an experiment: audit, hypothesis, experiment, validation, with landing page, ad angles and metrics.",
+      "quote": "Audit, hypothesis, experiment, validation. All done by my AI agents."
+    },
+    {
+      "text": "Cancellation reasons are a thin version of the truth; rebuild the churn journey and split bad-fit customers from good-fit ones who failed.",
+      "quote": "separate the customers who were probably never a good fit from the customers who should have succeeded but didn't. Because those are completely different problems."
+    },
+    {
+      "text": "Find new SaaS ideas from repeated buyer pain in reviews and communities, filtered by fit with the customers and products you already have.",
+      "quote": "the best idea is not always the biggest market. Sometimes the best idea is the one that you can test the fastest because you already have an unfair advantage around it."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

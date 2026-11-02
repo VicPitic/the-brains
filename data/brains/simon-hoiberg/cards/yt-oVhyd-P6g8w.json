@@ -1,0 +1,39 @@
+{
+  "id": "yt-oVhyd-P6g8w",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Simon Høiberg on why SEO blogging rarely moves the needle for a new SaaS, plus pricing and churn lessons",
+  "summary": "Simon debates co-host Kyle on whether SEO and blogging are worth it for a new SaaS in 2024. He argues it's rarely needle-moving, citing weak blog conversions and unstable rankings. He also shares lessons on pricing-plan psychology, churn-feature requests and leaning on unfair advantages.",
+  "topics": [
+    "seo",
+    "pricing",
+    "marketing",
+    "growth"
+  ],
+  "principles": [
+    {
+      "text": "A new SaaS betting on Google blogging as its main channel is unlikely to see needle-moving results unless it's an outlier.",
+      "quote": "if you are going to launch a new SAS product in 2024 and you sit down and say my main acquisition channel is going to be me optimizing my ranking on Google to show up and people search I would say that unless you're in the outlier group you're probably not going to do anything needle moving"
+    },
+    {
+      "text": "Top blog rankings can bring little traffic and few conversions; measure conversions per article, not just rank.",
+      "quote": "when I count the number of clicks we're actually getting to that article and then tracking which conversions we got from that specific articles it's very very little"
+    },
+    {
+      "text": "Ranking on page one is fragile: competitors overtake you, so SEO isn't a set-and-forget asset.",
+      "quote": "once we get to get to page one on something it is incredibly difficult to staying there for a longer period of time"
+    },
+    {
+      "text": "Start from your unfair advantages and lean on the channel you already have expertise in.",
+      "quote": "if there's one thing that you should always consider when you go out and build something new and launch something new is where's my unfair advantages"
+    },
+    {
+      "text": "Use pricing psychology: an expensive anchor or a cheap, low-limit plan makes the middle plan look attractive.",
+      "quote": "you can have an anchor in terms of the most expensive price make the middle plan look less pricey you can also have a sort of a reverse anchor where you have something very cheap but also very low limits"
+    },
+    {
+      "text": "Churn feedback is unreliable: the most-requested feature may not reduce churn, while small nice-to-haves can.",
+      "quote": "we have had some features also on FeedHive that people kept asking for and it was the same thing this was the main reason people were churning and when we finally delivered it it changed nothing"
+    }
+  ]
+}

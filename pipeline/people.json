@@ -1382,5 +1382,29 @@
         "search": "Sam Parr on founders, community, building Hampton"
       }
     ]
+  },
+  {
+    "slug": "simon-hoiberg",
+    "name": "Simon Høiberg",
+    "x": "SimonHoiberg",
+    "youtubeChannelQuery": "Simon Høiberg",
+    "youtubeQueries": [
+      "Simon Høiberg interview",
+      "Simon Hoiberg podcast",
+      "Simon Hoiberg FeedHive bootstrapped SaaS",
+      "Simon Hoiberg portfolio of SaaS products",
+      "Simon Hoiberg building a SaaS solo",
+      "Simon Hoiberg marketing distribution audience"
+    ],
+    "sites": [
+      {
+        "domain": "simonhoiberg.com",
+        "search": "Simon Høiberg essays on bootstrapping SaaS, marketing, audience building, pricing, AI"
+      },
+      {
+        "domain": "feedhive.com",
+        "search": "Simon Høiberg on social media growth, content, building FeedHive"
+      }
+    ]
   }
 ]

@@ -1,0 +1,38 @@
+{
+  "id": "yt-tmVcfnNWXfQ",
+  "personIsSpeaker": true,
+  "title": "How Simon Høiberg builds an AI agent harness in five layers so model choice stops mattering",
+  "summary": "Simon explains that AI agent quality depends on the harness around the model, not the model itself. He walks through five layers he uses across his SaaS products and YouTube channel: eval classifiers, schema contracts, purpose-built tools, deterministic workflows, and failure replay.",
+  "principles": [
+    {
+      "text": "The harness around an agent matters more than the model; it owns your company's standard.",
+      "quote": "whenever you see companies doing really well with AI, it's almost never because of the model and always because of the quality of the harness."
+    },
+    {
+      "text": "Split doing the work from judging it: use separate eval classifiers that return a narrow verdict with reasons.",
+      "quote": "The model understands the standard. It just has a hard time doing the job, following every instructions, and judging the result at the same time. So, we split that into separate jobs."
+    },
+    {
+      "text": "Use deterministic code checks for objective rules and AI classifiers only where taste or judgment is needed.",
+      "quote": "The first check is a good example of a deterministic eval. It uses a blacklist for phrases like this is the part where and simple regular expressions to catch writing patterns like it's not X, it's Y. No AI is needed for that check."
+    },
+    {
+      "text": "Define 'done' with a schema contract so agents can't invent their own definition of finished work.",
+      "quote": "The agent does not get to invent its own definition of done."
+    },
+    {
+      "text": "Give each agent least-privilege, purpose-built tools; make dangerous actions impossible rather than prompting against them.",
+      "quote": "The system prompt isn't our security boundary. The capability simply isn't available."
+    },
+    {
+      "text": "Save real failures as permanent regression tests and replay them before changing any model, rather than trusting public benchmarks.",
+      "quote": "Public benchmarks can tell me whether a model looks impressive on somebody else's test, but before I change a model, I care more about our own failure library."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity"
+  ],
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-0e0bSMfStc8",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Simon Høiberg built a four-product SaaS portfolio and bundled it into a lifetime deal",
+  "summary": "Simon Høiberg recounts quitting freelancing for FeedHive, burning $50K on a premature team, surviving the X API shutdown, and expanding into LinkDrip, TinyKiwi and Abbase. He explains pre-selling lifetime deals to fund development and how he prices the FounderStack bundle so it stays profitable.",
+  "topics": [
+    "bootstrapping",
+    "pricing",
+    "distribution",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Pre-sell a lifetime deal to validate a new product and fund its build before writing code.",
+      "quote": "And within a month or so, I think we had made around $75,000 just from pre-saling this."
+    },
+    {
+      "text": "Build your second product from existing users' requests, using the audience you already have as distribution.",
+      "quote": "I started building LinkDrip simply out of people requesting it."
+    },
+    {
+      "text": "Start with one product and let demand pull you into more; a portfolio is not the default path for newcomers.",
+      "quote": "I would I would advise everyone to start building one product first and then let the demand pull you from there."
+    },
+    {
+      "text": "Don't overhire on confidence: building a full team before traction cost $50K and forced layoffs.",
+      "quote": "I was completely overconfident in what I could pull off. This this whole thing took way way way longer than I had thought."
+    },
+    {
+      "text": "Make lifetime deals safe by bundling enough value to set a high price and checking that server costs take decades to exceed revenue.",
+      "quote": "It will it will take the average user decades before they ever become a losing investment for us."
+    },
+    {
+      "text": "Cap variable AI costs in lifetime deals with monthly credits, then require users to bring their own API key.",
+      "quote": "We offer some AI credits for all users every month. That's part of the deal. But after that, they need to bring their own uh API key from OpenAI if they want to continue using it."
+    }
+  ]
+}

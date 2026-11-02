@@ -1,0 +1,39 @@
+{
+  "id": "yt-enBiVY2pMBc",
+  "title": "Simon Høiberg's 3-stage growth system for getting a bootstrapped SaaS to its first 1,000 users",
+  "summary": "Simon walks through the user growth system he used across FeedHive, LinkDrip and Eightbase. Stage 1 is outbound plus referrals for the first ~100 users, stage 2 is a long content grind, and stage 3 adds ads and affiliates once unit economics are known. He also covers staying bootstrapped and delegating tasks, not areas.",
+  "principles": [
+    {
+      "text": "Build a minimum lovable product with a wow effect, then shape it with early users instead of trying to sell a finished product.",
+      "quote": "You go out, and then you try to acquire users for your product instead of trying to build a product for your users."
+    },
+    {
+      "text": "For the first 5-25 users, reach out personally and give the product away free for life, even pay them if friction is high.",
+      "quote": "I would recommend simply giving away a lifetime for free on this product."
+    },
+    {
+      "text": "Giving early users free access is not devaluing your product; it values how important they are.",
+      "quote": "I don't think you're devaluing your product. I think you are accurately valuing how important these first users are because they are fundamental to the success of your product."
+    },
+    {
+      "text": "Put early adopters in a small community, take their feedback, and turn them into ambassadors with discount codes to bring in the next users.",
+      "quote": "You're going to try to get the very first initial users to become ambassadors, and you're going to try to have them help bring in new users."
+    },
+    {
+      "text": "Stage 2 is a long, demotivating incoming content grind (blogs, YouTube, social) that compounds; budget a year or two to reach the first ~1,000 paying users.",
+      "quote": "If you allocate maybe a year, maybe even 2 years on just creating awareness organically through content, you should be able to get I would say somewhere between 200, 300, 500, maybe even the first 1,000 paying users in this way."
+    },
+    {
+      "text": "Only scale with ads and affiliates once you know lifetime value; keep acquisition cost below it, and practice ads cheaply earlier.",
+      "quote": "You obviously want to make sure that the cost of acquisition for one user when running ads is less than the average lifetime value that you get for one user."
+    }
+  ],
+  "topics": [
+    "growth",
+    "bootstrapping",
+    "distribution",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

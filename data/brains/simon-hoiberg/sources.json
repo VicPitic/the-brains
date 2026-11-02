@@ -1,0 +1,2321 @@
+{
+  "slug": "simon-hoiberg",
+  "fetchedAt": "2026-11-02T08:33:20.119Z",
+  "sources": [
+    {
+      "id": "yt-enBiVY2pMBc",
+      "type": "youtube",
+      "title": "How to Get Your First 1.000 Customers & Early Users for your B2B SaaS in 2024, With Simon Høiberg",
+      "url": "https://www.youtube.com/watch?v=enBiVY2pMBc",
+      "publishedAt": "2024-01-23",
+      "outlet": "Reditus",
+      "durationSec": 2131,
+      "views": 5567,
+      "topics": [
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-glh6R9fZ3UU",
+      "type": "youtube",
+      "title": "Interviewing Simon Høiberg about Lessons from His Journey to $400K ARR (episode 262)",
+      "url": "https://www.youtube.com/watch?v=glh6R9fZ3UU",
+      "publishedAt": "2022-11-10",
+      "outlet": "Indie Founder Podcast",
+      "durationSec": 3769,
+      "views": 155,
+      "topics": [
+        "bootstrapping",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-y5exUdefpGQ",
+      "type": "youtube",
+      "title": "How to grow on social media the right way • @SimonHoiberg from FeedHive",
+      "url": "https://www.youtube.com/watch?v=y5exUdefpGQ",
+      "publishedAt": "2022-07-12",
+      "outlet": "Bootstrapped Stories",
+      "durationSec": 3347,
+      "views": 1306,
+      "topics": [
+        "marketing",
+        "community"
+      ]
+    },
+    {
+      "id": "yt-0e0bSMfStc8",
+      "type": "youtube",
+      "title": "LaunchDay #2 – Simon Høiberg – FounderStack",
+      "url": "https://www.youtube.com/watch?v=0e0bSMfStc8",
+      "publishedAt": "2025-07-01",
+      "outlet": "LaunchDay Podcast",
+      "durationSec": 1847,
+      "views": 161,
+      "topics": [
+        "launch",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-G3vRijqVcKs",
+      "type": "youtube",
+      "title": "SaaS Lifetime Deals - Is It Worth It?! (#2)",
+      "url": "https://www.youtube.com/watch?v=G3vRijqVcKs",
+      "publishedAt": "2024-03-07",
+      "outlet": "Zero To Million SaaS Podcast",
+      "durationSec": 2539,
+      "views": 1279,
+      "topics": [
+        "pricing",
+        "launch"
+      ]
+    },
+    {
+      "id": "yt-HtGPn2egRqo",
+      "type": "youtube",
+      "title": "The Truth About Running Paid Ads for Your SaaS (#4)",
+      "url": "https://www.youtube.com/watch?v=HtGPn2egRqo",
+      "publishedAt": "2024-04-04",
+      "outlet": "Zero To Million SaaS Podcast",
+      "durationSec": 2657,
+      "views": 1231,
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "yt-oVhyd-P6g8w",
+      "type": "youtube",
+      "title": "Should You Be Doing SEO in 2024? (#3)",
+      "url": "https://www.youtube.com/watch?v=oVhyd-P6g8w",
+      "publishedAt": "2024-03-21",
+      "outlet": "Zero To Million SaaS Podcast",
+      "durationSec": 2410,
+      "views": 784,
+      "topics": [
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-19sSt7D0McQ",
+      "type": "youtube",
+      "title": "Taking a SaaS to $1M ARR (#1)",
+      "url": "https://www.youtube.com/watch?v=19sSt7D0McQ",
+      "publishedAt": "2024-03-02",
+      "outlet": "Zero To Million SaaS Podcast",
+      "durationSec": 2208,
+      "views": 2358,
+      "topics": [
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-q7mD8NFYd7s",
+      "type": "youtube",
+      "title": "AI Just Made Bootstrapping Totally Unfair",
+      "url": "https://www.youtube.com/watch?v=q7mD8NFYd7s",
+      "publishedAt": "2026-09-28",
+      "outlet": "Simon Høiberg",
+      "durationSec": 1249,
+      "views": 26000,
+      "topics": [
+        "bootstrapping",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-tmVcfnNWXfQ",
+      "type": "youtube",
+      "title": "The AI System Behind My 7-Figure Business (Full Agency OS Breakdown)",
+      "url": "https://www.youtube.com/watch?v=tmVcfnNWXfQ",
+      "publishedAt": "2026-08-24",
+      "outlet": "Simon Høiberg",
+      "durationSec": 1208,
+      "views": 36000,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-p3Q8aQ2FZZw",
+      "type": "youtube",
+      "title": "I Gave AI My SaaS Data. It Found a Huge Positioning Mistake",
+      "url": "https://www.youtube.com/watch?v=p3Q8aQ2FZZw",
+      "publishedAt": "2026-07-09",
+      "outlet": "Simon Høiberg",
+      "durationSec": 784,
+      "views": 8000,
+      "topics": [
+        "marketing",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-pcAlM_s1Bz4",
+      "type": "youtube",
+      "title": "We’re Done. AI Killed Micro SaaS.",
+      "url": "https://www.youtube.com/watch?v=pcAlM_s1Bz4",
+      "publishedAt": "2026-09-14",
+      "outlet": "Simon Høiberg",
+      "durationSec": 353,
+      "views": 38000,
+      "topics": [
+        "bootstrapping",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-EdeWN3whbgw",
+      "type": "youtube",
+      "title": "Can you ACTUALLY replace your team with AI? (Real talk)",
+      "url": "https://www.youtube.com/watch?v=EdeWN3whbgw",
+      "publishedAt": "2025-12-26",
+      "outlet": "Simon Høiberg",
+      "durationSec": 675,
+      "views": 9700,
+      "topics": [
+        "ai",
+        "hiring"
+      ]
+    },
+    {
+      "id": "yt-Z68RZEXKQak",
+      "type": "youtube",
+      "title": "The Best AI Businesses to Start in 2026 (SaaS Isn’t One)",
+      "url": "https://www.youtube.com/watch?v=Z68RZEXKQak",
+      "publishedAt": "2026-08-10",
+      "outlet": "Simon Høiberg",
+      "durationSec": 633,
+      "views": 10264,
+      "topics": [
+        "ai",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-tWz4Eqh9USc",
+      "type": "youtube",
+      "title": "I'm leaving the cloud! (...and why you probably should too)",
+      "url": "https://www.youtube.com/watch?v=tWz4Eqh9USc",
+      "publishedAt": "2025-11-17",
+      "outlet": "Simon Høiberg",
+      "durationSec": 859,
+      "views": 105000,
+      "topics": [
+        "building",
+        "pricing"
+      ]
+    },
+    {
+      "id": "yt-6P_H9eDNBcA",
+      "type": "youtube",
+      "title": "My SaaS User Growth System: Get Your First 100 - 1,000+ Users",
+      "url": "https://www.youtube.com/watch?v=6P_H9eDNBcA",
+      "publishedAt": "2023-11-20",
+      "outlet": "Simon Høiberg",
+      "durationSec": 651,
+      "views": 234474,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "yt-z5U843Ob8xw",
+      "type": "youtube",
+      "title": "How to Build a SaaS Factory - Ship 10x Faster",
+      "url": "https://www.youtube.com/watch?v=z5U843Ob8xw",
+      "publishedAt": "2024-10-14",
+      "outlet": "Simon Høiberg",
+      "durationSec": 851,
+      "views": 79408,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-Zq2yLyc4fi0",
+      "type": "youtube",
+      "title": "I Made +$160K Selling SaaS Lifetime Deals",
+      "url": "https://www.youtube.com/watch?v=Zq2yLyc4fi0",
+      "publishedAt": "2025-01-20",
+      "outlet": "Simon Høiberg",
+      "durationSec": 740,
+      "views": 20332,
+      "topics": [
+        "pricing",
+        "launch"
+      ]
+    },
+    {
+      "id": "yt-7jY_4AJtuS0",
+      "type": "youtube",
+      "title": "This Switch Doubled Our SaaS Revenue (Crazy A/B Test Results)",
+      "url": "https://www.youtube.com/watch?v=7jY_4AJtuS0",
+      "publishedAt": "2023-10-16",
+      "outlet": "Simon Høiberg",
+      "durationSec": 654,
+      "views": 29816,
+      "topics": [
+        "pricing",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-1SCqveOv--c",
+      "type": "youtube",
+      "title": "How To Launch A SaaS From Scratch (4 Essential Steps)",
+      "url": "https://www.youtube.com/watch?v=1SCqveOv--c",
+      "publishedAt": "2023-07-28",
+      "outlet": "Simon Høiberg",
+      "durationSec": 728,
+      "views": 293580,
+      "topics": [
+        "launch",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-0Axx_BWuxsU",
+      "type": "youtube",
+      "title": "5 Tempting AI SaaS Ideas I’d NEVER Build (here’s why)",
+      "url": "https://www.youtube.com/watch?v=0Axx_BWuxsU",
+      "publishedAt": "2025-08-04",
+      "outlet": "Simon Høiberg",
+      "durationSec": 633,
+      "views": 13322,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-L_tEwaEO4ZA",
+      "type": "youtube",
+      "title": "How To Survive The \"Fast Fashion\" Era of SaaS",
+      "url": "https://www.youtube.com/watch?v=L_tEwaEO4ZA",
+      "publishedAt": "2025-08-18",
+      "outlet": "Simon Høiberg",
+      "durationSec": 519,
+      "views": 11000,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-YsqF2lyYfLk",
+      "type": "youtube",
+      "title": "5 Painful SaaS F*ckups You Should Avoid",
+      "url": "https://www.youtube.com/watch?v=YsqF2lyYfLk",
+      "publishedAt": "2022-10-24",
+      "outlet": "Simon Høiberg",
+      "durationSec": 807,
+      "views": 21217,
+      "topics": [
+        "product",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-nsm7sgSRD84",
+      "type": "youtube",
+      "title": "How To Reach $1,000 MRR in 30 Days (Most Startups Aren't Doing This)",
+      "url": "https://www.youtube.com/watch?v=nsm7sgSRD84",
+      "publishedAt": "2022-08-02",
+      "outlet": "Simon Høiberg",
+      "durationSec": 651,
+      "views": 36841,
+      "topics": [
+        "growth",
+        "sales"
+      ]
+    },
+    {
+      "id": "yt-OcYPCRT5OH4",
+      "type": "youtube",
+      "title": "How I Made $7,500 in ONE WEEK Selling an E-Book",
+      "url": "https://www.youtube.com/watch?v=OcYPCRT5OH4",
+      "publishedAt": "2021-11-11",
+      "outlet": "Simon Høiberg",
+      "durationSec": 783,
+      "views": 424000,
+      "topics": [
+        "launch",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-simon-hoiberg-building-a-saas-that-works-for-you",
+      "type": "essay",
+      "title": "Simon Høiberg: Building a SaaS That Works for You (The Bootstrapped Founder 220 transcript)",
+      "url": "https://thebootstrappedfounder.com/simon-hoiberg-building-a-saas-that-works-for-you/",
+      "publishedAt": "2023-05-31",
+      "outlet": "thebootstrappedfounder.com",
+      "topics": [
+        "bootstrapping",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-feedhive-crossed-65k-revenue-a7816b5fe4",
+      "type": "essay",
+      "url": "https://www.indiehackers.com/post/feedhive-crossed-65k-revenue-a7816b5fe4",
+      "publishedAt": "2021-11-12",
+      "outlet": "www.indiehackers.com",
+      "topics": [
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "essay-the-flight-manual-9e1aedd04fbf",
+      "type": "essay",
+      "title": "The Flight Manual",
+      "url": "https://simonhoiberg.medium.com/the-flight-manual-9e1aedd04fbf",
+      "publishedAt": "2021-06-22",
+      "outlet": "simonhoiberg.medium.com",
+      "topics": [
+        "building",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2115061274044248158",
+      "type": "x_post",
+      "title": "We used to pay AWS close to $8,000 a month. Today, our entire company runs on 3 rented bar",
+      "url": "https://x.com/SimonHoiberg/status/2115061274044248158",
+      "publishedAt": "2026-10-27",
+      "outlet": "X",
+      "views": 76472,
+      "likes": 965,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2114600840480866343",
+      "type": "x_post",
+      "title": "I don't know a single developer who's better and smarter than Opus 5.5. Why are you still ",
+      "url": "https://x.com/SimonHoiberg/status/2114600840480866343",
+      "publishedAt": "2026-10-26",
+      "outlet": "X",
+      "views": 109324,
+      "likes": 1144,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2111391702246101287",
+      "type": "x_post",
+      "title": "I think we have 1-2 years left before the broader masses catch up on what you can actually",
+      "url": "https://x.com/SimonHoiberg/status/2111391702246101287",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 12374,
+      "likes": 81,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2111423120984666224",
+      "type": "x_post",
+      "title": "I've always hated meetings. My whole career, I've tried to get rid of them. Now I hold mee",
+      "url": "https://x.com/SimonHoiberg/status/2111423120984666224",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 5011,
+      "likes": 36,
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2108888881227571407",
+      "type": "x_post",
+      "title": "I'm not self-hosting to save money. (I am saving a ton of money, but it's not really my ma",
+      "url": "https://x.com/SimonHoiberg/status/2108888881227571407",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 5485,
+      "likes": 63,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2107120902353670266",
+      "type": "x_post",
+      "title": "I moved from Denmark to Switzerland, then tried Spain for a few years, now I'm back in Swi",
+      "url": "https://x.com/SimonHoiberg/status/2107120902353670266",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 9820,
+      "likes": 104,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2104881286179442719",
+      "type": "x_post",
+      "title": "Editing videos with AI got WILD! I've spent hundreds, maybe even thousands, of hours editi",
+      "url": "https://x.com/SimonHoiberg/status/2104881286179442719",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 16605,
+      "likes": 95,
+      "topics": [
+        "marketing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2102013054242242561",
+      "type": "x_post",
+      "title": "I changed my entire setup to Qwen 3.8 late yesterday - and so far, it's very robust. It ne",
+      "url": "https://x.com/SimonHoiberg/status/2102013054242242561",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 12431,
+      "likes": 127,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2100604508896194984",
+      "type": "x_post",
+      "title": "We've normalized a ridiculous way of buying software. You can pay for the same SaaS produc",
+      "url": "https://x.com/SimonHoiberg/status/2100604508896194984",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 11164,
+      "likes": 59,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2098663914523312471",
+      "type": "x_post",
+      "title": "That's why Tobi is the CEO, not a random employee. This idea that a private company should",
+      "url": "https://x.com/SimonHoiberg/status/2098663914523312471",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 89894,
+      "likes": 548,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2097983845853188540",
+      "type": "x_post",
+      "title": "The awesome part of selling a $799 software bundle is that you don't need many sales befor",
+      "url": "https://x.com/SimonHoiberg/status/2097983845853188540",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 7531,
+      "likes": 43,
+      "topics": [
+        "pricing",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2097293788972507138",
+      "type": "x_post",
+      "title": "The single best use of AI right now is building your own internal tooling and custom harne",
+      "url": "https://x.com/SimonHoiberg/status/2097293788972507138",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 17478,
+      "likes": 195,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2096984328626487623",
+      "type": "x_post",
+      "title": "2026 AI normies: - Claude Code on their mac - Vercel, Supabase, GitHub 2028 AI survivors: ",
+      "url": "https://x.com/SimonHoiberg/status/2096984328626487623",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 22464,
+      "likes": 378,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2095526789531508899",
+      "type": "x_post",
+      "title": "So it seems like all major AI providers (xAI, Anthropic, OpenAI, Gemini) are collectively ",
+      "url": "https://x.com/SimonHoiberg/status/2095526789531508899",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 79599,
+      "likes": 69,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2095119119582396601",
+      "type": "x_post",
+      "title": "My boring self-hosted tech stack. (93% cheaper than the cloud) 🔴 Platform Hetzner Kuberne",
+      "url": "https://x.com/SimonHoiberg/status/2095119119582396601",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 10398,
+      "likes": 160,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2094754120682938389",
+      "type": "x_post",
+      "title": "We have a problem! There's a huge token rug pull coming. Right now, Claude and Codex max s",
+      "url": "https://x.com/SimonHoiberg/status/2094754120682938389",
+      "publishedAt": "2026-09-01",
+      "outlet": "X",
+      "views": 278101,
+      "likes": 710,
+      "topics": [
+        "ai",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2090416525995835756",
+      "type": "x_post",
+      "title": "Since we moved from AWS → self-hosting on Hetzner, our products have been much more stable",
+      "url": "https://x.com/SimonHoiberg/status/2090416525995835756",
+      "publishedAt": "2026-08-20",
+      "outlet": "X",
+      "views": 25455,
+      "likes": 222,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2082800160745111587",
+      "type": "x_post",
+      "title": "Routing every business activity through the same (personally held) company is risky. If yo",
+      "url": "https://x.com/SimonHoiberg/status/2082800160745111587",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 6517,
+      "likes": 53,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2082420151866040386",
+      "type": "x_post",
+      "title": "I've been saying this for years. Don't call yourself an indie hacker. It's unnecessarily s",
+      "url": "https://x.com/SimonHoiberg/status/2082420151866040386",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 51779,
+      "likes": 175,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2081429332749172852",
+      "type": "x_post",
+      "title": "I just reached 160K followers 🎉 My follower growth on Twitter over the years: - Year 1: 3",
+      "url": "https://x.com/SimonHoiberg/status/2081429332749172852",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 8248,
+      "likes": 94,
+      "topics": [
+        "marketing",
+        "community"
+      ]
+    },
+    {
+      "id": "x-2078473859997536470",
+      "type": "x_post",
+      "title": "Agreed, don't do it. I cancelled all client contracts when FeedHive was at $300 MRR. Then ",
+      "url": "https://x.com/SimonHoiberg/status/2078473859997536470",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 21201,
+      "likes": 87,
+      "topics": [
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2078151068022714461",
+      "type": "x_post",
+      "title": "I'm astonished that today, people still sit and watch their agent code in their IDE on the",
+      "url": "https://x.com/SimonHoiberg/status/2078151068022714461",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 74925,
+      "likes": 329,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2078133996215570470",
+      "type": "x_post",
+      "title": "Ads-led distrubtion is expensive. Definitely eats into your margins, no doubt. But it's th",
+      "url": "https://x.com/SimonHoiberg/status/2078133996215570470",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 4097,
+      "likes": 50,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2077731376913150024",
+      "type": "x_post",
+      "title": "Brutal reality - once you have 1-2 successful products in your portfolio, the likelyhood o",
+      "url": "https://x.com/SimonHoiberg/status/2077731376913150024",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 9594,
+      "likes": 100,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2077800648767144003",
+      "type": "x_post",
+      "title": "This was a mistake. New revenue created in the full test period came out almost 24% lower ",
+      "url": "https://x.com/SimonHoiberg/status/2077800648767144003",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 4947,
+      "likes": 41,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2077417473209470979",
+      "type": "x_post",
+      "title": "This is one of our strongest traffic drivers. Being suggested in Google's AI Overview and ",
+      "url": "https://x.com/SimonHoiberg/status/2077417473209470979",
+      "publishedAt": "2026-07-15",
+      "outlet": "X",
+      "views": 2564,
+      "likes": 30,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2076683986349265222",
+      "type": "x_post",
+      "title": "My portfolio of income streams in 2026: 🔁 Recurring revenue: → FeedHive (subscriptions) →",
+      "url": "https://x.com/SimonHoiberg/status/2076683986349265222",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 8288,
+      "likes": 141,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2075251891684913391",
+      "type": "x_post",
+      "title": "I just don't get it, people seem fully aware that you can now code features and launch pro",
+      "url": "https://x.com/SimonHoiberg/status/2075251891684913391",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 30252,
+      "likes": 315,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2074772807129395427",
+      "type": "x_post",
+      "title": "80%-90% profit margins is the new flex but let's be honest - it's totally unrealistic. I k",
+      "url": "https://x.com/SimonHoiberg/status/2074772807129395427",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 4107,
+      "likes": 41,
+      "topics": [
+        "bootstrapping",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2073064766730355123",
+      "type": "x_post",
+      "title": "\"Just use Vercel.\" \"Just use Supabase.\" \"Just use Clerk.\" Cool. Now your auth, database, a",
+      "url": "https://x.com/SimonHoiberg/status/2073064766730355123",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 534385,
+      "likes": 1900,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2066853463250670022",
+      "type": "x_post",
+      "title": "I moved all my products off the cloud and now self-hosting my entire SaaS portfolio at a f",
+      "url": "https://x.com/SimonHoiberg/status/2066853463250670022",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 10733,
+      "likes": 99,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2066543742937411797",
+      "type": "x_post",
+      "title": "This is the founder trifecta I'm betting on: 🇨🇭 Switzerland Stability, nature, safety, f",
+      "url": "https://x.com/SimonHoiberg/status/2066543742937411797",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 58554,
+      "likes": 233,
+      "topics": [
+        "bootstrapping",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2062461910847537341",
+      "type": "x_post",
+      "title": "- Have a beautiful wife and +3 kids - Make money from products you built - Sell through ma",
+      "url": "https://x.com/SimonHoiberg/status/2062461910847537341",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 15338,
+      "likes": 231,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2057734955820535831",
+      "type": "x_post",
+      "title": "Biggest quality-of-life improvements this last year: - Grafana (self-hosted) Not just for ",
+      "url": "https://x.com/SimonHoiberg/status/2057734955820535831",
+      "publishedAt": "2026-05-22",
+      "outlet": "X",
+      "views": 60025,
+      "likes": 201,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2055255679468773636",
+      "type": "x_post",
+      "title": "You remember how in 2022-2023, SaaS websites were absolutely soaked in social proof. FeedH",
+      "url": "https://x.com/SimonHoiberg/status/2055255679468773636",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 27670,
+      "likes": 104,
+      "topics": [
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2045056591267840499",
+      "type": "x_post",
+      "title": "Your pricing page is doing more damage than your bugs. Per-seat, per-token, per-API-call, ",
+      "url": "https://x.com/SimonHoiberg/status/2045056591267840499",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 15483,
+      "likes": 99,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2032082082063647194",
+      "type": "x_post",
+      "title": "I'm leaving the cloud 👋 +80% of my SaaS portfolio now runs on bare metal. Why? I have at ",
+      "url": "https://x.com/SimonHoiberg/status/2032082082063647194",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 16706,
+      "likes": 95,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1993309197451079705",
+      "type": "x_post",
+      "title": "I'm moving off the cloud. I started earlier this year, and I'm now 80% done. ✅ It's saving",
+      "url": "https://x.com/SimonHoiberg/status/1993309197451079705",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 40736,
+      "likes": 110,
+      "topics": [
+        "building",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2028394122596209080",
+      "type": "x_post",
+      "title": "2023: AI won't replace you, someone using AI will. 2026: Yeah, AI is gonna replace you.",
+      "url": "https://x.com/SimonHoiberg/status/2028394122596209080",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 214112,
+      "likes": 5036,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2025918084591063322",
+      "type": "x_post",
+      "title": "I solved OpenClaw's memory issue. (At least, this is the best solution I tried so far). An",
+      "url": "https://x.com/SimonHoiberg/status/2025918084591063322",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 73994,
+      "likes": 735,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2021249613248790792",
+      "type": "x_post",
+      "title": "My OpenClaw team is starting to mess with my head 😳 I have 9 AI agents in a Discord. I ga",
+      "url": "https://x.com/SimonHoiberg/status/2021249613248790792",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 190530,
+      "likes": 2401,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020843874382487959",
+      "type": "x_post",
+      "title": "OpenClaw + n8n. This is an extremely powerful combination. People thought OpenClaw (or Cla",
+      "url": "https://x.com/SimonHoiberg/status/2020843874382487959",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 72609,
+      "likes": 842,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2016547114818347239",
+      "type": "x_post",
+      "title": "Most indie founders massively overestimate what a single product should do. And massively ",
+      "url": "https://x.com/SimonHoiberg/status/2016547114818347239",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 4359,
+      "likes": 88,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2006348998089535876",
+      "type": "x_post",
+      "title": "A few days ago, I had my 3rd child. And that wraps up 2025 perfectly. 15 years ago, I was ",
+      "url": "https://x.com/SimonHoiberg/status/2006348998089535876",
+      "publishedAt": "2025-12-31",
+      "outlet": "X",
+      "views": 12993,
+      "likes": 161,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2000913996166107441",
+      "type": "x_post",
+      "title": "I don't want to get rich... I want to: - Be my own boss - Sell products I built - Own 100%",
+      "url": "https://x.com/SimonHoiberg/status/2000913996166107441",
+      "publishedAt": "2025-12-16",
+      "outlet": "X",
+      "views": 14326,
+      "likes": 253,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1999858641348722913",
+      "type": "x_post",
+      "title": "\"But my target audience is not on YouTube\" - Yes, they are. They are. Any platform with +2",
+      "url": "https://x.com/SimonHoiberg/status/1999858641348722913",
+      "publishedAt": "2025-12-13",
+      "outlet": "X",
+      "views": 7466,
+      "likes": 142,
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1999457350332076297",
+      "type": "x_post",
+      "title": "In the last 4 years, I've built a 7-figure SaaS portfolio - fully bootstrapped. Here are 8",
+      "url": "https://x.com/SimonHoiberg/status/1999457350332076297",
+      "publishedAt": "2025-12-12",
+      "outlet": "X",
+      "views": 11169,
+      "likes": 122,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2002365556922392970",
+      "type": "x_post",
+      "title": "After +4 years of charging for my SaaS products, I've finally discovered the easiest way t",
+      "url": "https://x.com/SimonHoiberg/status/2002365556922392970",
+      "publishedAt": "2025-12-20",
+      "outlet": "X",
+      "views": 9996,
+      "likes": 64,
+      "topics": [
+        "product",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1998738873732522113",
+      "type": "x_post",
+      "title": "We turned off email confirmation. Now users can sign up and get started straight away. Why",
+      "url": "https://x.com/SimonHoiberg/status/1998738873732522113",
+      "publishedAt": "2025-12-10",
+      "outlet": "X",
+      "views": 9669,
+      "likes": 80,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1995759991844753469",
+      "type": "x_post",
+      "title": "Rewardful didn't have the features we needed (and didn't want to add them). So we vibe cod",
+      "url": "https://x.com/SimonHoiberg/status/1995759991844753469",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 104386,
+      "likes": 396,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1995476829319155815",
+      "type": "x_post",
+      "title": "I just brutally cut another 3rd-party dependency. Our Vector Database: Pinecone. Pinecone ",
+      "url": "https://x.com/SimonHoiberg/status/1995476829319155815",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 46676,
+      "likes": 423,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1991129635879321918",
+      "type": "x_post",
+      "title": "How I got the first 100 SaaS users. - Cold outreach (email/DM). - Target small creators > ",
+      "url": "https://x.com/SimonHoiberg/status/1991129635879321918",
+      "publishedAt": "2025-11-19",
+      "outlet": "X",
+      "views": 9183,
+      "likes": 113,
+      "topics": [
+        "growth",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1988228673367904342",
+      "type": "x_post",
+      "title": "4 tools. That's literally all you need. You can run a 7-figure SaaS business, solo. Here's",
+      "url": "https://x.com/SimonHoiberg/status/1988228673367904342",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 11262,
+      "likes": 102,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1985663016831238552",
+      "type": "x_post",
+      "title": "If Hetzner rejects you, you simply find another hosting provider. If your apps can run on ",
+      "url": "https://x.com/SimonHoiberg/status/1985663016831238552",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 19687,
+      "likes": 155,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1985249738195669237",
+      "type": "x_post",
+      "title": "100% agree. For me, $0 - $20K MRR was game-changing! Anything after $20K MRR is making my ",
+      "url": "https://x.com/SimonHoiberg/status/1985249738195669237",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 101403,
+      "likes": 337,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1985301513577578719",
+      "type": "x_post",
+      "title": "Solve your life in 3 steps: 1) Take a business $10K MRR. It can be a product or a service.",
+      "url": "https://x.com/SimonHoiberg/status/1985301513577578719",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 32807,
+      "likes": 243,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1983806786755825740",
+      "type": "x_post",
+      "title": "Same here. Took 2.5 years to reach $1M ARR (for all my products combined). And then it pla",
+      "url": "https://x.com/SimonHoiberg/status/1983806786755825740",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 19571,
+      "likes": 88,
+      "topics": [
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1971579849912259063",
+      "type": "x_post",
+      "title": "People who complain that the building in public movement has turned into pure marketing...",
+      "url": "https://x.com/SimonHoiberg/status/1971579849912259063",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 14214,
+      "likes": 210,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1971466163512057913",
+      "type": "x_post",
+      "title": "What amazes me more... Why so few indie hackers do paid ads? - SEO is time consuming - It'",
+      "url": "https://x.com/SimonHoiberg/status/1971466163512057913",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 33067,
+      "likes": 139,
+      "topics": [
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1959653693344616852",
+      "type": "x_post",
+      "title": "In the last 12 months, three shifts doubled traction. → I stopped adding features users di",
+      "url": "https://x.com/SimonHoiberg/status/1959653693344616852",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 6563,
+      "likes": 82,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1959278490391392278",
+      "type": "x_post",
+      "title": "Stop overbuilding. Start leaning in. Build the loop first: talk to users, collect emails, ",
+      "url": "https://x.com/SimonHoiberg/status/1959278490391392278",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 8602,
+      "likes": 90,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1954063296317075483",
+      "type": "x_post",
+      "title": "I added a \"Pay once\" option to all my products. I genuinely think most SaaS should add thi",
+      "url": "https://x.com/SimonHoiberg/status/1954063296317075483",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 80551,
+      "likes": 247,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1943599393250099253",
+      "type": "x_post",
+      "title": "Your SaaS becomes a real business when you start getting money from users. ...Not investor",
+      "url": "https://x.com/SimonHoiberg/status/1943599393250099253",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 25537,
+      "likes": 644,
+      "topics": [
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1939904620731511095",
+      "type": "x_post",
+      "title": "Marc now spends +80% of his time on one tool on this list. And as a result, his revenue is",
+      "url": "https://x.com/SimonHoiberg/status/1939904620731511095",
+      "publishedAt": "2025-07-01",
+      "outlet": "X",
+      "views": 29332,
+      "likes": 93,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1939953108009758952",
+      "type": "x_post",
+      "title": "Startups fail. Founders don't. You learn, and get better 💪",
+      "url": "https://x.com/SimonHoiberg/status/1939953108009758952",
+      "publishedAt": "2025-07-01",
+      "outlet": "X",
+      "views": 9602,
+      "likes": 165,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1939239413407490266",
+      "type": "x_post",
+      "title": "If your competitive advantage is working +18/day, sure - you'll outwork me! I'll probably ",
+      "url": "https://x.com/SimonHoiberg/status/1939239413407490266",
+      "publishedAt": "2025-06-29",
+      "outlet": "X",
+      "views": 7104,
+      "likes": 55,
+      "topics": [
+        "productivity",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1935670682030858718",
+      "type": "x_post",
+      "title": "I'm an average developer... I'm not a professional marketer... I don't have a degree in an",
+      "url": "https://x.com/SimonHoiberg/status/1935670682030858718",
+      "publishedAt": "2025-06-19",
+      "outlet": "X",
+      "views": 33983,
+      "likes": 491,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1934519574076015033",
+      "type": "x_post",
+      "title": "Are you brave enough to ask for money for a product you haven't finished (or perhaps haven",
+      "url": "https://x.com/SimonHoiberg/status/1934519574076015033",
+      "publishedAt": "2025-06-16",
+      "outlet": "X",
+      "views": 20756,
+      "likes": 263,
+      "topics": [
+        "sales",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1934633361160520032",
+      "type": "x_post",
+      "title": "My team is fully remote and meetingless. Communication is 95% written. This comes with som",
+      "url": "https://x.com/SimonHoiberg/status/1934633361160520032",
+      "publishedAt": "2025-06-16",
+      "outlet": "X",
+      "views": 7220,
+      "likes": 105,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1930592485073355233",
+      "type": "x_post",
+      "title": "The ugly truth I learned when running a business fully remote and async: → Most meetings a",
+      "url": "https://x.com/SimonHoiberg/status/1930592485073355233",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 7911,
+      "likes": 89,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1936088439520215060",
+      "type": "x_post",
+      "title": "I'm obsessed with making my products as low-touch as possible. ❌ No meetings with sales ❌ ",
+      "url": "https://x.com/SimonHoiberg/status/1936088439520215060",
+      "publishedAt": "2025-06-20",
+      "outlet": "X",
+      "views": 4595,
+      "likes": 61,
+      "topics": [
+        "sales",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1934168003932795270",
+      "type": "x_post",
+      "title": "I'd much rather hire a 3x failed startup founder than a candidate with a diploma and 10 ye",
+      "url": "https://x.com/SimonHoiberg/status/1934168003932795270",
+      "publishedAt": "2025-06-15",
+      "outlet": "X",
+      "views": 20237,
+      "likes": 441,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1932349021261046041",
+      "type": "x_post",
+      "title": "You're a startup founder. You're not a machine. And as humans - we have limited time and e",
+      "url": "https://x.com/SimonHoiberg/status/1932349021261046041",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 14002,
+      "likes": 73,
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1932092864227319864",
+      "type": "x_post",
+      "title": "The moment I stopped chasing financial success, I actually started achieving it. I replace",
+      "url": "https://x.com/SimonHoiberg/status/1932092864227319864",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 4397,
+      "likes": 55,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1930901366144163905",
+      "type": "x_post",
+      "title": "The Temu effect on SaaS. That's what we'll see in the next few years. - AI will generate m",
+      "url": "https://x.com/SimonHoiberg/status/1930901366144163905",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 10779,
+      "likes": 95,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1928830341533303288",
+      "type": "x_post",
+      "title": "If I could go back 10 years and give myself advice: → Fail faster. → Quit earlier. Once yo",
+      "url": "https://x.com/SimonHoiberg/status/1928830341533303288",
+      "publishedAt": "2025-05-31",
+      "outlet": "X",
+      "views": 5315,
+      "likes": 74,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1928055768928112750",
+      "type": "x_post",
+      "title": "The \"founder dream\" is a scam. → Be your own boss! → Work on your own terms! → Create some",
+      "url": "https://x.com/SimonHoiberg/status/1928055768928112750",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 7475,
+      "likes": 72,
+      "topics": [
+        "fundraising",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1927414345782215100",
+      "type": "x_post",
+      "title": "The boring founder: ✅ 8-hour workdays (or less) ✅ Plenty of time to spend with family ✅ Ru",
+      "url": "https://x.com/SimonHoiberg/status/1927414345782215100",
+      "publishedAt": "2025-05-27",
+      "outlet": "X",
+      "views": 9965,
+      "likes": 103,
+      "topics": [
+        "bootstrapping",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1924502220692656335",
+      "type": "x_post",
+      "title": "Most first-time founders would succeed if they'd simply: - Find a crowded market - Build a",
+      "url": "https://x.com/SimonHoiberg/status/1924502220692656335",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 19070,
+      "likes": 229,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1924076506050863455",
+      "type": "x_post",
+      "title": "If $5K MRR is the number that enables you to exit the rat race and live on your own terms,",
+      "url": "https://x.com/SimonHoiberg/status/1924076506050863455",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 24032,
+      "likes": 282,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1871967754267627879",
+      "type": "x_post",
+      "title": "Your SaaS product didn't fail because you ran out of money. It failed because you: → Didn'",
+      "url": "https://x.com/SimonHoiberg/status/1871967754267627879",
+      "publishedAt": "2024-12-25",
+      "outlet": "X",
+      "views": 6391,
+      "likes": 74,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1871179864465879528",
+      "type": "x_post",
+      "title": "The first big SaaS milestone: $10K MRR. Here's how I get there with a new SaaS. → Product ",
+      "url": "https://x.com/SimonHoiberg/status/1871179864465879528",
+      "publishedAt": "2024-12-23",
+      "outlet": "X",
+      "views": 3129,
+      "likes": 39,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1870882279998083212",
+      "type": "x_post",
+      "title": "Maybe an unpopular take, but... ❌ Don't launch. ✅ Release gradually. → Create demand with ",
+      "url": "https://x.com/SimonHoiberg/status/1870882279998083212",
+      "publishedAt": "2024-12-22",
+      "outlet": "X",
+      "views": 2571,
+      "likes": 30,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1866167057810637058",
+      "type": "x_post",
+      "title": "Times have changed. SaaS is no longer a game exclusive to people with money or access to f",
+      "url": "https://x.com/SimonHoiberg/status/1866167057810637058",
+      "publishedAt": "2024-12-09",
+      "outlet": "X",
+      "views": 4304,
+      "likes": 36,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1863531216953086340",
+      "type": "x_post",
+      "title": "Founder who codes? → Build a small, profitable SaaS → Use it to quit your 9-5 → Enjoy life",
+      "url": "https://x.com/SimonHoiberg/status/1863531216953086340",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 20430,
+      "likes": 302,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1863624092554870875",
+      "type": "x_post",
+      "title": "Almost $40K in 7 days 🎉 It's been one week since we launched FounderStack. It has generat",
+      "url": "https://x.com/SimonHoiberg/status/1863624092554870875",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 4151,
+      "likes": 31,
+      "topics": [
+        "launch",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1862802398495801650",
+      "type": "x_post",
+      "title": "You don't need a great idea. You need great execution. A well-executed mediocre idea will ",
+      "url": "https://x.com/SimonHoiberg/status/1862802398495801650",
+      "publishedAt": "2024-11-30",
+      "outlet": "X",
+      "views": 3840,
+      "likes": 47,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1861724061849493983",
+      "type": "x_post",
+      "title": "→ I'm not a \"real\" engineer → I'm not a professional marketer → I'm not an expert in anyth",
+      "url": "https://x.com/SimonHoiberg/status/1861724061849493983",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 2762,
+      "likes": 42,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1860546588533252503",
+      "type": "x_post",
+      "title": "We run ads. It costs us around $75 to acquire a user with an average LTV of around $280. S",
+      "url": "https://x.com/SimonHoiberg/status/1860546588533252503",
+      "publishedAt": "2024-11-24",
+      "outlet": "X",
+      "views": 86715,
+      "likes": 239,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1860717384815772120",
+      "type": "x_post",
+      "title": "I'm not interested in building the next unicorn SaaS. Instead, I'm creating tools that hel",
+      "url": "https://x.com/SimonHoiberg/status/1860717384815772120",
+      "publishedAt": "2024-11-24",
+      "outlet": "X",
+      "views": 7892,
+      "likes": 93,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1858097094440964136",
+      "type": "x_post",
+      "title": "The most effective way to avoid burnouts is by not expecting overnight success. You can wo",
+      "url": "https://x.com/SimonHoiberg/status/1858097094440964136",
+      "publishedAt": "2024-11-17",
+      "outlet": "X",
+      "views": 3575,
+      "likes": 41,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1856683279937630370",
+      "type": "x_post",
+      "title": "When I was freelancing, I made around $300k/year. Straight to my pocket. Barely any busine",
+      "url": "https://x.com/SimonHoiberg/status/1856683279937630370",
+      "publishedAt": "2024-11-13",
+      "outlet": "X",
+      "views": 3977,
+      "likes": 41,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1855993855943811127",
+      "type": "x_post",
+      "title": "My first startup never made any money. My second startup passed $10K MRR in year 1, and is",
+      "url": "https://x.com/SimonHoiberg/status/1855993855943811127",
+      "publishedAt": "2024-11-11",
+      "outlet": "X",
+      "views": 15025,
+      "likes": 123,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1661262598346797058",
+      "type": "x_post",
+      "title": "100K subscribers on YouTube 🥳🎉 After: → 2 years of publishing consistently → 42 long-for",
+      "url": "https://x.com/SimonHoiberg/status/1661262598346797058",
+      "publishedAt": "2023-05-24",
+      "outlet": "X",
+      "views": 31592,
+      "likes": 348,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1643993349748314118",
+      "type": "x_post",
+      "title": "3 big Twitter tools will pay the Twitter Enterprise API fee. → @typefully → @hypefury → @T",
+      "url": "https://x.com/SimonHoiberg/status/1643993349748314118",
+      "publishedAt": "2023-04-06",
+      "outlet": "X",
+      "views": 81501,
+      "likes": 146,
+      "topics": [
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1640975350862684160",
+      "type": "x_post",
+      "title": "Books, courses, mentors... they might help bring you some perspective. But they're not gon",
+      "url": "https://x.com/SimonHoiberg/status/1640975350862684160",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 15921,
+      "likes": 125,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1639649053633044480",
+      "type": "x_post",
+      "title": "You don't need a status page, advanced infrastructure monitoring, or feature flagging capa",
+      "url": "https://x.com/SimonHoiberg/status/1639649053633044480",
+      "publishedAt": "2023-03-25",
+      "outlet": "X",
+      "views": 18284,
+      "likes": 107,
+      "topics": [
+        "launch",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1638825883942387712",
+      "type": "x_post",
+      "title": "Starting a business out of desperation is... probably the worst idea ever! Instead: Start ",
+      "url": "https://x.com/SimonHoiberg/status/1638825883942387712",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 23100,
+      "likes": 146,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1635612126252244992",
+      "type": "x_post",
+      "title": "Using your personal brand to market your SaaS has one massive disadvantage: → It's not ver",
+      "url": "https://x.com/SimonHoiberg/status/1635612126252244992",
+      "publishedAt": "2023-03-14",
+      "outlet": "X",
+      "views": 12618,
+      "likes": 74,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1626563334840504322",
+      "type": "x_post",
+      "title": "Prediction: One-man businesses making $10K/month online is going to be a pretty normal thi",
+      "url": "https://x.com/SimonHoiberg/status/1626563334840504322",
+      "publishedAt": "2023-02-17",
+      "outlet": "X",
+      "views": 74270,
+      "likes": 302,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1618528153256824832",
+      "type": "x_post",
+      "title": "Instead of overthinking your next SaaS idea - build a small SaaS factory. → Boilerplates →",
+      "url": "https://x.com/SimonHoiberg/status/1618528153256824832",
+      "publishedAt": "2023-01-26",
+      "outlet": "X",
+      "views": 20230,
+      "likes": 213,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1623604362680446976",
+      "type": "x_post",
+      "title": "People start profitable, small, bootstrapped, and life-changing businesses every day. When",
+      "url": "https://x.com/SimonHoiberg/status/1623604362680446976",
+      "publishedAt": "2023-02-09",
+      "outlet": "X",
+      "views": 10302,
+      "likes": 75,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1621075429330149378",
+      "type": "x_post",
+      "title": "We have free (or lifetime) users on our platforms complaining excessively 😩 Our $3,000/ye",
+      "url": "https://x.com/SimonHoiberg/status/1621075429330149378",
+      "publishedAt": "2023-02-02",
+      "outlet": "X",
+      "views": 83262,
+      "likes": 224,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1620346416768991232",
+      "type": "x_post",
+      "title": "FeedHive is two years old 🥳 No crazy hockey-stick growth. Yet, only 1 time did we end the",
+      "url": "https://x.com/SimonHoiberg/status/1620346416768991232",
+      "publishedAt": "2023-01-31",
+      "outlet": "X",
+      "views": 48429,
+      "likes": 144,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1616420265549774861",
+      "type": "x_post",
+      "title": "Unpopular opinion: Founders who use AI to enhance their current SaaS will get further than",
+      "url": "https://x.com/SimonHoiberg/status/1616420265549774861",
+      "publishedAt": "2023-01-20",
+      "outlet": "X",
+      "views": 35529,
+      "likes": 193,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1615325076827545601",
+      "type": "x_post",
+      "title": "Most successful people I know share a common trait: → They are impatient with action. → Th",
+      "url": "https://x.com/SimonHoiberg/status/1615325076827545601",
+      "publishedAt": "2023-01-17",
+      "outlet": "X",
+      "views": 283793,
+      "likes": 1680,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1611353692883619841",
+      "type": "x_post",
+      "title": "1/3 of our users come directly from paid ads. And I'm psyched about it 🔥 Paid ads are the",
+      "url": "https://x.com/SimonHoiberg/status/1611353692883619841",
+      "publishedAt": "2023-01-06",
+      "outlet": "X",
+      "views": 51890,
+      "likes": 107,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1602937838806470656",
+      "type": "x_post",
+      "title": "My YouTube channel is now making $2,000/month, just in ad revenue. → I don't have 50K subs",
+      "url": "https://x.com/SimonHoiberg/status/1602937838806470656",
+      "publishedAt": "2022-12-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 976,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1596127121709027328",
+      "type": "x_post",
+      "title": "I didn't become an entrepreneur to be my own boss. I did it to become my own VC 💰 I inves",
+      "url": "https://x.com/SimonHoiberg/status/1596127121709027328",
+      "publishedAt": "2022-11-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1511,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1593153713589616640",
+      "type": "x_post",
+      "title": "You don’t need Silicon Valley, you don’t need VCs, and you don’t need to hire a full team.",
+      "url": "https://x.com/SimonHoiberg/status/1593153713589616640",
+      "publishedAt": "2022-11-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 270,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1564866311917903872",
+      "type": "x_post",
+      "title": "I made +$300K/year as a freelance consultant. Now I'm making $300K/year running a SaaS. Ho",
+      "url": "https://x.com/SimonHoiberg/status/1564866311917903872",
+      "publishedAt": "2022-08-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 343,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1562036408252088320",
+      "type": "x_post",
+      "title": "Most technical founders get the order wrong. ❌ Let's build a cool product, then go search ",
+      "url": "https://x.com/SimonHoiberg/status/1562036408252088320",
+      "publishedAt": "2022-08-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 124,
+      "topics": [
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1561606085949231106",
+      "type": "x_post",
+      "title": "Easiest way to get to $5K MRR? → Get a job. But remember... It only takes *one* boss to \"c",
+      "url": "https://x.com/SimonHoiberg/status/1561606085949231106",
+      "publishedAt": "2022-08-22",
+      "outlet": "X",
+      "views": 0,
+      "likes": 77,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1556952160889458689",
+      "type": "x_post",
+      "title": "Someone saying they like your startup idea is not a validation. People giving you their ha",
+      "url": "https://x.com/SimonHoiberg/status/1556952160889458689",
+      "publishedAt": "2022-08-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 142,
+      "topics": [
+        "product",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1549341513741701120",
+      "type": "x_post",
+      "title": "Before you buy a domain for your next SaaS... Ask yourself: - How do I sell it? - Where do",
+      "url": "https://x.com/SimonHoiberg/status/1549341513741701120",
+      "publishedAt": "2022-07-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 79,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1546809328262332416",
+      "type": "x_post",
+      "title": "My 10-year freelance/business path 👇 - Simple WordPress pages (side hustle). $10K/year. -",
+      "url": "https://x.com/SimonHoiberg/status/1546809328262332416",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 662,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1544223055341305857",
+      "type": "x_post",
+      "title": "My SaaS startup made +$400,000 in its first year. $300,000 of them were generated in < two",
+      "url": "https://x.com/SimonHoiberg/status/1544223055341305857",
+      "publishedAt": "2022-07-05",
+      "outlet": "X",
+      "views": 0,
+      "likes": 803,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1542833148249219073",
+      "type": "x_post",
+      "title": "I see many excellent small indie tools that never send a single email to their users. It's",
+      "url": "https://x.com/SimonHoiberg/status/1542833148249219073",
+      "publishedAt": "2022-07-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 70,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1541677513918873601",
+      "type": "x_post",
+      "title": "- I've made +$300K/year as a freelancer. - I built a SaaS that's making $20K/month. - I wr",
+      "url": "https://x.com/SimonHoiberg/status/1541677513918873601",
+      "publishedAt": "2022-06-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3131,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1538845411099783174",
+      "type": "x_post",
+      "title": "Try running a tech startup for a year. Even if you're gonna revert back to doing freelanci",
+      "url": "https://x.com/SimonHoiberg/status/1538845411099783174",
+      "publishedAt": "2022-06-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 172,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1529131334031093760",
+      "type": "x_post",
+      "title": "16 months of building a SaaS. Now turning over $20K every month 🥳 Not quite a rocket ship",
+      "url": "https://x.com/SimonHoiberg/status/1529131334031093760",
+      "publishedAt": "2022-05-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 972,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1521451779216576513",
+      "type": "x_post",
+      "title": "In 2022, you can build a SaaS business without coding. You still can't build one without s",
+      "url": "https://x.com/SimonHoiberg/status/1521451779216576513",
+      "publishedAt": "2022-05-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 101,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1516686128656654336",
+      "type": "x_post",
+      "title": "Start building a personal brand around you as a startup founder. Even if your startup fail",
+      "url": "https://x.com/SimonHoiberg/status/1516686128656654336",
+      "publishedAt": "2022-04-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 358,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1510221781357019138",
+      "type": "x_post",
+      "title": "Alright! We're 25% into the year. Let's do a little financial breakdown 💸 SaaS: $16K / mo",
+      "url": "https://x.com/SimonHoiberg/status/1510221781357019138",
+      "publishedAt": "2022-04-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 270,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1501468114973822979",
+      "type": "x_post",
+      "title": "Roadmap 🚀 From employed to independent. 1️⃣ Turn your day job into a freelance business. ",
+      "url": "https://x.com/SimonHoiberg/status/1501468114973822979",
+      "publishedAt": "2022-03-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 82,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1478276768863858689",
+      "type": "x_post",
+      "title": "Making money on the internet is awesome! But it's a patience game. I had my last income as",
+      "url": "https://x.com/SimonHoiberg/status/1478276768863858689",
+      "publishedAt": "2022-01-04",
+      "outlet": "X",
+      "views": 0,
+      "likes": 311,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1468497746676092932",
+      "type": "x_post",
+      "title": "When I worked in sales, it was always easier to sell a $10K/month advertisement deal to a ",
+      "url": "https://x.com/SimonHoiberg/status/1468497746676092932",
+      "publishedAt": "2021-12-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 109,
+      "topics": [
+        "pricing",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1470068851790462982",
+      "type": "x_post",
+      "title": "I'm building to make my users happy. Not my shareholders. That's why I'm bootstrapping 🙌",
+      "url": "https://x.com/SimonHoiberg/status/1470068851790462982",
+      "publishedAt": "2021-12-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 141,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1463112012582596608",
+      "type": "x_post",
+      "title": "Forget about \"launching\". ❌ Don't rely on ProductHunt ❌ Don't rely on Hacker News ❌ Don't ",
+      "url": "https://x.com/SimonHoiberg/status/1463112012582596608",
+      "publishedAt": "2021-11-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 168,
+      "topics": [
+        "launch",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1460159073014493187",
+      "type": "x_post",
+      "title": "Most developers and tech founders I've met, do marketing wrong. They think they need to bu",
+      "url": "https://x.com/SimonHoiberg/status/1460159073014493187",
+      "publishedAt": "2021-11-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 316,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1451850597582491650",
+      "type": "x_post",
+      "title": "This week, we got emails from 4 VCs interested in investing in FeedHive. We also got 2 ema",
+      "url": "https://x.com/SimonHoiberg/status/1451850597582491650",
+      "publishedAt": "2021-10-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 179,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1446810602027032581",
+      "type": "x_post",
+      "title": "Perhaps the most important skill when doing a startup: Selling 👊 Don't be humble. Don't b",
+      "url": "https://x.com/SimonHoiberg/status/1446810602027032581",
+      "publishedAt": "2021-10-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 213,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1446494777269231671",
+      "type": "x_post",
+      "title": "The best way to get into business. ❌ Build a tech startup. ✅ Start freelancing. The latter",
+      "url": "https://x.com/SimonHoiberg/status/1446494777269231671",
+      "publishedAt": "2021-10-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 229,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1428720134105993219",
+      "type": "x_post",
+      "title": "Let's talk about BURNOUT. I work 85 hours/week. There's a great deal of uncertainty and st",
+      "url": "https://x.com/SimonHoiberg/status/1428720134105993219",
+      "publishedAt": "2021-08-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 293,
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1416316426009419776",
+      "type": "x_post",
+      "title": "3 types of revenues. 🔸 Freelancing. Steady, reliable revenue stream. Hard to scale. 🔸 In",
+      "url": "https://x.com/SimonHoiberg/status/1416316426009419776",
+      "publishedAt": "2021-07-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 150,
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1378261495306391553",
+      "type": "x_post",
+      "title": "Tech Startup Tip 💡 This is probably the number 1 common mistake: Building forever before ",
+      "url": "https://x.com/SimonHoiberg/status/1378261495306391553",
+      "publishedAt": "2021-04-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 173,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1349983500913561600",
+      "type": "x_post",
+      "title": "Where to promote your SaaS Product? Here are 8 great places to plug your project and get s",
+      "url": "https://x.com/SimonHoiberg/status/1349983500913561600",
+      "publishedAt": "2021-01-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 320,
+      "topics": [
+        "launch",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1341809393080414213",
+      "type": "x_post",
+      "title": "Business Tip 💡 Niche down! Don't aim to solve general problems. Find a niche and become r",
+      "url": "https://x.com/SimonHoiberg/status/1341809393080414213",
+      "publishedAt": "2020-12-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 97,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1436990387307130883",
+      "type": "x_post",
+      "title": "Don't build for your users. Build with them. This is how a community-led product works.",
+      "url": "https://x.com/SimonHoiberg/status/1436990387307130883",
+      "publishedAt": "2021-09-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 103,
+      "topics": [
+        "community",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2072949364490699244",
+      "type": "x_post",
+      "title": "A quick example from my SaaS: On average, it cost $85-$95 to convert a user, and the most ",
+      "url": "https://x.com/SimonHoiberg/status/2072949364490699244",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 15414,
+      "likes": 87,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2072912734228709509",
+      "type": "x_post",
+      "title": "I know a lot of founders want to get started with ads but struggle to make them work. One ",
+      "url": "https://x.com/SimonHoiberg/status/2072912734228709509",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 10353,
+      "likes": 69,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2061399447918072240",
+      "type": "x_post",
+      "title": "Users from ads generally pay more and churn less. They are an overall better, more healthy",
+      "url": "https://x.com/SimonHoiberg/status/2061399447918072240",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 4368,
+      "likes": 34,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2116091368351416511",
+      "type": "x_post",
+      "title": "@gregisenberg Honestly, startups that pass on joining this MRR d*ck measuring contest (but",
+      "url": "https://x.com/SimonHoiberg/status/2116091368351416511",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 987,
+      "likes": 19,
+      "topics": [
+        "marketing"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-tWz4Eqh9USc",
+  "title": "Why Simon Høiberg moved 80% of his SaaS off AWS to Hetzner bare metal",
+  "summary": "Simon moved most of his five-product SaaS portfolio from AWS serverless to three Hetzner dedicated servers running Kubernetes, Postgres and Redis. He cut infra costs from about $7,800 to under $2,000 per month, avoided vendor lock-in, and made lifetime deals safer by keeping running costs fixed. He also explains what he kept on AWS and who should or shouldn't self-host.",
+  "principles": [
+    {
+      "text": "Usage-based cloud costs climb as users grow; fixed-cost dedicated servers cap them and the savings keep compounding.",
+      "quote": "At the beginning of 2025, I would pay AWS $7,800 per month on average to run my SaaS products. Because I pay per usage with AWS, this average is slowly climbing month after month as my user base grows."
+    },
+    {
+      "text": "Self-hosting has a one-time learning cost, not a recurring one; judge the ROI on savings that keep growing.",
+      "quote": "unless you're already expert on this, there's obviously going to be an upfront cost in terms of time spent. But that upfront cost is fixed."
+    },
+    {
+      "text": "Avoid vendor lock-in: if a provider raises prices or drops you, a rushed migration can sink the business.",
+      "quote": "If AWS were to raise their prices or decide they don't want you as a customer anymore, well, you're cooked. Your products just stop running, and migrating isn't something you can do quickly."
+    },
+    {
+      "text": "Remove as many hard vendor dependencies as you can, and design so the product can run on any host.",
+      "quote": "I absolutely would recommend removing as many hard dependencies on specific vendors as you possibly can."
+    },
+    {
+      "text": "Lifetime deals are safer to offer when ongoing costs are fixed rather than rising with user count.",
+      "quote": "if you can at least make those ongoing cost fixed instead of gradually rising as the number of users goes up, it's obviously going to be much easier and much less risky to do proper financial planning when offering a deal like this."
+    },
+    {
+      "text": "Make products self-hostable so lifetime access is a credible guarantee for buyers.",
+      "quote": "I'm working on making all of my products fully self-hostable. So, everyone who bought lifetime access to my software can, in the unlikely event that my business won't be able to host it, simply install it on their own servers and host it themselves."
+    }
+  ],
+  "topics": [
+    "building",
+    "pricing",
+    "bootstrapping",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

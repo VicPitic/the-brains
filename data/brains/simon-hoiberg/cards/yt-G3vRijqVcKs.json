@@ -1,0 +1,39 @@
+{
+  "id": "yt-G3vRijqVcKs",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "SaaS lifetime deals: what AppSumo, pre-sales and LTDs really do for a bootstrapped SaaS",
+  "summary": "Simon Høiberg draws on his experience launching FeedHive on AppSumo ($300K in two months), pre-selling LinkDrip lifetime deals to his own audience ($100K+), and running TinyKiwi as an ongoing LTD. He covers the real upsides (distribution, feedback, word of mouth), the risks (operating cost, support friction) and when LTDs make sense.",
+  "topics": [
+    "pricing",
+    "launch",
+    "distribution",
+    "bootstrapping"
+  ],
+  "principles": [
+    {
+      "text": "AppSumo's revenue split is fair because you are buying distribution you could not build yourself.",
+      "quote": "a distribution Channel this size and as powerful as the one of appsumo is so extremely valuable it is much more worth than your product"
+    },
+    {
+      "text": "Only run LTDs if your per-user operating cost is low; heavy AI or compute costs make one-time payments dangerous.",
+      "quote": "if you're running a product that's very heavy on AI using open AI apis or you're using any type of service that is really computationally expensive to run you should reconsider how the finances of this will work"
+    },
+    {
+      "text": "Lifetime users churn too, so you are not locked into supporting them forever.",
+      "quote": "lifetime users turn to for various reasons they either grow out of your tool they go on to something new they might they might love it so much that they want to upgrade"
+    },
+    {
+      "text": "LTD relationships create friction both ways: entitled buyers, and founders with less incentive to support them. Be fair and minimize that friction.",
+      "quote": "the moment the lifetime user has paid you there is Les less incentive for you to give them the same Sublime support experience than with a monthly payer because they can't churn"
+    },
+    {
+      "text": "The biggest LTD benefit is users and word of mouth, not the upfront cash.",
+      "quote": "the getting users on board getting Word of Mouth um and getting the promotion is the biggest upside that's bigger than the money that you get up front"
+    },
+    {
+      "text": "Pre-selling LTDs to your own audience can validate a product fast, but it requires an existing audience.",
+      "quote": "this was actually a part of my product validation I wanted to see if this was something of interest to people so at this point I had only spent I think around eight hours creating a landing page"
+    }
+  ]
+}

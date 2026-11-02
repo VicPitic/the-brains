@@ -1,0 +1,39 @@
+{
+  "id": "yt-z5U843Ob8xw",
+  "title": "How Simon Høiberg built a SaaS factory to test and ship products 10x faster",
+  "summary": "Simon argues that SaaS is a high-failure game, so the best strategy is to test many products cheaply. He describes the parts of his \"SaaS factory\": a GitHub org of reusable packages and boilerplates, no-code automation templates, a creative asset library, a launch checklist, and a personal playbook. The factory only works if you build it yourself.",
+  "principles": [
+    {
+      "text": "Constantly testing new ideas is the best way to raise your odds of SaaS success, given how likely any one product is to fail.",
+      "quote": "constantly testing the market with new ideas is the best way to increase your chances of success but you need the right tooling to do this sustainably"
+    },
+    {
+      "text": "The most successful indie hackers win by pushing and failing more and faster than others.",
+      "quote": "the reason they're successful is that they've been pushing and failing more and faster than most other people"
+    },
+    {
+      "text": "Turn reusable code into private packages and boilerplates so new products start from a working base in under 30 minutes.",
+      "quote": "get into the habit of stopping regularly go through your code and pick out pieces that you know or at least feel very sure could be reused"
+    },
+    {
+      "text": "Use both code and no-code: automate non-core backend work like segmentation, retargeting lists and social updates, and reuse the automations across products.",
+      "quote": "people have this idea that it's either code or no code but in order to build a proper SAS Factory you should have both"
+    },
+    {
+      "text": "Keep a checklist for every new SaaS (payments, email, auth, privacy policy, terms) and document your processes, as quality control.",
+      "quote": "every time you set up a new SAS make sure you can cross everything on the list consider this quality control"
+    },
+    {
+      "text": "Build your own factory and playbook rather than buying someone else's; the learning from building it is the real advantage.",
+      "quote": "what truly gives you superpowers is the process of building the factory all the hard-earned lessons that make up the foundation you're building on"
+    }
+  ],
+  "topics": [
+    "building",
+    "bootstrapping",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

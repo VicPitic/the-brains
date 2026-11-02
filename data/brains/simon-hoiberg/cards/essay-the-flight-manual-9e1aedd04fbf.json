@@ -1,0 +1,38 @@
+{
+  "id": "essay-the-flight-manual-9e1aedd04fbf",
+  "title": "The Flight Manual: Simon Høiberg's lightweight, continuous agile framework from FeedHive",
+  "summary": "Simon introduces \"Flights,\" a ceremoniless agile framework for startups and SaaS teams working under extreme uncertainty. Instead of fixed-length sprints and meetings, work ships in continuous, overlapping flights with a pilot, an ETA, and an \"Emergency Landing\" escape hatch so nobody stays blocked.",
+  "principles": [
+    {
+      "text": "For startups and SaaS teams facing extreme uncertainty, ship continuously rather than in iterations.",
+      "quote": "For startups, SaaS development, and teams that generally work under the conditions of extreme uncertainty, a continuous approach will be far more beneficial."
+    },
+    {
+      "text": "Keep process lightweight: adopt the core principles without forcing a rigid set of ground rules.",
+      "quote": "Flights does not claim that you need to follow the ground rules fully — you can adopt the core principles on top of other team practices and still benefit from using Flights."
+    },
+    {
+      "text": "Give each piece of work an ETA instead of a fixed length, and accept early or late landings.",
+      "quote": "A flight does not have a fixed length (e.g. 2 weeks).It has an ETA, and it’s determined when the flight is created."
+    },
+    {
+      "text": "Every flight needs one accountable pilot, and a person can pilot only one flight at a time.",
+      "quote": "The pilot can be anyone from the team, and is the person responsible for landing the flight smoothly in production, on time."
+    },
+    {
+      "text": "Run multiple flights in parallel and keep the next one ready so freed-up people can start immediately.",
+      "quote": "It is a good idea to always have a flight booked and prepared for takeoff, in case another flight arrives early and frees up a pilot and staff."
+    },
+    {
+      "text": "If work stalls badly, formally close it and return tasks to the backlog rather than blocking people.",
+      "quote": "Keeping the flight in the air would cause us to “block” a pilot, which we definitely want to avoid."
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

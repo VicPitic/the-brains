@@ -1,0 +1,39 @@
+{
+  "id": "yt-glh6R9fZ3UU",
+  "title": "How Simon Høiberg built FeedHive to ~$400K ARR: audience first, users shape the MVP, ads, delegation",
+  "summary": "Simon explains how his first SaaS failed with zero paying users, how giving away value on Twitter built the audience that launched FeedHive, and how 25 early users shaped its MVP. He also covers landing pages, paid ads creatives, when to hire, and documenting processes.",
+  "principles": [
+    {
+      "text": "Build the audience by sharing value for free, with no ask attached; it only worked once he stopped caring what he got back.",
+      "quote": "I'm gonna just Share value and not gonna care anything about what I will get out of it right right now I'm just gonna share value for free"
+    },
+    {
+      "text": "Let early users define the MVP: get a group in first, then listen to what they want to see first.",
+      "quote": "get the people in there first and then just listen closely to what what they would want to see first"
+    },
+    {
+      "text": "Tailor landing pages to market maturity: in a known category stress differentiating features; in an unfamiliar one lead with outcomes.",
+      "quote": "it's better to focus more on the things that make you stand out so that could for instance be a calendar view or the individual features that you have that other tools similar tools don't have"
+    },
+    {
+      "text": "Paid ads scale acquisition, but the creative is the part on you; platforms handle targeting. Expect to burn money learning.",
+      "quote": "it all comes down to the creatives and that is as an Advertiser that's the part that's on you you need to make killer ads ads that almost look like great content in itself"
+    },
+    {
+      "text": "Do a job yourself before hiring for it; the best thing to delegate is work you could already do but want the time back.",
+      "quote": "the best thing to delegate is things that you could already do but you just want to buy yourself time"
+    },
+    {
+      "text": "Turn every task into reusable building blocks and documented processes so each new output gets faster.",
+      "quote": "is there at least one or two things from this that I can make into more um general purpose components or building blocks that I can use for a later project"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "marketing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

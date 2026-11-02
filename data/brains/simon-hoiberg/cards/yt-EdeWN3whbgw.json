@@ -1,0 +1,39 @@
+{
+  "id": "yt-EdeWN3whbgw",
+  "title": "Can you replace your team with AI? Three filters (human vs process-centric, leader vs operator, RIP)",
+  "summary": "Simon cut his team from 11 to 3 using AI while revenue and margins rose, but argues it only works for process-centric companies run by operator-type founders. He gives three checkpoints and the RIP model (Repetitive, Predictable, Isolated) to decide which tasks to hand to AI.",
+  "principles": [
+    {
+      "text": "AI replacement only works for process-centric businesses; human-centric, culture-driven ones can augment but not replace people.",
+      "quote": "if you are running a high culture human first organization you cannot replace your team. You can augment them but you cannot replace them."
+    },
+    {
+      "text": "Founders who are operators (systems, data, logic) suit an AI workforce; natural leaders who run on empathy and motivation will struggle to manage AI.",
+      "quote": "If you are an operator, AI is your dream employee. Because AI doesn't need empathy. It needs logic. It doesn't need motivation. It needs instructions."
+    },
+    {
+      "text": "Process-centric companies with SOPs, checklists, and clear task requirements transition to AI easily because agents thrive on clear instructions.",
+      "quote": "an AI agent loves a processcentric environment. It loves clear instructions. It loves SOPs. It loves checklists."
+    },
+    {
+      "text": "Use the RIP model: replace a task only if it is Repetitive, Predictable, and Isolated; if it misses one, keep a human in the loop.",
+      "quote": "If a role handles tasks that are repetitive, predictable, and isolated, you can replace it today. If it misses even one of these, you have to at the very least loop in a human as a part of that workflow."
+    },
+    {
+      "text": "The 'Isolated' criterion is where most AI implementations fail: tasks needing tribal knowledge or hidden dependencies will make AI break things.",
+      "quote": "Can the task be done in a vacuum or does it require tribal knowledge?"
+    },
+    {
+      "text": "Think in terms of replacing tasks, not people, and treat AI as a machine following strict instructions rather than a magic employee.",
+      "quote": "instead of thinking about replacing people, think about replacing tasks and apply the RIP model to figure out which ones."
+    }
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "leadership",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

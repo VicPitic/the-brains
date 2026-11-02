@@ -1,0 +1,39 @@
+{
+  "id": "yt-q7mD8NFYd7s",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Simon Høiberg runs four SaaS products with 3 people using an AI agent team",
+  "summary": "Simon explains how he cut his team from 11 to 3 by delegating video production, coding, DevOps, paid ads, outreach and support to AI agents. The key is a strong harness: scripts, QA gates, narrow permissions, spending limits and human approval for big decisions. He argues a small AI-native team is now an advantage over a large one.",
+  "principles": [
+    {
+      "text": "A small, highly efficient AI-native team is now a bigger opportunity than a large team, which is a disadvantage.",
+      "quote": "Not only do you not need a large team anymore, but I think it's straight up a disadvantage. Running a highly efficient small AI native team is the biggest business opportunity you get right now."
+    },
+    {
+      "text": "Keep the ideas and opinions human. Let AI structure and produce, not invent, or you get generic slop.",
+      "quote": "if you let it invent the ideas, you get the same generic AI slop everyone is super tired of."
+    },
+    {
+      "text": "Script first, then record against the script. The script becomes a map the editing agent can match to transcripts and build visuals against.",
+      "quote": "Once the recording matches the script, the script becomes a map for the whole production."
+    },
+    {
+      "text": "AI coding only works with a harness: QA tests, guardrails and agent-friendly code structure. Spraying code with AI is not leverage.",
+      "quote": "don't fool yourself into thinking that just spraying code with AI is now some big leverage."
+    },
+    {
+      "text": "Give ad agents full business context and real outcome events (trial, purchase, usage), not just creative generation, or platforms optimize for weak signals.",
+      "quote": "If you optimize for a weak signal, Meta will happily find thousands of people who produce more of that weak signal."
+    },
+    {
+      "text": "Do outreach as slow, researched, one-at-a-time emails with hard send limits and approvals; the research becomes the message.",
+      "quote": "If you send out highquality personalized emails to carefully vetted, highquality leads, you don't have to blast and spam everyone."
+    }
+  ],
+  "topics": [
+    "ai",
+    "bootstrapping",
+    "building",
+    "productivity"
+  ]
+}

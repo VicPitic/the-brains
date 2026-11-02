@@ -1,0 +1,39 @@
+{
+  "id": "yt-7jY_4AJtuS0",
+  "title": "How Simon Høiberg's SaaS A/B tests found a 52% revenue lift from forced onboarding",
+  "summary": "Simon shares four A/B tests from his SaaS products (FeedHive, LinkDrip). Forcing users through onboarding with card and plan selection raised revenue 52% despite losing most signups. Hero social proof and G2 badges helped, monthly pricing as the default beat yearly, and most tests are inconclusive, so keep testing.",
+  "principles": [
+    {
+      "text": "Always run A/B tests; most are insignificant, but a few discoveries make a real difference.",
+      "quote": "we also ran hundreds of ab tests with totally insignificant results in fact most test results are like that which can make it seem a bit redundant to even bother but every once in a while you'll discover something that truly makes a difference"
+    },
+    {
+      "text": "Forcing users through onboarding (accounts, card, plan) loses signups but raises revenue through higher ARPU.",
+      "quote": "by forcing users through an onboarding flow we end up increasing our Revenue with 52%"
+    },
+    {
+      "text": "Compare tests on revenue per cohort, not just paying user counts; equal conversions can hide very different ARPU.",
+      "quote": "11 paying users versus 13 paying users it seems more or less like a tie right but here's the kicker and it's the same every time"
+    },
+    {
+      "text": "Requiring upfront effort raises perceived value and filters out unserious users.",
+      "quote": "a product is valued higher if you force people to invest initial time and dedication into it I also think the onboarding serves as a good filtering mechanism for more unserious users"
+    },
+    {
+      "text": "Put social proof in the hero section; it lifted get-started clicks from 9% to 16%.",
+      "quote": "in group a 9% of visitors click on the get started button and in group b 16% of visitors click on the button"
+    },
+    {
+      "text": "Don't trust intuition on pricing defaults: monthly beat yearly even though people were split on the guess.",
+      "quote": "of the visitors in group a 133% click on the sign up button of the visitors in group b only 4% click the sign up button"
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-nsm7sgSRD84",
+  "personIsSpeaker": true,
+  "title": "How Simon Høiberg hit $1,000 MRR in 30 days with FeedHive: audience, early adopters, building in public",
+  "summary": "Simon explains the three-part playbook behind FeedHive's first $1,000 MRR in about a month: build a social presence first, co-build the product with a closed group of early adopters, and build in public as a marketing strategy. He launched with a single tweet and no Product Hunt, Hacker News, or TechCrunch.",
+  "principles": [
+    {
+      "text": "Build a social media presence before you build the product; success comes from patience and consistency, not fancy gear.",
+      "quote": "it just takes a certain level of patience and consistency and it's really about just getting started."
+    },
+    {
+      "text": "Post daily on one platform (Twitter or LinkedIn) about a topic you want to be known for, long term.",
+      "quote": "pick a platform of choice i suggest starting out with twitter or linkedin start posting daily one to two posts pick a topic something you want to be known for"
+    },
+    {
+      "text": "Don't monetize your audience early; share value with no strings, and use the time to build authority and connections with other creators.",
+      "quote": "you don't want to try to monetize your audience for a long time don't post affiliate links don't start selling an ebook or course have patience and just keep sharing valuable content without asking for anything in return"
+    },
+    {
+      "text": "Find early adopters and build the product with them, not for them; they shape it and multiply your reach at launch.",
+      "quote": "you need users to build your product with not for with this is an important difference"
+    },
+    {
+      "text": "Keep validating continuously instead of building far ahead on a single 'sounds great' response.",
+      "quote": "they think validation is having some users say sure that sounds great while presenting the idea once and that's it but that's not enough you need to keep validating your product"
+    },
+    {
+      "text": "Treat building in public as a social media marketing strategy: share honest, realistic journey content, no obligation to reveal revenue or secrets.",
+      "quote": "it's a social media marketing strategy that's all it is you want to create and share content that is interesting and valuable to your audience and which in turn drives awareness leads and subscribers to your sas"
+    }
+  ],
+  "topics": [
+    "growth",
+    "distribution",
+    "community",
+    "launch"
+  ],
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-0Axx_BWuxsU",
+  "title": "Why I avoid five tempting AI SaaS ideas: copywriters, coding tools, therapists, detectors, summarizers",
+  "summary": "Simon explains the five AI SaaS categories his team rejects immediately: standalone AI copywriters, AI coding tools, AI therapists, AI detectors, and AI summarizers. The common thread is saturated markets, usage-based LLM costs that punish bootstrappers, liability risk, and ideas that are really features absorbed by big platforms.",
+  "principles": [
+    {
+      "text": "A thin wrapper over an LLM API is a race to the bottom on price and churn; it works as a feature inside a bigger product, not as a standalone product.",
+      "quote": "I think an AI copywriter is a great feature in a bigger product."
+    },
+    {
+      "text": "LLM costs scale with usage, so a successful user base can become a cash-bleeding liability for a bootstrapper.",
+      "quote": "The cost is directly proportional to the consumption of the tool. Meaning the more users interact with your app, the higher your expenses climb."
+    },
+    {
+      "text": "Don't compete head-on with VC-backed companies that can afford to bleed cash for market dominance.",
+      "quote": "It's not really about building the best product. It's about who can afford bleeding the most cash."
+    },
+    {
+      "text": "Avoid high-stakes domains like physical or mental health; a small founder can't absorb the ethical and legal fallout.",
+      "quote": "Stick to products that are much more non-critical by nature. Anything that has to do with people's health, both physically and mentally, I would stay far away from."
+    },
+    {
+      "text": "Don't build a tool that plays cat-and-mouse with a platform whose internal systems you can't see, or that patches the wrong problem.",
+      "quote": "you probably shouldn't build your business by attempting to play a game of cat-and- mouse with Google, where you have to constantly guess how their internal systems work."
+    },
+    {
+      "text": "If big ecosystems ship a capability natively and for free, it is a feature, not a product, and you also face a heavy trust barrier.",
+      "quote": "An AI summarizer is no longer a product. It's become a feature."
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
