@@ -1,0 +1,35 @@
+{
+  "id": "essay-how-to-test-your-types",
+  "title": "How to test your types: Vitest, Expect/Equal helpers, ts-expect-error and tsd for library authors",
+  "summary": "Matt Pocock explains why library authors should test their types and lays out three approaches: vitest's type-testing APIs, a hand-rolled Expect/Equal helper plus ts-expect-error run through tsc, and the tsd library. He notes that type testing is rarely worth it in application code but critical for widely consumed libraries.",
+  "principles": [
+    {
+      "text": "If you ship library code, test your types, because they are part of the API you expose to users.",
+      "quote": "Types are a crucial part of your API that you're exposing to users, and you want to make sure that your logic on the type level works."
+    },
+    {
+      "text": "Use vitest's type-testing APIs to colocate type tests with your runtime tests.",
+      "quote": "having it built into a test runner is really valuable, because it lets you colocate your type tests with your runtime tests."
+    },
+    {
+      "text": "Without a type-testing runner, roll your own with Expect and Equal helpers to assert the exact type, then run tsc over the test suite.",
+      "quote": "You can use type helpers like `Expect` and `Equal` to be really specific with the type that you're trying to narrow to."
+    },
+    {
+      "text": "Use ts-expect-error to assert that invalid usage is rejected, but know it only proves that some error occurs, not which one.",
+      "quote": "It's not exactly perfect since it doesn't let you be that granular - you can't check that a specific error is thrown, only that _an_ error has been thrown."
+    },
+    {
+      "text": "Application code rarely justifies type tests; libraries consumed by many people do, so getting good at type testing is critical there.",
+      "quote": "for application development, you're rarely going to be in a position where testing your types will be worth it."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "testing",
+    "types",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

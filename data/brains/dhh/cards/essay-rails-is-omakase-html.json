@@ -1,0 +1,39 @@
+{
+  "id": "essay-rails-is-omakase-html",
+  "title": "Rails is omakase: why a framework should be one curated menu, not à la carte",
+  "summary": "DHH frames Rails as an omakase meal: a small team of chefs picks the ingredients and APIs into one opinionated, personal full-stack framework. Substitutions are allowed within reason, but loud demands from people who haven't contributed carry little weight; influence is earned by showing up with code.",
+  "principles": [
+    {
+      "text": "A framework should be a curated, opinionated whole, not an à la carte pile of choices.",
+      "quote": "Rails is not that. Rails is omakase. A team of chefs picked out the ingredients, designed the APIs, and arranged the order of consumption on your behalf according to their idea of what would make for a tasty full-stack framework."
+    },
+    {
+      "text": "Defaults can be personal and quirky; they don't need to please everyone.",
+      "quote": "The menu can be both personal and quirky. It isn't designed to appeal to the taste of everyone, everywhere."
+    },
+    {
+      "text": "Opinionated defaults don't trap you: substitutions are allowed, so swap out the pieces you dislike.",
+      "quote": "Substitutions are allowed, within reason. So you don't like test/unit? No problem, bring your own rspec."
+    },
+    {
+      "text": "Experience shapes taste; the maintainers' well-formed opinions set the design direction.",
+      "quote": "This doesn't make my tastes right for you, but it certainly means that they're well formed."
+    },
+    {
+      "text": "Influence over a project is earned by contributing code, not by complaining loudly.",
+      "quote": "Nobody ever got to have a meaningful impact on the direction of Rails by contributing no code and just showing up in a Github comment thread and yelling about the evils of CoffeeScript."
+    },
+    {
+      "text": "If you mostly like the defaults, express differences as exceptions and extend the chefs good faith.",
+      "quote": "Can I express my differences as exceptions or substitutions to the few things I don't care for? If so, then maybe I should give the chefs in the kitchen the benefit of assuming that they are working on what they truly think is the best way to go."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture",
+    "community",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

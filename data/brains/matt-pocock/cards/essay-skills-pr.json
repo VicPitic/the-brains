@@ -1,0 +1,37 @@
+{
+  "id": "essay-skills-pr",
+  "title": "The /pr Skill: PR bodies with a visual summary, before/after evidence, and a one-way/two-way door call",
+  "summary": "Matt Pocock explains his `pr` skill, which defines the shape of a pull request body: Summary (smallest useful visual), Evidence (before and after), and Merge Danger (one-way vs two-way door plus blast radius). It also covers limits: the agent grading its own door call is suspect, and the skill only writes the body.",
+  "principles": [
+    {
+      "text": "A PR summary should be a visual of the change's shape, not a prose description of the diff.",
+      "quote": "The summary is a visual, not a paragraph."
+    },
+    {
+      "text": "Pick the smallest view that makes the key point clear and keep surrounding words brief.",
+      "quote": "This one picks the **smallest view** that makes the key point clear (pseudocode, a call tree, a component tree, a file tree, a Mermaid diagram, or a shaped diff) and keeps the words around it brief."
+    },
+    {
+      "text": "Evidence must be a before and after (screenshot, failing-then-passing test, changed output), not a claim that tests pass.",
+      "quote": "\"Tests are green\" on its own is a claim, not a before and after."
+    },
+    {
+      "text": "State whether a change is a one-way or two-way door so reviewers can disagree with an explicit claim and spend attention accordingly.",
+      "quote": "It changes \"is this safe to merge?\" from a gut feeling into a stated claim the reviewer can disagree with."
+    },
+    {
+      "text": "Be most suspicious of the agent's own 'two-way, small blast radius' call, since the author is grading its own change.",
+      "quote": "The agent that wrote the change is the one grading it, so be most suspicious when it says \"two-way, small blast radius\"."
+    },
+    {
+      "text": "Give the agent the ticket or spec, not just the diff, and document your repo's always-one-way changes where it will read them.",
+      "quote": "make sure the agent has the [ticket](https://www.aihero.dev/ai-coding-dictionary/ticket) or [spec](https://www.aihero.dev/ai-coding-dictionary/spec) in front of it, not just the diff"
+    }
+  ],
+  "topics": [
+    "code-review",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

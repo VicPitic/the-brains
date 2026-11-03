@@ -1,0 +1,39 @@
+{
+  "id": "yt-IEOqgPfGLQ8",
+  "title": "DHH with Matz and Jeremy Daer: Ruby, agents, and why programmers become software makers",
+  "summary": "A panel with Matz and DHH on how agents are changing programming. DHH argues acceptance comes first, that human value is taste and joy rather than hand-typing code, and that the \"slop\" critique is cope. He says to trust agents the way you'd trust a senior hire, and that agents will speak Ruby to you if you ask.",
+  "principles": [
+    {
+      "text": "Move through denial and bargaining to acceptance: agent-driven programming is coming for everyone and you can't opt out.",
+      "quote": "None of us has the power even if we wanted to."
+    },
+    {
+      "text": "Human value in the agent era is taste, proportion and beauty; being a software maker is more satisfying than being a software writer.",
+      "quote": "What is the human value we add when we're working with agents? It is taste. It's a sense of proportion. It's a sense of beauty."
+    },
+    {
+      "text": "Agents free us from ego about lines of code, so we attach only to better ideas.",
+      "quote": "you're not attached to the lines of code anymore. That's a blessing."
+    },
+    {
+      "text": "The \"slop\" critique of agent code is cope; agent-written code is already high quality and improving fast.",
+      "quote": "The idea that agents cannot write original high quality code free of bugs is just at this point delusional."
+    },
+    {
+      "text": "Trust agents like human hires: extend autonomy as competence is demonstrated, and accept that they, like us, will occasionally err.",
+      "quote": "And their competence is measured in your trust that the last pull request was handled correctly, just like you would any human."
+    },
+    {
+      "text": "Agents are fluent in any language, so have them speak Ruby to you, the best language for humans to read.",
+      "quote": "If you want them to speak to you in Ruby, they will speak to you in Ruby."
+    }
+  ],
+  "topics": [
+    "ai",
+    "types",
+    "simplicity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-why-we-re-leaving-the-cloud-654b47e0",
+  "title": "Why we're leaving the cloud: renting computers is a bad deal for stable, medium-sized companies",
+  "summary": "DHH explains why 37signals is leaving AWS and Google Cloud after years of running Basecamp and HEY there. The cloud only pays off for tiny apps or wildly irregular load, the promised ops savings never materialized, and owning hardware is cheaper and better for a decentralized internet.",
+  "principles": [
+    {
+      "text": "Renting computers is mostly a bad deal for medium-sized companies with stable growth.",
+      "quote": "Renting computers is (mostly) a bad deal for medium-sized companies like ours with stable growth. The savings promised in reduced complexity never materialized."
+    },
+    {
+      "text": "The cloud shines only at two ends: very simple low-traffic apps, and wildly irregular load.",
+      "quote": "The cloud excels at two ends of the spectrum, where only one end was ever relevant for us."
+    },
+    {
+      "text": "Paying cloud premiums for hypothetical spikes is like buying earthquake insurance far from any fault line.",
+      "quote": "we're paying an at times almost absurd premium for the possibility that it could. It's like paying a quarter of your house's value for earthquake insurance when you don't live anywhere near a fault line."
+    },
+    {
+      "text": "Moving to the cloud doesn't materially shrink the ops team; some things get simpler, others more complex.",
+      "quote": "Some things are simpler, others more complex, but on the whole, I've yet to hear of organizations at our scale being able to materially shrink their operations team, just because they moved to the cloud."
+    },
+    {
+      "text": "The cloud is marketing-packaged renting, with obscene margins; don't be dazzled by 'run your own powerplant' analogies.",
+      "quote": "The cloud is sold as computing on demand, which sounds futuristic and cool, and very much not like something as mundane as \"renting computers\", even though that's mostly what it is."
+    },
+    {
+      "text": "Running your own servers isn't too complicated; tooling progress from the cloud era is available for your own machines.",
+      "quote": "Don't let the entrenched cloud interests dazzle you into believing that running your own setup is too complicated. Everyone and their dog did it to get the internet off the ground, and it's only gotten easier since."
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

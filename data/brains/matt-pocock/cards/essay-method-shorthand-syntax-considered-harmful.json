@@ -1,0 +1,38 @@
+{
+  "id": "essay-method-shorthand-syntax-considered-harmful",
+  "title": "Method Shorthand Syntax Considered Harmful: why to avoid bivariant method signatures in TypeScript",
+  "summary": "Matt Pocock explains that TypeScript's method shorthand syntax is bivariant, letting a narrower parameter type slip through and cause runtime errors the compiler never flags. Declaring members as function properties makes the check strict, and the typescript-eslint method-signature-style rule enforces it.",
+  "principles": [
+    {
+      "text": "Avoid method shorthand syntax in interfaces and types in almost all cases; it can cause runtime errors TypeScript won't catch.",
+      "quote": "method shorthand syntax should be avoided in almost all cases."
+    },
+    {
+      "text": "Method shorthand is bivariant, so it accepts parameter types narrower or wider than declared, which is the source of the unsound runtime errors.",
+      "quote": "This happens because the method shorthand syntax is _bivariant_. This means that the method can accept a type that is both narrower and wider than the original type."
+    },
+    {
+      "text": "Declare function members with object property syntax so TypeScript rejects narrower parameter types that would break at runtime.",
+      "quote": "If we use object property syntax to define the method, TypeScript will throw an error if we try to assign a narrower type to the method"
+    },
+    {
+      "text": "The shorthand-vs-property difference has nothing to do with arrow functions versus function declarations; both work with either syntax.",
+      "quote": "A common misconception is that the syntax above refers to arrow functions vs function declarations. This is not the case."
+    },
+    {
+      "text": "The problem occurs with both interface and type aliases, so switching between them doesn't avoid it.",
+      "quote": "I've used `interface` in the example above, but the same problem occurs with `type`"
+    },
+    {
+      "text": "Enforce the property style with the @typescript-eslint/method-signature-style rule set to \"property\".",
+      "quote": "This rule will enforce the use of the object property syntax for method signatures."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

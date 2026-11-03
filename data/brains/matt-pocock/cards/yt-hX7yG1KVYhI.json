@@ -1,0 +1,39 @@
+{
+  "id": "yt-hX7yG1KVYhI",
+  "title": "How Matt Pocock builds a real feature with Claude Code: grill, PRD, issues, AFK loop, QA",
+  "summary": "Matt walks through a full feature build in his course video manager: a \"grill me\" session to harden vague requirements, a PRD, issues, an AFK Ralph loop in Docker, then human QA that feeds new issues back to the agent. He treats the LLM like a delegate: invest in the idea and architecture, lean on shared language, tests and feedback loops, and review inputs and outputs rather than every line.",
+  "principles": [
+    {
+      "text": "Treat Claude Code like a teammate you delegate to: focus on architecture and feedback loops, the practices that have worked for 20 years.",
+      "quote": "You get the most out of it when you treat it like someone you would delegate to in your team. In other words, you focus on the architecture, you focus on making sure that you've got good feedback loops"
+    },
+    {
+      "text": "Always explain the why, not just the what, so the LLM can suggest alternatives.",
+      "quote": "if the LLM has the what, then it understands what you want to build, but if it doesn't know the why, then it can't suggest alternatives."
+    },
+    {
+      "text": "Keep a ubiquitous-language glossary shared with the LLM so you can talk about the system precisely and tersely.",
+      "quote": "I'm the domain expert and the LLM is the dev. And we need some kind of shared language so that we can talk together precisely."
+    },
+    {
+      "text": "Have the agent answer from the code when it can, and ask you only what the code cannot answer; spend the human time on the grilling session.",
+      "quote": "if it's a question that can only be answered by or can be answered by looking at the code, it should look at the code first."
+    },
+    {
+      "text": "Design and name module interfaces carefully and care less about implementation; make modules testable and legible to future agents.",
+      "quote": "Notice how I'm thinking about the interface more than I'm actually thinking about the implementation here."
+    },
+    {
+      "text": "Run AFK agents on issues while you QA, and feed bugs back as issues; specs-to-code alone misses edge cases found in QA.",
+      "quote": "the specs to code approach is just never going to work because when you're in there, when you're in the QA loop, when you're iterating towards something, you are going to find little weird edge cases"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "testing",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

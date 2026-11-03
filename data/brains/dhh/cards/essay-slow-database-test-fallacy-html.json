@@ -1,0 +1,38 @@
+{
+  "id": "essay-slow-database-test-fallacy-html",
+  "title": "Slow database test fallacy: why hitting the database in unit tests is fine in 2014",
+  "summary": "DHH argues the TDD rule that unit tests must not touch the database is a relic of 1990s hardware. With SSDs, local databases, Spring preloading and transactional fixtures, Basecamp's model tests run in seconds, so abstracting away the database only causes test-induced design damage.",
+  "principles": [
+    {
+      "text": "Don't avoid the database in tests; the \"unit tests must not touch the DB\" rule is obsolete.",
+      "quote": "That was probably true in 1997 when you were connecting to a mainframe database or some Oracle abomination. It's not true in 2014 where you can run your MySQL or PostgreSQL database locally off a super-fast SSD."
+    },
+    {
+      "text": "Revisit any heuristic built on a definition of \"slow\" regularly, because hardware progress invalidates it.",
+      "quote": "Heuristics and principles we adopt in one era of computing do not necessarily apply tomorrow. In fact, anything that's based on a definition of \"slow\" should be revisited frequently."
+    },
+    {
+      "text": "Abstracting away the database in MVC systems adds indirection that scars the code base and hurts clarity.",
+      "quote": "The amount of indirection and additional layers needed end up scarring the code base and hurting the clarity of the system."
+    },
+    {
+      "text": "Run only the tests for the code you changed; a needing-everything-rerun urge signals high coupling.",
+      "quote": "If you have so little confidence in the locality of your changes, the tests are indeed telling you that the system has overly high coupling."
+    },
+    {
+      "text": "Two modes of testing give confidence: fast per-model runs while working, the full suite before check-in.",
+      "quote": "Between the two modes of testing, you'll have great confidence in your ability to make changes and develop new functionality, without the anxiety of breaking stuff left and right."
+    },
+    {
+      "text": "Don't warp your architecture to optimize for the performance of the mid-nineties.",
+      "quote": "Don't pervert your architecture in order to prematurely optimize for the performance characteristics of the mid-nineties."
+    }
+  ],
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

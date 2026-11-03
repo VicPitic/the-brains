@@ -1,0 +1,37 @@
+{
+  "id": "essay-typescript-types-dont-exist-at-runtime",
+  "title": "TypeScript types don't exist at runtime: what gets erased and the exceptions",
+  "summary": "Matt Pocock corrects a common misconception: TypeScript types are erased at compile time and have no runtime effect. He walks through types, type assertions and function parameters as examples, then covers the exceptions (enums, namespaces, parameter properties) and why TypeScript's modern philosophy is to only add types to JavaScript.",
+  "principles": [
+    {
+      "text": "TypeScript types exist only at compile time; they are erased and never influence runtime behavior.",
+      "quote": "TypeScript's types don't exist at runtime. They're only used to help you catch errors at compile time."
+    },
+    {
+      "text": "Type assertions are not runtime checks, so they can cause runtime errors and are discouraged.",
+      "quote": "Just because `num` has been asserted to be a number doesn't mean it is one at runtime."
+    },
+    {
+      "text": "Parameter types don't validate arguments at runtime; the emitted JavaScript contains no checking code.",
+      "quote": "Notice that there is no extra code in the transpiled JavaScript to check that `add` is being called with the right arguments."
+    },
+    {
+      "text": "Enums, namespaces and parameter properties are the exceptions that have a runtime representation.",
+      "quote": "Most features in TypeScript disappear at runtime, but these three are the exception."
+    },
+    {
+      "text": "TypeScript's job is adding types to JavaScript, not new language features; those old features wouldn't be added today.",
+      "quote": "If enums, namespaces or parameter properties were proposed now, they wouldn't be added to TypeScript."
+    },
+    {
+      "text": "A useful rule of thumb: TypeScript is just JavaScript plus types, apart from the three runtime exceptions.",
+      "quote": "thinking of TypeScript as just adding types to JavaScript is a useful rule of thumb - with the exception of enums, namespaces and parameter properties."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

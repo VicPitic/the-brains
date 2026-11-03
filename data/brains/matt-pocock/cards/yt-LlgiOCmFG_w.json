@@ -1,0 +1,39 @@
+{
+  "id": "yt-LlgiOCmFG_w",
+  "title": "How Matt Pocock fixes the PR bottleneck: automated checks, automated review, then lighter human review",
+  "summary": "Matt argues AI-driven PR volume needs \"brakes\" so a software factory doesn't become a slop cannon. He layers cheap automated checks, a separate coding-standards reviewer agent that commits fixes, and a human-friendly PR (merge danger, diagrams, retro) so human review gets faster.",
+  "principles": [
+    {
+      "text": "Layer automated checks, automated review, and human review so human review gets faster, not skipped.",
+      "quote": "the goal here is to make human review faster by leaning on those first two phases."
+    },
+    {
+      "text": "Checks are cheap, so add many, but a green CI can lie; review layers exist to detect those lies.",
+      "quote": "Does a green CI mean that the code is ready for merge? No, it does not."
+    },
+    {
+      "text": "Tautological and structure-sensitive tests restate the implementation and break on any rename or refactor.",
+      "quote": "They're very sensitive to the actual internal workings of the system."
+    },
+    {
+      "text": "Design deep modules (simple interface, big hidden implementation) so agents test at the interface, not internals.",
+      "quote": "you're going to have fewer structure sensitive tests because you're hiding more of the implementation behind that interface."
+    },
+    {
+      "text": "Keep coding standards out of the overloaded implementer; enforce them in a separate review subagent that commits fixes.",
+      "quote": "don't put coding standards in your implementer agent."
+    },
+    {
+      "text": "Treat the process producing code as reviewable too: never write the same review comment twice, use a retro to compound.",
+      "quote": "you never want to write the same comment twice."
+    }
+  ],
+  "topics": [
+    "code-review",
+    "ai",
+    "testing",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

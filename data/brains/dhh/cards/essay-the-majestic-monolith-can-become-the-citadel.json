@@ -1,0 +1,37 @@
+{
+  "id": "essay-the-majestic-monolith-can-become-the-citadel",
+  "title": "The Majestic Monolith can become The Citadel: extract Outposts only when the monolith can't cope",
+  "summary": "DHH argues most web apps should start and stay as a Majestic Monolith, whose limits are far higher than architects imagine. If scale or team size ever demands it, extend into a Citadel: the monolith stays at the center, supported by a few small Outposts for divergent slices. Basecamp's Campfire poller is the example.",
+  "principles": [
+    {
+      "text": "Start almost every web app as a single codebase that does everything; most will never outgrow it.",
+      "quote": "The vast majority of web applications should start life as a Majestic Monolith: A single codebase that does everything the application needs to do."
+    },
+    {
+      "text": "A monolith's limits are much higher than architect-minded developers like to imagine.",
+      "quote": "The limits upon which this pattern is constrained are high. Much higher than most people like to imagine when they fantasize about being capital-a Architects."
+    },
+    {
+      "text": "Exhaust improvements to the monolith before reaching for the next architectural step.",
+      "quote": "Your first instinct should be to improve the Majestic Monolith until it can cope, but, having done that and failed, you may look to the next step."
+    },
+    {
+      "text": "If you must split, keep the monolith central and extract only small Outposts for divergent behavior, not the whole app.",
+      "quote": "The Outposts are there to allow the Majestic Monolith to offload a particular slice of divergent behavior, either for organizational or performance or implementation reasons."
+    },
+    {
+      "text": "Good Outpost candidates are simple services with very different performance profiles, like Campfire's polling endpoint.",
+      "quote": "We didn’t try to carve the entire app up into little services, each written in a different language. No, we just extracted a single Outpost. That’s a Citadel setup."
+    },
+    {
+      "text": "The microservice chase is a blind alley; the monolith is waiting for refugees and the Citadel shows it can stretch.",
+      "quote": "As more and more people come to realize that the chase for microservices ended in a blind alley, the pendulum is going to swing back."
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-the-one-person-framework-711e6318",
+  "title": "The One Person Framework: Rails 7 and conceptual compression",
+  "summary": "DHH presents Rails 7 as the closest realization of \"The One Person Framework\": a toolkit powerful enough for one individual to build a modern app and a competitive business. Conceptual compression and integrated defaults (Hotwire, import maps) let a single developer avoid the sprawling big-tech toolchain.",
+  "principles": [
+    {
+      "text": "A framework should be powerful enough that one person can build a modern app and a competitive business on it.",
+      "quote": "A toolkit so powerful that it allows a single individual to create modern applications upon which they might build a competitive business. The way it used to be."
+    },
+    {
+      "text": "Conceptual compression is the engine: throw away irrelevant details so you can ship without mastering all the underlying physics.",
+      "quote": "The key engine powering this assault is conceptual compression. Like a video codec that throws away irrelevant details such that you might download the film in real-time rather than buffer for an hour."
+    },
+    {
+      "text": "The conventional big-tech toolchain path is a trek you may not survive; don't adopt it by default.",
+      "quote": "The conventional path, as paved by solutions extracted from giant tech companies, is a journey akin to The Oregon Trail. You might well die of dysentery before you ever get to your destination!"
+    },
+    {
+      "text": "Ship integrated defaults so you don't need the whole JavaScript ecosystem inside your app.",
+      "quote": "which means you no longer need to run the whole JavaScript ecosystem enchilada in your Ruby app."
+    },
+    {
+      "text": "Small teams and individuals can't beat giants by playing by the giants' rules.",
+      "quote": "You simply can't play by the same rules against an opponent exponentially stronger than you."
+    },
+    {
+      "text": "The industry's drift toward ever-narrower specialisms runs opposite to the generalist, one-person ideal.",
+      "quote": "There are so many vested interests in the subdivision of expertise now. Specialisms are getting ever more narrow. And this is trying to go in the opposite direction."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "building",
+    "architecture"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

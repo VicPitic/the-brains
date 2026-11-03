@@ -1,0 +1,39 @@
+{
+  "id": "yt-S2GChOwivwQ",
+  "title": "Effect: why Matt Pocock thinks you should learn the unreadable TypeScript library",
+  "summary": "Matt explains why, after 18 months of skepticism, he now recommends Effect. He covers its ugly generator syntax, type-safe error tracking, compile-time dependency injection, the built-in batteries, and how it can be adopted incrementally as a backend TypeScript framework.",
+  "principles": [
+    {
+      "text": "Treat Effect's ugly syntax like Tailwind's: it looks horrible at first, but it enables TypeScript magic that other libraries can't.",
+      "quote": "Remember when you first looked at Tailwind code? These huge long disgusting class names and then you tried writing some Tailwind code and you realized, oh, it's actually really nice to use."
+    },
+    {
+      "text": "Track errors in the type system: a function's return type should list which errors it can fail with, across an arbitrarily deep call stack.",
+      "quote": "This effect tracks what the function returns when it's successful, which is this string here. But it also tracks which errors may occur in this function."
+    },
+    {
+      "text": "Effect's error handling is far more flexible than homebrew Result types, and handling an error removes it from the type, like a type-safe try/catch.",
+      "quote": "all of the homebrewed library sort of result type things that I've come up with haven't felt as flexible as effect."
+    },
+    {
+      "text": "Make dependencies part of the type signature, so a program can't run until its required services are provided.",
+      "quote": "Not only is effect tracking the success values of our program, not only is it tracking the errors, it's also tracking the dependencies of each function."
+    },
+    {
+      "text": "Dependency injection makes code modular and testable: write business logic first, leaving typed holes you implement later.",
+      "quote": "my flow tends to be write the business logic first, then sort of create these kind of typed holes in my application that I then go back and implement later."
+    },
+    {
+      "text": "Effect is a big batteries-included standard library, which pays off for hard backend projects built by a team of TypeScript developers.",
+      "quote": "Effect is a big fat batteries included standard library. So what that means is when you invest into it, you get back all of these pre-made solutions to difficult problems"
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

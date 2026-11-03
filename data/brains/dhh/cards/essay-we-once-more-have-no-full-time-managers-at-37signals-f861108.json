@@ -1,0 +1,38 @@
+{
+  "id": "essay-we-once-more-have-no-full-time-managers-at-37signals-f861108",
+  "title": "How 37signals runs with no full-time managers: managers of one and distributed mentoring",
+  "summary": "DHH explains why 37signals dropped its experiment with full-time managers and went back to none. Management is spread across senior individual contributors, which keeps it minimal, avoids Parkinson's Law, and depends on hiring \"managers of one\". He also names the limit: poor-performance cases must bubble up to the top.",
+  "principles": [
+    {
+      "text": "Spread managerial duties across senior ICs instead of hiring full-time managers.",
+      "quote": "Everyone doing management here does so on the side, next to their primary work as an individual contributor. Including Jason and me. And it works."
+    },
+    {
+      "text": "Distributed management stays minimal because it can't expand to fill a fixed forty hours (Parkinson's Law).",
+      "quote": "With this distribution, there's no longer a fixed forty hours for managerial duties to expand into, and so we dodge Parkinson's Law."
+    },
+    {
+      "text": "Replace recurring one-on-ones with automated check-ins, and give each lead one mentee rather than many reports.",
+      "quote": "Instead of lining up a recurring schedule of weekly one-on-ones, we drive status updates and check-ins by automated questions."
+    },
+    {
+      "text": "Hire and promote autonomous 'managers of one' who set their own agenda and thrive on uninterrupted time.",
+      "quote": "People with both the competence and drive to set their own agenda and follow it autonomously."
+    },
+    {
+      "text": "A manager who is also your professional superior is easier to learn from and respect.",
+      "quote": "I find that it's easier to steer that development when someone's primary manager is also their professional superior."
+    },
+    {
+      "text": "Recurring poor performance is a root-cause problem for the top to fix, not something to manage around.",
+      "quote": "If cases of poor performance keeps bubbling up, there's a fundamental problem somewhere in the process anyway, and that can usually only be definitively addressed by the top."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "hiring",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

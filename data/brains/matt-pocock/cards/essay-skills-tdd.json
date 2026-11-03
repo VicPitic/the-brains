@@ -1,0 +1,39 @@
+{
+  "id": "essay-skills-tdd",
+  "title": "The /tdd skill: Matt Pocock's rules for a red-green loop with coding agents",
+  "summary": "Explains Matt's /tdd agent skill: build one failing test at a time at pre-agreed seams, write just enough code, and avoid three anti-patterns (implementation-coupled, tautological, horizontal slicing). Also covers why refactoring was dropped, mocking rules, and honest limits of agents following the loop.",
+  "principles": [
+    {
+      "text": "Work in vertical slices: one test, minimal implementation, repeat. Never write all tests first.",
+      "quote": "Write one test at one seam, then the minimal implementation, then repeat. The first cycle is a **tracer bullet** that proves a single path end to end."
+    },
+    {
+      "text": "Agree test seams (public boundaries) with the human before any test is written; no exceptions.",
+      "quote": "A seam is the public boundary you observe behaviour at without reaching inside. The rule has no exceptions. No test goes at an unconfirmed seam."
+    },
+    {
+      "text": "Tests that break on internal renames are implementation-coupled; test behaviour through the public interface.",
+      "quote": "The test breaks when you rename an internal function, though behaviour did not change. Mocked internal collaborators, asserted call counts, database queries used to verify instead of the interface."
+    },
+    {
+      "text": "Expected values must come from an independent source, not be computed the way the code computes them.",
+      "quote": "The expected value is computed the way the code computes it, so the test passes by construction. Expected values have to come from somewhere else: a known-good literal, a worked example, the spec."
+    },
+    {
+      "text": "Mock only system boundaries (external APIs, time, randomness), never your own modules.",
+      "quote": "Mocks are for system boundaries only: external APIs, time, randomness, sometimes the filesystem or the database. Never mock your own modules."
+    },
+    {
+      "text": "Don't expect agents to comply 100% with a skill; the loop is worth running anyway, and you should watch runs when strictness matters.",
+      "quote": "No instruction makes an agent comply 100% of the time, and stricter wording restricts the agent's creativity for little gain. The loop is worth running even when the agent does not follow it strictly, because the results are still better overall."
+    }
+  ],
+  "topics": [
+    "testing",
+    "ai",
+    "typescript",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

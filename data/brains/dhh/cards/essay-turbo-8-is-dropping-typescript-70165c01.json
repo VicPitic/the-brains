@@ -1,0 +1,33 @@
+{
+  "id": "essay-turbo-8-is-dropping-typescript-70165c01",
+  "title": "Turbo 8 is dropping TypeScript: DHH on JavaScript, typing, and joy",
+  "summary": "DHH announces Turbo 8 is dropping TypeScript. He explains he likes modern JavaScript, dislikes the compile step and type gymnastics, and argues programmers pick a typing camp early and rationalize it. He still respects TypeScript users and values compatibility.",
+  "principles": [
+    {
+      "text": "TypeScript's type gymnastics add little joy and often grief, making easy things hard and hard things 'any'.",
+      "quote": "it pollutes the code with type gymnastics that add ever so little joy to my development experience, and quite frequently considerable grief. Things that should be easy become hard, and things that are hard become `any`."
+    },
+    {
+      "text": "Modern JavaScript is a joy to write, and running in browsers without a compiler is a real benefit.",
+      "quote": "it's simply our good fortune that we now have such a capable JavaScript, which browsers are able to interpret without any need for a compiler at all."
+    },
+    {
+      "text": "Programmers pick a side on typing early in their careers and then rationalize that choice for the rest of it.",
+      "quote": "Most programmers find themselves drawn strongly to typing or not quite early in their career, and then spend the rest of it rationalizing The Correct Choice to themselves and others."
+    },
+    {
+      "text": "Writing JavaScript free of tooling and strong typing is a blessing, since the browser forces JavaScript on you anyway.",
+      "quote": "JavaScript is a language of necessity when it comes to the client side."
+    },
+    {
+      "text": "He respects that others prefer TypeScript; dropping it from Turbo doesn't stop anyone using it in their own code.",
+      "quote": "Just because Turbo 8 is dropping TypeScript won't mean you can't write your client code in it, or use any other library that employs it. We get to mix and match, which is wonderful."
+    }
+  ],
+  "topics": [
+    "types",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-vDjW_dRyKXY",
+  "title": "Rails World 2026 Keynote: DHH on the end of handwritten code and the agent era",
+  "summary": "DHH argues Opus 4.5 on Nov 24, 2025 was the Kodak Brownie moment for programming, and that 37signals has gone \"pencils down\" on handwritten code. He covers native apps with Rust backends driven by agents, rethinking abstractions, CLIs over embedded chatbots, and choosing optimism.",
+  "principles": [
+    {
+      "text": "Handwritten code is now the exception; treat it like a bug to fix in the factory.",
+      "quote": "Writing code by hand at 37 signals is now an exceptional state. It is like seeing a bug in sentry."
+    },
+    {
+      "text": "Agents make small teams able to ship native apps, so web apps chosen for team size lose their reason to exist.",
+      "quote": "They're going to be native applications because the price of developing those things has gone to damn near zero."
+    },
+    {
+      "text": "Let agents write verbose Rust you never read; judge it as a black box by outcomes.",
+      "quote": "Rust is amazing if you never ever ever have to look at it yourself."
+    },
+    {
+      "text": "Rails conventions pay off in the agent age: token efficiency and one-developer frameworks.",
+      "quote": "Everything that we've worked on for the past 25 years, convention over configuration leads directly to things like token efficiency."
+    },
+    {
+      "text": "Abstractions and DRY must be re-evaluated, since repetition is nearly free and many agents mutate code at once.",
+      "quote": "The reason we did abstractions was in part not to repeat ourselves. Well, now the price of repetition has gone to near zero."
+    },
+    {
+      "text": "Skip embedded chatbots; expose a CLI so users bring their own agent.",
+      "quote": "Save your tokens, bro. Let me bring my own butler to the party. Let me interact with your applications through a CLI."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "mindset",
+    "architecture"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

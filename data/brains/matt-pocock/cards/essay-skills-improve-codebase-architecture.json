@@ -1,0 +1,39 @@
+{
+  "id": "essay-skills-improve-codebase-architecture",
+  "title": "The /improve-codebase-architecture skill: finding shallow modules worth deepening",
+  "summary": "Describes a skill that surveys a codebase for deepening opportunities (shallow modules that could become deep), writes a visual HTML report, and then grills you on the candidate you pick. It never changes code; it queues up refactors for a later spec-and-build flow.",
+  "principles": [
+    {
+      "text": "Deep modules put lots of behaviour behind a small, stable interface; shallow ones expose their implementation.",
+      "quote": "A deep module puts a lot of behaviour behind a small, stable interface. A shallow module exposes its implementation through an interface nearly as wide as the code beneath it."
+    },
+    {
+      "text": "Apply the deletion test: only flag modules whose complexity would move behind a smaller interface if removed.",
+      "quote": "if you removed this module, would its complexity move behind a smaller interface, or spread across the callers? Only the first case gets a card."
+    },
+    {
+      "text": "Focus architecture review on frequently changing code; deepening untouched code never pays back.",
+      "quote": "A deepening in code that nobody touches is a refactor that never pays back."
+    },
+    {
+      "text": "Treat architecture review as a survey, not a refactor: it outputs a decision, and implementation goes through the normal build flow.",
+      "quote": "The output of that session is a decision, not a diff. From there the normal flow applies: take the decision into to-spec, then to-tickets, then implement."
+    },
+    {
+      "text": "Prompt the review with the next thing you are building: ask how to make the change easy.",
+      "quote": "point it at the spec and ask \"how can we make this change easy?\""
+    },
+    {
+      "text": "Work one refactor candidate per session to keep the context window from filling with report, grilling and edits.",
+      "quote": "Use one candidate per session."
+    }
+  ],
+  "topics": [
+    "ai",
+    "api-design",
+    "building",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

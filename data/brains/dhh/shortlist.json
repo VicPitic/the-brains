@@ -1,0 +1,2769 @@
+{
+  "slug": "dhh",
+  "videos": [
+    {
+      "id": "NYFGCESmikA",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "channel": "Lex Fridman",
+      "date": "2026-08-26",
+      "seconds": 18951,
+      "why": "Second Lex Fridman interview: his post-reversal view of agents and programming",
+      "topics": [
+        "ai",
+        "building",
+        "architecture"
+      ]
+    },
+    {
+      "id": "vagyIcmIGOQ",
+      "url": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
+      "title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
+      "channel": "Lex Fridman",
+      "date": "2025-07-12",
+      "seconds": 22128,
+      "why": "First Lex Fridman interview: beautiful code, dynamic typing, and his mid-2025 refusal to let AI write code",
+      "topics": [
+        "simplicity",
+        "types",
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "vDjW_dRyKXY",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "title": "Rails World 2026 Opening Keynote - DHH",
+      "channel": "Ruby on Rails",
+      "date": "2026-09-23",
+      "seconds": 3787,
+      "why": "Rails World 2026 keynote: the pencils-down position on hand-written code",
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "gcwzWzC7gUA",
+      "url": "https://www.youtube.com/watch?v=gcwzWzC7gUA",
+      "title": "Rails World 2025 Opening Keynote - David Heinemeier Hansson",
+      "channel": "Ruby on Rails",
+      "date": "2025-09-04",
+      "seconds": 3835,
+      "why": "Rails World 2025 keynote on the framework and how they work",
+      "topics": [
+        "simplicity",
+        "building"
+      ]
+    },
+    {
+      "id": "-cEn_83zRFw",
+      "url": "https://www.youtube.com/watch?v=-cEn_83zRFw",
+      "title": "Rails World 2024 Opening Keynote - David Heinemeier Hansson",
+      "channel": "Ruby on Rails",
+      "date": "2024-09-26",
+      "seconds": 3946,
+      "why": "Rails World 2024 keynote: no PaaS, compressing complexity, SQLite",
+      "topics": [
+        "simplicity",
+        "architecture"
+      ]
+    },
+    {
+      "id": "iqXjGiQ_D-A",
+      "url": "https://www.youtube.com/watch?v=iqXjGiQ_D-A",
+      "title": "Rails World 2023 Opening Keynote - David Heinemeier Hansson",
+      "channel": "Ruby on Rails",
+      "date": "2023-10-11",
+      "seconds": 3739,
+      "why": "Rails World 2023 keynote: the one-person framework, no build",
+      "topics": [
+        "simplicity",
+        "architecture"
+      ]
+    },
+    {
+      "id": "JiWgKRgdgpI",
+      "url": "https://www.youtube.com/watch?v=JiWgKRgdgpI",
+      "title": "DHH\u2019s new way of writing code",
+      "channel": "The Pragmatic Engineer",
+      "date": "2026-04-08",
+      "seconds": 6441,
+      "why": "Pragmatic Engineer: how he writes code with agents in 2026",
+      "topics": [
+        "ai",
+        "code-review",
+        "productivity"
+      ]
+    },
+    {
+      "id": "uWqno4HM4xA",
+      "url": "https://www.youtube.com/watch?v=uWqno4HM4xA",
+      "title": "DHH: Why AI Isn't Writing My Code (Yet)",
+      "channel": "Amp, Inc.",
+      "date": "2026-01-13",
+      "seconds": 3892,
+      "why": "January 2026 snapshot of his position just before agents won him over",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1JYTtAODjN8",
+      "url": "https://www.youtube.com/watch?v=1JYTtAODjN8",
+      "title": "DHH: Basecamp 5, Vibe Coding, and the Future of Rails",
+      "channel": "Ruby on Rails",
+      "date": "2026-06-12",
+      "seconds": 3583,
+      "why": "On Rails: Basecamp 5, vibe coding, and Rails direction",
+      "topics": [
+        "ai",
+        "building",
+        "architecture"
+      ]
+    },
+    {
+      "id": "IEOqgPfGLQ8",
+      "url": "https://www.youtube.com/watch?v=IEOqgPfGLQ8",
+      "title": "Ruby, Rails, and the future of programming - Matz, DHH & Jeremy Daer",
+      "channel": "Ruby on Rails",
+      "date": "2026-09-27",
+      "seconds": 3832,
+      "why": "Matz, DHH and Jeremy Daer on Ruby and the future of programming",
+      "topics": [
+        "types",
+        "ai",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "mTa2d3OLXhg",
+      "url": "https://www.youtube.com/watch?v=mTa2d3OLXhg",
+      "title": "DHH Is Right About Everything",
+      "channel": "The PrimeTime",
+      "date": "2024-09-18",
+      "seconds": 7373,
+      "why": "Primeagen stream with DHH on types, cloud and tools",
+      "topics": [
+        "types",
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "z9quxZsLcfo",
+      "url": "https://www.youtube.com/watch?v=z9quxZsLcfo",
+      "title": "Is TDD dead?",
+      "channel": "Thoughtworks",
+      "date": "2014-05-09",
+      "seconds": 1826,
+      "why": "Is TDD Dead part I with Kent Beck and Martin Fowler",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "JoTB2mcjU7w",
+      "url": "https://www.youtube.com/watch?v=JoTB2mcjU7w",
+      "title": "Is TDD dead? [Part II]",
+      "channel": "Thoughtworks",
+      "date": "2014-05-16",
+      "seconds": 2120,
+      "why": "Is TDD Dead part II",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "YNw4baDz6WA",
+      "url": "https://www.youtube.com/watch?v=YNw4baDz6WA",
+      "title": "TW Hangouts   |   Is TDD dead? [Part III]",
+      "channel": "Thoughtworks",
+      "date": "2014-05-20",
+      "seconds": 1710,
+      "why": "Is TDD Dead part III",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "dGtasFJnUxI",
+      "url": "https://www.youtube.com/watch?v=dGtasFJnUxI",
+      "title": "TW Hangouts   |   Is TDD dead? [Part IV]",
+      "channel": "Thoughtworks",
+      "date": "2014-05-27",
+      "seconds": 2118,
+      "why": "Is TDD Dead part IV",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "9LfmrkyP81M",
+      "url": "https://www.youtube.com/watch?v=9LfmrkyP81M",
+      "title": "RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson",
+      "channel": "Confreaks",
+      "date": "2014-05-05",
+      "seconds": 3676,
+      "why": "RailsConf 2014 keynote: software writers, TDD and clarity",
+      "topics": [
+        "testing",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "wXaC0YvDgIo",
+      "url": "https://www.youtube.com/watch?v=wXaC0YvDgIo",
+      "title": "On Writing Software (well?) #1: Pilot Episode",
+      "channel": "Getting Real",
+      "date": "2018-02-20",
+      "seconds": 959,
+      "why": "On Writing Software Well 1: walking real Basecamp code",
+      "topics": [
+        "code-review",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "m1jOWu7woKM",
+      "url": "https://www.youtube.com/watch?v=m1jOWu7woKM",
+      "title": "On Writing Software Well #2: Using callbacks to manage auxiliary complexity",
+      "channel": "David Heinemeier Hansson",
+      "date": "2018-02-13",
+      "seconds": 1311,
+      "why": "On Writing Software Well 2: callbacks for auxiliary complexity",
+      "topics": [
+        "architecture",
+        "code-review"
+      ]
+    },
+    {
+      "id": "D7zUOtlpUPw",
+      "url": "https://www.youtube.com/watch?v=D7zUOtlpUPw",
+      "title": "On Writing Software Well #3: Using globals when the price is right",
+      "channel": "David Heinemeier Hansson",
+      "date": "2018-02-15",
+      "seconds": 1036,
+      "why": "On Writing Software Well 3: when globals are worth it",
+      "topics": [
+        "architecture",
+        "code-review"
+      ]
+    },
+    {
+      "id": "-ItsulqPqbg",
+      "url": "https://www.youtube.com/watch?v=-ItsulqPqbg",
+      "title": "Fintech Daydreaming S07E09 - Cloud Exit with David Heinemeier Hansson",
+      "channel": "Fintech Daydreaming",
+      "date": "2023-05-11",
+      "seconds": 3075,
+      "why": "Dated long-form interview on the 37signals cloud exit",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "Tc5z64XIwIY",
+      "url": "https://www.youtube.com/watch?v=Tc5z64XIwIY",
+      "title": "On Writing Software Well #5: Testing without test damage or excessive isolation.",
+      "channel": "David Heinemeier Hansson",
+      "date": "2018-02-19",
+      "seconds": 1641,
+      "why": "On Writing Software Well 5: testing without test damage",
+      "topics": [
+        "testing",
+        "code-review"
+      ]
+    },
+    {
+      "id": "AoxoPfilKqE",
+      "url": "https://www.youtube.com/watch?v=AoxoPfilKqE",
+      "title": "On Writing Software Well #6: Actually deleting data, not just pretending to",
+      "channel": "Getting Real",
+      "date": "2018-03-05",
+      "seconds": 1385,
+      "why": "On Writing Software Well 6: actually deleting data",
+      "topics": [
+        "architecture",
+        "code-review"
+      ]
+    },
+    {
+      "id": "Yd3j3ZEx6DU",
+      "url": "https://www.youtube.com/watch?v=Yd3j3ZEx6DU",
+      "title": "On Writing Software Well #7: Move the specifics down as far as it'll go when evolving your codebase",
+      "channel": "Getting Real",
+      "date": "2018-03-06",
+      "seconds": 851,
+      "why": "On Writing Software Well 7: moving specifics down when evolving a design",
+      "topics": [
+        "architecture",
+        "code-review"
+      ]
+    },
+    {
+      "id": "i-htRRu1au4",
+      "url": "https://www.youtube.com/watch?v=i-htRRu1au4",
+      "title": "TypeScript Drama and Open Source Opinions",
+      "channel": "The Rework Podcast",
+      "date": "2023-09-13",
+      "seconds": 1561,
+      "why": "Rework podcast on dropping TypeScript from Turbo",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "AkeTmfUW4_U",
+      "url": "https://www.youtube.com/watch?v=AkeTmfUW4_U",
+      "title": "AI Revisited \u2013 REWORK",
+      "channel": "37signals",
+      "date": "2026-01-21",
+      "seconds": 2292,
+      "why": "Rework: AI Revisited, his changed position in early 2026",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://rubyonrails.org/doctrine",
+      "title": "The Rails Doctrine",
+      "date": "2016-01",
+      "why": "Canonical statement of programmer happiness, convention over configuration, omakase, integrated systems",
+      "topics": [
+        "simplicity",
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://dhh.dk/2014/tdd-is-dead-long-live-testing.html",
+      "title": "TDD is dead. Long live testing.",
+      "date": "2014-04-23",
+      "why": "The founding statement of his TDD position",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "url": "https://dhh.dk/2014/test-induced-design-damage.html",
+      "title": "Test-induced design damage",
+      "date": "2014-04-29",
+      "why": "How test-first isolation deforms application design",
+      "topics": [
+        "testing",
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://dhh.dk/2014/slow-database-test-fallacy.html",
+      "title": "Slow database test fallacy",
+      "date": "2014-04-30",
+      "why": "Why model tests should hit the database",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "url": "https://signalvnoise.com/posts/3159-testing-like-the-tsa",
+      "title": "Testing like the TSA",
+      "date": "2012-04-11",
+      "why": "Concrete rules for what not to test",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "url": "https://dhh.dk/2012/rails-is-omakase.html",
+      "title": "Rails is omakase",
+      "date": "2012",
+      "why": "Conventions and curated defaults over endless substitution",
+      "topics": [
+        "simplicity",
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://signalvnoise.com/svn3/the-majestic-monolith/",
+      "title": "The Majestic Monolith",
+      "date": "2016-02-29",
+      "why": "Why small teams should avoid microservices",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://signalvnoise.com/svn3/the-majestic-monolith-can-become-the-citadel/",
+      "title": "The Majestic Monolith can become The Citadel",
+      "date": "2020-04-08",
+      "why": "When extracting outposts is justified",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://signalvnoise.com/posts/3250-clarity-over-brevity-in-variable-and-method-names",
+      "title": "Clarity over brevity in variable and method names",
+      "date": "2012-09-10",
+      "why": "Code-level naming rule, directly usable in review",
+      "topics": [
+        "code-review",
+        "simplicity"
+      ]
+    },
+    {
+      "url": "https://signalvnoise.com/svn3/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/",
+      "title": "Conceptual compression means beginners don't need to know SQL, hallelujah!",
+      "date": "2018-04-19",
+      "why": "His theory of abstraction: when hiding a concept is worth it",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01",
+      "title": "Turbo 8 is dropping TypeScript",
+      "date": "2023-09-06",
+      "why": "His own essay on types, dated",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/open-source-hooliganism-and-the-typescript-meltdown-a474bfda",
+      "title": "Open source hooliganism and the TypeScript meltdown",
+      "date": "2023-09-07",
+      "why": "His own essay on types, dated",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc",
+      "title": "Programming types and mindsets",
+      "date": "2023-05-07",
+      "why": "His own essay on types, dated",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/system-tests-have-failed-d90af718",
+      "title": "System tests have failed",
+      "date": "2024-05-17",
+      "why": "His own essay on testing, dated",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/the-advantages-of-large-long-running-pull-requests-c33d913c",
+      "title": "The advantages of large, long-running pull requests",
+      "date": "2022-02-24",
+      "why": "His own essay on code-review, dated",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
+      "title": "The premise trap",
+      "date": "2024-12-16",
+      "why": "His own essay on code-review, dated",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc",
+      "title": "How to recover from microservices",
+      "date": "2023-05-05",
+      "why": "His own essay on architecture, dated",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
+      "title": "They're rebuilding the Death Star of complexity",
+      "date": "2023-01-12",
+      "why": "His own essay on simplicity/architecture, dated",
+      "topics": [
+        "simplicity",
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/the-simplest-thing-that-could-possibly-work-8f0d8b43",
+      "title": "The simplest thing that could possibly work",
+      "date": "2023-03-01",
+      "why": "His own essay on simplicity, dated",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/try-hard-not-to-solve-hard-problems-9e6550a2",
+      "title": "Try hard not to solve hard problems",
+      "date": "2022-08-16",
+      "why": "His own essay on simplicity, dated",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/a-writer-s-ruby-2050b634",
+      "title": "A writer's Ruby",
+      "date": "2024-01-04",
+      "why": "His own essay on simplicity/code-review, dated",
+      "topics": [
+        "simplicity",
+        "code-review"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0",
+      "title": "Why we're leaving the cloud",
+      "date": "2022-10-19",
+      "why": "His own essay on architecture, dated",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/the-big-cloud-exit-faq-20274010",
+      "title": "The Big Cloud Exit FAQ",
+      "date": "2023-12-19",
+      "why": "His own essay on architecture, dated",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085",
+      "title": "We once more have no full-time managers at 37signals",
+      "date": "2024-08-30",
+      "why": "His own essay on leadership, dated",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725",
+      "title": "Programmers should stop celebrating incompetence",
+      "date": "2021-11-25",
+      "why": "His own essay on building, dated",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49",
+      "title": "Coding should be a vibe!",
+      "date": "2025-05-13",
+      "why": "His own essay on ai, dated",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
+      "title": "Paranoia and desperation in the AI gold rush",
+      "date": "2024-05-17",
+      "why": "His own essay on ai, dated",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/promoting-ai-agents-3ee04945",
+      "title": "Promoting AI agents",
+      "date": "2026-01-07",
+      "why": "His own essay on ai, dated",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647",
+      "title": "Over my dead pencil",
+      "date": "2026-10-06",
+      "why": "His own essay on ai, dated",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "url": "https://world.hey.com/dhh/the-one-person-framework-711e6318",
+      "title": "The One Person Framework",
+      "date": "2021-12-16",
+      "why": "His own essay on simplicity/building, dated",
+      "topics": [
+        "simplicity",
+        "building"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "566227465962418177",
+      "url": "https://x.com/dhh/status/566227465962418177",
+      "why": "States his position on leadership, productivity",
+      "topics": [
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "574675385163501568",
+      "url": "https://x.com/dhh/status/574675385163501568",
+      "why": "States his position on architecture, productivity",
+      "topics": [
+        "architecture",
+        "productivity"
+      ]
+    },
+    {
+      "id": "598506328668172288",
+      "url": "https://x.com/dhh/status/598506328668172288",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "755836101084884992",
+      "url": "https://x.com/dhh/status/755836101084884992",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "834146806594433025",
+      "url": "https://x.com/dhh/status/834146806594433025",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "843383656412516352",
+      "url": "https://x.com/dhh/status/843383656412516352",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "962111734361178112",
+      "url": "https://x.com/dhh/status/962111734361178112",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "962422983242461185",
+      "url": "https://x.com/dhh/status/962422983242461185",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "965757546618224640",
+      "url": "https://x.com/dhh/status/965757546618224640",
+      "why": "States his position on testing, ai",
+      "topics": [
+        "testing",
+        "ai"
+      ]
+    },
+    {
+      "id": "966423421008556032",
+      "url": "https://x.com/dhh/status/966423421008556032",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "967785067639488512",
+      "url": "https://x.com/dhh/status/967785067639488512",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "986964398878183424",
+      "url": "https://x.com/dhh/status/986964398878183424",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1016402071883583488",
+      "url": "https://x.com/dhh/status/1016402071883583488",
+      "why": "States his position on testing, leadership, productivity",
+      "topics": [
+        "testing",
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1029046131760615426",
+      "url": "https://x.com/dhh/status/1029046131760615426",
+      "why": "States his position on testing, ai",
+      "topics": [
+        "testing",
+        "ai"
+      ]
+    },
+    {
+      "id": "1051822985600950272",
+      "url": "https://x.com/dhh/status/1051822985600950272",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1051820081775140864",
+      "url": "https://x.com/dhh/status/1051820081775140864",
+      "why": "States his position on code-review, architecture, leadership",
+      "topics": [
+        "code-review",
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1066425872469520385",
+      "url": "https://x.com/dhh/status/1066425872469520385",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1083224102595260417",
+      "url": "https://x.com/dhh/status/1083224102595260417",
+      "why": "States his position on code-review",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "id": "1086281291442544646",
+      "url": "https://x.com/dhh/status/1086281291442544646",
+      "why": "States his position on types, code-review",
+      "topics": [
+        "types",
+        "code-review"
+      ]
+    },
+    {
+      "id": "1088499778294407168",
+      "url": "https://x.com/dhh/status/1088499778294407168",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1148963942116597766",
+      "url": "https://x.com/dhh/status/1148963942116597766",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1150113530584227841",
+      "url": "https://x.com/dhh/status/1150113530584227841",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1177973111561445377",
+      "url": "https://x.com/dhh/status/1177973111561445377",
+      "why": "States his position on architecture, leadership",
+      "topics": [
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1177991651962146817",
+      "url": "https://x.com/dhh/status/1177991651962146817",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1196855614732783648",
+      "url": "https://x.com/dhh/status/1196855614732783648",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1196856802836541440",
+      "url": "https://x.com/dhh/status/1196856802836541440",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1197696984431226880",
+      "url": "https://x.com/dhh/status/1197696984431226880",
+      "why": "States his position on testing, leadership",
+      "topics": [
+        "testing",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1201992702860107776",
+      "url": "https://x.com/dhh/status/1201992702860107776",
+      "why": "States his position on architecture, leadership",
+      "topics": [
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1222966700913479681",
+      "url": "https://x.com/dhh/status/1222966700913479681",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1223304167306870784",
+      "url": "https://x.com/dhh/status/1223304167306870784",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1225117740962181120",
+      "url": "https://x.com/dhh/status/1225117740962181120",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1225118243108474880",
+      "url": "https://x.com/dhh/status/1225118243108474880",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1225106054079336449",
+      "url": "https://x.com/dhh/status/1225106054079336449",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1225130140843167744",
+      "url": "https://x.com/dhh/status/1225130140843167744",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1247520755547377664",
+      "url": "https://x.com/dhh/status/1247520755547377664",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1247522358908215296",
+      "url": "https://x.com/dhh/status/1247522358908215296",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1247522889537998852",
+      "url": "https://x.com/dhh/status/1247522889537998852",
+      "why": "States his position on types, architecture",
+      "topics": [
+        "types",
+        "architecture"
+      ]
+    },
+    {
+      "id": "1247960413012021249",
+      "url": "https://x.com/dhh/status/1247960413012021249",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1264998700658515968",
+      "url": "https://x.com/dhh/status/1264998700658515968",
+      "why": "States his position on testing, code-review",
+      "topics": [
+        "testing",
+        "code-review"
+      ]
+    },
+    {
+      "id": "1264999220613767168",
+      "url": "https://x.com/dhh/status/1264999220613767168",
+      "why": "States his position on testing, productivity",
+      "topics": [
+        "testing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1266057500547141633",
+      "url": "https://x.com/dhh/status/1266057500547141633",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1266057878084845568",
+      "url": "https://x.com/dhh/status/1266057878084845568",
+      "why": "States his position on architecture, leadership, productivity",
+      "topics": [
+        "architecture",
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1266057115715596294",
+      "url": "https://x.com/dhh/status/1266057115715596294",
+      "why": "States his position on code-review",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "id": "1291124916708769792",
+      "url": "https://x.com/dhh/status/1291124916708769792",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1316035328776511488",
+      "url": "https://x.com/dhh/status/1316035328776511488",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1315972235606347776",
+      "url": "https://x.com/dhh/status/1315972235606347776",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1323936556424564736",
+      "url": "https://x.com/dhh/status/1323936556424564736",
+      "why": "States his position on types, ai",
+      "topics": [
+        "types",
+        "ai"
+      ]
+    },
+    {
+      "id": "1329115220778823688",
+      "url": "https://x.com/dhh/status/1329115220778823688",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1331662279746654210",
+      "url": "https://x.com/dhh/status/1331662279746654210",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1333863842733056004",
+      "url": "https://x.com/dhh/status/1333863842733056004",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1335889486132154370",
+      "url": "https://x.com/dhh/status/1335889486132154370",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1336193471305162752",
+      "url": "https://x.com/dhh/status/1336193471305162752",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1341345316424048641",
+      "url": "https://x.com/dhh/status/1341345316424048641",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1341739269367472129",
+      "url": "https://x.com/dhh/status/1341739269367472129",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1341758748717510659",
+      "url": "https://x.com/dhh/status/1341758748717510659",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1441387903511408641",
+      "url": "https://x.com/dhh/status/1441387903511408641",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1471267036793765888",
+      "url": "https://x.com/dhh/status/1471267036793765888",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1496829074655920131",
+      "url": "https://x.com/dhh/status/1496829074655920131",
+      "why": "States his position on code-review",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "id": "1533748397093658624",
+      "url": "https://x.com/dhh/status/1533748397093658624",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1600795819933806592",
+      "url": "https://x.com/dhh/status/1600795819933806592",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1602665662698094593",
+      "url": "https://x.com/dhh/status/1602665662698094593",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1613553386049110016",
+      "url": "https://x.com/dhh/status/1613553386049110016",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1613508201953038337",
+      "url": "https://x.com/dhh/status/1613508201953038337",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1618554649556160513",
+      "url": "https://x.com/dhh/status/1618554649556160513",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1628031576113045505",
+      "url": "https://x.com/dhh/status/1628031576113045505",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1628408520008941570",
+      "url": "https://x.com/dhh/status/1628408520008941570",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1629368799387320321",
+      "url": "https://x.com/dhh/status/1629368799387320321",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1638914244967301121",
+      "url": "https://x.com/dhh/status/1638914244967301121",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1654063951997542400",
+      "url": "https://x.com/dhh/status/1654063951997542400",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1654100505646321664",
+      "url": "https://x.com/dhh/status/1654100505646321664",
+      "why": "States his position on code-review, architecture",
+      "topics": [
+        "code-review",
+        "architecture"
+      ]
+    },
+    {
+      "id": "1654407787227611138",
+      "url": "https://x.com/dhh/status/1654407787227611138",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1655076668787097607",
+      "url": "https://x.com/dhh/status/1655076668787097607",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1655211853537058816",
+      "url": "https://x.com/dhh/status/1655211853537058816",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1655080274005204992",
+      "url": "https://x.com/dhh/status/1655080274005204992",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1671415396325380096",
+      "url": "https://x.com/dhh/status/1671415396325380096",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1689634956790669312",
+      "url": "https://x.com/dhh/status/1689634956790669312",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1699427078586716327",
+      "url": "https://x.com/dhh/status/1699427078586716327",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1699493699212960030",
+      "url": "https://x.com/dhh/status/1699493699212960030",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1699865966816161810",
+      "url": "https://x.com/dhh/status/1699865966816161810",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1701299614148919301",
+      "url": "https://x.com/dhh/status/1701299614148919301",
+      "why": "States his position on types, architecture",
+      "topics": [
+        "types",
+        "architecture"
+      ]
+    },
+    {
+      "id": "1701721560921624836",
+      "url": "https://x.com/dhh/status/1701721560921624836",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1702095534293725273",
+      "url": "https://x.com/dhh/status/1702095534293725273",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1702096105746633168",
+      "url": "https://x.com/dhh/status/1702096105746633168",
+      "why": "States his position on types, architecture",
+      "topics": [
+        "types",
+        "architecture"
+      ]
+    },
+    {
+      "id": "1702794644277670154",
+      "url": "https://x.com/dhh/status/1702794644277670154",
+      "why": "States his position on types, testing",
+      "topics": [
+        "types",
+        "testing"
+      ]
+    },
+    {
+      "id": "1702791819757797659",
+      "url": "https://x.com/dhh/status/1702791819757797659",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1704960459982688521",
+      "url": "https://x.com/dhh/status/1704960459982688521",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1705271515997143168",
+      "url": "https://x.com/dhh/status/1705271515997143168",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1709861506458755421",
+      "url": "https://x.com/dhh/status/1709861506458755421",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1712145950397841826",
+      "url": "https://x.com/dhh/status/1712145950397841826",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1712507052126347561",
+      "url": "https://x.com/dhh/status/1712507052126347561",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1712355222654165278",
+      "url": "https://x.com/dhh/status/1712355222654165278",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1712541981220786606",
+      "url": "https://x.com/dhh/status/1712541981220786606",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1713961161832710559",
+      "url": "https://x.com/dhh/status/1713961161832710559",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1718347850361589947",
+      "url": "https://x.com/dhh/status/1718347850361589947",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1727080116063502430",
+      "url": "https://x.com/dhh/status/1727080116063502430",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1731346390323016142",
+      "url": "https://x.com/dhh/status/1731346390323016142",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1733535845284761853",
+      "url": "https://x.com/dhh/status/1733535845284761853",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1733536229084582220",
+      "url": "https://x.com/dhh/status/1733536229084582220",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1733537310942298491",
+      "url": "https://x.com/dhh/status/1733537310942298491",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1733537639087874490",
+      "url": "https://x.com/dhh/status/1733537639087874490",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1736832920370000085",
+      "url": "https://x.com/dhh/status/1736832920370000085",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1738611105260552601",
+      "url": "https://x.com/dhh/status/1738611105260552601",
+      "why": "States his position on code-review, simplicity, leadership",
+      "topics": [
+        "code-review",
+        "simplicity",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1743992355319882214",
+      "url": "https://x.com/dhh/status/1743992355319882214",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1750572445021741399",
+      "url": "https://x.com/dhh/status/1750572445021741399",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1754869501735399459",
+      "url": "https://x.com/dhh/status/1754869501735399459",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1755264297071178167",
+      "url": "https://x.com/dhh/status/1755264297071178167",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1755363667120734643",
+      "url": "https://x.com/dhh/status/1755363667120734643",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1765413728730955848",
+      "url": "https://x.com/dhh/status/1765413728730955848",
+      "why": "States his position on types, ai",
+      "topics": [
+        "types",
+        "ai"
+      ]
+    },
+    {
+      "id": "1767718092250235073",
+      "url": "https://x.com/dhh/status/1767718092250235073",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1768014306107687328",
+      "url": "https://x.com/dhh/status/1768014306107687328",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1782033353606382011",
+      "url": "https://x.com/dhh/status/1782033353606382011",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1782036915619004797",
+      "url": "https://x.com/dhh/status/1782036915619004797",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1787867829536186705",
+      "url": "https://x.com/dhh/status/1787867829536186705",
+      "why": "States his position on simplicity, leadership",
+      "topics": [
+        "simplicity",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1787888983877591197",
+      "url": "https://x.com/dhh/status/1787888983877591197",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1788579873969373603",
+      "url": "https://x.com/dhh/status/1788579873969373603",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "1788592046653292856",
+      "url": "https://x.com/dhh/status/1788592046653292856",
+      "why": "States his position on types, simplicity",
+      "topics": [
+        "types",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1789314705384972506",
+      "url": "https://x.com/dhh/status/1789314705384972506",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1791552150038024424",
+      "url": "https://x.com/dhh/status/1791552150038024424",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1791520061662073213",
+      "url": "https://x.com/dhh/status/1791520061662073213",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1792643130551886027",
+      "url": "https://x.com/dhh/status/1792643130551886027",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1797393255614853480",
+      "url": "https://x.com/dhh/status/1797393255614853480",
+      "why": "States his position on simplicity, productivity",
+      "topics": [
+        "simplicity",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1821544958282858608",
+      "url": "https://x.com/dhh/status/1821544958282858608",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "1827318401468862617",
+      "url": "https://x.com/dhh/status/1827318401468862617",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1827318704402497875",
+      "url": "https://x.com/dhh/status/1827318704402497875",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1827319007831036340",
+      "url": "https://x.com/dhh/status/1827319007831036340",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1827348869677461740",
+      "url": "https://x.com/dhh/status/1827348869677461740",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1830329731692294255",
+      "url": "https://x.com/dhh/status/1830329731692294255",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1833183170763870293",
+      "url": "https://x.com/dhh/status/1833183170763870293",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1837122327378608295",
+      "url": "https://x.com/dhh/status/1837122327378608295",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1839653762551480629",
+      "url": "https://x.com/dhh/status/1839653762551480629",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1840836293078761759",
+      "url": "https://x.com/dhh/status/1840836293078761759",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1843006224889225269",
+      "url": "https://x.com/dhh/status/1843006224889225269",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1849879289212305576",
+      "url": "https://x.com/dhh/status/1849879289212305576",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1854957269651538360",
+      "url": "https://x.com/dhh/status/1854957269651538360",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1859650769127080442",
+      "url": "https://x.com/dhh/status/1859650769127080442",
+      "why": "States his position on leadership",
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "1861466802364240184",
+      "url": "https://x.com/dhh/status/1861466802364240184",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1864681695791993201",
+      "url": "https://x.com/dhh/status/1864681695791993201",
+      "why": "States his position on code-review, leadership",
+      "topics": [
+        "code-review",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1864683910057300247",
+      "url": "https://x.com/dhh/status/1864683910057300247",
+      "why": "States his position on code-review",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "id": "1868800504815554943",
+      "url": "https://x.com/dhh/status/1868800504815554943",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "1887876216171925731",
+      "url": "https://x.com/dhh/status/1887876216171925731",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1892265453524803859",
+      "url": "https://x.com/dhh/status/1892265453524803859",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1896932150055997517",
+      "url": "https://x.com/dhh/status/1896932150055997517",
+      "why": "States his position on testing, code-review",
+      "topics": [
+        "testing",
+        "code-review"
+      ]
+    },
+    {
+      "id": "1897979069670543790",
+      "url": "https://x.com/dhh/status/1897979069670543790",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1899455239444451367",
+      "url": "https://x.com/dhh/status/1899455239444451367",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1901254942012166284",
+      "url": "https://x.com/dhh/status/1901254942012166284",
+      "why": "States his position on ai, leadership, productivity",
+      "topics": [
+        "ai",
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1904931755393511693",
+      "url": "https://x.com/dhh/status/1904931755393511693",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1907688129504461045",
+      "url": "https://x.com/dhh/status/1907688129504461045",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1909312515873685659",
+      "url": "https://x.com/dhh/status/1909312515873685659",
+      "why": "States his position on simplicity, ai, leadership",
+      "topics": [
+        "simplicity",
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1909480252696408508",
+      "url": "https://x.com/dhh/status/1909480252696408508",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1909554324172107899",
+      "url": "https://x.com/dhh/status/1909554324172107899",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1909551979170324789",
+      "url": "https://x.com/dhh/status/1909551979170324789",
+      "why": "States his position on ai, leadership",
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1910743973489942609",
+      "url": "https://x.com/dhh/status/1910743973489942609",
+      "why": "States his position on simplicity, ai",
+      "topics": [
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "1915312730107527446",
+      "url": "https://x.com/dhh/status/1915312730107527446",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1919291397909233858",
+      "url": "https://x.com/dhh/status/1919291397909233858",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1920856083645481291",
+      "url": "https://x.com/dhh/status/1920856083645481291",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1920856793602773316",
+      "url": "https://x.com/dhh/status/1920856793602773316",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1922193693873688768",
+      "url": "https://x.com/dhh/status/1922193693873688768",
+      "why": "States his position on ai, leadership",
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1924391451368009833",
+      "url": "https://x.com/dhh/status/1924391451368009833",
+      "why": "States his position on testing, architecture, leadership",
+      "topics": [
+        "testing",
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1933250020301480298",
+      "url": "https://x.com/dhh/status/1933250020301480298",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1933452151394537757",
+      "url": "https://x.com/dhh/status/1933452151394537757",
+      "why": "States his position on code-review, architecture, leadership",
+      "topics": [
+        "code-review",
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1935636333084479720",
+      "url": "https://x.com/dhh/status/1935636333084479720",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1935636807271809276",
+      "url": "https://x.com/dhh/status/1935636807271809276",
+      "why": "States his position on ai, leadership",
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1938222811023348187",
+      "url": "https://x.com/dhh/status/1938222811023348187",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1954195435385491541",
+      "url": "https://x.com/dhh/status/1954195435385491541",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1958505914341654675",
+      "url": "https://x.com/dhh/status/1958505914341654675",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1958507017816904159",
+      "url": "https://x.com/dhh/status/1958507017816904159",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1960574413088178530",
+      "url": "https://x.com/dhh/status/1960574413088178530",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1973099198275846248",
+      "url": "https://x.com/dhh/status/1973099198275846248",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "1973345998840954953",
+      "url": "https://x.com/dhh/status/1973345998840954953",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "1980406485978116174",
+      "url": "https://x.com/dhh/status/1980406485978116174",
+      "why": "States his position on architecture, productivity",
+      "topics": [
+        "architecture",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1980245233339408596",
+      "url": "https://x.com/dhh/status/1980245233339408596",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1981342407129235683",
+      "url": "https://x.com/dhh/status/1981342407129235683",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "1983833208136589381",
+      "url": "https://x.com/dhh/status/1983833208136589381",
+      "why": "States his position on simplicity",
+      "topics": [
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1995858288710476080",
+      "url": "https://x.com/dhh/status/1995858288710476080",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "1995941243353018831",
+      "url": "https://x.com/dhh/status/1995941243353018831",
+      "why": "States his position on simplicity, ai",
+      "topics": [
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "1996481961330880667",
+      "url": "https://x.com/dhh/status/1996481961330880667",
+      "why": "States his position on testing, simplicity",
+      "topics": [
+        "testing",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "1998828199191654505",
+      "url": "https://x.com/dhh/status/1998828199191654505",
+      "why": "States his position on architecture, ai, leadership",
+      "topics": [
+        "architecture",
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "1999024817035517970",
+      "url": "https://x.com/dhh/status/1999024817035517970",
+      "why": "States his position on code-review, simplicity",
+      "topics": [
+        "code-review",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "2004963782662250914",
+      "url": "https://x.com/dhh/status/2004963782662250914",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2004994090023444853",
+      "url": "https://x.com/dhh/status/2004994090023444853",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2005326958578856206",
+      "url": "https://x.com/dhh/status/2005326958578856206",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2007554178370154950",
+      "url": "https://x.com/dhh/status/2007554178370154950",
+      "why": "States his position on types, testing",
+      "topics": [
+        "types",
+        "testing"
+      ]
+    },
+    {
+      "id": "2007491851197251964",
+      "url": "https://x.com/dhh/status/2007491851197251964",
+      "why": "States his position on architecture, leadership",
+      "topics": [
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "2007503687745490976",
+      "url": "https://x.com/dhh/status/2007503687745490976",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2007512760733831575",
+      "url": "https://x.com/dhh/status/2007512760733831575",
+      "why": "States his position on simplicity, ai",
+      "topics": [
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "2007504187568074843",
+      "url": "https://x.com/dhh/status/2007504187568074843",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2007504716486562149",
+      "url": "https://x.com/dhh/status/2007504716486562149",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2008275357234004124",
+      "url": "https://x.com/dhh/status/2008275357234004124",
+      "why": "States his position on types",
+      "topics": [
+        "types"
+      ]
+    },
+    {
+      "id": "2008827848216461401",
+      "url": "https://x.com/dhh/status/2008827848216461401",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2011455119750262946",
+      "url": "https://x.com/dhh/status/2011455119750262946",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2013611188651794611",
+      "url": "https://x.com/dhh/status/2013611188651794611",
+      "why": "States his position on types, ai",
+      "topics": [
+        "types",
+        "ai"
+      ]
+    },
+    {
+      "id": "2016449600257720742",
+      "url": "https://x.com/dhh/status/2016449600257720742",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "2018694150984532320",
+      "url": "https://x.com/dhh/status/2018694150984532320",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "2018631575337095389",
+      "url": "https://x.com/dhh/status/2018631575337095389",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2018574874675929544",
+      "url": "https://x.com/dhh/status/2018574874675929544",
+      "why": "States his position on code-review, simplicity, ai",
+      "topics": [
+        "code-review",
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "2018989659481571424",
+      "url": "https://x.com/dhh/status/2018989659481571424",
+      "why": "States his position on testing",
+      "topics": [
+        "testing"
+      ]
+    },
+    {
+      "id": "2019365549411807492",
+      "url": "https://x.com/dhh/status/2019365549411807492",
+      "why": "States his position on testing, architecture",
+      "topics": [
+        "testing",
+        "architecture"
+      ]
+    },
+    {
+      "id": "2029565947825020996",
+      "url": "https://x.com/dhh/status/2029565947825020996",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2029955480689270858",
+      "url": "https://x.com/dhh/status/2029955480689270858",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2044441858063941980",
+      "url": "https://x.com/dhh/status/2044441858063941980",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "2044442674871124023",
+      "url": "https://x.com/dhh/status/2044442674871124023",
+      "why": "States his position on architecture, leadership",
+      "topics": [
+        "architecture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "2050670200702328890",
+      "url": "https://x.com/dhh/status/2050670200702328890",
+      "why": "States his position on architecture, simplicity",
+      "topics": [
+        "architecture",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "2058065130265452968",
+      "url": "https://x.com/dhh/status/2058065130265452968",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2058066314795614306",
+      "url": "https://x.com/dhh/status/2058066314795614306",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2058648789703963111",
+      "url": "https://x.com/dhh/status/2058648789703963111",
+      "why": "States his position on types, testing, code-review",
+      "topics": [
+        "types",
+        "testing",
+        "code-review"
+      ]
+    },
+    {
+      "id": "2060300806818005384",
+      "url": "https://x.com/dhh/status/2060300806818005384",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2075590975343436063",
+      "url": "https://x.com/dhh/status/2075590975343436063",
+      "why": "States his position on types, testing, simplicity",
+      "topics": [
+        "types",
+        "testing",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "2080698769784590761",
+      "url": "https://x.com/dhh/status/2080698769784590761",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2082444831234674881",
+      "url": "https://x.com/dhh/status/2082444831234674881",
+      "why": "States his position on types, ai",
+      "topics": [
+        "types",
+        "ai"
+      ]
+    },
+    {
+      "id": "2085710022772732189",
+      "url": "https://x.com/dhh/status/2085710022772732189",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2086426384285487105",
+      "url": "https://x.com/dhh/status/2086426384285487105",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2086768588623380690",
+      "url": "https://x.com/dhh/status/2086768588623380690",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2087983107458637839",
+      "url": "https://x.com/dhh/status/2087983107458637839",
+      "why": "States his position on simplicity, ai",
+      "topics": [
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "2087963750720540736",
+      "url": "https://x.com/dhh/status/2087963750720540736",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2088152403388297378",
+      "url": "https://x.com/dhh/status/2088152403388297378",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2089086661716267486",
+      "url": "https://x.com/dhh/status/2089086661716267486",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2091059579207430457",
+      "url": "https://x.com/dhh/status/2091059579207430457",
+      "why": "States his position on testing, code-review, architecture",
+      "topics": [
+        "testing",
+        "code-review",
+        "architecture"
+      ]
+    },
+    {
+      "id": "2094128000438530329",
+      "url": "https://x.com/dhh/status/2094128000438530329",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2096217296976965711",
+      "url": "https://x.com/dhh/status/2096217296976965711",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2096860747435213023",
+      "url": "https://x.com/dhh/status/2096860747435213023",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2097559561993326752",
+      "url": "https://x.com/dhh/status/2097559561993326752",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2102936073642869121",
+      "url": "https://x.com/dhh/status/2102936073642869121",
+      "why": "States his position on simplicity, ai",
+      "topics": [
+        "simplicity",
+        "ai"
+      ]
+    },
+    {
+      "id": "2103605531457867868",
+      "url": "https://x.com/dhh/status/2103605531457867868",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2103613436752003511",
+      "url": "https://x.com/dhh/status/2103613436752003511",
+      "why": "States his position on architecture, ai",
+      "topics": [
+        "architecture",
+        "ai"
+      ]
+    },
+    {
+      "id": "2103606350009848169",
+      "url": "https://x.com/dhh/status/2103606350009848169",
+      "why": "States his position on code-review",
+      "topics": [
+        "code-review"
+      ]
+    },
+    {
+      "id": "2103479745795227984",
+      "url": "https://x.com/dhh/status/2103479745795227984",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2103452747630882873",
+      "url": "https://x.com/dhh/status/2103452747630882873",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2103454839086706746",
+      "url": "https://x.com/dhh/status/2103454839086706746",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2103796888638017830",
+      "url": "https://x.com/dhh/status/2103796888638017830",
+      "why": "States his position on ai, productivity",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2104203632572842293",
+      "url": "https://x.com/dhh/status/2104203632572842293",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2104128775231615378",
+      "url": "https://x.com/dhh/status/2104128775231615378",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2104542267281146357",
+      "url": "https://x.com/dhh/status/2104542267281146357",
+      "why": "States his position on testing, code-review, ai",
+      "topics": [
+        "testing",
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2104532159511863688",
+      "url": "https://x.com/dhh/status/2104532159511863688",
+      "why": "States his position on building",
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "2104856507942596917",
+      "url": "https://x.com/dhh/status/2104856507942596917",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2105206400687182223",
+      "url": "https://x.com/dhh/status/2105206400687182223",
+      "why": "States his position on testing, productivity",
+      "topics": [
+        "testing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2106422196813877381",
+      "url": "https://x.com/dhh/status/2106422196813877381",
+      "why": "States his position on ai, leadership",
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "2106810173683851564",
+      "url": "https://x.com/dhh/status/2106810173683851564",
+      "why": "States his position on ai, productivity",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2106860668158701657",
+      "url": "https://x.com/dhh/status/2106860668158701657",
+      "why": "States his position on leadership, productivity",
+      "topics": [
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2106810687326486715",
+      "url": "https://x.com/dhh/status/2106810687326486715",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2106844184392991137",
+      "url": "https://x.com/dhh/status/2106844184392991137",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2107090619491594642",
+      "url": "https://x.com/dhh/status/2107090619491594642",
+      "why": "States his position on productivity",
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "2107090910613741728",
+      "url": "https://x.com/dhh/status/2107090910613741728",
+      "why": "States his position on ai, productivity",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2107068829721673869",
+      "url": "https://x.com/dhh/status/2107068829721673869",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2107372652272726306",
+      "url": "https://x.com/dhh/status/2107372652272726306",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2107423771090915775",
+      "url": "https://x.com/dhh/status/2107423771090915775",
+      "why": "States his position on ai, productivity",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2107427852845199687",
+      "url": "https://x.com/dhh/status/2107427852845199687",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2107375021572444355",
+      "url": "https://x.com/dhh/status/2107375021572444355",
+      "why": "States his position on ai, productivity",
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2107882896195199116",
+      "url": "https://x.com/dhh/status/2107882896195199116",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2107823432205484040",
+      "url": "https://x.com/dhh/status/2107823432205484040",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2108643095768101111",
+      "url": "https://x.com/dhh/status/2108643095768101111",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2109414545181831476",
+      "url": "https://x.com/dhh/status/2109414545181831476",
+      "why": "States his position on architecture",
+      "topics": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "2109571603960930463",
+      "url": "https://x.com/dhh/status/2109571603960930463",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2113847430168908018",
+      "url": "https://x.com/dhh/status/2113847430168908018",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2116109588554498081",
+      "url": "https://x.com/dhh/status/2116109588554498081",
+      "why": "States his position on code-review, ai",
+      "topics": [
+        "code-review",
+        "ai"
+      ]
+    },
+    {
+      "id": "2117241303704432901",
+      "url": "https://x.com/dhh/status/2117241303704432901",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2117220469514350940",
+      "url": "https://x.com/dhh/status/2117220469514350940",
+      "why": "States his position on ai",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "2117655933287555283",
+      "url": "https://x.com/dhh/status/2117655933287555283",
+      "why": "States his position on testing, code-review, ai",
+      "topics": [
+        "testing",
+        "code-review",
+        "ai"
+      ]
+    }
+  ],
+  "rejectedNotes": "Hard exclusion applied: all politics, immigration, culture-war and national-identity posts and essays dropped (keyword filter on full post text plus manual read of all 635 remaining posts). Dropped videos about him, reaction videos, Lex Clips duplicates of the full interviews, Omarchy and hardware reviews, and racing. Dropped the 2025-12 'Microservices is ... confidence scam' post: DHH says in a follow-up post that an AI wrote it from a prompt in his style, so only the follow-up is kept.",
+  "gaps": [
+    "Apify account is blocked (403, outstanding invoices), so x-deep.mjs did not run; posts come from discovery plus twitter154 searches.",
+    "Code review: his standalone writing on it is thin; relies on the 2022 PR essay, the premise-trap essay and posts.",
+    "On Writing Software Well season 2 not found.",
+    "Date precision: Rails Doctrine is month only (inferred from the Rails blog's Jan 2016 mention); Rails is omakase is year only (from its URL). Video dates for all others are exact from yt-api.",
+    "On Writing Software Well #4 has no transcript on either upload, so it was dropped."
+  ]
+}

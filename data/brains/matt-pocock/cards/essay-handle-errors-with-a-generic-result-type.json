@@ -1,0 +1,38 @@
+{
+  "id": "essay-handle-errors-with-a-generic-result-type",
+  "title": "Handle Errors with a Generic Result Type: Matt Pocock on explicit error handling in TypeScript",
+  "summary": "Matt shows a generic Result<TResult, TError> discriminated union, modeled on Rust, as an alternative to try/catch. Checking result.success narrows to typed data or typed error, which makes error flow explicit in complicated imperative code.",
+  "principles": [
+    {
+      "text": "Model results as a generic discriminated union with success and error branches.",
+      "quote": "We have a type result is tResult and tError, so there's two type parameters on result. And we're returning a discriminated union here"
+    },
+    {
+      "text": "Checking the success flag narrows the type, so data is safely typed in the success branch.",
+      "quote": "when we get this result back, we can actually check if result.success, we end up with result.data and it's typed as number."
+    },
+    {
+      "text": "The compiler enforces returning the right shape in each branch of the Result.",
+      "quote": "it's going to yell at me if I don't return the right thing in the right branch because type number is not assignable to type string."
+    },
+    {
+      "text": "A Result type avoids try/catch as the default error check, as Rust does.",
+      "quote": "if you've ever used Rust before, you might notice that this is how Rust handles errors. And this is just lovely because it means that you don't have to do any try-catching."
+    },
+    {
+      "text": "try/catch errors are untyped and can obscure where failures originate across boundaries.",
+      "quote": "the error that you get back is not safe as we've seen in previous exercises. And it means that you can just end up with really complicated logic where you're catching errors at certain boundaries and you're not quite sure where they're coming from."
+    },
+    {
+      "text": "Result makes error flow explicit: check success, proceed, else handle the error.",
+      "quote": "it's pretty explicit and it means that you can just say, is my result a success? If so, proceed. If not, handle that error."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

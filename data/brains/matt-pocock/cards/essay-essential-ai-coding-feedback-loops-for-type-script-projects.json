@@ -1,0 +1,39 @@
+{
+  "id": "essay-essential-ai-coding-feedback-loops-for-type-script-projects",
+  "title": "Essential AI coding feedback loops for TypeScript projects: type checking, tests, pre-commit hooks",
+  "summary": "Matt Pocock explains how to give AI coding agents, especially AFK ones, ways to verify their own work. He recommends TypeScript type checking, automated tests, Husky pre-commit hooks and lint-staged formatting. Failures block commits, so agents retry until the code passes.",
+  "principles": [
+    {
+      "text": "AI agents working independently need feedback loops so they can verify their own work.",
+      "quote": "When working with AI coding agents, especially those operating independently, you need feedback loops so the AI can verify its own work."
+    },
+    {
+      "text": "TypeScript gives AI agents free feedback, so prefer it over JavaScript and expose a typecheck script.",
+      "quote": "TypeScript is essentially free feedback for your AI. Use it over JavaScript."
+    },
+    {
+      "text": "Type checking catches errors an agent would never find without running the code in a browser.",
+      "quote": "TypeScript catches errors the AI would never find without testing in a browser."
+    },
+    {
+      "text": "Add automated tests, even basic unit tests of core functionality, to catch logical errors and keep the AI on track.",
+      "quote": "Basic unit tests covering core functionality help keep the AI on track."
+    },
+    {
+      "text": "Enforce feedback loops with pre-commit hooks that run lint-staged, typecheck and tests; a failure blocks the commit and returns an error to the AI.",
+      "quote": "If any step fails, the commit is blocked and the AI gets an error message."
+    },
+    {
+      "text": "Agents don't tire of repetition, so on failure they simply retry. That makes feedback loops, pre-commit hooks especially, very powerful.",
+      "quote": "AI agents don't get frustrated by repetition. When code fails type checking or tests, the agent simply tries again."
+    }
+  ],
+  "topics": [
+    "ai",
+    "typescript",
+    "testing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

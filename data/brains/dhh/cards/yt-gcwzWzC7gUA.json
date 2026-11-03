@@ -1,0 +1,39 @@
+{
+  "id": "yt-gcwzWzC7gUA",
+  "title": "Rails World 2025 keynote: DHH on simplicity, local-first dev and owning the stack",
+  "summary": "DHH rants that web development has regressed (deploys slower than 1999 FTP, brittle stacks) because we embrace complexity instead of proudly being CRUD monkeys. He argues for maximalist, end-to-end frameworks, then shows what 37signals pruned (system tests, cloud CI, Puma-dev, Docker-for-everything) and demos Omarchy, local CI and cloud exit.",
+  "principles": [
+    {
+      "text": "Merchants of complexity only win because developers buy; embrace being a CRUD monkey and keep things simple.",
+      "quote": "The only reason they can sell that and grow so big is because you don't buy it. It takes someone to purchase from a merchant of complexity for the merchant of complexity to make any money at all."
+    },
+    {
+      "text": "Solve the whole problem end to end with a maximalist framework, not tiny isolated slices.",
+      "quote": "This isn't about minimalism. In fact, in many ways, it's about maximalism. It's about solving all the little annoying problems that we all share when we're working making web applications."
+    },
+    {
+      "text": "System tests are brittle, slow and not worth it; keep only a handful of smoke tests.",
+      "quote": "System tests in theory are wonderful. You get to test everything end to end and flow through the browser and you test your HTML and you test your back end and the [ __ ] doesn't work. It never worked."
+    },
+    {
+      "text": "Run the test suite locally on fast modern hardware instead of paying for slow cloud runners; pin versions to avoid works-on-my-machine.",
+      "quote": "The vast majority of you should be able to replicate these numbers and run your entire test suite locally."
+    },
+    {
+      "text": "Trust developers: a human sign-off that tests passed is an effective merge gate.",
+      "quote": "Trust works. In most organizations, your employees are not [ __ ] They're actually programmers who want to ship working software and they know that if they lie on the attestation here, they will get fired."
+    },
+    {
+      "text": "Own and be free to change your whole stack; sharp tools, freedom and ownership over vendor dependence.",
+      "quote": "I pride the fact that we use sharp tools in the Rails community and we are not afraid of our citizens propriet. We have full ownership of what we work on."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "testing",
+    "architecture",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

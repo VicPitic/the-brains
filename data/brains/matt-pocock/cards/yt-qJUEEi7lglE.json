@@ -1,0 +1,39 @@
+{
+  "id": "yt-qJUEEi7lglE",
+  "title": "Maintaining React's TypeScript types: how @types/react works, versioning, and breaking changes",
+  "summary": "Matt Pocock joins Sebastian Silbermann, maintainer of @types/react, to walk through how React's types live in DefinitelyTyped, how they're versioned, and why changes are hard. Matt's own contributions are mostly questions and framing on semver for types, breaking changes, and why more accurate types are good errors. Sebastian supplies most of the technical detail.",
+  "principles": [
+    {
+      "text": "Semver is well defined for runtime code but fuzzy for types: removing a type export is arguably a breaking change.",
+      "quote": "SemVer is really well defined for runtime stuff, you know, like when you have major breaking changes and you have minors and you have patches. And but it's less well defined for types, right?"
+    },
+    {
+      "text": "Library types should track the runtime's major version, or the numbering feels strange.",
+      "quote": "it's sort of funny that like the types for React sort of need to stay in step with the major of React itself. Because it would feel very strange if you had like 18 on React and then like 26 on React types"
+    },
+    {
+      "text": "A library that ships its own types can release a types-only change as a minor version with a changelog entry.",
+      "quote": "I could ship a feature in my library that is TypeScript only, you know, that has a minor version bump that basically indicate that has a change log that says, \"Okay, something in the types changed and this necessitated a new version of the library.\""
+    },
+    {
+      "text": "Type changes that make types more truthful and surface new errors are positive changes, not harmful breakage.",
+      "quote": "So the types after the change are more truthful. Exactly. Um and more accurate. So actually doesn't that make the errors that are then uncovered uh good errors?"
+    },
+    {
+      "text": "Coordinating a breaking type change with a runtime-led release means waiting for the next major.",
+      "quote": "With React, you can't really do that, right? Because every change has to be led from the runtime. It has to be led from the actual code base itself."
+    },
+    {
+      "text": "Open source maintainers mostly hear about problems they cause, not the services they provide; decisions can echo far beyond one PR.",
+      "quote": "Sometimes when you're maintaining open source software, you have to make decisions that may not make sense at a PR level but there's like a macro scale you have to think about. And the decisions you make can echo to eternity."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

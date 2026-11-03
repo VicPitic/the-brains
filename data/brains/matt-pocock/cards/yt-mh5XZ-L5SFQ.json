@@ -1,0 +1,39 @@
+{
+  "id": "yt-mh5XZ-L5SFQ",
+  "title": "Matt Pocock reviews Cursor's thermonuclear code review skill: ambition, file size, types and false positives",
+  "summary": "Matt tries Cursor's \"thermonuclear code quality review\" skill on his Sandcastle repo and critiques the prompt. He likes its ambition, small-file and type-boundary rules, finds it duplicative and blind to tests, and concludes noisy ambitious reviews beat missed opportunities.",
+  "principles": [
+    {
+      "text": "Automated code review is one of the most impactful ways to raise the quality of code coming out of your agent.",
+      "quote": "Automated code review is one of the most impactful ways that you can improve the code quality coming out of your agent."
+    },
+    {
+      "text": "Agents treat a diff as their bounds, so tell the reviewer to be ambitious and look across the whole codebase.",
+      "quote": "If you pass an agent a diff, then it will usually treat that diff as its bounds within which it can work."
+    },
+    {
+      "text": "Keep files small: agents must ingest a whole file to find one thing, so split files and let the file name be a context pointer.",
+      "quote": "Large files are just quite hard for agents to navigate because they need to ingest the entire file into their context window in order to find the thing that's actually useful within it."
+    },
+    {
+      "text": "Question unnecessary optionality: agents add props as optional even when they are always required.",
+      "quote": "Whenever an agent adds a prop onto a React component, let's say, it always adds it as optional."
+    },
+    {
+      "text": "Vague review criteria like \"improve or worsen\" mean nothing to an agent unless you spell out what good and bad look like.",
+      "quote": "You've got to say exactly what good and bad looks like to an agent in order for improve or worsen to mean anything."
+    },
+    {
+      "text": "An ambitious review gives more false positives, but those are easy to reject; the missed opportunities are the dangerous ones.",
+      "quote": "It's the ones that you miss, that you never know about, the opportunity for improvement that you never see, those are the dangerous ones."
+    }
+  ],
+  "topics": [
+    "ai",
+    "code-review",
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

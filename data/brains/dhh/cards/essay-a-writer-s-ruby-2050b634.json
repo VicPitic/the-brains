@@ -1,0 +1,38 @@
+{
+  "id": "essay-a-writer-s-ruby-2050b634",
+  "title": "A writer's Ruby: why linting should enforce your style, not a universal one",
+  "summary": "DHH argues that style is an integral part of code as expression, and that Ruby's many ways to do things make it a language for writers. Linters are good when authors and teams enforce their own style, which is why Rails ships RuboCop with his omakase defaults as a starting point, not an edict.",
+  "principles": [
+    {
+      "text": "Style and aesthetics in code matter; the best code is its own form of poetry.",
+      "quote": "The best code to me is indeed its own form of poetry, and style is an integral part of such expression."
+    },
+    {
+      "text": "Ruby's many ways to do things is a feature; it delights programmers who write code as authors.",
+      "quote": "Whereas Python’s motto has long been “there should be one – and preferably only one – obvious way to do it”, Ruby is the exact opposite."
+    },
+    {
+      "text": "A universal, language-mandated style (like gofmt) is totalitarian and flattens expression.",
+      "quote": "That’s the most totalitarian approach. A decree on what a program should look like that’s barely two feet removed from a compile error. I don’t like that one bit."
+    },
+    {
+      "text": "Linters are for authors and teams to enforce their own style on their own codebases, not to mandate style on others.",
+      "quote": "I think they’re excellent tools for authors and teams to enforce _their_ style with consistency on _their_ codebases."
+    },
+    {
+      "text": "Rails ships a default omakase linter config as a starting point to develop your own sensibilities.",
+      "quote": "But it really is just a starting point for Rails programmers and teams to develop their own sensibilities, not a permanent edict on what those should be."
+    },
+    {
+      "text": "Style is invariably idiosyncratic; narrowing Ruby to one pre-approved path would be a shame.",
+      "quote": "Ruby affords us such rich and expressive syntax that it would be a damn shame if we narrowed all possible paths down to a single, pre-approved trail."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "code-review",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

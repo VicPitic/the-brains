@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-to-make-codebases-ai-agents-love",
+  "title": "How to make codebases AI agents love: deep modules and grey box design",
+  "summary": "Matt Pocock argues the codebase, not the prompt or AGENTS.md, is the biggest influence on AI output. Restructure into deep modules with simple interfaces, tests that lock behaviour, and AI-owned implementations, so agents get fast feedback and humans keep a small mental map.",
+  "principles": [
+    {
+      "text": "Treat AI agents as memoryless new starters; the codebase shapes output more than prompts or AGENTS.md.",
+      "quote": "Your codebase, way more than your prompt or your `AGENTS.md` file, is the biggest influence on AI's output."
+    },
+    {
+      "text": "A badly designed codebase costs you through poor feedback loops, hard navigation, and cognitive burnout.",
+      "quote": "AI is not a super-powered developer. It's a new starter with no memory."
+    },
+    {
+      "text": "Make the file system and design match your internal mental map, using deep modules.",
+      "quote": "The file system and design of your codebase needs to match the internal map you have of it. The best way I've found to do that is with **deep modules**."
+    },
+    {
+      "text": "Deep modules put lots of implementation behind a simple interface; all exports go through it.",
+      "quote": "Deep modules comes from \"A Philosophy of Software Design.\" The idea is simple: lots of implementation controlled by a simple interface."
+    },
+    {
+      "text": "Grey box modules: you own the interface, AI owns the implementation, tests keep it honest.",
+      "quote": "These are **grey box modules**. You own the interface. AI owns the implementation. Tests keep it honest."
+    },
+    {
+      "text": "Design for progressive disclosure of complexity: each module in its own folder with a clear public interface.",
+      "quote": "**We've designed our codebase for progressive disclosure of complexity.** The interface sits at the top and explains what the module does."
+    }
+  ],
+  "topics": [
+    "ai",
+    "api-design",
+    "testing",
+    "typescript"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-AkeTmfUW4_U",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "AI Revisited: why DHH flipped on AI coding once agents moved to the terminal",
+  "summary": "DHH explains why AI finally clicked for him in late 2025: agent mode in the terminal, not autocomplete, produced work he kept about 80% of. He covers toil-reduction uses at 37signals, shipping AI features only when clearly useful, and staying optimistic without hype or doom.",
+  "principles": [
+    {
+      "text": "Autocomplete-style AI interrupted his thinking; terminal agents running on their own fit how he works.",
+      "quote": "I did not like this idea that I have a thought in my head coming out through my keys and then boom, the AI tries to did you think of this? Did you think of that?"
+    },
+    {
+      "text": "The real shift was agents producing work he keeps: roughly 80% right, with him finishing the last 20%.",
+      "quote": "I've been shocked how often it's like 80% there."
+    },
+    {
+      "text": "Use AI on internal toil first: triaging noisy security reports, patient log reviews, and on-call investigations.",
+      "quote": "AI turns out to be really good at that, right? Like it's really good at filtering noise from signal."
+    },
+    {
+      "text": "Don't ship AI features as stickers; wait until the product is uniformly better, even if that means arriving late.",
+      "quote": "it's about putting on a sticker of something where it's not uniformly better after we've introduced this. And that's not what we want to launch."
+    },
+    {
+      "text": "Non-programmers get more magic from AI than experts, in the way Excel and FileMaker democratized building programs.",
+      "quote": "we're democratizing the access to creativity in a way that very few moments in history have done so broadly."
+    },
+    {
+      "text": "Stay curious and optimistic about what AI can do now; nobody knows where it goes, so skip hyperbolic extrapolation.",
+      "quote": "nobody knows where this is going."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "mindset"
+  ]
+}

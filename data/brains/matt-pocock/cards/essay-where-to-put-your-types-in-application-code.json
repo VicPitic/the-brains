@@ -1,0 +1,38 @@
+{
+  "id": "essay-where-to-put-your-types-in-application-code",
+  "title": "Where To Put Your Types in Application Code: three placement rules",
+  "summary": "Matt Pocock gives three opinionated rules for organizing types in an application: colocate or inline single-use types, move shared types to the smallest shared location, and put cross-package types in a shared monorepo package. He treats types like functions, so they follow the same sharing logic.",
+  "principles": [
+    {
+      "text": "Colocate single-use types in the file where they're used, instead of a separate .types file.",
+      "quote": "When a type is **used in only one place**, put it in **the same file where it's used**."
+    },
+    {
+      "text": "Editing implementation and types together is easier when they sit in one file.",
+      "quote": "When I'm working on `MyComponent`, I'll often need to be editing both its implementation and its types. Having them in separate files just makes that harder."
+    },
+    {
+      "text": "Inlining truly single-use types is fine and cheap to refactor later; don't feel you must always extract a named type.",
+      "quote": "don't feel that you _always_ need to extract out a type into a separate `type` or `interface` - inlining is absolutely fine, and it's very low-cost to refactor it into a separate type later if you need to."
+    },
+    {
+      "text": "Treat types like functions: once used in multiple places, move them to a shared location.",
+      "quote": "You should think of types in your application as functions. If you've got a function that's used in multiple modules, you'll probably want to move it to a shared location. Same goes for types."
+    },
+    {
+      "text": "Scope shared types as narrowly as possible: share across the smallest number of modules that need them.",
+      "quote": "In other words, I share the type across the smallest number of modules that need it."
+    },
+    {
+      "text": "In a monorepo, types used by more than one package belong in a dedicated shared package.",
+      "quote": "Types that are **used in more than one package** in a monorepo should be **moved to a shared package**."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

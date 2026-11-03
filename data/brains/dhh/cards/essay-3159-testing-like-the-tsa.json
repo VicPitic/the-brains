@@ -1,0 +1,37 @@
+{
+  "id": "essay-3159-testing-like-the-tsa",
+  "title": "Testing like the TSA: why DHH says over-testing is coverage theater",
+  "summary": "DHH argues tests have real costs, so developers must learn what not to test. He gives seven blunt rules for a typical Rails app (no 100% coverage, watch test ratios and time spent, skip testing framework basics, mostly test-after) and calls blanket coverage \"TSA-style testing\". He backs it with Kent Beck's \"test as little as possible to reach a given level of confidence\".",
+  "principles": [
+    {
+      "text": "Tests are code and cost time to write, update and read, so their benefit must exceed that cost.",
+      "quote": "Every line of code you write has a cost. It takes time to write it, it takes time to update it, and it takes time to read and understand it."
+    },
+    {
+      "text": "Over-testing is a bad trade: the cost of catching a trivial bug can far exceed the value of catching it.",
+      "quote": "If it takes you 1,000 lines of validation testing to catch the one time Bob accidentally removed the `validates_presence_of :name` declaration, was it worth it? Of course not"
+    },
+    {
+      "text": "Don't chase 100% coverage; keep test-to-code ratios and time spent testing in check.",
+      "quote": "Code-to-test ratios above 1:2 is a smell, above 1:3 is a stink."
+    },
+    {
+      "text": "Don't test what the framework already guarantees, and don't integration test what a unit test can cover.",
+      "quote": "Don't test standard Active Record associations, validations, or scopes."
+    },
+    {
+      "text": "Don't force test-first everywhere; most of DHH's tests are written after the code.",
+      "quote": "Don't force yourself to test-first every controller, model, and view (my ratio is typically 20% test-first, 80% test-after)."
+    },
+    {
+      "text": "Blanket coverage is quality theater; very few apps are critical enough to justify testing everything.",
+      "quote": "We must collectively decide that the TSA-style of testing, the coverage theater of quality, is discredited before we can move forward. Very few applications operate at a level of criticality that warrant testing everything."
+    }
+  ],
+  "topics": [
+    "testing",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

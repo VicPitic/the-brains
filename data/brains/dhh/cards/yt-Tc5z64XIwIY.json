@@ -1,0 +1,38 @@
+{
+  "id": "yt-Tc5z64XIwIY",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Testing without test damage: real models, real controllers, fixtures, no mock soup",
+  "summary": "DHH walks through how Basecamp tests a lockable Document feature. He defends tests that hit the real database and render real views over isolated unit tests with mocks, uses fixtures instead of factories, and keeps assertions minimal. Fast-enough tests that give confidence beat the fastest possible tests.",
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity"
+  ],
+  "principles": [
+    {
+      "text": "The goal of tests is confidence that shipped features work, not fast tests.",
+      "quote": "the purpose of developing software is not to have fast tests the purpose of testing new software is to have high confidence that the features that you're shipping are of high quality"
+    },
+    {
+      "text": "Don't trade realism for speed by piling on mocks and stubs; test the real thing with the real database.",
+      "quote": "I think in the majority of cases you're better off testing the real things interfacing with the real database interfacing with the real generation of HTML and controller"
+    },
+    {
+      "text": "Stub as little as possible so tests stay close to the metal and readable, without needless setup complexity.",
+      "quote": "you're testing the real thing under you mocking and stopping as little as possible as you can get away with such that your tests remain as close to the metal as close to the to the real thing"
+    },
+    {
+      "text": "Use fixtures as a base world instead of per-test factories; only create new records for what's particular to the test.",
+      "quote": "fixtures is this a wonderful concept of where you basically configure a base set of characters in a world that you can pull upon whenever you want to play a certain part"
+    },
+    {
+      "text": "Controller tests should be integration-style, covering HTTP request through view rendering and the database, stopping short of a real browser unless JavaScript needs testing.",
+      "quote": "it's stopping just short of using the browser to drive the interaction because using the browser to track the interaction adds sort of an order of magnitude of delay to it"
+    },
+    {
+      "text": "Reject one-assertion-per-test; use as many assertions as needed to cover an aspect fully. Prefer plain assert and assert_equal.",
+      "quote": "I think you should have all the assertions that you need to feel comfortable about testing one aspect of what you're doing"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-4DhcSPkEbwI",
+  "title": "How Matt Pocock builds AI agent skills from classic software fundamentals",
+  "summary": "Matt Pocock explains how he moved from TypeScript education to AI agent skills (grill me, wayfinder, spec and tickets). He argues that old books like The Pragmatic Programmer, Philosophy of Software Design and DDD are the best way to steer agents, and that strategic thinking now matters most.",
+  "principles": [
+    {
+      "text": "Knowledge is now cheap, but wisdom is not; the strategic layer is where humans add value as AI eats tactical programming.",
+      "quote": "knowledge is now very cheap to acquire right very very cheap you can just look it up"
+    },
+    {
+      "text": "Agents can't read your mind; use an interview skill like grill me to communicate your values, scope and decisions before implementation.",
+      "quote": "there is a communication gap between you and the agent right there is a barrier there."
+    },
+    {
+      "text": "Respect the smart zone: split big work into a spec plus one ticket per session so each context stays small.",
+      "quote": "I started thinking, how do I take work that's bigger than 150k tokens, which is not very large, and portion it out over multiple context windows, multiple sessions."
+    },
+    {
+      "text": "Seed prompts with classic-book phrases (tracer bullets, vertical slices, deep modules); models repeat them and change behavior because they sit in the priors.",
+      "quote": "This is what I call a leading word, a lightvert, let's say, which is a sort of fancy literary term where you lead the agent just with a simple phrase that you repeat a couple of times in the skill or the prompt to change its behavior."
+    },
+    {
+      "text": "Optimize your codebase for an agent that wakes up with no memory every session; software fundamentals have always aimed at this.",
+      "quote": "we are trying to optimize our code bases for new starters"
+    },
+    {
+      "text": "Align up front only when work is large and hard to roll back; for small changes, shift right and align afterwards.",
+      "quote": "where you can you should shift right as much as possible."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "code-review",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

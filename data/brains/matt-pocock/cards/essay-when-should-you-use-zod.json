@@ -1,0 +1,39 @@
+{
+  "id": "essay-when-should-you-use-zod",
+  "title": "When should you use Zod? Validate untrusted and uncontrolled inputs, skip trusted ones",
+  "summary": "Matt Pocock gives a decision rule for runtime validation with Zod based on how much you trust and control an input. Validate anything untrusted, validate trusted-but-uncontrolled third-party data to fail early, and usually skip validation for inputs you both trust and control, with version drift as the debatable edge case.",
+  "principles": [
+    {
+      "text": "Always validate inputs you don't trust (public APIs, forms, websockets, localStorage, CLI args) with Zod.",
+      "quote": "In each of these cases, you don't _trust_ the data entering your app. For those cases, you should use Zod."
+    },
+    {
+      "text": "Zod schemas give you inferred types for free, so parsing unknown input also yields type safety.",
+      "quote": "The nice thing about using Zod here is that `name` is inferred as a `string` without any other work needed."
+    },
+    {
+      "text": "Use safeParse at API boundaries so you return a 400 with a readable error instead of throwing.",
+      "quote": "We use `.safeParse` here so that we don't throw an error - instead, we return `400` and pass back the error."
+    },
+    {
+      "text": "Validate third-party API data too: errors surface early at the boundary, making bugs far easier to debug.",
+      "quote": "Validating that data with Zod will still cause an error in your app - but that error will be thrown _early_, right when the data enters your app."
+    },
+    {
+      "text": "Prioritise robustness over bundle size and speed; unexpected data is the most frequent source of bugs.",
+      "quote": "'Impossible data' - or data you don't expect - has been probably the most frequent cause of bugs throughout my dev life."
+    },
+    {
+      "text": "For inputs you trust and control, such as your own full-stack API, usually skip Zod; version drift is the debatable exception.",
+      "quote": "When your app has inputs you **trust** and **control**, I usually don't validate them with Zod."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

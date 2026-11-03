@@ -1,0 +1,39 @@
+{
+  "id": "yt-uWqno4HM4xA",
+  "title": "DHH on AI and coding: why he still hand-writes his Ruby (for now)",
+  "summary": "DHH explains why AI isn't writing his code yet: he still cares about how code looks, uses AI mostly to learn faster, and sees no proof yet that AI lets companies cut half their programmers. He also covers cloud exit savings, small-team leverage, and open-sourcing Fizzy as marketing.",
+  "principles": [
+    {
+      "text": "Balance AI hype against reality: AI isn't writing his production code from scratch yet.",
+      "quote": "on my reality train, AI is not writing busy. is not writing anything from scratch."
+    },
+    {
+      "text": "Use AI to learn faster and get smarter, not just to offload code writing.",
+      "quote": "It's not just about making the AI do things for me. It's about using the AI to make me smarter."
+    },
+    {
+      "text": "Code craft still matters; hand-writing code stays competitive and enjoyable, like a saddle maker's work.",
+      "quote": "I still care about how code looks. I still care about the beauty of it. I care about finessing it."
+    },
+    {
+      "text": "Outsourcing everything to AI erodes your competence; keep your skills trending up.",
+      "quote": "I can feel the competence dripping out of my fingers."
+    },
+    {
+      "text": "Skeptical AI lets you fire half the programmers; he applied the same test to the cloud.",
+      "quote": "the fundamental test of can we do more with fewer people for less money never penned out"
+    },
+    {
+      "text": "Developer productivity and small teams were always the Rails premise; AI plus Rails is best.",
+      "quote": "The framework for the single developer was what Rails always tried to be"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "architecture",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

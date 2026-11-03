@@ -1,0 +1,38 @@
+{
+  "id": "yt-dGtasFJnUxI",
+  "title": "Is TDD dead? Part IV: DHH on over-testing, test-first dogma, and the hidden costs of TDD",
+  "summary": "In the fourth Is TDD dead? hangout, DHH argues that TDD nudges teams toward over-testing, high test-to-code ratios and worship of testing infrastructure. He wants testing treated as a tradeoff: calibrate coverage to how much the code matters, keep the code as the top authority, and rank design clarity above measurable test metrics.",
+  "principles": [
+    {
+      "text": "Large test-to-code ratios are a smell: tests are code too, and they make changing behavior expensive.",
+      "quote": "the whole notion of having multiples of test code to single lines of production codes to me is often not a good thing"
+    },
+    {
+      "text": "Most code changes alter behavior, not just structure, so behavior tests must change too. Heavy test code multiplies that cost.",
+      "quote": "far more of my code changes are actually driven by wanting to change the actual Behavior"
+    },
+    {
+      "text": "Don't test everything first. Declarative framework statements like validations aren't worth stacked unit, functional and system tests.",
+      "quote": "see people write maybe five line of testing code to test that one declarative statement"
+    },
+    {
+      "text": "Coverage should vary by how critical the code is; well below 100% is fine for code that rarely breaks.",
+      "quote": "quite comfortable with significantly less than 100%"
+    },
+    {
+      "text": "Tune testing to the team: a stable product team with low rotation can accept 60-80% coverage, unlike a consultancy handing code to strangers.",
+      "quote": "most of the time 60% coverage or 80% coverage buys me enough confidence in making changes and catching errors that that'll do"
+    },
+    {
+      "text": "Design clarity and user value outrank measurable test metrics; don't get lured into chasing speed, coverage and ratios.",
+      "quote": "test speed coverage and ratio are quite far down the list"
+    }
+  ],
+  "topics": [
+    "testing",
+    "simplicity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

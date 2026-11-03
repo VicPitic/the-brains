@@ -1,0 +1,39 @@
+{
+  "id": "yt-JiWgKRgdgpI",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "DHH on going agent-first: how 37signals and Omarchy build software with AI now",
+  "summary": "DHH explains why his opinions on AI didn't change but the tools did: agent harnesses plus Opus 4.5 crossed his quality bar. He covers his tmux/Neovim agent workflow, senior-vs-junior leverage, small teams, designers as product people, beauty in code, and avoiding burnout.",
+  "topics": [
+    "ai",
+    "code-review",
+    "productivity",
+    "leadership"
+  ],
+  "principles": [
+    {
+      "text": "Beautiful code is likely correct; craft and aesthetics matter in the interior as much as the exterior.",
+      "quote": "I think aesthetics is truth. When something is beautiful, it's likely to be correct."
+    },
+    {
+      "text": "Agent code must meet the same style bar as human code; he won't merge sloppy agent output.",
+      "quote": "when I'm using agents to work on Ruby code I want their code to look as good as mine I'm not going to merge their stuff if it's sloppy"
+    },
+    {
+      "text": "Autocomplete AI was annoying; agent harnesses with tools plus a strong model were the real unlock.",
+      "quote": "I thought the way of using the models with autocomplete versus agent harnesses was just dreadful, annoying."
+    },
+    {
+      "text": "Running agents feels like a mech suit, not project management; it makes programming more enjoyable.",
+      "quote": "running a bunch of agents feels less like being a project manager for agents and more like stepping into this super mech suit"
+    },
+    {
+      "text": "Senior developers benefit most from agents because they can judge whether output is fit to ship.",
+      "quote": "the most successful and applicable agent acceleration that I've seen at 37 signal has been from the most senior people"
+    },
+    {
+      "text": "Start products with a tiny team until the shape is found; piling people onto uncertain direction slows you down.",
+      "quote": "I've found that you actually go slower if you pour a bunch of people into a direction that is uncertain."
+    }
+  ]
+}

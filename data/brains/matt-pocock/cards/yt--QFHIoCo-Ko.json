@@ -1,0 +1,39 @@
+{
+  "id": "yt--QFHIoCo-Ko",
+  "title": "How Matt Pocock runs an AI coding workflow: grill, PRD, Kanban issues, AFK agents, deep modules",
+  "summary": "A 2-hour workshop where Matt applies old-school software engineering fundamentals to coding agents. He covers the smart/dumb zone, aligning with a \"grill me\" session, a PRD as destination, vertical-slice Kanban issues, AFK Ralph loops with TDD, and deepening modules so code bases are testable.",
+  "principles": [
+    {
+      "text": "LLMs get dumber as context grows, so size tasks to stay in the smart zone (~100K tokens).",
+      "quote": "it doesn't matter whether you're using 1 million uh context window or 200K, it's always going to be about this. It starts to just get dumber."
+    },
+    {
+      "text": "Prefer clearing context to compacting so every session starts from the same known state.",
+      "quote": "I much prefer my AI to behave like uh the guy from Memento because this state is always the same."
+    },
+    {
+      "text": "Reach a shared design concept with the agent through a relentless grilling session, not an eager plan.",
+      "quote": "I didn't need a plan, I needed to be on the same wavelength as the AI, as my agent."
+    },
+    {
+      "text": "Reject specs-to-code: keep a handle on the code, because the code is the battleground.",
+      "quote": "You need to keep a handle on the code. You need to understand what's in it. You need to shape it because the code is your battleground."
+    },
+    {
+      "text": "Split work into vertical slices (tracer bullets), not horizontal layers, so the agent gets feedback early.",
+      "quote": "You don't get feedback on your work until you've really started or completed phase three."
+    },
+    {
+      "text": "Build code bases from deep modules with small interfaces; design the interface, delegate the implementation.",
+      "quote": "Modules that have a little interface on there that expose a small, simple interface that have a lot of functionality inside them."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "testing",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

@@ -1,0 +1,38 @@
+{
+  "id": "yt-JoTB2mcjU7w",
+  "title": "Is TDD dead? Part II: DHH on test-induced design damage, mocking and indirection",
+  "summary": "DHH debates Kent Beck and Martin Fowler over whether TDD pushes designs toward needless indirection. He argues that isolating every layer for fast unit tests (hexagonal, command and repository patterns) hurts clarity and cohesion, rejects internal mocking, and gives up on TDD as a universal path to good design.",
+  "principles": [
+    {
+      "text": "Don't mock your own collaborators; mock only true externals like payment gateways.",
+      "quote": "I don't want to do even one degree of mocking internally in my application I'm fine with mocking externals if you're talking to a payment Gateway of course that payment Gateway should be marked out"
+    },
+    {
+      "text": "Test-induced design damage is indirection and layers added only to make unit tests easier.",
+      "quote": "additional layers of complexity that we inject into the application for the purpose of testing it easier"
+    },
+    {
+      "text": "More code for the same outcome is bad unless it reflects real domain complexity; each layer costs understanding and change.",
+      "quote": "my position is that uh more code to do same things bad unless it's part of the sort of inherent complexity of the domain"
+    },
+    {
+      "text": "Trade high coupling for high cohesion: hardcode dependencies in controllers and accept they're hard to unit test in isolation.",
+      "quote": "I'm willing to suffer suffer High coupling because I also get high cohesion out of it"
+    },
+    {
+      "text": "Making code more testable doesn't always make it better; sometimes there is no win-win design.",
+      "quote": "I think sometimes the answer is there's not an answer you're not going to produce better code by making it more testable"
+    },
+    {
+      "text": "Believing TDD will eventually lead to the right design is faith-based; he abandoned it as a universal principle.",
+      "quote": "faith-based tdd this belief that tdd will eventually even though we cannot see it and we have no evidence for it today will leave you to the right design"
+    }
+  ],
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

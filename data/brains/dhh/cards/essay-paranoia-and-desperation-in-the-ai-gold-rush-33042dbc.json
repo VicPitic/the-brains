@@ -1,0 +1,34 @@
+{
+  "id": "essay-paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
+  "title": "Paranoia and desperation in the AI gold rush: Slack training on private messages",
+  "summary": "DHH reacts to Salesforce announcing it will train Slack AI models on customers' private messages and files by default, with opt-out only via a special email. He reads it as a symptom of companies so afraid of missing the AI wave that they will trample trust and privacy for any edge in the chatbot race.",
+  "principles": [
+    {
+      "text": "Fear of missing out on AI is driving companies to desperation, more than excitement about the opportunity.",
+      "quote": "I've never seen so much paranoia in technology about missing out on The Next Big Thing as with AI. Companies seem less excited about the prospects than they are petrified that its going to kill them."
+    },
+    {
+      "text": "AI-race desperation justifies nothing; training on private customer data by default is a breach of trust.",
+      "quote": "Things are moving fast enough that we'll probably see more such flagrant transgressions of trust and privacy, if there's even a sliver of a chance that it can provide an edge in the race for a better chatbot."
+    },
+    {
+      "text": "Opt-out-by-obscure-email is a hostile default for consent over private data.",
+      "quote": "And they're going to do so by default, lest you send them a specially formatted email to feedback@slack.com."
+    },
+    {
+      "text": "Scanning confidential company conversations to catch up in AI is a bad trade, and AI-autocompleted corporate text is slop.",
+      "quote": "All you have to do is edit out, say, Asana in your layoff completion, and voila, you'll have saved at least 8 minutes typing out the corporate slop yourself."
+    },
+    {
+      "text": "Product decisions driven by AI KPIs at acquired products can pull teams away from their ethical compass.",
+      "quote": "Whether the vision of that gleams bright or dystopian probably depends on how well your inner compass is tuned to the kind of AI KPIs pushing product managers in charge of acquired chat products at large tech companies."
+    }
+  ],
+  "topics": [
+    "ai",
+    "leadership",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

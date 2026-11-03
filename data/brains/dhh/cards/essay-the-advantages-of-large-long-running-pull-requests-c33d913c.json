@@ -1,0 +1,38 @@
+{
+  "id": "essay-the-advantages-of-large-long-running-pull-requests-c33d913c",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Why Basecamp lets pull requests run large and long: reviewing features in full context",
+  "summary": "DHH argues against chopping features into tiny, short-lived pull requests. Letting a PR run as long as a complete feature needs (weeks, up to six under Shape Up) lets reviewers see trade-offs and design decisions in context, protecting design standards and cohesive architecture. Merge-conflict costs are real but manageable for most teams.",
+  "principles": [
+    {
+      "text": "Review a feature as a whole, with all trade-offs and design decisions in context, not as fragments.",
+      "quote": "My favorite part of doing code reviews is to see all the trade-offs, design decisions, and changes in context together."
+    },
+    {
+      "text": "Let pull requests run as long as a complete feature or fix needs, not to an arbitrary time limit.",
+      "quote": "at Basecamp, we let pull requests run as long as they need to encompass a complete feature or fix."
+    },
+    {
+      "text": "Mitigate merge conflicts by frequently merging main into the long-running PR; most teams aren't big enough for it to be a real problem.",
+      "quote": "you can mitigate much of this by ensuring you keep your pull request up to date with main by frequently merging main into the pull request."
+    },
+    {
+      "text": "The debate over PR size focuses on cost and ignores the value of high design standards and cohesive architecture.",
+      "quote": "It focuses mostly on the cost, not on the value. And the value is tremendous to any organization that seeks to keep high design standards and a cohesive architecture."
+    },
+    {
+      "text": "Partial, disjointed PRs pollute the codebase and skip cleanup and whole-picture simplification that never happens later.",
+      "quote": "Code that doesn't leave the campsite in a better condition than it found it, because doing the cleanup is something for another pull request, on another day (by no one ever)."
+    },
+    {
+      "text": "Self-review of the full diff is a powerful way to see the shape of the code and catch bad smells.",
+      "quote": "It's in this dance you see the shape of the code, pick up on bad smells, and ultimately decide whether you're happy with the whole."
+    }
+  ],
+  "topics": [
+    "code-review",
+    "building",
+    "simplicity"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "essay-3250-clarity-over-brevity-in-variable-and-method-names",
+  "title": "Clarity over brevity: why DHH favors long, intention-revealing method names",
+  "summary": "DHH argues programmers should trade brevity for clarity in variable and method names, citing long Basecamp method names as examples. Names should express intention rather than implementation, which removes most need for comments. In replies he credits Kent Beck's Smalltalk Best Practice Patterns as the bible on this.",
+  "principles": [
+    {
+      "text": "Prefer clarity over brevity when naming variables and methods; don't abbreviate.",
+      "quote": "Many programmers have a natural preference for short variable and method names. I doubt many would recognize this preference as a trade of brevity for clarity, but that’s often exactly the result."
+    },
+    {
+      "text": "Modern expressive languages save enough boilerplate that you can spend it on spelling things out.",
+      "quote": "Modern programming languages are expressive enough that what you save in laborious boilerplate can be spent on clarity"
+    },
+    {
+      "text": "Avoid abbreviations, especially app-specific ones that will be forgotten within months.",
+      "quote": "I cringe when I see ext for extension, cp for copy, or worse, application-specific abbreviations sure to be forgotten two months after you left the project."
+    },
+    {
+      "text": "A name longer than its operation looks silly at first but pays off when you return to the code.",
+      "quote": "The name of the method or variable can be longer than the operation being performed! But the silliness quickly dissipates the first time you return to a piece of code and know exactly what it does."
+    },
+    {
+      "text": "Treat comments as a code smell; clear naming should make them rarely necessary.",
+      "quote": "If you work hard at being clear in your naming, you’ll also rarely need to write comments for the code. Comments are generally only needed when you failed to be clear enough in naming. Treat them as a code smell."
+    },
+    {
+      "text": "Method names state intention, the body states implementation, so name length needn't track code length.",
+      "quote": "The method name explains the intention, the code the implementation. I’ve on many a occasion had longer names than implementation."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -424,6 +424,33 @@
           "hint": "hire delegation team people"
         }
       ]
+    },
+    {
+      "id": "code-review",
+      "label": "Code Review",
+      "blurb": "Adversarial review, through three very different public views.",
+      "questions": [
+        "Is this abstraction worth keeping?",
+        "Should this be typed more strictly, or is that overkill?",
+        "Which tests does this code actually need?"
+      ],
+      "people": [
+        {
+          "slug": "theo-browne",
+          "angle": "shipping fast and good tech decisions",
+          "hint": "type safety tech decisions agents review ship"
+        },
+        {
+          "slug": "dhh",
+          "angle": "simplicity and clarity",
+          "hint": "simplicity abstraction clarity monolith tests"
+        },
+        {
+          "slug": "matt-pocock",
+          "angle": "types, tests and feedback loops",
+          "hint": "typescript types any zod tests feedback"
+        }
+      ]
     }
   ]
 }

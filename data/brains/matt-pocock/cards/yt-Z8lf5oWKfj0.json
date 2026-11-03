@@ -1,0 +1,39 @@
+{
+  "id": "yt-Z8lf5oWKfj0",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Matt Pocock on why communication and codebase quality matter most when working with AI agents",
+  "summary": "Matt Pocock explains how he works with coding agents after the late-2025 threshold: raise the floor of the codebase, tell agents what you care about, and surface unknown unknowns with his grill-me skill. He covers why spec-driven development failed him, domain-driven design's ubiquitous language, and why teaching sessions should point to primary sources.",
+  "topics": [
+    "ai",
+    "learning",
+    "code-review",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "The agent's environment is the codebase; a garbage codebase yields garbage output, so care about it.",
+      "quote": "If they're in like a garbage vibe-coded crappy code base that has never had any care put into it, no one cares about the code base, they only care about the outputs, then you're going to get garbage in, garbage out, right?"
+    },
+    {
+      "text": "Raise the floor with old engineering fundamentals: good tests and checks that stop classes of bugs.",
+      "quote": "How you make good tests. How you add checks to make sure that your code base gets better and better over time to raise the floor, to stop classes of bugs, to prevent mistakes."
+    },
+    {
+      "text": "Agents can't read your mind, so interview-style prompting surfaces unknown unknowns before building.",
+      "quote": "What that does is the agent essentially tells the agent to interview me relentlessly about the thing that we're trying to build."
+    },
+    {
+      "text": "Use a ubiquitous language (DDD) shared across code, database, UI and client conversations to align with agents.",
+      "quote": "The language in the code, the terms you use in the code, should be the same as the ones the developers use to talk about the product, which is the same as the client asking you to build the thing"
+    },
+    {
+      "text": "Spec-driven development failed: ignoring the code made it and agent output worse; focus on code that is easy to change.",
+      "quote": "A good code base is a code base that's easy to make changes in. A change is not going to screw up something that the agent didn't think about."
+    },
+    {
+      "text": "Don't trust AI teaching blindly; use it to get oriented, then read the primary source.",
+      "quote": "I will just get it to introduce me to a topic, and then I'll just go and read the primary source, because that primary source has the actual information I need."
+    }
+  ]
+}

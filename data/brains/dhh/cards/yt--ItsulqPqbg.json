@@ -1,0 +1,38 @@
+{
+  "id": "yt--ItsulqPqbg",
+  "title": "Cloud exit: why 37signals left rented clouds for owned hardware",
+  "summary": "DHH explains why 37signals is leaving AWS: the promises of smaller teams, lower cost and less complexity never materialized, and a $3.2M annual cloud bill could shrink dramatically on owned hardware. He argues for \"sovereign clouds\" in colocated data centers.",
+  "principles": [
+    {
+      "text": "The cloud's promises (smaller teams, lower cost, less complexity) did not materialize for a stable, profitable business.",
+      "quote": "the promises of cloud that you could do more with less less complexity less cost um faster execution um smaller teams all of these fundamental promises as to why we should pay a premium for renting computers in the cloud versus buying our own turned out not to be true"
+    },
+    {
+      "text": "Cloud's real edge is instant elasticity, which is not worth a big premium for steady, predictable workloads.",
+      "quote": "that advantage of being open to spin up 100 servers by the snap of your fingers was just not worth that much it was not worth the the premium"
+    },
+    {
+      "text": "Run the numbers: managed cloud services are the costliest, and owned hardware can cut that spend by roughly two thirds or more.",
+      "quote": "we could take that 2.4 million and cut it down to less than nine hundred thousand and that would include buying all the replacement gear amortizing that over five years"
+    },
+    {
+      "text": "Companies buying compute at scale are software companies, so running infrastructure is a core competency to keep in-house.",
+      "quote": "if you are spending uh hundreds of thousands or millions of dollars buying compute directly from rental clouds you are a software company and the sooner you realize that the better off you are"
+    },
+    {
+      "text": "Running your own hardware is not exotic or risky; the industry has developed amnesia about it.",
+      "quote": "there's this General Amnesia in the industry that um over the past year it seemed or past five years let's say five to seven years it seems like everyone has forgotten what it takes to operate and own your own hardware"
+    },
+    {
+      "text": "Cloud consolidation into three vendors undermines the decentralized design of the internet.",
+      "quote": "if we handle all over all our Computing just to three companies then we've really destroyed this wonder of the world"
+    }
+  ],
+  "topics": [
+    "architecture",
+    "bootstrapping",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

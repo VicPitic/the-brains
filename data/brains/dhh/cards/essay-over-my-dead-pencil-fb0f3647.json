@@ -1,0 +1,34 @@
+{
+  "id": "essay-over-my-dead-pencil-fb0f3647",
+  "title": "Over my dead pencil: DHH on putting down the pencils and embracing coding agents",
+  "summary": "DHH follows up his Rails World keynote claim that programmers should stop writing most code by hand. He frames AI agents as fast, capable new coworkers rather than a threat, expects a boom in software as development costs fall, and says only those who refuse to collaborate with agents should worry.",
+  "principles": [
+    {
+      "text": "Hand-writing the vast majority of code is no longer economically viable; coding agents are good enough.",
+      "quote": "We're not going to write the vast majority of code by hand any longer. Coding agents have gotten so good that it's simply not an economically viable enterprise going forward to have humans typing out lines of Ruby, Rust, or C++."
+    },
+    {
+      "text": "Treat AI as new coworkers who are fast and capable but still need help and sometimes make choices you disagree with.",
+      "quote": "It's far more like gaining some new coworkers who are exceptionally good and fast at a wide range of tasks, but still need a bit of help with some, and whose choices you might occasionally disagree with."
+    },
+    {
+      "text": "Falling development costs will cause a bloom in software, so programmers who adapt have little to fear.",
+      "quote": "We're about to see an absolute bloom in software development as the price of development plummets and everyone realizes how much automation we still have left to do in this world."
+    },
+    {
+      "text": "Skepticism about agent mistakes is fine, but refusing to collaborate with agents is not a viable career.",
+      "quote": "It's fine to be skeptical about the areas where our new clanker colleagues still occasionally get it wrong, but refusing collaboration is not a viable career path for almost anyone."
+    },
+    {
+      "text": "Programmers who drag their feet on agents are the ones at risk; those who lean in and apply their skills to what comes next are fine.",
+      "quote": "I think the only programmers who have to worry about this change are those who refuse to embrace, or drag their feet on, the progress brought by the age of agents."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

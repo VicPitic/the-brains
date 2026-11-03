@@ -1,0 +1,39 @@
+{
+  "id": "essay-skills-diagnosing-bugs",
+  "title": "The /diagnosing-bugs skill: no theories until a tight, red-capable feedback loop exists",
+  "summary": "Matt Pocock describes his diagnosing-bugs agent skill, a six-phase process that forbids an agent from theorising until it has a fast, deterministic, sharp repro command that goes red on the bug. It covers the gates between phases, hypothesis ranking, tagged instrumentation, regression tests, and known limitations.",
+  "principles": [
+    {
+      "text": "Block the agent from forming theories until a command exists that goes red on this exact bug.",
+      "quote": "It will not let the agent form a theory until a **tight** feedback loop exists: one named command, already run once, that goes red on _this_ bug and green when it is fixed."
+    },
+    {
+      "text": "By default, coding agents read code and guess at bugs; a repro loop gate stops that.",
+      "quote": "Given a bug report, a coding agent by default reads code and guesses. This skill blocks that."
+    },
+    {
+      "text": "A useful loop is tight: fast, deterministic, sharp on your symptom, and runnable without you.",
+      "quote": "_A_ loop is not the goal. **Tight** is: fast (seconds), deterministic (same verdict every run), sharp (asserts your exact symptom, not \"didn't crash\"), and runnable by the agent without you."
+    },
+    {
+      "text": "For intermittent bugs, aim to raise the reproduction rate rather than get a clean repro.",
+      "quote": "For a bug that only shows up sometimes, the target is not a clean repro but a **higher reproduction rate**: loop the trigger, parallelise, add stress, inject sleeps, until the flake rate is high enough to debug against."
+    },
+    {
+      "text": "If no loop can be built, the agent must stop, say so, and ask for access instead of guessing.",
+      "quote": "When the agent cannot build one, the skill tells it to stop and say so, list what it tried, and ask you for environment access, a captured artifact, or permission to add temporary instrumentation."
+    },
+    {
+      "text": "Show ranked, falsifiable hypotheses with predictions before testing any; tag debug logs so cleanup is one grep.",
+      "quote": "3–5 ranked, falsifiable hypotheses exist, each stating its prediction, shown to you before any is tested"
+    }
+  ],
+  "topics": [
+    "testing",
+    "ai",
+    "building",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,36 @@
+{
+  "id": "essay-promoting-ai-agents-3ee04945",
+  "title": "DHH on promoting AI agents: from autocomplete to supervised autonomous teammates",
+  "summary": "DHH explains why terminal-based coding agents finally won him over after autocomplete left him cold. He treats agents as a team whose finished work he reviews, not a pair programmer, while staying skeptical of pure vibe coding and of claims that agents write 90% of code.",
+  "principles": [
+    {
+      "text": "Autocomplete-style AI left DHH cold; he wants to finish his own thoughts when coding.",
+      "quote": "When I code, I want to finish my own thoughts and sentences."
+    },
+    {
+      "text": "Autonomous agents feel like a team: they work on their own, he reviews the outcome and guides when asked.",
+      "quote": "With a team of agents, they're doing their work autonomously, and I just review the final outcome, offer guidance when asked, and marvel at how this is possible at all."
+    },
+    {
+      "text": "Agents became capable mainly because they were given tools beyond reasoning.",
+      "quote": "Partly because the models got better, but more so because we gave them the tools to take their capacity beyond pure reasoning."
+    },
+    {
+      "text": "Pure vibe coding is still aspirational for professional work; supervised collaboration works today.",
+      "quote": "Yet pure vibe coding remains an aspirational dream for professional work for me, for now. Supervised collaboration, though, is here today."
+    },
+    {
+      "text": "Claims of agents writing 90%+ of code don't hold up if you hold the line on quality and cohesion.",
+      "quote": "I'm nowhere close to the claims of having agents write 90%+ of the code, as I see some boast about online."
+    },
+    {
+      "text": "Try current agents yourself on real work rather than tuning out the hype.",
+      "quote": "You gotta get in there. See where we're at now for yourself."
+    }
+  ],
+  "topics": [
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

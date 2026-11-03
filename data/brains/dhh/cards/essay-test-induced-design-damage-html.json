@@ -1,0 +1,38 @@
+{
+  "id": "essay-test-induced-design-damage-html",
+  "title": "Test-induced design damage: why DHH rejects bending code to fit TDD and unit isolation",
+  "summary": "DHH argues that the maxim \"code hard to unit test is poorly designed\" causes test-induced design damage: needless indirection added only for fast, isolated, test-first tests. Using Jim Weirich's hexagonal Rails demo as the example, he prescribes model tests with the database, integration-tested controllers, system-tested views, and design driving tests.",
+  "principles": [
+    {
+      "text": "Hard-to-unit-test code is not always badly designed; bending code for testability damages clarity.",
+      "quote": "Such damage is defined as changes to your code that either facilitates a) easier test-first, b) speedy tests, or c) unit tests, but does so by harming the clarity of the code through — usually through needless indirection and conceptual overhead."
+    },
+    {
+      "text": "Hexagonal, repository and command patterns applied to Rails for testing's sake make the design worse.",
+      "quote": "The hexagonal pattern is being misapplied to Rails applications, alongside it companions of boundaries and ports'n'adapter-like patterns, for the purpose of testing. This is test-driven pattern application."
+    },
+    {
+      "text": "Test controllers as integration tests and views as system tests, not as mocked units.",
+      "quote": "Controllers are meant to be integration tested, not unit tested."
+    },
+    {
+      "text": "Let model tests hit the database; fixtures and transactions make it fast enough, so isolation isn't worth it.",
+      "quote": "Finally, the fear of letting model tests talk to the database is outdated. This decoupling is simply not worth it any more, even if it may once have been."
+    },
+    {
+      "text": "Put test emphasis where the app's complexity lives; system-test heavy is fine for a complex UI.",
+      "quote": "If you have a very simple model layer, but your UI is complex, then you should indeed be system-test heavy, and model-test light! This is not a sin."
+    },
+    {
+      "text": "Design drives tests, not the reverse; pursue clarity over testability and backfill tests once happy with the design.",
+      "quote": "Above all, you do not let your tests drive your design, you let your design drive your tests!"
+    }
+  ],
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

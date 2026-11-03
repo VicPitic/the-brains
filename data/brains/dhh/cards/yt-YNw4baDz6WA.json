@@ -1,0 +1,39 @@
+{
+  "id": "yt-YNw4baDz6WA",
+  "title": "Is TDD dead? Part III: DHH on the costs of testing, QA, and overconfidence in green bars",
+  "summary": "In the third Is TDD Dead hangout with Kent Beck and Martin Fowler, DHH argues that TDD's success bred overconfidence and led shops to drop QA. He says the costs of testing are rarely discussed, and that real-world feedback such as on-call and customer complaints catches what green tests miss.",
+  "principles": [
+    {
+      "text": "Programmer-written tests aren't enough; someone who isn't the author needs to test the software too.",
+      "quote": "I don't think you can work on anything of material quality and produce great software without having somebody who's not you test it"
+    },
+    {
+      "text": "TDD's success gave programmers overconfidence, so many shops cut QA and shipped lower-quality software.",
+      "quote": "it gave them overconfidence in the quality with which they can produce software through testing"
+    },
+    {
+      "text": "Testing has real costs. The conversation only chases more, faster, better tests and ignores what you give up.",
+      "quote": "when I say stuff like testing does damage I see this look in some programmer's eyes just going what the hell are you talking about"
+    },
+    {
+      "text": "Coverage has sharply diminishing returns, like uptime nines. Each extra nine costs exponentially more.",
+      "quote": "to get to say 99 59s of coverage it's going to be exponentially more expensive than to get to 99 and even getting to 99 is going to be so much more expensive than getting to 80"
+    },
+    {
+      "text": "How much testing is right depends on how critical the domain is. Dogmatic 100% coverage contradicts that trade-off.",
+      "quote": "you can't on the one hand claim well we need 100% coverage because that's our design methodology and then at the same time also feel like oh well we're doing a trade-off that depends on the criticality"
+    },
+    {
+      "text": "Real-world feedback from users, customer service, and on-call is a vital loop that green tests can't replace.",
+      "quote": "it's also the information feedback loop right it's the feedback loop that goes beyond just I wrote my own test I'm deciding my own feedback loop here's the actual real world flowing into that"
+    }
+  ],
+  "topics": [
+    "testing",
+    "mindset",
+    "building",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

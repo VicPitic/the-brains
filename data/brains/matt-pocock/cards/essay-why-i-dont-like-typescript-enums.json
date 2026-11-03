@@ -1,0 +1,37 @@
+{
+  "id": "essay-why-i-dont-like-typescript-enums",
+  "title": "Why Matt Pocock avoids TypeScript enums and what he recommends instead",
+  "summary": "Matt explains why he likes the idea of enums but won't recommend TypeScript's implementation: numeric enums generate reverse mappings and accept raw numbers, mixed enums are allowed, and enums are nominally typed, breaking the \"JavaScript with types\" ideal. If you must use them, use string enums only.",
+  "principles": [
+    {
+      "text": "TypeScript should be plain JavaScript with types; enums break that rule.",
+      "quote": "I like my TypeScript to be just JavaScript with types. Enums feel like they break that rule."
+    },
+    {
+      "text": "Numeric enums emit both key-to-value and value-to-key maps, doubling the runtime keys.",
+      "quote": "Because TypeScript generates both a value-to-key and a key-to-value mapping for numeric enums."
+    },
+    {
+      "text": "Numeric enums are unsafe: a raw number passes where the enum is expected.",
+      "quote": "But with numeric enums, you can pass a raw number in places where the enum is expected. What?"
+    },
+    {
+      "text": "Enums are nominally typed, so identical-valued enums aren't interchangeable.",
+      "quote": "you can't use an enum in place of another enum, even if the values are the same"
+    },
+    {
+      "text": "Don't mix numeric and string values inside one enum.",
+      "quote": "Hilariously, you can even mix and match numeric and string values in the same enum."
+    },
+    {
+      "text": "Leave existing enums alone, but don't add them to a fresh codebase; use string enums if you must.",
+      "quote": "But I wouldn't add an enum to a fresh codebase."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

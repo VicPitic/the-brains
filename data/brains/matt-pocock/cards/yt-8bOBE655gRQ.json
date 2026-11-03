@@ -1,0 +1,39 @@
+{
+  "id": "yt-8bOBE655gRQ",
+  "title": "Matt Pocock on inferred types, any, reading errors, and adopting TypeScript",
+  "summary": "A casual podcast interview where Matt explains why he prefers inferred types, how any is a tool not a sin, why people misread TypeScript errors, and how he got into TypeScript. Also covers the new using keyword and how to approach TypeScript adoption on a team.",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "topics": [
+    "typescript",
+    "types",
+    "learning",
+    "api-design"
+  ],
+  "principles": [
+    {
+      "text": "Prefer inferred return types; annotating them overrides what the compiler already knows.",
+      "quote": "inferred types make most sense because they're most likely to be correct"
+    },
+    {
+      "text": "Explicit return types only make sense when you need to lock down a function used in many places.",
+      "quote": "the only way return types really make sense is if you want to make sure that the function you're creating is secure and like used in a bunch of different places"
+    },
+    {
+      "text": "any is just a tool; fine inside a well-typed, tested function boundary.",
+      "quote": "as long as the outside of your function is properly typed it's kind of fine if you're just using any inside it sort of doesn't matter too much"
+    },
+    {
+      "text": "Read TypeScript errors from the bottom up; the most relevant info is at the end.",
+      "quote": "you've actually got the least relevant information at the very top and then the most relevant information right at the very bottom which is the actual comparison that failed"
+    },
+    {
+      "text": "Generic components let you drop type annotations because inference flows from what callers pass in.",
+      "quote": "one that actually changed its sort of like type information based on the stuff that you passed in and so again that just meant okay we can actually drop a load of type annotations"
+    },
+    {
+      "text": "Typed interfaces make refactors trivial: change the shape once and the compiler lists every place to update.",
+      "quote": "a four hour job turned into a five minute job because it just told me everywhere that needed to be updated"
+    }
+  ]
+}

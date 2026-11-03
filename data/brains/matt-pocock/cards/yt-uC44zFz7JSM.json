@@ -1,0 +1,39 @@
+{
+  "id": "yt-uC44zFz7JSM",
+  "title": "Your codebase is NOT ready for AI: deep modules as gray boxes for coding agents",
+  "summary": "Matt argues the codebase shapes AI output more than prompts or agents.md. A web of small shallow modules is hard for an amnesiac agent to navigate, test and hold in your head. Restructure into deep modules with simple, taste-designed interfaces, tested as gray boxes, so the AI manages the insides.",
+  "principles": [
+    {
+      "text": "Your codebase influences AI output more than prompts or agents.md; software quality matters more than ever.",
+      "quote": "Your code base, way more than the prompts that you use, way more than your agents.md file, is the biggest influence on AI's output."
+    },
+    {
+      "text": "Treat the AI as a forgetful new starter in your codebase and make the code friendly to new starters.",
+      "quote": "it's that it's a new starter in your code base. So, you need to make your code base friendly and ready for new starters because you're going to be spawning like 20 new starters every day"
+    },
+    {
+      "text": "Make the file system match your mental map of the codebase so the AI can find things from a prompt.",
+      "quote": "you need to make sure that the file system and the design of your code base matches this internal map that you have of it."
+    },
+    {
+      "text": "Prefer deep modules: lots of implementation behind a simple interface, instead of many shallow modules.",
+      "quote": "you have a deep module, so lots of implementation controlled by a simple interface."
+    },
+    {
+      "text": "Treat deep modules as gray boxes: design and taste the interface yourself, delegate the implementation to AI, and lock behavior down with tests.",
+      "quote": "I can write tests that completely lock down the module in terms of its behavior. So these are not just deep modules with simple interfaces, they're also gray box modules."
+    },
+    {
+      "text": "Use progressive disclosure: expose typed interfaces first so the AI reads them before deciding to look inside.",
+      "quote": "we've designed our code base for progressive disclosure of complexity. The interface sits at the top and it just explains what the module does."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "api-design",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

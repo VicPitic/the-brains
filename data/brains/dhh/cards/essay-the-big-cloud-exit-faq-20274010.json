@@ -1,0 +1,38 @@
+{
+  "id": "essay-the-big-cloud-exit-faq-20274010",
+  "title": "The Big Cloud Exit FAQ: how 37signals answered every objection to leaving the cloud",
+  "summary": "DHH answers the recurring objections to 37signals' cloud exit: team size, security, reliability, scaling, and cost. His core claim is that the cloud's promised savings and ease of use never materialized, and that owning hardware is mostly the same operational work done cheaper, with the same team and open source tooling.",
+  "principles": [
+    {
+      "text": "The cloud doesn't reduce operations headcount; the same team runs the apps on owned hardware.",
+      "quote": "This is the central deceit of the cloud marketing, that it’s all going to be so much easier that you hardly need anyone to operate it. I’ve never seen it."
+    },
+    {
+      "text": "Running your own hardware isn't arcane knowledge; the internet ran on it for twenty years before cloud became the default.",
+      "quote": "The internet got going in 1995. Cloud as the default choice didn’t happen until maybe 2015. So for well over twenty years, companies have been operating hardware to run their applications."
+    },
+    {
+      "text": "Security work is about your application and dependencies, so it's the same whether you rent or own the machines.",
+      "quote": "The work that needs to happen to properly secure your custom-built application is not any materially different whether you own the computers it runs on or rent them from a cloud provider."
+    },
+    {
+      "text": "Overprovision cheap, powerful hardware for headroom; only large, regular spikes justify renting cloud capacity.",
+      "quote": "That’s all to say that you can afford to dramatically over provision your own hardware to give you ample headroom to deal with spikes, and it’ll barely make a difference in the long-run budget."
+    },
+    {
+      "text": "Everything needed to run internet apps is open source, so skip enterprise service contracts and licensing fees.",
+      "quote": "Everything you need to run applications on the internet is generally available as open source. We run open source versions of everything we were running in the cloud."
+    },
+    {
+      "text": "Cloud promised cheaper, easier, faster, but only faster delivered; managed services still needed management and Moore's Law savings weren't passed on.",
+      "quote": "Because we bought the marketing pitch. That it was going to be cheaper, easier, and faster. Only the last promise ever really came through for us."
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

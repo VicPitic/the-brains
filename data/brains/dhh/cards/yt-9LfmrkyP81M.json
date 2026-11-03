@@ -1,0 +1,39 @@
+{
+  "id": "yt-9LfmrkyP81M",
+  "title": "RailsConf 2014 keynote: Why test-first design hurts clarity and programmers should think like writers",
+  "summary": "DHH argues most information-system work is closer to writing than to hard science. He says TDD optimizes for ease of testing and metrics (coverage, ratio, speed) at the cost of architecture and comprehension. He favors coarser system-level tests and aiming for clarity by reading, writing and rewriting lots of code.",
+  "principles": [
+    {
+      "text": "Programming information systems is writing, not engineering; clarity should be the top goal.",
+      "quote": "Writing is a much more apt metaphor for what we do most of the time than engineering is. Writing is about clarity."
+    },
+    {
+      "text": "Designing for testability does not make code simpler or clearer; ease of testing is a poor measure of quality.",
+      "quote": "Is it simpler? Is it clearer? No. It's easier to test. And that's the important point, right? That's the important point in all these debates."
+    },
+    {
+      "text": "Test at coarser levels; splitting code up for unit tests destroys architecture and comprehension.",
+      "quote": "Splitting up functions to support the testing process destroys your system architecture and code comprehension along with it. Test at a coarser level of granularity."
+    },
+    {
+      "text": "Coverage, test ratio and speed are easy to measure but are not what matters; whether the whole system works is.",
+      "quote": "Just because something is easy to measure doesn't mean it's important."
+    },
+    {
+      "text": "Regression tests have real value; driving design test-first rarely does.",
+      "quote": "Testing absolutely has value. Regression testing absolutely has value. Driving your design through test first, in my mind, rarely has value."
+    },
+    {
+      "text": "Become a good programmer by reading, writing and rewriting a lot of code; first drafts are never final.",
+      "quote": "The only way to become a good programmer, where by definition I define good programmer somebody who program, who writes software with clarity, is to read a lot of software, write a lot of software."
+    }
+  ],
+  "topics": [
+    "testing",
+    "simplicity",
+    "architecture",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

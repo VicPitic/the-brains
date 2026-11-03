@@ -1,0 +1,39 @@
+{
+  "id": "essay-typescript-generics-in-three-easy-patterns",
+  "title": "TypeScript Generics in 3 Easy Patterns: types to types, types to functions, inference",
+  "summary": "Matt Pocock argues that \"generics\" is really three separate concepts: passing types to types, passing types to functions, and inferring types from function arguments. Splitting them apart makes generics easier to learn. Type functions like DataShape<T> remove repetition, and inference removes the need to pass types by hand.",
+  "principles": [
+    {
+      "text": "Generics are three distinct concepts, not one: types to types, types to functions, and inference from arguments.",
+      "quote": "What you might think of as generics in TypeScript is actually three separate concepts:"
+    },
+    {
+      "text": "Use a generic 'type function' to stay DRY when several types share a structure.",
+      "quote": "But it's more concise to create a 'type function', which takes in the type of data and returns the new data shape:"
+    },
+    {
+      "text": "A type argument works like a function argument: name it anything and treat it as a parameter.",
+      "quote": "We can name `TData` anything, it's just like an argument to a function."
+    },
+    {
+      "text": "Generic types can take multiple type arguments, defaults and constraints.",
+      "quote": "Generic types can accept multiple type arguments. You can provide defaults to type arguments, as well as set constraints so only certain types can be passed."
+    },
+    {
+      "text": "Functions accept type arguments just like types do, which lets you control what a function produces.",
+      "quote": "That's right- just like types can accept types as arguments, so can functions."
+    },
+    {
+      "text": "Let TypeScript infer the type argument from the runtime argument instead of passing it manually.",
+      "quote": "In other words, the type argument will be inferred from the runtime argument."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-any-considered-harmful",
+  "title": "Matt Pocock on when `any` is the right choice: generic constraints and conditional returns",
+  "summary": "Matt argues you should ban `any` by default but shows two advanced cases where it is correct: wide type argument constraints like `(...args: any[]) => any`, and returning conditional types from generic functions where TypeScript's narrowing falls short. He advises backing the latter with unit tests and using eslint-disable.",
+  "principles": [
+    {
+      "text": "Use `any` in type argument constraints when you deliberately want to accept any function shape.",
+      "quote": "The solution is to use `any[]` as the type argument constraint:"
+    },
+    {
+      "text": "`unknown` in a function constraint silently rejects functions with real parameters, so a wide constraint needs `any`.",
+      "quote": "So accidentally, we've created a `ReturnType` function that only works on functions which accept `unknown` as an argument. This is not what we wanted."
+    },
+    {
+      "text": "A deliberately wide `any` constraint is safe because it states you don't care about the shape.",
+      "quote": "The reason this is safe is because we're deliberately declaring a wide type."
+    },
+    {
+      "text": "When returning conditional types from generic functions, use `as any` plus a unit test, since TypeScript can't verify it.",
+      "quote": "in these situations, it's often better to use `as any` and add a unit test for this function's behavior."
+    },
+    {
+      "text": "Inside generic functions, `any` is an acceptable workaround for TypeScript's limitations.",
+      "quote": "There are several other use cases like this, where inside generic functions you need to use `any` to get around TypeScript's limitations. To me, this is fine."
+    },
+    {
+      "text": "Ban `any` by default with ESLint, and use eslint-disable for the legitimate exceptions.",
+      "quote": "You should turn on the ESLint rule which prevents its use, and you should avoid it wherever possible."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

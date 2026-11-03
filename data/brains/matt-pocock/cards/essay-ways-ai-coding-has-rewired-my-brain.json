@@ -1,0 +1,39 @@
+{
+  "id": "essay-ways-ai-coding-has-rewired-my-brain",
+  "title": "How AI coding rewired Matt Pocock's brain: tests, deep modules, and friction",
+  "summary": "Matt Pocock lists nine shifts after months of fully AI-written code. He now invests in integration tests, strong feedback loops (types, hooks, CI), deep grey-box modules, aggressive UI prototyping, and just-in-time docs, while managing the extra cognitive load of keeping up with agent changes.",
+  "principles": [
+    {
+      "text": "Raise test boundaries to integration/e2e level so AI agents can run code and you catch more bugs.",
+      "quote": "Raising test boundaries lets you catch more bugs and work more comfortably with AI agents running code automatically."
+    },
+    {
+      "text": "Run pre-commit hooks, CI and type checking on every AI change; immediate feedback gives agents real-world context.",
+      "quote": "Every single change the AI makes should trigger your pre-commit hooks, CI, and type checking so bugs get caught immediately."
+    },
+    {
+      "text": "Prototype UI aggressively: ask for several options on throwaway routes before committing to a PRD.",
+      "quote": "Ask the LLM for five different options for the UI change. Put them on throwaway routes so you can look at them."
+    },
+    {
+      "text": "Prefer a few deep modules with simple interfaces over many shallow modules with big interfaces.",
+      "quote": "Bad codebases have lots of shallow modules with big interfaces. Good codebases have a few big modules with simple interfaces."
+    },
+    {
+      "text": "Treat deep modules as grey boxes: test at the boundaries and leave the implementation to the AI.",
+      "quote": "Break your codebase into large modules and test at the boundaries. Then leave the implementation to the AI."
+    },
+    {
+      "text": "Avoid stuffing repos with markdown docs; they rot and confuse LLMs. Let the AI generate docs just in time.",
+      "quote": "Let the AI generate its own docs during the exploration phase instead. Those docs never go out of date because they're just-in-time generated."
+    }
+  ],
+  "topics": [
+    "ai",
+    "testing",
+    "types",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

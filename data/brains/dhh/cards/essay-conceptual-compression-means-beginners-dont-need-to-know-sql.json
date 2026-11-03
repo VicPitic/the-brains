@@ -1,0 +1,38 @@
+{
+  "id": "essay-conceptual-compression-means-beginners-dont-need-to-know-sql",
+  "title": "Conceptual compression: why beginners no longer need SQL (DHH, 2018)",
+  "summary": "DHH argues that abstractions like Active Record have compressed the database into an appliance, so beginners can build database-backed apps without learning SQL. Progress means making yesterday's fundamentals optional, unpackable on demand, and lowering barriers to entry. Experienced programmers shouldn't cling to hardships the next generation doesn't have to endure.",
+  "principles": [
+    {
+      "text": "Good abstractions let beginners skip fundamentals; unpack a concept later, only when you need it.",
+      "quote": "SQL, like memory management, is a concept you can unpack when you need to. Further down the line of your career."
+    },
+    {
+      "text": "The ORM is a proven abstraction: Basecamp 3 serves millions without a hand-written SQL statement in app logic.",
+      "quote": "Basecamp 3 has about 42,000 lines of code, and not a single fully formed SQL statement as part of application logic! It serves millions of people."
+    },
+    {
+      "text": "The database should be an appliance, a commodity; being relegated to appliance status is an honor.",
+      "quote": "The relegation to “appliance status” isn’t a dig, but an honor."
+    },
+    {
+      "text": "Don't romanticize your own learning struggles; rejoice that the next generation doesn't have to endure them.",
+      "quote": "Falling in love with the trials and tribulations you had to suffer, rather than rejoicing in the fact that the next generation doesn’t have to endure them."
+    },
+    {
+      "text": "Conceptual compression lowers barriers to entry and preserves the individual generalist who can build complete applications.",
+      "quote": "And we need such conceptual compression more than ever to starve off specialization, and to preserve the power of individual generalists to make complete applications."
+    },
+    {
+      "text": "Don't fight conceptual compression; help make it happen, and don't try to hold every concept expanded in your head.",
+      "quote": "You can’t learn everything. You can’t hold every concept fully expanded in your head. And moreover, you shouldn’t."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

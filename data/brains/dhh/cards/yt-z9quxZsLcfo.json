@@ -1,0 +1,39 @@
+{
+  "id": "yt-z9quxZsLcfo",
+  "title": "Is TDD dead? DHH on mocks, test-induced damage and self-testing code",
+  "summary": "DHH, Kent Beck and Martin Fowler discuss TDD after DHH's RailsConf critique. DHH separates self-testing code from TDD, objects to mock-heavy isolation that distorts architecture, and says red-green-refactor is a personal preference, not a mandate.",
+  "principles": [
+    {
+      "text": "Unit tests forbidden from touching collaborators, DB or filesystem gave DHH nothing useful.",
+      "quote": "I wasn't getting anything useful out of unit tests that weren't talking to any collaborators"
+    },
+    {
+      "text": "Driving design through mocks and isolation causes test-induced damage to architecture.",
+      "quote": "this is test induced damage that the architect is actually suffering damage from this drive towards unit testing all the things"
+    },
+    {
+      "text": "Programmer happiness matters; red-green-refactor is a personal preference, not a mandate.",
+      "quote": "that whole feeling of feeling great about your development style feeling programmer happiness as as Matt would always put it um just wasn't I wasn't getting that from tdd"
+    },
+    {
+      "text": "Confidence comes from self-testing code; TDD is only one path to it, so don't conflate them.",
+      "quote": "tdd is One path of getting to that place I'm seeing though a lot of people are mistaking those two things"
+    },
+    {
+      "text": "A more unit-testable system is not automatically a better-designed system.",
+      "quote": "a easier to unit test system was a better design system and that's the main sort of the heart of the fallacy that I want to take a real big swing at"
+    },
+    {
+      "text": "Don't discard productive patterns like Active Record just to satisfy fast, isolated unit tests.",
+      "quote": "we were discarding all sorts of really useful techniques really useful patterns like active record because it didn't fit this notion of unit tests that had to run in 300 milliseconds"
+    }
+  ],
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

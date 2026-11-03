@@ -1,0 +1,39 @@
+{
+  "id": "yt-mTa2d3OLXhg",
+  "title": "DHH on Ruby, programmer happiness, open source as gift exchange, and no-build",
+  "summary": "DHH explains why Ruby's aesthetics and metaprogramming made programming itself the reward, why competence and understanding beat copy-paste or AI crutches, and why open source is a meritocratic gift exchange. He defends plurality of languages, refuses static typing in Ruby, and defends no-build JavaScript.",
+  "principles": [
+    {
+      "text": "Pick the language that makes you want to program; the act of programming should be its own reward.",
+      "quote": "ruby made me want to go out and do programming or go in and do programming as it is and I think that part of it was a huge push for my career"
+    },
+    {
+      "text": "Make the learning ramp soft at the start, but let it keep climbing toward real competence indefinitely.",
+      "quote": "the ramp needs to be soft but it needs to go to Infinity"
+    },
+    {
+      "text": "Open source is a meritocracy, not a democracy: those doing the work set the direction, and maintainers owe users nothing.",
+      "quote": "you want the most capable competent people who are doing the goddamn work to set set the direction"
+    },
+    {
+      "text": "Embrace a plurality of languages and frameworks; don't converge, and don't bolt static typing onto a dynamic language.",
+      "quote": "static typing is the one thing I will literally die on the hill for for Ruby we're not [ __ ] putting static typing into Ruby"
+    },
+    {
+      "text": "No-build JavaScript works in production, and many small cached files beat one bundle that churns on every change.",
+      "quote": "when you have one bundle the entire bundle turns over every single time you change a goddamn semicolon anywhere right that's not great for caching Dynamics"
+    },
+    {
+      "text": "Use AI as a better Google or pair programmer, but keep writing the code yourself; training wheels left on forever prevent real understanding.",
+      "quote": "the training wheels are great when you're first learning to balance but if you keep an on forever you're never gonna [ __ ] find balance"
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "types",
+    "ai",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

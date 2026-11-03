@@ -1,0 +1,37 @@
+{
+  "id": "yt-AoxoPfilKqE",
+  "title": "How Basecamp actually deletes data: the incineration pattern, 30-day grace, backups scrubbed",
+  "summary": "DHH argues programmers owe users real deletion, not a hidden flag, and walks through Basecamp's \"incineration\" code. Command objects traverse the account, buckets and recordings tree, scheduled 30 days out, with a trash stage, a short grace period and backup wipes.",
+  "principles": [
+    {
+      "text": "Deleted data should truly disappear, not just be flagged inaccessible. Programmers have an obligation to do it.",
+      "quote": "if you delete your data it should be gone it shouldn't be accessible years later for employees to access to be subpoenaed by someone suing you or the government the data should be gone"
+    },
+    {
+      "text": "Real deletion is deliberate engineering work. It never happens automatically in a multi-tenant database.",
+      "quote": "this doesn't happen automatically this is something you actually have to program"
+    },
+    {
+      "text": "Reserve a precise domain word for a precise process instead of overloading generic terms like delete or destroy.",
+      "quote": "we've come up with this term this notion this word of incineration and we're reserving that term to mean this specific thing"
+    },
+    {
+      "text": "Extract lifecycle behavior into a concern on the root object so it can be treated and discussed separately.",
+      "quote": "it's an aspect of the account I separated out from the account object itself such that we can treat and talk about it in separation"
+    },
+    {
+      "text": "Reuse the same deletion machinery at every level of the data tree: deleting a project is a subset of deleting an account.",
+      "quote": "we lean on the fact that the leading part of the Tree of data is a subset of deleting the entire tree of data"
+    },
+    {
+      "text": "Stage deletion with grace periods to protect users, while still honoring the promise to delete for real.",
+      "quote": "we kind of try to give as many steps as is reasonable while still honoring the principle of deleting the when it actually needs to be gone"
+    }
+  ],
+  "topics": [
+    "architecture",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

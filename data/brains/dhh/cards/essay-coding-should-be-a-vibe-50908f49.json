@@ -1,0 +1,37 @@
+{
+  "id": "essay-coding-should-be-a-vibe-50908f49",
+  "title": "Coding should be a vibe: why DHH won't hand AI the keyboard",
+  "summary": "DHH argues \"vibe coding\" appeals mostly to programmers stuck in unpleasant languages, and that Ruby's programmer-happiness premise makes writing code itself the enjoyable part. He uses AI as a pair programmer for lookups and questions but refuses to permanently give it the keyboard.",
+  "principles": [
+    {
+      "text": "Vibe coding's appeal comes from unpleasant development environments, not from coding being inherently a chore.",
+      "quote": "The appeal of \"vibe coding\" — where programmers lean back and prompt their way through an entire project with AI — appears partly to be based on the fact that so many development environments are deeply unpleasant to work with."
+    },
+    {
+      "text": "Programmer happiness is Ruby's core premise: writing code should be a joy, even at some cost to machine efficiency.",
+      "quote": "Ruby's entire premise is \"programmer happiness\": that writing code should be a joy."
+    },
+    {
+      "text": "Hiding bad syntax and boilerplate behind AI doesn't remove the mess; fix the language and ecosystem instead.",
+      "quote": "Only it's like cleaning your room by stuffing the mess under the bed — it doesn't make it go away!"
+    },
+    {
+      "text": "Code should read close to English and favor the human reader over the machine's strictness.",
+      "quote": "It should allow a richness of expression that serves the human reader instead of favoring the strictness preferred by the computer."
+    },
+    {
+      "text": "Writing code is the enjoyable part of the job; he won't give it up to manage AI agents.",
+      "quote": "I've had the option to retreat up the manager ladder for most of my career, but I've steadily refused, because I really like writing Ruby! It's the most enjoyable part of the job!"
+    },
+    {
+      "text": "AI is a superb pair programmer for lookups and questions, but the human keeps the keyboard.",
+      "quote": "AI is a superb pair programmer, but I'd retire before permanently handing it the keyboard to drive the code."
+    }
+  ],
+  "topics": [
+    "ai",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

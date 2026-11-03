@@ -1,0 +1,39 @@
+{
+  "id": "yt-0BlAHq8D79U",
+  "title": "Matt Pocock on building trust with AI agents: brakes first, automated review, and one-way doors",
+  "summary": "Matt Pocock explains how to move toward a software factory without producing slop. Build verification and review brakes before accelerating, use a fresh reviewer agent to stop cheating, and let a well-shaped codebase steer agents. He also covers Effect's dependency injection and why skills are really process plus leading words.",
+  "principles": [
+    {
+      "text": "Install brakes (verification, testing, evidence) before accelerating agent work, or the app turns into a slop cannon.",
+      "quote": "You need to get your brakes in first because if you don't push the quality high enough, you're going to turn your app into a slop cannon."
+    },
+    {
+      "text": "Use a separate automated reviewer agent to catch cheating; a prohibition given to the implementer becomes a positive search task for the reviewer.",
+      "quote": "if you pass that to a reviewer agent, that then becomes a positive instruction, right? Then, the reviewer agent is goes, \"Okay, I'm looking for X in the diff, and I will attempt to um find it and excise it.\""
+    },
+    {
+      "text": "Your codebase steers agent output as much as agents.md does, so improving it benefits every later session.",
+      "quote": "People underestimate the amount of steering that your code base can do on your output. You think of agents.md is the place where you put all of your instructions, but actually your code base is kind of like a massive agents.md but only code."
+    },
+    {
+      "text": "Prioritize human review by door type: any one-way (hard to reverse) change must be reviewed by a human.",
+      "quote": "every one-way door must be reviewed by human, is my opinion. There's no way that an agent should be doing that stuff"
+    },
+    {
+      "text": "Constrain agents with strong types and small swappable modules; Effect's real payoff is dependency injection, not just error handling.",
+      "quote": "I think the reason you go for effect is dependency injection, actually. It allows you to create these beautiful small modules that you can just swap out as needed"
+    },
+    {
+      "text": "When borrowing skills, steal the process and the 'leading words': compressed phrases that make agents do a whole complex behavior.",
+      "quote": "the things that I think are most valuable in skills are what I call the leading words, right? Are the phrases, the compressions that people have made where they're able to take a large complicated process and compress it into a few words"
+    }
+  ],
+  "topics": [
+    "ai",
+    "code-review",
+    "typescript",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

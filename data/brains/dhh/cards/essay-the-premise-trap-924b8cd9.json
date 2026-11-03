@@ -1,0 +1,38 @@
+{
+  "id": "essay-the-premise-trap-924b8cd9",
+  "title": "The premise trap: treat AI like a junior programmer",
+  "summary": "DHH says the hardest part of working with juniors, and with AI, is the premise trap: flawed assumptions in a first draft go unquestioned until too much time is sunk into polishing. Current AI is a superb junior that writes overcomplicated, subtly defective code, so seniors shouldn't delegate whole systems to it.",
+  "principles": [
+    {
+      "text": "Question a first draft's baked-in assumptions before investing in improving the implementation.",
+      "quote": "That's where the fundamental assumptions baked into the first draft of the code aren't questioned until you've already spent far too long improving the implementation."
+    },
+    {
+      "text": "Today's AI is like a superb junior programmer: great syntax and API knowledge, same tendency toward overcomplicated, subtly defective code.",
+      "quote": "Because AI at the moment is like a superb junior programmer. One with an encyclopedic knowledge about syntax and APIs, but also one saddled with the same propensities to produce overly-complicated, subtly-defective solutions."
+    },
+    {
+      "text": "AI code habitually pulls in needless dependencies, is verbose, and hits architectural dead ends.",
+      "quote": "But the propensity to pull in needless dependencies, the overly-verbose presentation, and the architectural dead ends are there all the time."
+    },
+    {
+      "text": "Seniors master trade-offs by working on proprietary code bases, which tutorial-trained models lack.",
+      "quote": "Senior human programmers all got started on the same information diet, but eventually graduated to higher levels of understanding and mastery by working on proprietary code bases."
+    },
+    {
+      "text": "Don't ask AI to produce whole systems if you care about quality; verifying its assumptions costs as much as doing the work.",
+      "quote": "It's rarely going to save you time asking it to produce an entire system, or even subsystem, if you care about the final quality of the architecture or implementation."
+    },
+    {
+      "text": "Stay bullish on AI but guard against signing off on slop and letting leaning on AI sap your own learning.",
+      "quote": "As well as alert to the danger of luring more senior programmers, including myself, into signing off on slop, while it saps our stamina for continued learning, as we lean too much on AI writing for us rather than teaching how."
+    }
+  ],
+  "topics": [
+    "ai",
+    "code-review",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-jjMbPt_H3RQ",
+  "title": "Enums considered harmful: why Matt Pocock replaces TypeScript enums with as const objects",
+  "summary": "Matt explains why TypeScript's enum keyword is a poor fit: it is not native JavaScript, produces surprising runtime objects, and makes TypeScript nominal. He recommends plain objects with `as const` plus a derived union type, which is more flexible and structurally typed, and says to flag enums in PRs without rejecting them.",
+  "principles": [
+    {
+      "text": "Prefer `as const` objects over enums; they fit TypeScript's structural typing and let callers pass plain values.",
+      "quote": "the thing that I do instead of using enums and I've seen this all over the place in open source application code is using a pojo a plain old JavaScript object that's just got this as const annotation on it"
+    },
+    {
+      "text": "Numeric enums compile to a reverse-mapped object, so Object.values returns surprising results at runtime.",
+      "quote": "it actually doesn't if we look at the transpiled JavaScript here then this log level actually ends up as a slightly different object"
+    },
+    {
+      "text": "Enums make TypeScript nominal, which clashes with the structural type system everywhere else.",
+      "quote": "for enums typescript becomes a nominal type system it cares about either whether it's a log level enum or a log level 2 2 enum here"
+    },
+    {
+      "text": "Avoid const enums, especially in library code, because they are dangerous when you don't control the compiler emitting them.",
+      "quote": "you should also never ever ever use them if you're inside Library code too because cons enums are really dangerous if you don't control the compiler that's emitting them"
+    },
+    {
+      "text": "`as const` objects can map semantic keys to richer values, and the type can be derived from keys or values, with less code than enums.",
+      "quote": "the other really cool thing about as const is it lets you be super flexible with the object that you create these keys in"
+    },
+    {
+      "text": "Be pragmatic in review: flag enums in PRs and suggest as const, but don't reject PRs just for using them.",
+      "quote": "I don't think you should reject PRS that have enums in but I do think you should try to monitor when they go into your code base and see if they're really necessary"
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "code-review",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

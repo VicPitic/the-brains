@@ -1,0 +1,38 @@
+{
+  "id": "yt-Yd3j3ZEx6DU",
+  "title": "Push specifics down: replacing type checks with polymorphism in a Basecamp pull request",
+  "summary": "DHH walks through a real Basecamp pull request (skipping reminders for already-answered questions) to show how to evolve code without degrading it. Keep generic classes stable by pushing type-specific logic down to the concrete classes via message passing, and choose names from everyday domain vocabulary.",
+  "principles": [
+    {
+      "text": "Changing existing code well means making it a little better along the way, and at the very least not worse.",
+      "quote": "the mission that we have is as part of writing software well to make things a little better along the way and at the very least not make them worse"
+    },
+    {
+      "text": "Keep generic classes free of knowledge about specific types; push specifics as far down as they go.",
+      "quote": "trying to push down the behavior that is specific to specific classes as far down as we possibly can get it"
+    },
+    {
+      "text": "A type check inside generic code is a smell; replace it with message passing (polymorphism) and let the concrete class answer.",
+      "quote": "as soon as you see type checks it's a smell and innocent indication that you can replace that type check with message passing"
+    },
+    {
+      "text": "Separate change schedules: a generic class shouldn't change when a specific rule's strategy changes, even if the inlined version reads clearer.",
+      "quote": "the reminder delivery should be on its own change schedule it shouldn't be changing when we're changing the strategy for figuring out whether a question has been answered or not"
+    },
+    {
+      "text": "Name methods in casual domain vocabulary; 'needed' beats 'pertinent' because it's what you'd say in conversation.",
+      "quote": "something that's as close as possible to the domain vocabulary that you would use in common conversation about this"
+    },
+    {
+      "text": "Pushing logic down prevents mega classes bloated with type tags and per-object exceptions as the system ages.",
+      "quote": "we won't get these mega classes that aren't large because they do a lot of stuff but because they have a lot of type tags that sort of have exceptions for for different objects"
+    }
+  ],
+  "topics": [
+    "architecture",
+    "code-review",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

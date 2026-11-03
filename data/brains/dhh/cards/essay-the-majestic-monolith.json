@@ -1,0 +1,37 @@
+{
+  "id": "essay-the-majestic-monolith",
+  "title": "The Majestic Monolith: why small teams should embrace one integrated system, not microservices",
+  "summary": "DHH argues microservices/SOA suit organizations with thousands of developers, and copying them is cargo culting. Small teams should build an integrated \"majestic monolith\" that removes needless abstraction and stays understandable by individuals, as Basecamp does with about 12 programmers across six platforms.",
+  "principles": [
+    {
+      "text": "Microservices fit very large orgs; copying Amazon or Google at small scale is cargo culting.",
+      "quote": "The patterns that make sense for organizations orders of magnitude larger than yours, are often the exact opposite ones that’ll make sense for you. It’s the essence of cargo culting."
+    },
+    {
+      "text": "Don't distribute your computing unless you truly have no choice.",
+      "quote": "The problem with prematurely turning your application into a range of services is chiefly that it violates the #1 rule of distribute computing: Don’t distribute your computing!"
+    },
+    {
+      "text": "Extracting services trades object collaboration for failure states, migrations and operational pain.",
+      "quote": "Every time you extract a collaboration between objects to a collaboration between systems, you’re accepting a world of hurt with a myriad of liabilities and failure states."
+    },
+    {
+      "text": "A majestic monolith is an intentionally integrated system that eliminates needless abstraction and conceptual models.",
+      "quote": "It’s an integrated system that collapses as many unnecessary conceptual models as possible. Eliminates as much needless abstraction as you can swing a hammer at."
+    },
+    {
+      "text": "A small team can run a large, multi-platform product by committing to the monolith plus a hybrid app model.",
+      "quote": "I believe the only possible way to do so with a small team of ~12 programmers is do explicitly choose and commit to The Majestic Monolith, in all its controversial glory."
+    },
+    {
+      "text": "Integrate systems until no single person can hold it all in their head; tooling hasn't changed that.",
+      "quote": "Integrate your systems until it’s impossible for one person to hold it all in their head. We still haven’t gotten there with Basecamp or any of our apps."
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

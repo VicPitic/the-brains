@@ -1,0 +1,37 @@
+{
+  "id": "essay-how-to-recover-from-microservices-ce3803cc",
+  "title": "How to recover from microservices: DHH on returning to the majestic monolith",
+  "summary": "DHH argues microservices-first is rarely justified and that most systems should start and stay as a majestic monolith. For teams already in the mess, he gives a five-step recovery plan: stop adding services, consolidate critical flows, keep true performance hotspots, prune esoteric languages, and partition with modules rather than networks.",
+  "principles": [
+    {
+      "text": "Start and stay with a majestic monolith; microservices-first suits very few systems.",
+      "quote": "The vast majority of systems are much better served by starting and staying with a majestic monolith."
+    },
+    {
+      "text": "GitHub and Shopify run monoliths with millions of lines and thousands of programmers; you likely need less.",
+      "quote": "even the likes of GitHub and Shopify run their main applications as monoliths with millions of lines of code and have thousands of programmers collaborating on them."
+    },
+    {
+      "text": "Recovery begins by not creating more microservices, then picking one as the center that absorbs the rest.",
+      "quote": "You can't clean up a mess before you stop making more of it."
+    },
+    {
+      "text": "Consolidate first the services that splinter a single coherent flow like signup or checkout.",
+      "quote": "The worst form of microservice madness is when you splinter a single, coherent flow across multiple systems."
+    },
+    {
+      "text": "Limit backend languages to two: a productive general one and a fast one for rare hotspots.",
+      "quote": "The vast majority of systems should have no more than two backend languages in play at any one time"
+    },
+    {
+      "text": "Partition large systems with modules and namespaces, not network boundaries; complex systems must evolve from simple ones.",
+      "quote": "A complex system that works is invariably found to have evolved from a simple system that works."
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

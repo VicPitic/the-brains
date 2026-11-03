@@ -1,0 +1,39 @@
+{
+  "id": "yt-LMpMmOWTtVk",
+  "title": "Matt Pocock on aligning with AI agents: Grill Me, glossaries, and pruning skills",
+  "summary": "Matt Pocock demos his open-source skills repo, showing how a short \"grill me\" interview before work beats a generic agent run. He covers glossaries for consistent language, splitting specs into tickets, looping agents deterministically, and cutting no-op lines from skills.",
+  "principles": [
+    {
+      "text": "Spend time aligning with the agent before it implements or reviews anything.",
+      "quote": "most people don't spend enough time on the pre-alignment phase, right? On the aligning before you do the thing."
+    },
+    {
+      "text": "Start at low fidelity (plain text) and only move up to higher fidelity later.",
+      "quote": "when you're first starting out, it's often really good to operate at a really low fidelity. In other words, just text."
+    },
+    {
+      "text": "Your priorities are invisible to the agent, so you must surface them through conversation.",
+      "quote": "there's a communication gap between you and the agent. And that's always going to be there, right?"
+    },
+    {
+      "text": "Agree on names for concepts and use them everywhere, since consistent language helps agents navigate code.",
+      "quote": "the thing about agents is that they thrive off consistent language."
+    },
+    {
+      "text": "Prune no-ops from skills: lines that change nothing about agent behavior.",
+      "quote": "they will write things inside the skill that do nothing to change the actual outputs of the skill or the behavior of the agent reading that skill. And I call these no-ops."
+    },
+    {
+      "text": "Looping over tickets can be a deterministic script rather than an agent.",
+      "quote": "You just have to just loop over that, and that can be deterministic. It doesn't have to be an agent."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

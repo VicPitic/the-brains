@@ -1,0 +1,37 @@
+{
+  "id": "yt-m1jOWu7woKM",
+  "title": "DHH on callbacks: tracing the Basecamp mentions feature to manage auxiliary complexity",
+  "summary": "DHH walks through the Basecamp 3 mentions feature, tracing it from controller through concern, callbacks, background job and eavesdropper class. He argues callbacks push auxiliary complexity off to the side so the main flow stays simple, and that opt-out via suppression is the key to using them safely.",
+  "principles": [
+    {
+      "text": "Callbacks move incidental complexity aside so most code can pretend to be on a simple default path.",
+      "quote": "I think callbacks allow you to take incidental complexity and considerations and move them sort of off to the side since that most of the code can just pretend to be in a simple default path"
+    },
+    {
+      "text": "Side effects are a feature, not a smell; use them to progressively enhance a main flow.",
+      "quote": "I think side-effects are wonderful for a whole host of uses and I love having side effects that as I said sort of go off and adorn or progressively enhance a main flow"
+    },
+    {
+      "text": "Callbacks need an opt-out; design a suppression mechanism for the non-default path.",
+      "quote": "the thing about callbacks is you want to use them on the default path you want it to happen most of the time but there are scenarios where you don't want them to happen"
+    },
+    {
+      "text": "Push non-essential work into background jobs so requests do less blocking work.",
+      "quote": "if we take some of that work that is not required to happen at the same time as the recording of the message and shove it up on basically a different queue and have it happen in a job then we're doing less work that's blocking"
+    },
+    {
+      "text": "Don't move auxiliary logic into a service object or transaction script; it doesn't get clearer, and it deserves to sit on the side.",
+      "quote": "I don't think any of these things get clearer if you do that the fact is mentions is an auxilary concern it's not the main purpose of what we're doing here"
+    },
+    {
+      "text": "Concerns let you treat an aspect as one cohesive unit without burdening the main class.",
+      "quote": "We don't have to burden the recording class itself with all this logic and all this setup to it we can treat this whole aspect as one cohesive unit"
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

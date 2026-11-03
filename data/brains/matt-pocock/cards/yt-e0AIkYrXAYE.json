@@ -1,0 +1,37 @@
+{
+  "id": "yt-e0AIkYrXAYE",
+  "title": "Types vs Interfaces: why Matt Pocock reversed his 2022 take and now defaults to interface extends",
+  "summary": "Matt revisits his 2022 types-vs-interfaces video and corrects it. The real performance issue is interface extends versus intersections, not type versus interface for a plain object. He now defaults to interface for extending, and says single-object choice barely matters.",
+  "principles": [
+    {
+      "text": "The TypeScript perf advice contrasts interface extends with intersections, not types with interfaces; declaring a basic object either way has no performance difference.",
+      "quote": "Declaring an interface and a type just as a basic object are not going to give you any performance differences. It's about when you smoosh object types together."
+    },
+    {
+      "text": "Interface extends is faster than intersections because TypeScript checks each hierarchical level and errors on incompatible properties rather than silently producing never.",
+      "quote": "This hierarchical relationship means that TypeScript is able to check at each level. Whereas when you smoosh these guys together with the intersection, it's not quite so easy for TypeScript."
+    },
+    {
+      "text": "Intersections used repeatedly across a large codebase, such as extending a button's props, can wreck type-checking performance; interface extends gave Sentry a big speedup.",
+      "quote": "They halved their compile times and made the developer experience instantly reflect type changes."
+    },
+    {
+      "text": "Default to interface extends over intersections when composing object types.",
+      "quote": "I think that just the thing you need to remember is default to interface extends over intersections."
+    },
+    {
+      "text": "Interface declaration merging is a risk, but a lint rule (no-unsafe-declaration-merging) handles it, so it is not a big deal.",
+      "quote": "You can handle the edge cases with declaration merging with an ESLint rule."
+    },
+    {
+      "text": "Interfaces are not assignable to index-signature record types because they could later be extended, whereas type aliases are; this edge case comes up rarely.",
+      "quote": "The reason for this is that an interface could later be extended. In other words, it could be declaration merged by something else."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

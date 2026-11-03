@@ -1406,5 +1406,92 @@
         "search": "Simon Høiberg on social media growth, content, building FeedHive"
       }
     ]
+  },
+  {
+    "slug": "dhh",
+    "name": "DHH",
+    "x": "dhh",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "DHH interview Lex Fridman",
+      "David Heinemeier Hansson podcast",
+      "DHH Rails World keynote",
+      "DHH TypeScript removed types",
+      "DHH cloud exit",
+      "DHH programming beautiful code",
+      "DHH AI coding"
+    ],
+    "sites": [
+      {
+        "domain": "world.hey.com",
+        "search": "DHH essays on programming, Rails, types, testing, simplicity, software design, cloud exit, AI"
+      },
+      {
+        "domain": "dhh.dk",
+        "search": "DHH essays on programming, TDD, software design and running a company"
+      },
+      {
+        "domain": "rubyonrails.org",
+        "search": "The Rails Doctrine and DHH's writing on conceptual compression and the one person framework"
+      }
+    ],
+    "focus": {
+      "domain": "software design and engineering opinions: simplicity, programmer happiness, conventions, the majestic monolith, testing and TDD, dynamic versus static typing, code review, cloud exit, small teams, and AI coding",
+      "substance": "concrete engineering and software design substance",
+      "topics": [
+        "simplicity",
+        "types",
+        "testing",
+        "architecture",
+        "code-review",
+        "ai",
+        "building",
+        "leadership",
+        "productivity"
+      ],
+      "audience": "a software engineer",
+      "xTerms": "(code OR programming OR programmer OR Ruby OR Rails OR TypeScript OR types OR tests OR testing OR TDD OR monolith OR microservices OR abstraction OR cloud OR AI OR agent OR Omarchy OR Linux)",
+      "search": "views on programming, software design, types, testing and AI coding"
+    }
+  },
+  {
+    "slug": "matt-pocock",
+    "name": "Matt Pocock",
+    "x": "mattpocockuk",
+    "youtubeChannelQuery": "Matt Pocock",
+    "youtubeQueries": [
+      "Matt Pocock interview",
+      "Matt Pocock podcast TypeScript",
+      "Matt Pocock AI coding agents",
+      "Matt Pocock TypeScript best practices",
+      "Matt Pocock code review AI"
+    ],
+    "sites": [
+      {
+        "domain": "totaltypescript.com",
+        "search": "Matt Pocock articles on TypeScript types, any, generics, inference, library design and best practices"
+      },
+      {
+        "domain": "aihero.dev",
+        "search": "Matt Pocock articles on AI engineering, coding agents, evals and working with AI"
+      }
+    ],
+    "focus": {
+      "domain": "TypeScript and engineering practice: type safety, inference, avoiding any, generics, error handling, library and API design, teaching developers, and working with AI coding agents",
+      "substance": "concrete TypeScript and engineering substance",
+      "topics": [
+        "typescript",
+        "types",
+        "api-design",
+        "testing",
+        "code-review",
+        "ai",
+        "learning",
+        "building"
+      ],
+      "audience": "a software engineer",
+      "xTerms": "(TypeScript OR types OR type OR any OR generics OR inference OR zod OR Effect OR tests OR testing OR AI OR agent OR agents OR Claude OR Cursor OR code OR PR OR review OR refactor)",
+      "search": "views on TypeScript, type safety, API design and AI coding agents"
+    }
   }
 ]

@@ -1,0 +1,37 @@
+{
+  "id": "essay-an-unknown-cant-always-fix-an-any",
+  "title": "Why generics, not unknown, are how Matt Pocock removes any from utility functions",
+  "summary": "Matt shows that swapping `any` for `unknown` only moves the problem: `any` causes bugs, `unknown` forces runtime validation boilerplate. Using a groupBy utility as the example, he argues generics are the only way to type such functions so consumers get exact types with no casts or checks.",
+  "principles": [
+    {
+      "text": "Any `any` disables type checking on what it touches and leaks across your app to everything that consumes it.",
+      "quote": "Any `any` in a codebase is a cause for concern. That's because it disables type checking on the thing it's assigned to."
+    },
+    {
+      "text": "Reaching for `any` is often a way to silence a TypeScript error you don't understand; fix the type instead.",
+      "quote": "One reason could be that you're trying to solve a bug you don't understand."
+    },
+    {
+      "text": "For indexing objects built in loops, use Record or an `as` cast, depending on how specific the type should be.",
+      "quote": "the best way to solve and error like the above is either with a Record, or with an `as` type - depending on how specific a type you want `obj` to be"
+    },
+    {
+      "text": "Too few generics is another way `any`s creep in; utility functions need them to relate inputs to outputs.",
+      "quote": "Another way `any`s creep into your code is when you don't use enough generics."
+    },
+    {
+      "text": "`unknown` is safer than `any` but just moves the problem: consumers must add runtime validation boilerplate.",
+      "quote": "Unnecessary `unknown`s in your codebase are bad because they bloat your runtime code with boilerplate."
+    },
+    {
+      "text": "Generics break the any/unknown Catch-22: consumers get exact types with no casts or validation, even if the signature is complex.",
+      "quote": "The way out of this Catch-22 is generics."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

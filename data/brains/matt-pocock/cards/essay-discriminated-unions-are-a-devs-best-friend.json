@@ -1,0 +1,38 @@
+{
+  "id": "essay-discriminated-unions-are-a-devs-best-friend",
+  "title": "Discriminated unions over 'bag of optionals': modeling frontend state in TypeScript",
+  "summary": "Matt Pocock argues that most frontend complexity comes from handling states, and that handling starts with how states are typed. He contrasts a 'bag of optionals' type, which permits impossible shapes, with a discriminated union that makes each state carry exactly its own data. He also extends the idea to component props.",
+  "principles": [
+    {
+      "text": "Most frontend complexity is state handling, and handling states starts with how they are represented in types.",
+      "quote": "Most of the complexity in frontend comes from handling all the various states your app can be in."
+    },
+    {
+      "text": "A 'bag of optionals' type permits impossible states; use optionals only when a value truly may or may not be present.",
+      "quote": "Optional properties are best used when a value might or might not be present. In this case, that isn't right."
+    },
+    {
+      "text": "Model state as a discriminated union so each status carries exactly the data that exists in that state.",
+      "quote": "The more accurate way to represent this is using a discriminated union."
+    },
+    {
+      "text": "Build the union by scaffolding the discriminant branches first, then adding each branch's own properties.",
+      "quote": "Now that we've got our scaffolding, we can start adding elements to each branch of the union."
+    },
+    {
+      "text": "TypeScript's strictness on unions is a feature; it pushes you to think in states and access data only where it exists.",
+      "quote": "By ensuring you can only access data when the status equals `success`, you're encouraged to think of your app in terms of its states, and only access data in the states it's available."
+    },
+    {
+      "text": "Use discriminated unions for component props when a component renders in different variants, so variant-specific props are required only when relevant.",
+      "quote": "What if you need to display a component in two slightly different ways? Use a discriminated union:"
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

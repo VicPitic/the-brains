@@ -1,0 +1,38 @@
+{
+  "id": "yt-9VNG0h4pLh0",
+  "title": "Never Trust An LLM: why hallucinations happen and how to work around them",
+  "summary": "Matt explains the types of LLM hallucination (factual errors, fabricated entities, contextual inconsistency), why they happen (compression of training data and benchmarks that reward guessing), and practical workarounds. The core advice is to feed the model information in context, tell it to use its search tool, and manually verify anything critical.",
+  "principles": [
+    {
+      "text": "Never implicitly trust an LLM; hallucinations are common enough to warrant constant paranoia, even while staying pro-LLM.",
+      "quote": "These hallucinations are so unbelievably common that I am now paranoid about everything an LLM says to me and I will never ever trust an LLM."
+    },
+    {
+      "text": "Distinguish intrinsic hallucinations (contradicting context you sent) from extrinsic ones (guessing beyond context).",
+      "quote": "There are two types of hallucinations. There are hallucinations based on intrinsic information and extrinsic information."
+    },
+    {
+      "text": "LLMs are far more reliable when you send them the information first than when they rely on training data.",
+      "quote": "My experience with LLMs is that they're much, much more reliable when you send them the information first."
+    },
+    {
+      "text": "Expect LLMs to invent packages, laws and entities; hallucinated packages open developers to supply chain attacks.",
+      "quote": "Attackers can exploit a common AI experience, false recommendations, to spread malicious code via developers that use ChatGPT to create software."
+    },
+    {
+      "text": "Hallucinations occur because training and evaluation reward guessing over admitting uncertainty.",
+      "quote": "We argue that the language models hallucinate because the training and evaluation procedures reward guessing over acknowledging uncertainty."
+    },
+    {
+      "text": "Prompt the model with 'Use your search tool' so it pulls sources into context; for critical matters, still read the documents yourself.",
+      "quote": "whenever you're prompting the LLM to ask it for information, say, \"Use your search tool.\" Because then it will pull the articles into its context"
+    }
+  ],
+  "topics": [
+    "ai",
+    "testing",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-kZ-zzHVUrO4",
+  "title": "How Matt Pocock uses Claude Code for real engineering: plan mode, multi-phase plans, GitHub issues",
+  "summary": "Matt walks through building a CLI feature with Claude Code. He starts in plan mode, answers clarifying questions, splits the work into phases, stores the plan as a GitHub issue, and clears context between phases. His memory file keeps replies concise and ends each plan with unresolved questions.",
+  "principles": [
+    {
+      "text": "Start big work in plan mode so the agent explores the codebase and asks clarifying questions before writing code.",
+      "quote": "Whenever I embark out on a big piece of work, I'm always thinking about creating a plan first."
+    },
+    {
+      "text": "Tell the agent to be extremely concise in every interaction; it makes plans easy to read.",
+      "quote": "in all interactions and commit messages, be extremely concise and sacrifice grammar for the sake of concision."
+    },
+    {
+      "text": "Have each plan end with a list of unresolved questions so you can answer them before execution.",
+      "quote": "at the end of each plan, give me a list of unresolved questions to answer, if any, and again, make the questions extremely concise."
+    },
+    {
+      "text": "Break large plans into phases so work can span multiple context windows without overrunning the LLM.",
+      "quote": "if this piece of work is too large, it's going to overrun the context window of the LLM. It's going to be much better going forward if I break this into a multi-phase plan"
+    },
+    {
+      "text": "Do heavy upfront planning, then run execution with auto-accept edits; review the diff at the end of each phase.",
+      "quote": "Now that we've done the planning, we can be pretty aggressive with accept edits on because we understand the implementation a bit and we kind of get what's going on."
+    },
+    {
+      "text": "Store the multi-phase plan as a GitHub issue so it survives context resets and teammates can comment async.",
+      "quote": "I really like keeping these assets in the cloud because then actually people can comment on them, add stuff overnight, add stuff async."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

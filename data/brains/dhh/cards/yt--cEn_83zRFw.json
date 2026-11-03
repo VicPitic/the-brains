@@ -1,0 +1,37 @@
+{
+  "id": "yt--cEn_83zRFw",
+  "title": "Rails World 2024 keynote: Rails 8, no build, and leaving the cloud",
+  "summary": "DHH launches Rails 8 as the bridge from Hello World to IPO: no build, no PaaS, and a one-person framework. He argues for invalidating stale patterns, deploying your own servers on cheap hardware, and collapsing queues, cache and cable into one SQLite/database stack.",
+  "principles": [
+    {
+      "text": "Ship working software as the monument that ends the argument that your approach can't work.",
+      "quote": "the best way to refute that is not to get into an argument it is to ship working software and once you've shipped that working software you have a monument to the argument that is simply immovable"
+    },
+    {
+      "text": "Rails extracts proven solutions from real production apps rather than building speculative frameworks.",
+      "quote": "we are not in the business of making speculative Frameworks in the rails community we are in the business of taking solutions that we have proven to work in real applications with real customers under real production pressures"
+    },
+    {
+      "text": "Complexity is a necessary step toward progress, but you're only done once it's made simple.",
+      "quote": "we're not done by the time we've solved it we're done by the time we've made it simple"
+    },
+    {
+      "text": "Optimize for limited human brain capacity so one full-stack developer can hold the whole problem in their head.",
+      "quote": "the purpose is to optimize for our limited monkey brains they simply can't fit that much"
+    },
+    {
+      "text": "Optimize for getting to the billions, not for the hypothetical scaling pain after you have them.",
+      "quote": "the problem to optimize for is how do we get to the billions that's the path"
+    },
+    {
+      "text": "Rails should let you deploy to your own hardware without paying a PaaS; cloud fear is marketing-induced learned helplessness.",
+      "quote": "rails will be a framework not just now but going forward that does not require you to pay a commercial vendor to go to production in a way that feels reasonable and approachable"
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

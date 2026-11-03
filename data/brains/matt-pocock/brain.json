@@ -1,0 +1,1517 @@
+{
+  "schemaVersion": 1,
+  "slug": "matt-pocock",
+  "name": "Matt Pocock",
+  "shortName": "Matt Pocock",
+  "tagline": "Author of Total TypeScript and AI Hero; teaches devs for a living",
+  "role": "TypeScript and AI coding educator",
+  "company": "AI Hero",
+  "categories": [
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "I think code is not cheap. In fact, bad code is the most expensive it's ever been.",
+    "sourceId": "yt-v4F1gFy-hqg"
+  },
+  "topics": [
+    {
+      "id": "ai-coding-workflow",
+      "label": "AI coding workflow",
+      "summary": "Grilling sessions, shared language, vertical slices, small context windows and AFK agents.",
+      "sampleQuestion": "How do I split a big feature so an agent doesn't run out of context?",
+      "sourceIds": [
+        "yt--QFHIoCo-Ko",
+        "yt-hX7yG1KVYhI",
+        "yt-d_BuVJgadxs",
+        "yt-LMpMmOWTtVk",
+        "yt-nQwJVHCtDDY",
+        "yt-4DhcSPkEbwI",
+        "essay-tracer-bullets",
+        "essay-never-run-claude-init"
+      ]
+    },
+    {
+      "id": "codebase-design-for-agents",
+      "label": "Codebase design for agents",
+      "summary": "Deep modules, grey box testing and easy-to-change code as the biggest influence on agent output.",
+      "sampleQuestion": "How do I make my codebase easier for coding agents to work in?",
+      "sourceIds": [
+        "yt-uC44zFz7JSM",
+        "yt-3MP8D-mdheA",
+        "yt-v4F1gFy-hqg",
+        "yt-Z8lf5oWKfj0",
+        "essay-how-to-make-codebases-ai-agents-love",
+        "essay-skills-codebase-design",
+        "essay-skills-improve-codebase-architecture",
+        "essay-ways-ai-coding-has-rewired-my-brain"
+      ]
+    },
+    {
+      "id": "agent-review-and-feedback-loops",
+      "label": "Agent review and feedback loops",
+      "summary": "Types, tests, hooks, reviewer agents, repro loops and human review of one-way doors.",
+      "sampleQuestion": "What checks should I add before I trust an agent's pull request?",
+      "sourceIds": [
+        "yt-LlgiOCmFG_w",
+        "yt-0BlAHq8D79U",
+        "yt-mh5XZ-L5SFQ",
+        "essay-skills-code-review",
+        "essay-skills-tdd",
+        "essay-skills-diagnosing-bugs",
+        "essay-skills-pr",
+        "essay-essential-ai-coding-feedback-loops-for-type-script-projects"
+      ]
+    },
+    {
+      "id": "type-safety-and-validation",
+      "label": "Type safety and runtime validation",
+      "summary": "When to allow any, when to validate with Zod, modeling state with unions, and typed errors.",
+      "sampleQuestion": "When should I validate data with Zod instead of trusting my types?",
+      "sourceIds": [
+        "essay-any-considered-harmful",
+        "essay-an-unknown-cant-always-fix-an-any",
+        "essay-when-should-you-use-zod",
+        "essay-typescript-types-dont-exist-at-runtime",
+        "essay-discriminated-unions-are-a-devs-best-friend",
+        "essay-handle-errors-with-a-generic-result-type",
+        "essay-my-advice-for-security-critical-ts-apps",
+        "yt-8bOBE655gRQ"
+      ]
+    },
+    {
+      "id": "generics-and-library-types",
+      "label": "Generics and library types",
+      "summary": "Type parameters, inference from runtime arguments, constraints, and testing types in libraries.",
+      "sampleQuestion": "How do I write a generic function so callers never pass type arguments?",
+      "sourceIds": [
+        "yt-dLPgQRbVquo",
+        "essay-no-such-thing-as-a-generic",
+        "essay-typescript-generics-in-three-easy-patterns",
+        "essay-how-to-test-your-types",
+        "yt-qJUEEi7lglE",
+        "yt-HyqHhjKMnyE",
+        "x-1625838626742435842",
+        "x-1822917967316676787"
+      ]
+    },
+    {
+      "id": "typescript-language-choices",
+      "label": "TypeScript language choices",
+      "summary": "Enums vs as const, type vs interface, deriving vs decoupling, where types live, method shorthand.",
+      "sampleQuestion": "Should I use enums or as const objects?",
+      "sourceIds": [
+        "yt-jjMbPt_H3RQ",
+        "essay-why-i-dont-like-typescript-enums",
+        "yt-e0AIkYrXAYE",
+        "essay-type-vs-interface-which-should-you-use",
+        "essay-deriving-vs-decoupling",
+        "essay-where-to-put-your-types-in-application-code",
+        "essay-method-shorthand-syntax-considered-harmful",
+        "essay-should-you-declare-return-types"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Your codebase, more than prompts or AGENTS.md, is the biggest influence on AI output, so keep it easy to change.",
+      "sourceIds": [
+        "yt-uC44zFz7JSM",
+        "essay-how-to-make-codebases-ai-agents-love",
+        "yt-nQwJVHCtDDY"
+      ]
+    },
+    {
+      "text": "Prefer a few deep modules with simple interfaces: design the interface yourself and delegate the implementation.",
+      "sourceIds": [
+        "yt-uC44zFz7JSM",
+        "essay-ways-ai-coding-has-rewired-my-brain",
+        "yt-d_BuVJgadxs"
+      ]
+    },
+    {
+      "text": "Before implementing, have the agent grill you until you reach a shared understanding; agents can't read your mind.",
+      "sourceIds": [
+        "yt-v4F1gFy-hqg",
+        "yt-nQwJVHCtDDY",
+        "yt-Z8lf5oWKfj0"
+      ]
+    },
+    {
+      "text": "Install brakes first: cheap checks, a separate reviewer agent, then human review. Speed without them is a slop cannon.",
+      "sourceIds": [
+        "yt-0BlAHq8D79U",
+        "yt-LlgiOCmFG_w"
+      ]
+    },
+    {
+      "text": "Ban `any` by default, and use generics, not `unknown`, to give utility functions exact types without casts.",
+      "sourceIds": [
+        "essay-any-considered-harmful",
+        "essay-an-unknown-cant-always-fix-an-any"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I structure a codebase so AI coding agents work well in it?",
+      "answer": [
+        {
+          "text": "Treat the agent as a new starter with no memory. Your codebase shapes its output more than your prompts or AGENTS.md do.",
+          "sourceIds": [
+            "yt-uC44zFz7JSM",
+            "essay-how-to-make-codebases-ai-agents-love"
+          ]
+        },
+        {
+          "text": "Use a few deep modules with simple interfaces, not many shallow modules with big interfaces.",
+          "sourceIds": [
+            "essay-ways-ai-coding-has-rewired-my-brain",
+            "yt-3MP8D-mdheA"
+          ]
+        },
+        {
+          "text": "Treat them as grey boxes: you own the interface, AI owns the implementation, and tests keep it honest.",
+          "sourceIds": [
+            "essay-how-to-make-codebases-ai-agents-love"
+          ]
+        },
+        {
+          "text": "Don't cut a seam until something varies across it. A seam with a single adapter is just indirection.",
+          "sourceIds": [
+            "essay-skills-codebase-design"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When is `any` acceptable in TypeScript?",
+      "answer": [
+        {
+          "text": "Ban it by default with the ESLint rule, and use eslint-disable for the legitimate exceptions.",
+          "sourceIds": [
+            "essay-any-considered-harmful"
+          ]
+        },
+        {
+          "text": "Use it in wide type argument constraints such as `any[]` parameters, because an `unknown` constraint rejects functions with real parameters.",
+          "sourceIds": [
+            "essay-any-considered-harmful"
+          ]
+        },
+        {
+          "text": "When a generic function returns a conditional type, `as any` plus a unit test is often better, since TypeScript can't verify the return.",
+          "sourceIds": [
+            "essay-any-considered-harmful"
+          ]
+        },
+        {
+          "text": "In utility functions, swapping `any` for `unknown` only moves the problem to consumers. Generics are the way out.",
+          "sourceIds": [
+            "essay-an-unknown-cant-always-fix-an-any"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What should I do before an agent starts implementing a feature?",
+      "answer": [
+        {
+          "text": "Have it interview you relentlessly about the plan until you reach a shared understanding, rather than rushing to a plan.",
+          "sourceIds": [
+            "yt-v4F1gFy-hqg",
+            "yt-d_BuVJgadxs"
+          ]
+        },
+        {
+          "text": "Agree on names for concepts in a shared glossary, because agents thrive on consistent language.",
+          "sourceIds": [
+            "yt-LMpMmOWTtVk",
+            "yt-hX7yG1KVYhI"
+          ]
+        },
+        {
+          "text": "Split the work into thin vertical slices sized for one session, so each one stays in the smart zone and gets feedback early.",
+          "sourceIds": [
+            "yt--QFHIoCo-Ko",
+            "essay-tracer-bullets"
+          ]
+        },
+        {
+          "text": "Treat specs as temporary scheduling artifacts and delete them once the code lands.",
+          "sourceIds": [
+            "yt-d_BuVJgadxs"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-v4F1gFy-hqg",
+    "yt--QFHIoCo-Ko",
+    "yt-uC44zFz7JSM",
+    "essay-ways-ai-coding-has-rewired-my-brain",
+    "yt-dLPgQRbVquo",
+    "essay-an-unknown-cant-always-fix-an-any"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_400x400.jpg",
+    "alt": "Photo of Matt Pocock"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/mattpocockuk",
+      "label": "@mattpocockuk"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@mattpocockuk"
+    },
+    {
+      "kind": "website",
+      "url": "https://totaltypescript.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://aihero.dev"
+    }
+  ],
+  "followers": {
+    "x": 384143,
+    "youtube": 430000,
+    "asOf": "2026-11-03"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 54,
+    "xPostCount": 46,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 46,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 24,
+      "podcast": 0,
+      "essay": 30
+    },
+    "transcriptMinutes": 1034,
+    "dateRange": {
+      "from": "2023-01",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-11-03T17:38:49.086Z",
+  "updatedAt": "2026-11-03T17:38:49.086Z",
+  "sources": [
+    {
+      "id": "yt-LlgiOCmFG_w",
+      "type": "youtube",
+      "title": "How Matt Pocock fixes the PR bottleneck: automated checks, automated review, then lighter human review",
+      "url": "https://www.youtube.com/watch?v=LlgiOCmFG_w",
+      "publishedAt": "2026-10-03",
+      "outlet": "AI Engineer",
+      "durationSec": 1355,
+      "views": 316403,
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt argues AI-driven PR volume needs \"brakes\" so a software factory doesn't become a slop cannon. He layers cheap automated checks, a separate coding-standards reviewer agent that commits fixes, and "
+    },
+    {
+      "id": "yt-v4F1gFy-hqg",
+      "type": "youtube",
+      "title": "Software fundamentals matter more than ever: why specs-to-code fails and how old books fix AI coding",
+      "url": "https://www.youtube.com/watch?v=v4F1gFy-hqg",
+      "publishedAt": "2026-05-03",
+      "outlet": "AI Engineer and Matt Pocock",
+      "durationSec": 1106,
+      "views": 1480755,
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt Pocock argues that \"specs-to-code\" produces ever-worse code because it divests from design, and that classic books (Ousterhout, Pragmatic Programmer, Brooks, DDD, Beck) give the fixes. He walks t"
+    },
+    {
+      "id": "yt--QFHIoCo-Ko",
+      "type": "youtube",
+      "title": "How Matt Pocock runs an AI coding workflow: grill, PRD, Kanban issues, AFK agents, deep modules",
+      "url": "https://www.youtube.com/watch?v=-QFHIoCo-Ko",
+      "publishedAt": "2026-05-03",
+      "outlet": "AI Engineer and Matt Pocock",
+      "durationSec": 5790,
+      "views": 1955308,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "A 2-hour workshop where Matt applies old-school software engineering fundamentals to coding agents. He covers the smart/dumb zone, aligning with a \"grill me\" session, a PRD as destination, vertical-sl"
+    },
+    {
+      "id": "yt-4DhcSPkEbwI",
+      "type": "youtube",
+      "title": "How Matt Pocock builds AI agent skills from classic software fundamentals",
+      "url": "https://www.youtube.com/watch?v=4DhcSPkEbwI",
+      "publishedAt": "2026-10-03",
+      "outlet": "The Pragmatic Engineer and Matt Pocock",
+      "durationSec": 5797,
+      "views": 249910,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt Pocock explains how he moved from TypeScript education to AI agent skills (grill me, wayfinder, spec and tickets). He argues that old books like The Pragmatic Programmer, Philosophy of Software D"
+    },
+    {
+      "id": "yt-nQwJVHCtDDY",
+      "type": "youtube",
+      "title": "Matt Pocock's agentic workflow: strategic programming, AFK agents, harness over model",
+      "url": "https://www.youtube.com/watch?v=nQwJVHCtDDY",
+      "publishedAt": "2026-07-03",
+      "outlet": "David Ondrej and Matt Pocock",
+      "durationSec": 3745,
+      "views": 490663,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt argues AI has eaten tactical programming, so strategic skill (design, interfaces, scoping, codebase quality) is the ceiling on what agents can do. He covers procedure vs ability skills, grill-me,"
+    },
+    {
+      "id": "yt-Z8lf5oWKfj0",
+      "type": "youtube",
+      "title": "Matt Pocock on why communication and codebase quality matter most when working with AI agents",
+      "url": "https://www.youtube.com/watch?v=Z8lf5oWKfj0",
+      "publishedAt": "2026-10-20",
+      "outlet": "Nate Herk | AI Automation and Matt Pocock",
+      "durationSec": 2691,
+      "views": 480163,
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt Pocock explains how he works with coding agents after the late-2025 threshold: raise the floor of the codebase, tell agents what you care about, and surface unknown unknowns with his grill-me ski"
+    },
+    {
+      "id": "yt-d_BuVJgadxs",
+      "type": "youtube",
+      "title": "How Matt Pocock works with AI agents: grilling, ubiquitous language, disposable specs and the smart zone",
+      "url": "https://www.youtube.com/watch?v=d_BuVJgadxs",
+      "publishedAt": "2026-08-03",
+      "outlet": "Unhandled Exception Podcast",
+      "durationSec": 3571,
+      "views": 534,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt Pocock explains why his \"grill me\" skill works, how he keeps shared language and decisions in the repo, and why specs should be disposable. He also covers keeping agent sessions in the \"smart zon"
+    },
+    {
+      "id": "yt-LMpMmOWTtVk",
+      "type": "youtube",
+      "title": "Matt Pocock on aligning with AI agents: Grill Me, glossaries, and pruning skills",
+      "url": "https://www.youtube.com/watch?v=LMpMmOWTtVk",
+      "publishedAt": "2026-09-03",
+      "outlet": "The Next New Thing and Matt Pocock",
+      "durationSec": 1785,
+      "views": 41907,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt Pocock demos his open-source skills repo, showing how a short \"grill me\" interview before work beats a generic agent run. He covers glossaries for consistent language, splitting specs into ticket"
+    },
+    {
+      "id": "yt-0BlAHq8D79U",
+      "type": "youtube",
+      "title": "Matt Pocock on building trust with AI agents: brakes first, automated review, and one-way doors",
+      "url": "https://www.youtube.com/watch?v=0BlAHq8D79U",
+      "publishedAt": "2026-10-23",
+      "outlet": "MEGA DEV",
+      "durationSec": 3507,
+      "views": 11942,
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt Pocock explains how to move toward a software factory without producing slop. Build verification and review brakes before accelerating, use a fresh reviewer agent to stop cheating, and let a well"
+    },
+    {
+      "id": "yt-uC44zFz7JSM",
+      "type": "youtube",
+      "title": "Your codebase is NOT ready for AI: deep modules as gray boxes for coding agents",
+      "url": "https://www.youtube.com/watch?v=uC44zFz7JSM",
+      "publishedAt": "2026-03-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 530,
+      "views": 118267,
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt argues the codebase shapes AI output more than prompts or agents.md. A web of small shallow modules is hard for an amnesiac agent to navigate, test and hold in your head. Restructure into deep mo"
+    },
+    {
+      "id": "yt-3MP8D-mdheA",
+      "type": "youtube",
+      "title": "How Matt Pocock de-slops an AI-ruined codebase using deep modules and one skill",
+      "url": "https://www.youtube.com/watch?v=3MP8D-mdheA",
+      "publishedAt": "2026-05-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 679,
+      "views": 290945,
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt argues AI has accelerated software entropy and walks through the cure: a shared vocabulary from Ousterhout's deep-module ideas (module, interface, seam, adapter, locality, leverage), then applies"
+    },
+    {
+      "id": "yt-9VNG0h4pLh0",
+      "type": "youtube",
+      "title": "Never Trust An LLM: why hallucinations happen and how to work around them",
+      "url": "https://www.youtube.com/watch?v=9VNG0h4pLh0",
+      "publishedAt": "2026-04-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 841,
+      "views": 56000,
+      "topicIds": [],
+      "excerpt": "Matt explains the types of LLM hallucination (factual errors, fabricated entities, contextual inconsistency), why they happen (compression of training data and benchmarks that reward guessing), and pr"
+    },
+    {
+      "id": "yt-mh5XZ-L5SFQ",
+      "type": "youtube",
+      "title": "Matt Pocock reviews Cursor's thermonuclear code review skill: ambition, file size, types and false positives",
+      "url": "https://www.youtube.com/watch?v=mh5XZ-L5SFQ",
+      "publishedAt": "2026-06-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 804,
+      "views": 100922,
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt tries Cursor's \"thermonuclear code quality review\" skill on his Sandcastle repo and critiques the prompt. He likes its ambition, small-file and type-boundary rules, finds it duplicative and blind"
+    },
+    {
+      "id": "yt-kZ-zzHVUrO4",
+      "type": "youtube",
+      "title": "How Matt Pocock uses Claude Code for real engineering: plan mode, multi-phase plans, GitHub issues",
+      "url": "https://www.youtube.com/watch?v=kZ-zzHVUrO4",
+      "publishedAt": "2025-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 612,
+      "views": 332327,
+      "topicIds": [],
+      "excerpt": "Matt walks through building a CLI feature with Claude Code. He starts in plan mode, answers clarifying questions, splits the work into phases, stores the plan as a GitHub issue, and clears context bet"
+    },
+    {
+      "id": "yt-hX7yG1KVYhI",
+      "type": "youtube",
+      "title": "How Matt Pocock builds a real feature with Claude Code: grill, PRD, issues, AFK loop, QA",
+      "url": "https://www.youtube.com/watch?v=hX7yG1KVYhI",
+      "publishedAt": "2026-04-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 2656,
+      "views": 221719,
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt walks through a full feature build in his course video manager: a \"grill me\" session to harden vague requirements, a PRD, issues, an AFK Ralph loop in Docker, then human QA that feeds new issues "
+    },
+    {
+      "id": "yt-jjMbPt_H3RQ",
+      "type": "youtube",
+      "title": "Enums considered harmful: why Matt Pocock replaces TypeScript enums with as const objects",
+      "url": "https://www.youtube.com/watch?v=jjMbPt_H3RQ",
+      "publishedAt": "2023-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 563,
+      "views": 256000,
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt explains why TypeScript's enum keyword is a poor fit: it is not native JavaScript, produces surprising runtime objects, and makes TypeScript nominal. He recommends plain objects with `as const` p"
+    },
+    {
+      "id": "yt-dLPgQRbVquo",
+      "type": "youtube",
+      "title": "Generics: 10 tips to make TypeScript generics click",
+      "url": "https://www.youtube.com/watch?v=dLPgQRbVquo",
+      "publishedAt": "2023-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 1099,
+      "views": 240000,
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt walks through ten tips that take generics from intimidating to usable: generic types as type functions, generic functions, inference from runtime arguments, constraints, multiple type parameters,"
+    },
+    {
+      "id": "yt-S2GChOwivwQ",
+      "type": "youtube",
+      "title": "Effect: why Matt Pocock thinks you should learn the unreadable TypeScript library",
+      "url": "https://www.youtube.com/watch?v=S2GChOwivwQ",
+      "publishedAt": "2025-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 783,
+      "views": 88564,
+      "topicIds": [],
+      "excerpt": "Matt explains why, after 18 months of skepticism, he now recommends Effect. He covers its ugly generator syntax, type-safe error tracking, compile-time dependency injection, the built-in batteries, an"
+    },
+    {
+      "id": "yt-e0AIkYrXAYE",
+      "type": "youtube",
+      "title": "Types vs Interfaces: why Matt Pocock reversed his 2022 take and now defaults to interface extends",
+      "url": "https://www.youtube.com/watch?v=e0AIkYrXAYE",
+      "publishedAt": "2025-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 597,
+      "views": 97125,
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt revisits his 2022 types-vs-interfaces video and corrects it. The real performance issue is interface extends versus intersections, not type versus interface for a plain object. He now defaults to"
+    },
+    {
+      "id": "yt-HyqHhjKMnyE",
+      "type": "youtube",
+      "title": "Matt Pocock livestream: building a TypeScript test-fixture library (fromPartial, proxies, naming, publishing)",
+      "url": "https://www.youtube.com/watch?v=HyqHhjKMnyE",
+      "publishedAt": "2023-11-03",
+      "outlet": "Matt Pocock",
+      "durationSec": 6354,
+      "views": 12715,
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt live-builds a small testing utility that lets you pass partial, deeply partial test data into strictly typed functions without using `as`. He debates naming, tries a Proxy for runtime safety, set"
+    },
+    {
+      "id": "yt-nFA2oO0IPQs",
+      "type": "youtube",
+      "title": "Matt Pocock on TypeScript mental models, open objects, TS expect error vs as any, and becoming an educator",
+      "url": "https://www.youtube.com/watch?v=nFA2oO0IPQs",
+      "publishedAt": "2025-11-03",
+      "outlet": "Tejas Kumar",
+      "durationSec": 6144,
+      "views": 827,
+      "topicIds": [],
+      "excerpt": "Matt explains TypeScript as a shorter feedback loop in your IDE, why its open object types surprise people, and why a targeted as any beats TS ignore or TS expect error. He also argues complex types u"
+    },
+    {
+      "id": "yt-8bOBE655gRQ",
+      "type": "youtube",
+      "title": "Matt Pocock on inferred types, any, reading errors, and adopting TypeScript",
+      "url": "https://www.youtube.com/watch?v=8bOBE655gRQ",
+      "publishedAt": "2023-11-03",
+      "outlet": "Whiskey Web and Whatnot",
+      "durationSec": 3250,
+      "views": 1017,
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "A casual podcast interview where Matt explains why he prefers inferred types, how any is a tool not a sin, why people misread TypeScript errors, and how he got into TypeScript. Also covers the new usi"
+    },
+    {
+      "id": "yt-qJUEEi7lglE",
+      "type": "youtube",
+      "title": "Maintaining React's TypeScript types: how @types/react works, versioning, and breaking changes",
+      "url": "https://www.youtube.com/watch?v=qJUEEi7lglE",
+      "publishedAt": "2023-11-03",
+      "outlet": "Michigan TypeScript",
+      "durationSec": 3448,
+      "views": 1580,
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt Pocock joins Sebastian Silbermann, maintainer of @types/react, to walk through how React's types live in DefinitelyTyped, how they're versioned, and why changes are hard. Matt's own contributions"
+    },
+    {
+      "id": "yt-JXeSlm-pHYo",
+      "type": "youtube",
+      "title": "Matt Pocock on JSJ 538: why TypeScript beats JSDoc, inference, branded types and the safety-first mindset",
+      "url": "https://www.youtube.com/watch?v=JXeSlm-pHYo",
+      "publishedAt": "2023-11-03",
+      "outlet": "Top End Devs",
+      "durationSec": 4333,
+      "views": 18,
+      "topicIds": [],
+      "excerpt": "Matt Pocock defends TypeScript against panelists who prefer plain JavaScript with JSDoc. He covers refactor safety against changing back-end data contracts, TypeScript's inference strength, branded ty"
+    },
+    {
+      "id": "essay-any-considered-harmful",
+      "type": "essay",
+      "title": "Matt Pocock on when `any` is the right choice: generic constraints and conditional returns",
+      "url": "https://www.totaltypescript.com/any-considered-harmful",
+      "publishedAt": "2024-03-27",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt argues you should ban `any` by default but shows two advanced cases where it is correct: wide type argument constraints like `(...args: any[]) => any`, and returning conditional types from generi"
+    },
+    {
+      "id": "essay-an-unknown-cant-always-fix-an-any",
+      "type": "essay",
+      "title": "Why generics, not unknown, are how Matt Pocock removes any from utility functions",
+      "url": "https://www.totaltypescript.com/an-unknown-cant-always-fix-an-any",
+      "publishedAt": "2023-07-14",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt shows that swapping `any` for `unknown` only moves the problem: `any` causes bugs, `unknown` forces runtime validation boilerplate. Using a groupBy utility as the example, he argues generics are "
+    },
+    {
+      "id": "essay-should-you-declare-return-types",
+      "type": "essay",
+      "title": "Should You Declare Return Types? Matt Pocock's .cursor rule for top-level functions",
+      "url": "https://www.totaltypescript.com/should-you-declare-return-types",
+      "publishedAt": "2025-04-09",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "A short essay sharing a .cursor/rules snippet: declare explicit return types on top-level module functions so future AI assistants understand each function's purpose. The one exception is JSX componen"
+    },
+    {
+      "id": "essay-discriminated-unions-are-a-devs-best-friend",
+      "type": "essay",
+      "title": "Discriminated unions over 'bag of optionals': modeling frontend state in TypeScript",
+      "url": "https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend",
+      "publishedAt": "2023-03-29",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt Pocock argues that most frontend complexity comes from handling states, and that handling starts with how states are typed. He contrasts a 'bag of optionals' type, which permits impossible shapes"
+    },
+    {
+      "id": "essay-when-should-you-use-zod",
+      "type": "essay",
+      "title": "When should you use Zod? Validate untrusted and uncontrolled inputs, skip trusted ones",
+      "url": "https://www.totaltypescript.com/when-should-you-use-zod",
+      "publishedAt": "2023-01-07",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt Pocock gives a decision rule for runtime validation with Zod based on how much you trust and control an input. Validate anything untrusted, validate trusted-but-uncontrolled third-party data to f"
+    },
+    {
+      "id": "essay-my-advice-for-security-critical-ts-apps",
+      "type": "essay",
+      "title": "Matt Pocock's advice for security-critical TS apps: learn the type wizardry, use branded types",
+      "url": "https://www.totaltypescript.com/my-advice-for-security-critical-ts-apps",
+      "publishedAt": "2023-07-14",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "A short essay arguing that TypeScript expertise, especially turning `any` into safe types and designing type-safe abstractions, saves teams bugs and speeds them up. For security-critical apps specific"
+    },
+    {
+      "id": "essay-deriving-vs-decoupling",
+      "type": "essay",
+      "title": "Deriving vs Decoupling: when Matt Pocock says to skip clever TypeScript types",
+      "url": "https://www.totaltypescript.com/deriving-vs-decoupling",
+      "publishedAt": "2024-03-20",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt Pocock explains when to derive one type from another (Pick, Omit, indexed access) and when to write a plain, decoupled type. The test is future workload: derive when types share a concern and mus"
+    },
+    {
+      "id": "essay-where-to-put-your-types-in-application-code",
+      "type": "essay",
+      "title": "Where To Put Your Types in Application Code: three placement rules",
+      "url": "https://www.totaltypescript.com/where-to-put-your-types-in-application-code",
+      "publishedAt": "2023-05-23",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt Pocock gives three opinionated rules for organizing types in an application: colocate or inline single-use types, move shared types to the smallest shared location, and put cross-package types in"
+    },
+    {
+      "id": "essay-type-vs-interface-which-should-you-use",
+      "type": "essay",
+      "title": "Type vs Interface: default to type, use interface for object inheritance",
+      "url": "https://www.totaltypescript.com/type-vs-interface-which-should-you-use",
+      "publishedAt": "2023-07-31",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt Pocock argues you should default to `type` aliases and reach for `interface` only when you need object inheritance via `extends`. He covers the performance benefit of `extends`, the surprise of d"
+    },
+    {
+      "id": "essay-why-i-dont-like-typescript-enums",
+      "type": "essay",
+      "title": "Why Matt Pocock avoids TypeScript enums and what he recommends instead",
+      "url": "https://www.totaltypescript.com/why-i-dont-like-typescript-enums",
+      "publishedAt": "2024-08-14",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt explains why he likes the idea of enums but won't recommend TypeScript's implementation: numeric enums generate reverse mappings and accept raw numbers, mixed enums are allowed, and enums are nom"
+    },
+    {
+      "id": "essay-no-such-thing-as-a-generic",
+      "type": "essay",
+      "title": "There Is No Such Thing As A Generic: type arguments, type parameters, and 'generic' as an adjective",
+      "url": "https://www.totaltypescript.com/no-such-thing-as-a-generic",
+      "publishedAt": "2023-07-20",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt Pocock argues that 'generic' is not a noun in TypeScript. There are generic types, functions and classes, which declare type parameters and receive type arguments. Using precise vocabulary makes "
+    },
+    {
+      "id": "essay-typescript-generics-in-three-easy-patterns",
+      "type": "essay",
+      "title": "TypeScript Generics in 3 Easy Patterns: types to types, types to functions, inference",
+      "url": "https://www.totaltypescript.com/typescript-generics-in-three-easy-patterns",
+      "publishedAt": "2023-07-18",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt Pocock argues that \"generics\" is really three separate concepts: passing types to types, passing types to functions, and inferring types from function arguments. Splitting them apart makes generi"
+    },
+    {
+      "id": "essay-how-to-test-your-types",
+      "type": "essay",
+      "title": "How to test your types: Vitest, Expect/Equal helpers, ts-expect-error and tsd for library authors",
+      "url": "https://www.totaltypescript.com/how-to-test-your-types",
+      "publishedAt": "2023-04-25",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "Matt Pocock explains why library authors should test their types and lays out three approaches: vitest's type-testing APIs, a hand-rolled Expect/Equal helper plus ts-expect-error run through tsc, and "
+    },
+    {
+      "id": "essay-testing-with-typescript-is-painful-heres-a-solution",
+      "type": "essay",
+      "title": "Testing with TypeScript is painful: why test code needs looser types and how shoehorn fixes it",
+      "url": "https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution",
+      "publishedAt": "2023-04-11",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [],
+      "excerpt": "Matt Pocock argues that test code shouldn't be held to the same type strictness as application code. Tests must often pass wrong or partial values, forcing noisy `as any` or `as unknown as X` casts. H"
+    },
+    {
+      "id": "essay-method-shorthand-syntax-considered-harmful",
+      "type": "essay",
+      "title": "Method Shorthand Syntax Considered Harmful: why to avoid bivariant method signatures in TypeScript",
+      "url": "https://www.totaltypescript.com/method-shorthand-syntax-considered-harmful",
+      "publishedAt": "2024-02-03",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "typescript-language-choices"
+      ],
+      "excerpt": "Matt Pocock explains that TypeScript's method shorthand syntax is bivariant, letting a narrower parameter type slip through and cause runtime errors the compiler never flags. Declaring members as func"
+    },
+    {
+      "id": "essay-four-essential-typescript-patterns",
+      "type": "essay",
+      "title": "Four essential TypeScript patterns: branded types, globals, assertion functions, classes",
+      "url": "https://www.totaltypescript.com/four-essential-typescript-patterns",
+      "publishedAt": "2023-07-14",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [],
+      "excerpt": "Matt Pocock argues that knowing TypeScript means combining its pieces into patterns. He walks through branded types for validation boundaries, declare global for typing globals, type predicates and as"
+    },
+    {
+      "id": "essay-typescript-types-dont-exist-at-runtime",
+      "type": "essay",
+      "title": "TypeScript types don't exist at runtime: what gets erased and the exceptions",
+      "url": "https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime",
+      "publishedAt": "2024-03-25",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt Pocock corrects a common misconception: TypeScript types are erased at compile time and have no runtime effect. He walks through types, type assertions and function parameters as examples, then c"
+    },
+    {
+      "id": "essay-handle-errors-with-a-generic-result-type",
+      "type": "essay",
+      "title": "Handle Errors with a Generic Result Type: Matt Pocock on explicit error handling in TypeScript",
+      "url": "https://www.totaltypescript.com/workshops/typescript-pro-essentials/designing-your-types/handle-errors-with-a-generic-result-type",
+      "publishedAt": "2024-02-01",
+      "outlet": "www.totaltypescript.com",
+      "topicIds": [
+        "type-safety-and-validation"
+      ],
+      "excerpt": "Matt shows a generic Result<TResult, TError> discriminated union, modeled on Rust, as an alternative to try/catch. Checking result.success narrows to typed data or typed error, which makes error flow "
+    },
+    {
+      "id": "essay-skills-code-review",
+      "type": "essay",
+      "title": "The /code-review Skill: reviewing a diff against repo standards and the spec in separate axes",
+      "url": "https://www.aihero.dev/skills-code-review",
+      "publishedAt": "2026-07-07",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Describes Matt Pocock's code-review agent skill, which reviews a diff along two independent axes (Standards and Spec), each in its own sub-agent. Covers prerequisites, the Fowler smell baseline, and k"
+    },
+    {
+      "id": "essay-skills-codebase-design",
+      "type": "essay",
+      "title": "The /codebase-design skill: the vocabulary Matt Pocock uses for designing deep modules",
+      "url": "https://www.aihero.dev/skills-codebase-design",
+      "publishedAt": "2026-07-07",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Describes Matt Pocock's codebase-design skill, a reference glossary (module, interface, depth, seam, adapter, leverage, locality) plus four principles for designing deep modules. Covers its limits as "
+    },
+    {
+      "id": "essay-skills-tdd",
+      "type": "essay",
+      "title": "The /tdd skill: Matt Pocock's rules for a red-green loop with coding agents",
+      "url": "https://www.aihero.dev/skills-tdd",
+      "publishedAt": "2026-04-27",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Explains Matt's /tdd agent skill: build one failing test at a time at pre-agreed seams, write just enough code, and avoid three anti-patterns (implementation-coupled, tautological, horizontal slicing)"
+    },
+    {
+      "id": "essay-skills-improve-codebase-architecture",
+      "type": "essay",
+      "title": "The /improve-codebase-architecture skill: finding shallow modules worth deepening",
+      "url": "https://www.aihero.dev/skills-improve-codebase-architecture",
+      "publishedAt": "2026-05-13",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Describes a skill that surveys a codebase for deepening opportunities (shallow modules that could become deep), writes a visual HTML report, and then grills you on the candidate you pick. It never cha"
+    },
+    {
+      "id": "essay-skills-diagnosing-bugs",
+      "type": "essay",
+      "title": "The /diagnosing-bugs skill: no theories until a tight, red-capable feedback loop exists",
+      "url": "https://www.aihero.dev/skills-diagnosing-bugs",
+      "publishedAt": "2026-07-07",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt Pocock describes his diagnosing-bugs agent skill, a six-phase process that forbids an agent from theorising until it has a fast, deterministic, sharp repro command that goes red on the bug. It co"
+    },
+    {
+      "id": "essay-skills-pr",
+      "type": "essay",
+      "title": "The /pr Skill: PR bodies with a visual summary, before/after evidence, and a one-way/two-way door call",
+      "url": "https://www.aihero.dev/skills-pr",
+      "publishedAt": "2026-10-05",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt Pocock explains his `pr` skill, which defines the shape of a pull request body: Summary (smallest useful visual), Evidence (before and after), and Merge Danger (one-way vs two-way door plus blast"
+    },
+    {
+      "id": "essay-how-to-make-codebases-ai-agents-love",
+      "type": "essay",
+      "title": "How to make codebases AI agents love: deep modules and grey box design",
+      "url": "https://www.aihero.dev/how-to-make-codebases-ai-agents-love",
+      "publishedAt": "2026-02-26",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt Pocock argues the codebase, not the prompt or AGENTS.md, is the biggest influence on AI output. Restructure into deep modules with simple interfaces, tests that lock behaviour, and AI-owned imple"
+    },
+    {
+      "id": "essay-essential-ai-coding-feedback-loops-for-type-script-projects",
+      "type": "essay",
+      "title": "Essential AI coding feedback loops for TypeScript projects: type checking, tests, pre-commit hooks",
+      "url": "https://www.aihero.dev/essential-ai-coding-feedback-loops-for-type-script-projects",
+      "publishedAt": "2026-01-16",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "agent-review-and-feedback-loops"
+      ],
+      "excerpt": "Matt Pocock explains how to give AI coding agents, especially AFK ones, ways to verify their own work. He recommends TypeScript type checking, automated tests, Husky pre-commit hooks and lint-staged f"
+    },
+    {
+      "id": "essay-tracer-bullets",
+      "type": "essay",
+      "title": "Tracer Bullets: how to stop AI agents outrunning their headlights",
+      "url": "https://www.aihero.dev/tracer-bullets",
+      "publishedAt": "2026-01-22",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt argues AI agents' sycophancy makes them build whole horizontal layers in isolation, producing slop and a heavy review burden. The fix is the Pragmatic Programmer's tracer bullet: one thin end-to-"
+    },
+    {
+      "id": "essay-never-run-claude-init",
+      "type": "essay",
+      "title": "Never Run Claude /init: Matt Pocock on keeping CLAUDE.md nearly empty",
+      "url": "https://www.aihero.dev/never-run-claude-init",
+      "publishedAt": "2026-02-24",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "ai-coding-workflow"
+      ],
+      "excerpt": "Matt argues that auto-generated CLAUDE.md or agents.md files burn tokens, eat the agent's instruction budget, and go stale. He recommends trusting the agent's explore step, putting steering in skills,"
+    },
+    {
+      "id": "essay-ways-ai-coding-has-rewired-my-brain",
+      "type": "essay",
+      "title": "How AI coding rewired Matt Pocock's brain: tests, deep modules, and friction",
+      "url": "https://www.aihero.dev/ways-ai-coding-has-rewired-my-brain",
+      "publishedAt": "2026-03-11",
+      "outlet": "www.aihero.dev",
+      "topicIds": [
+        "codebase-design-for-agents"
+      ],
+      "excerpt": "Matt Pocock lists nine shifts after months of fully AI-written code. He now invests in integration tests, strong feedback loops (types, hooks, CI), deep grey-box modules, aggressive UI prototyping, an"
+    },
+    {
+      "id": "essay-matt-pocock-mapleleaf",
+      "type": "essay",
+      "title": "Matt Pocock Q&A: Why TypeScript fits alongside JavaScript, inference, generics, and failing early",
+      "url": "https://www.reactiflux.com/transcripts/matt-pocock_mapleleaf",
+      "publishedAt": null,
+      "outlet": "www.reactiflux.com",
+      "topicIds": [],
+      "excerpt": "Matt Pocock, in a January 2023 Reactiflux Q&A, covers how TypeScript shortens feedback loops, why generics and inference improve team developer experience, and why avoiding codegen and validating exte"
+    },
+    {
+      "id": "x-1625173884885401600",
+      "type": "x_post",
+      "title": "Let's talk about branded types. If I were building an app where security was critical, I'd",
+      "url": "https://x.com/mattpocockuk/status/1625173884885401600",
+      "publishedAt": "2023-02-13",
+      "outlet": "X",
+      "views": 585542,
+      "topicIds": [],
+      "excerpt": "Let's talk about branded types.\n\nIf I were building an app where security was critical, I'd use the crap out of them. https://t.co/JmrCYE99bK"
+    },
+    {
+      "id": "x-1739961623488450631",
+      "type": "x_post",
+      "title": "The builder pattern might be the most powerful thing allowed by TypeScript. https://t.co/P",
+      "url": "https://x.com/mattpocockuk/status/1739961623488450631",
+      "publishedAt": "2023-12-27",
+      "outlet": "X",
+      "views": 227465,
+      "topicIds": [],
+      "excerpt": "The builder pattern might be the most powerful thing allowed by TypeScript. https://t.co/POEBdMejZN"
+    },
+    {
+      "id": "x-1760991147793449396",
+      "type": "x_post",
+      "title": "Use Zod to parse your environment variables once, then use that inference to type process.",
+      "url": "https://x.com/mattpocockuk/status/1760991147793449396",
+      "publishedAt": "2024-02-23",
+      "outlet": "X",
+      "views": 203996,
+      "topicIds": [],
+      "excerpt": "Use Zod to parse your environment variables once, then use that inference to type process.env throughout your app.\n\nAlso, a beautiful example of how you can extend an interface from a VALUE, not a typ"
+    },
+    {
+      "id": "x-1823284205763121573",
+      "type": "x_post",
+      "title": "Lots of TS devs use arrays of unique values to avoid the pitfalls of enums. But why not us",
+      "url": "https://x.com/mattpocockuk/status/1823284205763121573",
+      "publishedAt": "2024-08-13",
+      "outlet": "X",
+      "views": 163861,
+      "topicIds": [],
+      "excerpt": "Lots of TS devs use arrays of unique values to avoid the pitfalls of enums.\n\nBut why not use a Set instead? https://t.co/0RRsYvQuZC"
+    },
+    {
+      "id": "x-1823822755562967230",
+      "type": "x_post",
+      "title": "I wish 'try' worked like this: https://t.co/pDBdSd3Bhq",
+      "url": "https://x.com/mattpocockuk/status/1823822755562967230",
+      "publishedAt": "2024-08-14",
+      "outlet": "X",
+      "views": 209660,
+      "topicIds": [],
+      "excerpt": "I wish 'try' worked like this: https://t.co/pDBdSd3Bhq"
+    },
+    {
+      "id": "x-1768809254733951424",
+      "type": "x_post",
+      "title": "OH MY GOD IT'S HAPPENING In TS 5.5, type predicates will be inferred automatically from fu",
+      "url": "https://x.com/mattpocockuk/status/1768809254733951424",
+      "publishedAt": "2024-03-16",
+      "outlet": "X",
+      "views": 144715,
+      "topicIds": [],
+      "excerpt": "OH MY GOD IT'S HAPPENING\n\nIn TS 5.5, type predicates will be inferred automatically from functions that return a narrowing statement.\n\nNo more 'val is string' to force TypeScript's hand.\n\n@danvdk, I c"
+    },
+    {
+      "id": "x-1837778942427640031",
+      "type": "x_post",
+      "title": "Sometimes no abstraction is the right abstraction https://t.co/6QmdY0Jbde",
+      "url": "https://x.com/mattpocockuk/status/1837778942427640031",
+      "publishedAt": "2024-09-22",
+      "outlet": "X",
+      "views": 231701,
+      "topicIds": [],
+      "excerpt": "Sometimes no abstraction is the right abstraction https://t.co/6QmdY0Jbde"
+    },
+    {
+      "id": "x-1631249088795533315",
+      "type": "x_post",
+      "title": "satisfies in TypeScript has been out for a little while now. Overall, it's been a success ",
+      "url": "https://x.com/mattpocockuk/status/1631249088795533315",
+      "publishedAt": "2023-03-02",
+      "outlet": "X",
+      "views": 442509,
+      "topicIds": [],
+      "excerpt": "satisfies in TypeScript has been out for a little while now.\n\nOverall, it's been a success - but it's starting to cause some confusion.\n\nLet's clear it up. https://t.co/4gnLpMQOsJ"
+    },
+    {
+      "id": "x-1822917967316676787",
+      "type": "x_post",
+      "title": "\"it's unreadable\" \"a maintenance nightmare\" \"please don't do this\" Your complex types don'",
+      "url": "https://x.com/mattpocockuk/status/1822917967316676787",
+      "publishedAt": "2024-08-12",
+      "outlet": "X",
+      "views": 324906,
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "\"it's unreadable\"\n\"a maintenance nightmare\"\n\"please don't do this\"\n\nYour complex types don't need to be complex to use.\n\nLet me show you 🧵 https://t.co/3H4ouSkORc"
+    },
+    {
+      "id": "x-1616008761155489793",
+      "type": "x_post",
+      "title": "TypeScript WASN'T invented to add types to JavaScript. It was invented because, 10 years a",
+      "url": "https://x.com/mattpocockuk/status/1616008761155489793",
+      "publishedAt": "2023-01-19",
+      "outlet": "X",
+      "views": 247777,
+      "topicIds": [],
+      "excerpt": "TypeScript WASN'T invented to add types to JavaScript.\n\nIt was invented because, 10 years ago, the tooling for JS was awful. No autocomplete, no easy refactors, no IDE errors.\n\nTypeScript exists to ma"
+    },
+    {
+      "id": "x-1977369846162534555",
+      "type": "x_post",
+      "title": "Claude Code with and without plan mode is night and day No plan mode: code is so bad it's ",
+      "url": "https://x.com/mattpocockuk/status/1977369846162534555",
+      "publishedAt": "2025-10-12",
+      "outlet": "X",
+      "views": 166814,
+      "topicIds": [],
+      "excerpt": "Claude Code with and without plan mode is night and day\n\nNo plan mode: code is so bad it's basically a liability to keep it\nPlan mode: basically as good as I could write it, with occasional bugs which"
+    },
+    {
+      "id": "x-1906444866781139392",
+      "type": "x_post",
+      "title": "PascalCaseForTypes SCREAMING_SNAKE_CASE_FOR_CONSTANTS dash-case-for-file-names.ts snake_ca",
+      "url": "https://x.com/mattpocockuk/status/1906444866781139392",
+      "publishedAt": "2025-03-30",
+      "outlet": "X",
+      "views": 92295,
+      "topicIds": [],
+      "excerpt": "PascalCaseForTypes\nSCREAMING_SNAKE_CASE_FOR_CONSTANTS\ndash-case-for-file-names.ts\nsnake_case_for_databases\ncamelCaseForEverythingElse"
+    },
+    {
+      "id": "x-1676162572095979522",
+      "type": "x_post",
+      "title": "Tired of writing if statements every time you need to check if something's defined? Make a",
+      "url": "https://x.com/mattpocockuk/status/1676162572095979522",
+      "publishedAt": "2023-07-04",
+      "outlet": "X",
+      "views": 158975,
+      "topicIds": [],
+      "excerpt": "Tired of writing if statements every time you need to check if something's defined?\n\nMake a little 'raise' function to throw an error, and inline it with a nullish coalescing operator.\n\nThanks to @hey"
+    },
+    {
+      "id": "x-1823644476838961227",
+      "type": "x_post",
+      "title": "TypeScript's enums. I don't like them. Let's talk about why 🧵 https://t.co/C8aliB4UOt",
+      "url": "https://x.com/mattpocockuk/status/1823644476838961227",
+      "publishedAt": "2024-08-14",
+      "outlet": "X",
+      "views": 278401,
+      "topicIds": [],
+      "excerpt": "TypeScript's enums. I don't like them.\n\nLet's talk about why 🧵 https://t.co/C8aliB4UOt"
+    },
+    {
+      "id": "x-1810922990785135063",
+      "type": "x_post",
+      "title": "We're talking about pre-commit hooks? Nice. I hate them. You should take as much compute t",
+      "url": "https://x.com/mattpocockuk/status/1810922990785135063",
+      "publishedAt": "2024-07-10",
+      "outlet": "X",
+      "views": 396924,
+      "topicIds": [],
+      "excerpt": "We're talking about pre-commit hooks?\n\nNice. I hate them.\n\nYou should take as much compute time off your engineers as possible and put it on CI."
+    },
+    {
+      "id": "x-1693950835347128761",
+      "type": "x_post",
+      "title": "Array<T> vs T[] - which should you use in TypeScript? I think the difference is close enou",
+      "url": "https://x.com/mattpocockuk/status/1693950835347128761",
+      "publishedAt": "2023-08-22",
+      "outlet": "X",
+      "views": 402652,
+      "topicIds": [],
+      "excerpt": "Array<T> vs T[] - which should you use in TypeScript?\n\nI think the difference is close enough to be subjective - but here's everything I know:\n\nThe two syntaxes are functionally identical - you can us"
+    },
+    {
+      "id": "x-1830935305639145678",
+      "type": "x_post",
+      "title": "PSA: You probably aren't using PropertyKey enough. It represents any valid key in JavaScri",
+      "url": "https://x.com/mattpocockuk/status/1830935305639145678",
+      "publishedAt": "2024-09-03",
+      "outlet": "X",
+      "views": 131093,
+      "topicIds": [],
+      "excerpt": "PSA: You probably aren't using PropertyKey enough.\n\nIt represents any valid key in JavaScript: string, number or symbol.\n\nAnd it's globally available in every TS project. https://t.co/fSHDkpzd5n"
+    },
+    {
+      "id": "x-1750844284268384413",
+      "type": "x_post",
+      "title": "JavaScript's new 'using' keyword is awesome for mocking in tests. It automatically dispose",
+      "url": "https://x.com/mattpocockuk/status/1750844284268384413",
+      "publishedAt": "2024-01-26",
+      "outlet": "X",
+      "views": 190614,
+      "topicIds": [],
+      "excerpt": "JavaScript's new 'using' keyword is awesome for mocking in tests.\n\nIt automatically disposes the 'mock' when it leaves scope. 🤯\n\nNo more beforeEach/afterEach... https://t.co/AFH73vhSTl"
+    },
+    {
+      "id": "x-2115538750147023323",
+      "type": "x_post",
+      "title": "I've just finished filming the most ambitious course of my career. It starts November 9th,",
+      "url": "https://x.com/mattpocockuk/status/2115538750147023323",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 111295,
+      "topicIds": [],
+      "excerpt": "I've just finished filming the most ambitious course of my career.\n\nIt starts November 9th, and runs for 2 weeks.\n\nIt's everything you need to build your company's software factory.\n\nEveryone's talkin"
+    },
+    {
+      "id": "x-1627296901329477632",
+      "type": "x_post",
+      "title": "Worried about fetch and JSON.parse returning any? Drop these lines of code into any module",
+      "url": "https://x.com/mattpocockuk/status/1627296901329477632",
+      "publishedAt": "2023-02-19",
+      "outlet": "X",
+      "views": 284079,
+      "topicIds": [],
+      "excerpt": "Worried about fetch and JSON.parse returning any?\n\nDrop these lines of code into any module and they'll return unknown across your entire project instead. https://t.co/plxHHjIUs9"
+    },
+    {
+      "id": "x-1699507864895738143",
+      "type": "x_post",
+      "title": "In State of JS 2022, 70% of respondents said they use TypeScript. DHH is welcome to his op",
+      "url": "https://x.com/mattpocockuk/status/1699507864895738143",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 258416,
+      "topicIds": [],
+      "excerpt": "In State of JS 2022, 70% of respondents said they use TypeScript.\n\nDHH is welcome to his opinions.\n\nBut to call the TS community a 'tribe' (instead of, say, a 'majority') feels, at this point, totally"
+    },
+    {
+      "id": "x-1746857014255403499",
+      "type": "x_post",
+      "title": "Here's how to get a fully type-safe fetch function in just a few lines of (admittedly mind",
+      "url": "https://x.com/mattpocockuk/status/1746857014255403499",
+      "publishedAt": "2024-01-15",
+      "outlet": "X",
+      "views": 161243,
+      "topicIds": [],
+      "excerpt": "Here's how to get a fully type-safe fetch function in just a few lines of (admittedly mind-blowing) generic code.\n\nFull implementation below. https://t.co/6GDKq6ho4M"
+    },
+    {
+      "id": "x-1691014244609765376",
+      "type": "x_post",
+      "title": "'satisfies never' is SO GOOD for exhaustiveness checking in switch statements. With this l",
+      "url": "https://x.com/mattpocockuk/status/1691014244609765376",
+      "publishedAt": "2023-08-14",
+      "outlet": "X",
+      "views": 248520,
+      "topicIds": [],
+      "excerpt": "'satisfies never' is SO GOOD for exhaustiveness checking in switch statements.\n\nWith this little annotation, you'll know you've checked every single branch of your union. Beautiful. https://t.co/24FnS"
+    },
+    {
+      "id": "x-1821124980043636841",
+      "type": "x_post",
+      "title": "I'm starting to think that library types in TypeScript are all wrong. Instead of top-level",
+      "url": "https://x.com/mattpocockuk/status/1821124980043636841",
+      "publishedAt": "2024-08-07",
+      "outlet": "X",
+      "views": 141972,
+      "topicIds": [],
+      "excerpt": "I'm starting to think that library types in TypeScript are all wrong.\n\nInstead of top-level types, they should be available right on the functions that use them.\n\nBrief thread 🧵 https://t.co/TvBqMqcU"
+    },
+    {
+      "id": "x-1848620653139685625",
+      "type": "x_post",
+      "title": "I don't understand why anyone buys a boilerplate in 2024. Full-stack apps: epic-stack and ",
+      "url": "https://x.com/mattpocockuk/status/1848620653139685625",
+      "publishedAt": "2024-10-22",
+      "outlet": "X",
+      "views": 248698,
+      "topicIds": [],
+      "excerpt": "I don't understand why anyone buys a boilerplate in 2024.\n\nFull-stack apps: epic-stack and create-t3-app.\n\nLibraries/backend apps: create-typescript-app.\n\n1000% better than anything you can buy."
+    },
+    {
+      "id": "x-1832318143294738784",
+      "type": "x_post",
+      "title": "A greenfield app? I'd choose: Remix TypeScript Tailwind Vitest Playwright Prisma Postgres",
+      "url": "https://x.com/mattpocockuk/status/1832318143294738784",
+      "publishedAt": "2024-09-07",
+      "outlet": "X",
+      "views": 316241,
+      "topicIds": [],
+      "excerpt": "A greenfield app? I'd choose:\n\nRemix\nTypeScript\nTailwind\nVitest\nPlaywright\nPrisma\nPostgres"
+    },
+    {
+      "id": "x-1974528553569137095",
+      "type": "x_post",
+      "title": "My favourite addition to prompts is: \"Be extremely concise. Sacrifice grammar for the sake",
+      "url": "https://x.com/mattpocockuk/status/1974528553569137095",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 217840,
+      "topicIds": [],
+      "excerpt": "My favourite addition to prompts is:\n\n\"Be extremely concise. Sacrifice grammar for the sake of concision.\"\n\nMUCH easier to scan, less reading overhead, cheaper to output.\n\nBefore and after: https://t."
+    },
+    {
+      "id": "x-1967222724184699113",
+      "type": "x_post",
+      "title": "Most devs think LLM's are only good for producing text. But the real value prop of LLM's i",
+      "url": "https://x.com/mattpocockuk/status/1967222724184699113",
+      "publishedAt": "2025-09-14",
+      "outlet": "X",
+      "views": 212013,
+      "topicIds": [],
+      "excerpt": "Most devs think LLM's are only good for producing text.\n\nBut the real value prop of LLM's is turning raw text/data into structured, searchable objects.\n\nIf you've never heard of structured outputs, no"
+    },
+    {
+      "id": "x-1821926395380986219",
+      "type": "x_post",
+      "title": "Time to talk about one of the strangest TypeScript tricks around. It's the loose autocompl",
+      "url": "https://x.com/mattpocockuk/status/1821926395380986219",
+      "publishedAt": "2024-08-09",
+      "outlet": "X",
+      "views": 444446,
+      "topicIds": [],
+      "excerpt": "Time to talk about one of the strangest TypeScript tricks around.\n\nIt's the loose autocomplete trick. And it's ACTUALLY USEFUL for app development.\n\nLet me explain 🧵 https://t.co/4VtQMKDx0Q"
+    },
+    {
+      "id": "x-1919752754756559242",
+      "type": "x_post",
+      "title": "Here's a fun TS tip: Use a template literal string to make sure your Authorization headers",
+      "url": "https://x.com/mattpocockuk/status/1919752754756559242",
+      "publishedAt": "2025-05-06",
+      "outlet": "X",
+      "views": 188426,
+      "topicIds": [],
+      "excerpt": "Here's a fun TS tip:\n\nUse a template literal string to make sure your Authorization headers are correctly formatted. https://t.co/FI0zWYHGFJ"
+    },
+    {
+      "id": "x-1841399224518287784",
+      "type": "x_post",
+      "title": "Am I dreaming? How long has `crypto.randomUUID()` been available? Why on earth did I ever ",
+      "url": "https://x.com/mattpocockuk/status/1841399224518287784",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 267255,
+      "topicIds": [],
+      "excerpt": "Am I dreaming? How long has `crypto.randomUUID()` been available?\n\nWhy on earth did I ever download a package to generate random UUIDs? https://t.co/nUssFt5ORY"
+    },
+    {
+      "id": "x-1818675230207782929",
+      "type": "x_post",
+      "title": "Annual reminder that React's ComponentProps helper is still goated, and there are still fo",
+      "url": "https://x.com/mattpocockuk/status/1818675230207782929",
+      "publishedAt": "2024-07-31",
+      "outlet": "X",
+      "views": 106886,
+      "topicIds": [],
+      "excerpt": "Annual reminder that React's ComponentProps helper is still goated, and there are still folks that don't know about it. https://t.co/Ebv6xaONfy"
+    },
+    {
+      "id": "x-1742513139088752783",
+      "type": "x_post",
+      "title": "ElementRef is so freaking useful for finding the right types for useRef in React. https://",
+      "url": "https://x.com/mattpocockuk/status/1742513139088752783",
+      "publishedAt": "2024-01-03",
+      "outlet": "X",
+      "views": 143939,
+      "topicIds": [],
+      "excerpt": "ElementRef is so freaking useful for finding the right types for useRef in React. https://t.co/M77QSIapNe"
+    },
+    {
+      "id": "x-1827963901389975962",
+      "type": "x_post",
+      "title": "I just wrote a massive guide to creating and publishing a package on npm. It goes from an ",
+      "url": "https://x.com/mattpocockuk/status/1827963901389975962",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 118880,
+      "topicIds": [],
+      "excerpt": "I just wrote a massive guide to creating and publishing a package on npm.\n\nIt goes from an empty directory to a production-ready setup.\n\nIt's over 4,000 words, and has a 14-minute walkthrough video.\n\n"
+    },
+    {
+      "id": "x-1903145626122043536",
+      "type": "x_post",
+      "title": "New research from Anthropic shows how a simple \"think\" tool can improve Claude's problem-s",
+      "url": "https://x.com/mattpocockuk/status/1903145626122043536",
+      "publishedAt": "2025-03-21",
+      "outlet": "X",
+      "views": 338632,
+      "topicIds": [],
+      "excerpt": "New research from Anthropic shows how a simple \"think\" tool can improve Claude's problem-solving skills.\n\nHere's how to implement it in 28 lines of code. https://t.co/3iEzAKi6mE"
+    },
+    {
+      "id": "x-1898008951905526080",
+      "type": "x_post",
+      "title": "Here's how to build an MCP server with a single TypeScript file, and connect it to Claude ",
+      "url": "https://x.com/mattpocockuk/status/1898008951905526080",
+      "publishedAt": "2025-03-07",
+      "outlet": "X",
+      "views": 254666,
+      "topicIds": [],
+      "excerpt": "Here's how to build an MCP server with a single TypeScript file, and connect it to Claude Code.\n\nNo build step. No bullshit. Totally transformative. https://t.co/yqlAS6IMQD"
+    },
+    {
+      "id": "x-1966532949785915609",
+      "type": "x_post",
+      "title": "Most devs are relying heavily on LLM's. But a lot of them STILL don't know what tokens are",
+      "url": "https://x.com/mattpocockuk/status/1966532949785915609",
+      "publishedAt": "2025-09-12",
+      "outlet": "X",
+      "views": 119720,
+      "topicIds": [],
+      "excerpt": "Most devs are relying heavily on LLM's.\n\nBut a lot of them STILL don't know what tokens are.\n\nIf that's you, no shame. Get caught up: https://t.co/MBneuZqBuF"
+    },
+    {
+      "id": "x-1623262073244250112",
+      "type": "x_post",
+      "title": "A brief thread. 'as const' has more uses than you might think. https://t.co/6yGjGfxstN",
+      "url": "https://x.com/mattpocockuk/status/1623262073244250112",
+      "publishedAt": "2023-02-08",
+      "outlet": "X",
+      "views": 527209,
+      "topicIds": [],
+      "excerpt": "A brief thread.\n\n'as const' has more uses than you might think. https://t.co/6yGjGfxstN"
+    },
+    {
+      "id": "x-1748307572086489252",
+      "type": "x_post",
+      "title": "Someone DM'd me a question and we ended up drafting this awesome piece of code. Turns out,",
+      "url": "https://x.com/mattpocockuk/status/1748307572086489252",
+      "publishedAt": "2024-01-19",
+      "outlet": "X",
+      "views": 115436,
+      "topicIds": [],
+      "excerpt": "Someone DM'd me a question and we ended up drafting this awesome piece of code.\n\nTurns out, yes, you can turn an 'as const' object into a crazy union of routes. https://t.co/nK4Ne5fIii"
+    },
+    {
+      "id": "x-1740702711652225157",
+      "type": "x_post",
+      "title": "Template literals inside generic functions are 🤯 https://t.co/echVuYVQAB",
+      "url": "https://x.com/mattpocockuk/status/1740702711652225157",
+      "publishedAt": "2023-12-29",
+      "outlet": "X",
+      "views": 110358,
+      "topicIds": [],
+      "excerpt": "Template literals inside generic functions are 🤯 https://t.co/echVuYVQAB"
+    },
+    {
+      "id": "x-1830546778472546573",
+      "type": "x_post",
+      "title": "Let's talk about another crazy TypeScript trick: `T[number]`. It looks like absolute insan",
+      "url": "https://x.com/mattpocockuk/status/1830546778472546573",
+      "publishedAt": "2024-09-02",
+      "outlet": "X",
+      "views": 232858,
+      "topicIds": [],
+      "excerpt": "Let's talk about another crazy TypeScript trick: `T[number]`.\n\nIt looks like absolute insanity.\n\nBut I promise by the end of this thread, you'll know how it works.\n\nLet's go 🧵 https://t.co/TmMx7McmKC"
+    },
+    {
+      "id": "x-1819660693794111660",
+      "type": "x_post",
+      "title": "Here are 4 TSConfig options you HAVE to know about: Let me explain 🧵 https://t.co/q9XiBD1",
+      "url": "https://x.com/mattpocockuk/status/1819660693794111660",
+      "publishedAt": "2024-08-03",
+      "outlet": "X",
+      "views": 249801,
+      "topicIds": [],
+      "excerpt": "Here are 4 TSConfig options you HAVE to know about:\n\nLet me explain 🧵 https://t.co/q9XiBD1vjj"
+    },
+    {
+      "id": "x-1817958766756733278",
+      "type": "x_post",
+      "title": "How did I not know you could pass an abort signal to .addEventListener?! https://t.co/Warc",
+      "url": "https://x.com/mattpocockuk/status/1817958766756733278",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 182374,
+      "topicIds": [],
+      "excerpt": "How did I not know you could pass an abort signal to .addEventListener?! https://t.co/WarcRESQuR"
+    },
+    {
+      "id": "x-1625838626742435842",
+      "type": "x_post",
+      "title": "If you don't know generics, I promise you'll understand them by the end of this thread. I ",
+      "url": "https://x.com/mattpocockuk/status/1625838626742435842",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 728127,
+      "topicIds": [
+        "generics-and-library-types"
+      ],
+      "excerpt": "If you don't know generics, I promise you'll understand them by the end of this thread.\n\nI like a challenge. https://t.co/1H3VXFhrvH"
+    },
+    {
+      "id": "x-1979865873403007003",
+      "type": "x_post",
+      "title": "Claude Code is so freaking good now Here it is asking me exactly what test cases I want in",
+      "url": "https://x.com/mattpocockuk/status/1979865873403007003",
+      "publishedAt": "2025-10-19",
+      "outlet": "X",
+      "views": 164722,
+      "topicIds": [],
+      "excerpt": "Claude Code is so freaking good now\n\nHere it is asking me exactly what test cases I want in an interactive UI\n\nMore of this, please https://t.co/wloo1tqgEy"
+    },
+    {
+      "id": "x-1966100192958251147",
+      "type": "x_post",
+      "title": "Problem: people can ask your AI app anything, even try to break it Solution: https://t.co/",
+      "url": "https://x.com/mattpocockuk/status/1966100192958251147",
+      "publishedAt": "2025-09-11",
+      "outlet": "X",
+      "views": 212520,
+      "topicIds": [],
+      "excerpt": "Problem: people can ask your AI app anything, even try to break it\n\nSolution: https://t.co/VKz4eoKIaY"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/matt-pocock/mcp",
+    "serverName": "matt-pocock-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Matt Pocock's views on TypeScript, type safety, API design and AI coding agents.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Matt Pocock's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

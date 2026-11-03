@@ -1,0 +1,37 @@
+{
+  "id": "yt-D7zUOtlpUPw",
+  "title": "Using globals when the price is right: Rails Current at Basecamp",
+  "summary": "DHH defends globals as a \"sharp knife\" for request-scoped context, showing how Basecamp's Current class (extracted into Rails 5.1) carries the current person, account and request details into event tracking without threading them through every call. He warns to keep Current small so it doesn't become a crutch.",
+  "principles": [
+    {
+      "text": "Globals aren't inherently harmful; they fit request-scoped context in web apps well.",
+      "quote": "I think Global's have a great place in all sorts of applications and especially web applications since a lot of these all of these operate within a request cycle"
+    },
+    {
+      "text": "Rails deliberately ships sharp knives; a framework shouldn't withhold precise tools just because they can be misused.",
+      "quote": "it's not a sin of a framework or language to provide you with really sharp niall knives that could cut your hand off if you use them wrong but they can also provide just the incision that you need"
+    },
+    {
+      "text": "Don't thread auxiliary context like request ID, user agent and IP through every layer; it adds hassle, not clarity.",
+      "quote": "imagine having to pass this amount of detail the request ID user agent an IP address all the way from the top of the chain all the way up from the controller action down through the creation of a recording down to through the creation of the event and so on it would just be a real hassle"
+    },
+    {
+      "text": "Pluck ambient context like the current person from globals so callbacks need no parameters.",
+      "quote": "after create is a callback that doesn't take any variables right like you don't have to pass anything into it to be able to to call this"
+    },
+    {
+      "text": "Keep auxiliary concerns off center stage so readers focus on the main behavior.",
+      "quote": "passing this stuff around all the time is actually not an advantage it doesn't make the code clearer it makes it more convoluted"
+    },
+    {
+      "text": "Use globals deliberately and with pride, but keep Current small; a long list is a smell that code needs refactoring.",
+      "quote": "if you end up with a current that has 10 15 20 different things yeah okay maybe you're off into the weeds somewhere and you should take a step back"
+    }
+  ],
+  "topics": [
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

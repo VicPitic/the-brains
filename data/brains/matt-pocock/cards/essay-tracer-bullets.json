@@ -1,0 +1,39 @@
+{
+  "id": "essay-tracer-bullets",
+  "title": "Tracer Bullets: how to stop AI agents outrunning their headlights",
+  "summary": "Matt argues AI agents' sycophancy makes them build whole horizontal layers in isolation, producing slop and a heavy review burden. The fix is the Pragmatic Programmer's tracer bullet: one thin end-to-end slice, tested immediately, then repeated in a fresh context window. He supplies a prompt to force this.",
+  "principles": [
+    {
+      "text": "AI's sycophancy makes it build complete solutions in one leap without validating assumptions, which produces slop.",
+      "quote": "It doesn't stop to validate assumptions or get feedback. It just keeps going, building entire layers in isolation, without ever testing whether the critical path actually works."
+    },
+    {
+      "text": "Build one thin vertical slice through every layer, test it, get feedback, then move to the next slice in a fresh context window.",
+      "quote": "Instead of building horizontal layers in isolation, you build one tiny vertical slice:"
+    },
+    {
+      "text": "Agents outrun their headlights when they build without feedback loops; tracer bullets build those loops into the process.",
+      "quote": "The AI is building too much in the dark, without feedback loops to validate assumptions early."
+    },
+    {
+      "text": "Be explicit in prompts, because the agent's default is big isolated layers rather than an end-to-end slice.",
+      "quote": "You have to be extremely explicit with your prompt. AI's natural inclination is to build big layers in isolation."
+    },
+    {
+      "text": "When breaking down a task, make the first item a tracer bullet: the backend wired to a single UI location, not all of them.",
+      "quote": "Rather than building all four UI locations at once, I focused the AI on building just one end-to-end slice: the backend endpoint connected to a single UI location."
+    },
+    {
+      "text": "Classic practices like tracer bullets and TDD apply even harder to AI because context window limits make the discipline non-negotiable.",
+      "quote": "But the principles apply harder to AI than they ever did to humans."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "testing",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-never-run-claude-init",
+  "title": "Never Run Claude /init: Matt Pocock on keeping CLAUDE.md nearly empty",
+  "summary": "Matt argues that auto-generated CLAUDE.md or agents.md files burn tokens, eat the agent's instruction budget, and go stale. He recommends trusting the agent's explore step, putting steering in skills, and keeping CLAUDE.md to only what is undiscoverable and globally relevant.",
+  "principles": [
+    {
+      "text": "Never run the agent init command; delete any auto-generated CLAUDE.md or agents.md you find.",
+      "quote": "Never run it. If you find one that was auto-generated, delete it."
+    },
+    {
+      "text": "The system prompt is hardwired at start, so every CLAUDE.md line shrinks room for exploration, implementation and testing.",
+      "quote": "But the system prompt is hardwired the moment the agent starts. Everything in your CLAUDE.md inflates it, leaving less room for the phases that actually do the work."
+    },
+    {
+      "text": "LLMs have an instruction budget of roughly 300 to 400 instructions; irrelevant CLAUDE.md lines burn it before work begins.",
+      "quote": "If you're stuffing dozens of irrelevant instructions into CLAUDE.md, you're burning that budget before the agent even starts working on your task."
+    },
+    {
+      "text": "CLAUDE.md is global, so a rule added for one kind of session taxes every other session.",
+      "quote": "Every line you add has a cost that compounds across every session, whether it's relevant or not."
+    },
+    {
+      "text": "Init output is either trivially discoverable from source or will go stale, and stale file references actively mislead the agent.",
+      "quote": "The throughline: everything init generates is either trivially discoverable from source or will go stale. Your file system is the documentation."
+    },
+    {
+      "text": "Put steering in skills the agent pulls in when relevant; CLAUDE.md should hold only what is both undiscoverable and globally relevant.",
+      "quote": "That's the bar: only include what is both undiscoverable and globally relevant."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

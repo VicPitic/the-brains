@@ -1,0 +1,38 @@
+{
+  "id": "essay-my-advice-for-security-critical-ts-apps",
+  "title": "Matt Pocock's advice for security-critical TS apps: learn the type wizardry, use branded types",
+  "summary": "A short essay arguing that TypeScript expertise, especially turning `any` into safe types and designing type-safe abstractions, saves teams bugs and speeds them up. For security-critical apps specifically, Matt says he'd lean heavily on branded types.",
+  "principles": [
+    {
+      "text": "Most TS app code is written under time pressure, which is how `any` creeps in.",
+      "quote": "The vast majority of TypeScript application code out there is written under severe time constraints."
+    },
+    {
+      "text": "Knowing how to turn `any` into safe types saves your team bugs.",
+      "quote": "Having the knowledge to transform any’s into safe types will save your team bugs."
+    },
+    {
+      "text": "Advanced type skills enable DX wins: custom forms, type-safe API endpoint creators, flexible components.",
+      "quote": "Want a custom form abstraction? A type-safe REST API endpoint creator? A flexible Table component?"
+    },
+    {
+      "text": "Enabling teammates to develop faster is what advances your career.",
+      "quote": "The more you can enable your teammates to develop faster, the faster you’ll rise up the ladder."
+    },
+    {
+      "text": "For security-critical apps, use branded types extensively.",
+      "quote": "If I were building an app where security was critical, I’d use the crap out of branded types."
+    },
+    {
+      "text": "Designing APIs that help others code faster is satisfying work.",
+      "quote": "You’ll be designing and implementing API’s that help folks code faster."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

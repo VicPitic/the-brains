@@ -1,0 +1,39 @@
+{
+  "id": "essay-skills-code-review",
+  "title": "The /code-review Skill: reviewing a diff against repo standards and the spec in separate axes",
+  "summary": "Describes Matt Pocock's code-review agent skill, which reviews a diff along two independent axes (Standards and Spec), each in its own sub-agent. Covers prerequisites, the Fowler smell baseline, and known pitfalls: name clash, runaway sub-agents, self-review bias, and non-convergence.",
+  "principles": [
+    {
+      "text": "Review along two independent axes, Standards and Spec, never blended into one verdict.",
+      "quote": "The skill never merges or re-ranks the two axes. The report ends with a worst issue _per axis_ and declines to name a single winner across them."
+    },
+    {
+      "text": "A blended verdict lets a passing axis hide a failing one; code can follow conventions yet build the wrong thing.",
+      "quote": "A blended verdict lets the passing axis hide the failing one."
+    },
+    {
+      "text": "Run each review axis in its own sub-agent so neither sees the other's reasoning.",
+      "quote": "Each axis runs in its own sub-agent so neither sees the other's reasoning."
+    },
+    {
+      "text": "Make the repo's own documented standards the primary source and let them override any generic baseline.",
+      "quote": "So the repo's own documentation is the primary source on the Standards axis, and **the repo always overrides**."
+    },
+    {
+      "text": "Review in a fresh session, not the one that wrote the code, to avoid confirmation bias.",
+      "quote": "An agent that reviews in the authoring session has every assumption that shaped the code in its context."
+    },
+    {
+      "text": "Treat sub-agent findings as hypotheses and require every finding to carry a checkable citation.",
+      "quote": "Sub-agent output is a hypothesis, not evidence."
+    }
+  ],
+  "topics": [
+    "code-review",
+    "ai",
+    "testing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

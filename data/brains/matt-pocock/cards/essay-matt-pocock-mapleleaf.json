@@ -1,0 +1,39 @@
+{
+  "id": "essay-matt-pocock-mapleleaf",
+  "title": "Matt Pocock Q&A: Why TypeScript fits alongside JavaScript, inference, generics, and failing early",
+  "summary": "Matt Pocock, in a January 2023 Reactiflux Q&A, covers how TypeScript shortens feedback loops, why generics and inference improve team developer experience, and why avoiding codegen and validating external data with Zod keeps apps robust. He also covers his path from voice coaching to XState, Vercel and Total TypeScript.",
+  "principles": [
+    {
+      "text": "TypeScript's core benefit is a shorter time to error; catch mistakes in the IDE, not the browser or production.",
+      "quote": "The time from when you make a mistake to when you know about the mistake in TypeScript is smaller than JavaScript."
+    },
+    {
+      "text": "Prefer inference through ordinary APIs over a codegen step when you can; codegen adds a sidecar process and a worse experience.",
+      "quote": "if you can avoid it, then avoiding the codegen step is the way to go."
+    },
+    {
+      "text": "Use discriminated and union types so TypeScript checks every possible case of your code, especially for component props.",
+      "quote": "Union types in TypeScript let you basically see into every possible future of your code"
+    },
+    {
+      "text": "Adding generics to a function means teammates never need to annotate; advanced TypeScript effort shifts burden off the team.",
+      "quote": "when you add a generic to a function, you're basically saying when people use this function, they won't need to annotate it in any way."
+    },
+    {
+      "text": "TypeScript types are not runtime safe; validate third-party and external data with a schema library like Zod so failures happen early.",
+      "quote": "TypeScript is not actually type safe. It just gives you the feeling of being type safe."
+    },
+    {
+      "text": "Design data structures and types before writing runtime code; it gives you velocity and avoids falling back to any.",
+      "quote": "doing the types before you start working on the runtime stuff that can give you a lot of extra velocity going forward."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "learning",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

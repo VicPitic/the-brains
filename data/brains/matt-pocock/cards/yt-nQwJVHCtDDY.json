@@ -1,0 +1,39 @@
+{
+  "id": "yt-nQwJVHCtDDY",
+  "title": "Matt Pocock's agentic workflow: strategic programming, AFK agents, harness over model",
+  "summary": "Matt argues AI has eaten tactical programming, so strategic skill (design, interfaces, scoping, codebase quality) is the ceiling on what agents can do. He covers procedure vs ability skills, grill-me, AFK agents in sandboxes, queues over loops, and optimizing the harness and codebase over chasing new models.",
+  "principles": [
+    {
+      "text": "AI has eaten tactical programming; win by being great at strategic programming and delegating the tactical work.",
+      "quote": "AI has basically eaten tactical programming. It's gone, right? It's all gone."
+    },
+    {
+      "text": "Your own skills are the ceiling on what AI can do, so upskill rather than delegate your thinking.",
+      "quote": "So your skills are the ceiling on what AI can do. And if your skills are low, then AI is not going to be able to go past that, you know."
+    },
+    {
+      "text": "A codebase that's easy to change lets cheaper models do the work; optimize the codebase, not the model.",
+      "quote": "Have a code base that's easier to make changes in? Because then you can employ a stupider model."
+    },
+    {
+      "text": "Prefer skills as procedures you invoke yourself over abilities the model invokes; stay in control of the thinking.",
+      "quote": "I don't want to delegate my thinking to the model."
+    },
+    {
+      "text": "Use an adversarial interviewer skill (grill me) before implementing, instead of plan mode, to reach shared understanding.",
+      "quote": "it just turns the agent into an adversarial interviewer asking you questions interviewing you and popping up with ideas that you might not have considered until you reach a shared understanding."
+    },
+    {
+      "text": "Strip all skills, plugins, MCPs and CLAUDE.md, observe the bare agent, then layer back only what you choose.",
+      "quote": "First thing I would do is I would delete every single skill, every single plugin, every single MCP server."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "learning",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

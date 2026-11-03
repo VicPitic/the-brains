@@ -1,0 +1,37 @@
+{
+  "id": "essay-they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
+  "title": "Why DHH sees Kubernetes as the next Death Star of complexity (J2EE, WS-*, now containers)",
+  "summary": "DHH traces a recurring pattern: vendors profit from complexity, so each time a wave (J2EE, WS-*) is flattened by simpler tools like Rails and JSON over HTTPS, the merchants of complexity regroup around the next frontier. He argues Kubernetes and its ecosystem are the current iteration, with the ratio of good ideas to bullshit out of whack.",
+  "principles": [
+    {
+      "text": "Rails was created to extract the good ideas from enterprise complexity and discard the bullshit.",
+      "quote": "To liberate the good ideas from the bullshit. To flush out all the nonsense, and to compress the remaining intrinsic complexity, so mere mortals without an advanced degree in enterprisey gibberish could employ the hidden gems of ingenuity that really were present."
+    },
+    {
+      "text": "Plain, simple technology wins: JSON over HTTPS beat WS-* regardless of RESTful purity debates.",
+      "quote": "The internet voted with its web requests, and simple JSON over HTTPS once again beat back the merchants of complexity to save the human race of programmers from a regrouping empire."
+    },
+    {
+      "text": "Complexity is profitable and simplicity is not, so expect vendors to rebuild complexity wherever things get too easy.",
+      "quote": "The struggle between profitless simplicity and profitable complexity is eternal in the world of software. When things become too easy, too approachable, there just isn't room for all the enterprisey services, sales, and solutions to prosper."
+    },
+    {
+      "text": "Kubernetes may hold good ideas, but its bullshit ratio is out of whack compared with Docker's original simplicity.",
+      "quote": "Again, I'm certain that there are good ideas hidden inside the advancement of Kubernetes, and the mushrooming of tools, services, and standards that are following in its wake, but the ratio of bullshit is also already completely out of whack."
+    },
+    {
+      "text": "Start from the simple job: run an app on some hardware efficiently and redeploy it easily; don't accept complexity far beyond that.",
+      "quote": "What we're trying to do here? We're trying to run an application on some hardware in a reasonably efficient manner, where we can easily redeploy it when it changes."
+    },
+    {
+      "text": "Complexity looks silly in hindsight but feels excusable in the thick of it; keep a skeptical mind and distance from it.",
+      "quote": "Beware carnies dressed as storm troopers. The circus empire is always coming to town. Keep a safe distance, a skeptical mind, and one hand on your wallet."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

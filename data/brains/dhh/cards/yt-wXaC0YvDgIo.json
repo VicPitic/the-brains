@@ -1,0 +1,38 @@
+{
+  "id": "yt-wXaC0YvDgIo",
+  "title": "Code comments are a smell: extracting a constant and a create_or_find_by pattern",
+  "summary": "DHH walks through a Basecamp 3 refactoring session, treating code comments as a smell and replacing them with clearer code (an extracted private constant). He also weighs conflicting aesthetic conventions and shows pushing a recurring pattern, create_or_find_by backed by a unique index, upstream into Rails.",
+  "principles": [
+    {
+      "text": "Code comments are usually a smell; make the code itself explain the intent.",
+      "quote": "more often than not I tend to look at code comments as a bit of a smell why are you explaining something that isn't apparent or clear from the code itself"
+    },
+    {
+      "text": "Replace magic numbers with a named constant, declared privately and placed next to where it's used.",
+      "quote": "how far away are they from their usage and is this a general constant that someone should consider as a Pollak public constant or is it more of a private thing"
+    },
+    {
+      "text": "When style conventions conflict, choose by what makes code easiest and most pleasant to read; automatic style checkers can't make that call.",
+      "quote": "these two considerations that are somewhat in conflict you have to choose which one is more important to you"
+    },
+    {
+      "text": "The goal of refactoring is code that is easier and more aesthetically pleasing for the programmer to read and come back to.",
+      "quote": "it's just make this easier for me to read more aesthetically pleasing for me to read easier to come back to"
+    },
+    {
+      "text": "Model domain concepts as first-class objects (an administratorship join model) rather than boolean flags.",
+      "quote": "I really like encapsulating these domain objects and being able to reason about them and giving them a place to live and giving them a whole concept rather than just giving them boolean"
+    },
+    {
+      "text": "Prefer one insert guarded by a database unique index over a racy find-then-create; extract the pattern as create_or_find_by.",
+      "quote": "we're basically just doing one insert and relying on the unique index in the database to throw an exception if this person already exists"
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-tdd-is-dead-long-live-testing-html",
+  "title": "DHH on why test-first TDD is dead: rebalancing toward system tests",
+  "summary": "DHH explains why he abandoned test-first TDD as a design practice while keeping automated regression testing. He argues that driving design from isolated unit tests produces over-engineered architecture, and that the testing mix should shift from unit tests toward slower, higher-level system tests. He also warns against replacing one testing dogma with another.",
+  "principles": [
+    {
+      "text": "Test-first was useful training wheels for learning to test, not a permanent design discipline to follow forever.",
+      "quote": "The test-first part was a wonderful set of training wheels that taught me how to think about testing at a deeper level, but also some I quickly left behind."
+    },
+    {
+      "text": "Test-first fundamentalism breeds shame and gatekeeping; don't use it as a litmus test of professionalism.",
+      "quote": "Used as a hammer to beat down the nonbelievers, declare them unprofessional and unfit for writing software. A litmus test."
+    },
+    {
+      "text": "Driving design from isolated unit tests creates complex indirection and architectural monstrosities to avoid anything 'slow'.",
+      "quote": "Test-first units leads to an overly complex web of intermediary objects and indirection in order to avoid doing anything that's \"slow\". Like hitting the database."
+    },
+    {
+      "text": "Skip mock-everything unit tests in Rails; test models directly against the database with fixtures.",
+      "quote": "I test active record models directly, letting them hit the database, and through the use of fixtures."
+    },
+    {
+      "text": "Shift emphasis from unit tests to full system tests, which are no longer so slow thanks to parallelization and cloud runners.",
+      "quote": "Less emphasis on unit tests, because we're no longer doing test-first as a design practice, and more emphasis on, yes, slow, system tests."
+    },
+    {
+      "text": "Don't swap one testing religion for another; avoid 'system tests only' dogma.",
+      "quote": "The worst thing we can do is just rush into another testing religion."
+    }
+  ],
+  "topics": [
+    "testing",
+    "architecture",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

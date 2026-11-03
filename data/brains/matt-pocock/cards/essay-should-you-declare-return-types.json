@@ -1,0 +1,31 @@
+{
+  "id": "essay-should-you-declare-return-types",
+  "title": "Should You Declare Return Types? Matt Pocock's .cursor rule for top-level functions",
+  "summary": "A short essay sharing a .cursor/rules snippet: declare explicit return types on top-level module functions so future AI assistants understand each function's purpose. The one exception is JSX components, whose return type is always JSX.",
+  "principles": [
+    {
+      "text": "Declare return types on functions declared at the top level of a module.",
+      "quote": "When declaring functions on the top-level of a module,\ndeclare their return types."
+    },
+    {
+      "text": "Explicit return types help AI assistants understand a function's purpose.",
+      "quote": "This will help future AI\nassistants understand the function's purpose."
+    },
+    {
+      "text": "Skip return types on JSX-returning components; the type is always JSX.",
+      "quote": "One exception to this is components which return JSX.\nNo need to declare the return type of a component,\nas it is always JSX."
+    },
+    {
+      "text": "Encode TypeScript habits as .cursor/rules so AI agents follow your conventions.",
+      "quote": "Here's a quick `.cursor/rules` addition you can make for handling return types in TypeScript."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "ai",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

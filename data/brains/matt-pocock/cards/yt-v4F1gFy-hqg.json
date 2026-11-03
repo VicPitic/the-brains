@@ -1,0 +1,39 @@
+{
+  "id": "yt-v4F1gFy-hqg",
+  "title": "Software fundamentals matter more than ever: why specs-to-code fails and how old books fix AI coding",
+  "summary": "Matt Pocock argues that \"specs-to-code\" produces ever-worse code because it divests from design, and that classic books (Ousterhout, Pragmatic Programmer, Brooks, DDD, Beck) give the fixes. He walks through AI coding failure modes with a skill for each: grilling for shared understanding, a ubiquitous language, TDD, deep modules, and delegating implementation behind designed interfaces.",
+  "principles": [
+    {
+      "text": "Bad code is more expensive than ever; code is not cheap, because a hard-to-change codebase blocks what AI can offer.",
+      "quote": "I think code is not cheap. In fact, bad code is the most expensive it's ever been."
+    },
+    {
+      "text": "Specs-to-code fails: repeatedly recompiling specs without looking at the code just yields software entropy and garbage.",
+      "quote": "The idea that we can just ignore the code and just have the code let it manage itself is just sort of vibe coding by another name."
+    },
+    {
+      "text": "Reach a shared design concept with the AI before building by having it grill you relentlessly, rather than rushing to a plan.",
+      "quote": "Interview me relentlessly about every aspect of this plan until we reach a shared understanding."
+    },
+    {
+      "text": "Create a ubiquitous language with the AI; shared terms make its thinking less verbose and implementation more aligned.",
+      "quote": "It's essentially a markdown file full of a list of terms that you and the AI have in common."
+    },
+    {
+      "text": "Feedback rate is your speed limit; use static types, browser access and tests, and use TDD to force small steps.",
+      "quote": "The rate of feedback is your speed limit, which means that you should be testing as you go, taking small deliberate steps."
+    },
+    {
+      "text": "Structure code as deep modules with simple interfaces; they are easier for AI to navigate and for you to test.",
+      "quote": "They should be relatively few large deep modules with simple interfaces."
+    }
+  ],
+  "topics": [
+    "ai",
+    "testing",
+    "api-design",
+    "typescript"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

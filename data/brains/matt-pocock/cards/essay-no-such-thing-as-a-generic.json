@@ -1,0 +1,38 @@
+{
+  "id": "essay-no-such-thing-as-a-generic",
+  "title": "There Is No Such Thing As A Generic: type arguments, type parameters, and 'generic' as an adjective",
+  "summary": "Matt Pocock argues that 'generic' is not a noun in TypeScript. There are generic types, functions and classes, which declare type parameters and receive type arguments. Using precise vocabulary makes generics easier to learn and teach.",
+  "principles": [
+    {
+      "text": "'Generic' is an adjective, not a noun: you can't pass, declare or infer 'a generic'.",
+      "quote": "In other words, 'generic' is not a noun, it's an adjective."
+    },
+    {
+      "text": "Generics feel hard partly because the word is overloaded across functions, calls, types and declarations.",
+      "quote": "That's why it's such a hard concept for folks to grasp - the word is too overloaded."
+    },
+    {
+      "text": "What you pass in angle brackets is a type argument, which works like a function argument.",
+      "quote": "We're not passing a 'generic' to `useState`. We are passing it a **type argument**."
+    },
+    {
+      "text": "A type parameter is declared by the type, function or class, like a function parameter, and signals that it accepts type arguments.",
+      "quote": "So, a **type parameter** is like a function parameter. It declares that you can pass a type argument to the type, function, or class."
+    },
+    {
+      "text": "Define generic precisely: a type, function or class that declares one or more type parameters.",
+      "quote": "**generic** - _adj_: a type, function, or class that declares one or more type parameters."
+    },
+    {
+      "text": "Generic functions and classes infer type arguments from runtime arguments; generic types must have them passed explicitly.",
+      "quote": "if you don't pass a type argument to a generic function or generic class, it'll attempt to **infer it from the runtime arguments**."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

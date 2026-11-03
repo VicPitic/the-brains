@@ -1,0 +1,39 @@
+{
+  "id": "essay-doctrine",
+  "title": "The Rails Doctrine: DHH's nine pillars of Rails philosophy",
+  "summary": "DHH's founding essay lays out nine pillars behind Rails: programmer happiness, convention over configuration, omakase, no single paradigm, beautiful code, sharp knives, integrated systems (the majestic monolith), progress over stability, and a big tent. It explains why Rails trusts programmers, favors shared defaults, and resists premature distribution.",
+  "principles": [
+    {
+      "text": "Optimize for programmer happiness; Rails was built first to make DHH smile, and utility served that.",
+      "quote": "I created Rails for me. To make me smile, first and foremost. Its utility was to many degrees subservient to its ability to make me enjoy my life more."
+    },
+    {
+      "text": "Convention over configuration frees you from recurring mundane decisions and lowers the barrier for beginners.",
+      "quote": "Part of the Rails’ mission is to swing its machete at the thick, and ever growing, jungle of recurring decisions that face developers creating information systems for the web."
+    },
+    {
+      "text": "Let experts curate the stack (omakase); give up individual tool choice for a better shared toolbox.",
+      "quote": "So with Rails we decided to diminish one good, a programmer’s individual privilege to choose each tool in their box, for a greater one: A better tool box for all."
+    },
+    {
+      "text": "Provide sharp knives: trust programmers with powerful tools and teach them, rather than paternalistically restricting them.",
+      "quote": "I’ve yet to hear a single programmer put up their hand and say “I can’t trust myself with this power, please take it away from me!”. It’s always “I think other programmers would abuse this”. That line of paternalism has never appealed to me."
+    },
+    {
+      "text": "Favor integrated systems and avoid distributing (microservices) until you absolutely must.",
+      "quote": "avoid distributing our system before we absolutely, positively have to."
+    },
+    {
+      "text": "Mix paradigms pragmatically instead of following a single pure idea to its conclusion.",
+      "quote": "It isn’t a single, perfect cut of cloth. It’s a quilt. A composite of many different ideas and even paradigms."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture",
+    "leadership",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

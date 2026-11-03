@@ -1,0 +1,38 @@
+{
+  "id": "essay-deriving-vs-decoupling",
+  "title": "Deriving vs Decoupling: when Matt Pocock says to skip clever TypeScript types",
+  "summary": "Matt Pocock explains when to derive one type from another (Pick, Omit, indexed access) and when to write a plain, decoupled type. The test is future workload: derive when types share a concern and must change together, decouple when coupling would create busywork or tie unrelated concerns.",
+  "principles": [
+    {
+      "text": "Decide derive vs decouple by asking which choice reduces your future workload.",
+      "quote": "The decision to derive or decouple is all about reducing your future workload."
+    },
+    {
+      "text": "Derive when updates to one type must ripple to the other.",
+      "quote": "Are the two types so related that updates to one will need to ripple to the other? Derive."
+    },
+    {
+      "text": "Decouple when coupling unrelated types would cause extra work later.",
+      "quote": "Are they so unrelated that coupling them could result in more work down the line? Decouple."
+    },
+    {
+      "text": "Make components and functions require only the data they need, not whole domain types.",
+      "quote": "It's a good idea to make your functions and components only require the data they need to run."
+    },
+    {
+      "text": "Deriving with Pick couples a type to the source's shape and its existence and location; a decoupled type survives moves, splits and deletion.",
+      "quote": "We can move `User` around, split it into separate interfaces, or even delete it, and `AvatarImageProps` will be unaffected."
+    },
+    {
+      "text": "Don't reach for advanced features like Pick just to feel clever; the simple decoupled type is often smarter.",
+      "quote": "But often, it's smarter to do the simple thing, and keep your types decoupled."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "code-review"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-62-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-64-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -123,6 +123,8 @@ A roundtable puts a few people on one topic behind one connector, like `https://
 | [Cody Schneider](https://brains.ceo/cody-schneider) | Graphed co-founder running ads, SEO and cold email with Claude Code agents; host of In the Pit | 47 | 168 | 18 |
 | [Sam Parr](https://brains.ceo/sam-parr) | Founder of The Hustle (sold to HubSpot) and Hampton; co-host of My First Million | 48 | 136 | 22 |
 | [Simon Høiberg](https://brains.ceo/simon-hoiberg) | Building a portfolio of bootstrapped SaaS products, including FeedHive, LinkDrip and Aidbase | 28 | 143 | 9 |
+| [DHH](https://brains.ceo/dhh) | Creator of Ruby on Rails and Omarchy, co-owner and CTO of 37signals | 55 | 257 | 30 |
+| [Matt Pocock](https://brains.ceo/matt-pocock) | Author of Total TypeScript and AI Hero; teaches devs for a living | 54 | 46 | 17 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

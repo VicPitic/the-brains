@@ -1,0 +1,3770 @@
+{
+  "schemaVersion": 1,
+  "slug": "dhh",
+  "name": "DHH",
+  "shortName": "DHH",
+  "tagline": "Creator of Ruby on Rails and Omarchy, co-owner and CTO of 37signals",
+  "role": "Co-owner & CTO",
+  "company": "37signals",
+  "categories": [
+    "ai-builders",
+    "operators",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "The vast majority of systems are much better served by starting and staying with a majestic monolith.",
+    "sourceId": "essay-how-to-recover-from-microservices-ce3803cc"
+  },
+  "topics": [
+    {
+      "id": "agentic-coding",
+      "label": "Agentic coding",
+      "summary": "His shift from hand-written Ruby to parallel agents, what humans still add, and how he checks agent work.",
+      "sampleQuestion": "Should I still review every line of code an agent writes?",
+      "sourceIds": [
+        "yt-vDjW_dRyKXY",
+        "yt-NYFGCESmikA",
+        "yt-IEOqgPfGLQ8",
+        "yt-JiWgKRgdgpI",
+        "yt-1JYTtAODjN8",
+        "essay-over-my-dead-pencil-fb0f3647",
+        "x-2104542267281146357",
+        "x-2107882896195199116"
+      ]
+    },
+    {
+      "id": "testing-and-tdd",
+      "label": "Testing and TDD",
+      "summary": "TDD, test-induced design damage, mocks, coverage, and why he cut back system tests.",
+      "sampleQuestion": "Should I write tests first, or is TDD a bad way to drive design?",
+      "sourceIds": [
+        "essay-tdd-is-dead-long-live-testing-html",
+        "essay-test-induced-design-damage-html",
+        "essay-slow-database-test-fallacy-html",
+        "essay-3159-testing-like-the-tsa",
+        "essay-system-tests-have-failed-d90af718",
+        "yt-z9quxZsLcfo",
+        "yt-JoTB2mcjU7w",
+        "yt-Tc5z64XIwIY"
+      ]
+    },
+    {
+      "id": "monoliths-simplicity-small-teams",
+      "label": "Monoliths, simplicity and small teams",
+      "summary": "Why to stay in one codebase, avoid hard problems, and run teams of two with no full-time managers.",
+      "sampleQuestion": "When does it make sense to split a monolith into services?",
+      "sourceIds": [
+        "essay-the-majestic-monolith",
+        "essay-the-majestic-monolith-can-become-the-citadel",
+        "essay-how-to-recover-from-microservices-ce3803cc",
+        "essay-try-hard-not-to-solve-hard-problems-9e6550a2",
+        "essay-we-once-more-have-no-full-time-managers-at-37signals-f861108",
+        "essay-the-one-person-framework-711e6318",
+        "essay-they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
+        "x-1671415396325380096"
+      ]
+    },
+    {
+      "id": "happiness-conventions-typing",
+      "label": "Happiness, conventions and typing",
+      "summary": "Programmer happiness, omakase defaults, sharp knives, and his case for dynamic typing over TypeScript.",
+      "sampleQuestion": "Why did Turbo 8 drop TypeScript, and should my team care?",
+      "sourceIds": [
+        "essay-doctrine",
+        "essay-rails-is-omakase-html",
+        "essay-programming-types-and-mindsets-5b8490bc",
+        "essay-turbo-8-is-dropping-typescript-70165c01",
+        "essay-a-writer-s-ruby-2050b634",
+        "yt-vagyIcmIGOQ",
+        "yt-i-htRRu1au4",
+        "yt-mTa2d3OLXhg"
+      ]
+    },
+    {
+      "id": "code-clarity-and-review",
+      "label": "Code clarity and review",
+      "summary": "Naming over comments, pushing specifics down, callbacks, and reviewing whole features in context.",
+      "sampleQuestion": "Should pull requests be small, or can they stay open for weeks?",
+      "sourceIds": [
+        "essay-3250-clarity-over-brevity-in-variable-and-method-names",
+        "essay-the-advantages-of-large-long-running-pull-requests-c33d913c",
+        "yt-wXaC0YvDgIo",
+        "yt-Yd3j3ZEx6DU",
+        "yt-m1jOWu7woKM",
+        "yt-D7zUOtlpUPw",
+        "yt-9LfmrkyP81M",
+        "x-1864681695791993201"
+      ]
+    },
+    {
+      "id": "cloud-exit",
+      "label": "Cloud exit",
+      "summary": "The numbers behind leaving AWS and Google Cloud, and why owned hardware didn't need a bigger team.",
+      "sampleQuestion": "Is it cheaper to run our own servers than to stay on AWS?",
+      "sourceIds": [
+        "essay-why-we-re-leaving-the-cloud-654b47e0",
+        "essay-the-big-cloud-exit-faq-20274010",
+        "yt--ItsulqPqbg",
+        "yt--cEn_83zRFw",
+        "x-2044441858063941980",
+        "x-1613508201953038337",
+        "x-1736832920370000085"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Stop hand-writing most code: agents are good enough now, and the human value is taste, proportion and beauty.",
+      "sourceIds": [
+        "essay-over-my-dead-pencil-fb0f3647",
+        "yt-IEOqgPfGLQ8",
+        "yt-vDjW_dRyKXY",
+        "x-2102936073642869121"
+      ]
+    },
+    {
+      "text": "Start and stay with a majestic monolith; don't distribute your computing until you absolutely have to.",
+      "sourceIds": [
+        "essay-how-to-recover-from-microservices-ce3803cc",
+        "essay-the-majestic-monolith",
+        "essay-doctrine"
+      ]
+    },
+    {
+      "text": "Let your design drive your tests, not the reverse; test the real thing instead of bending code for unit isolation.",
+      "sourceIds": [
+        "essay-test-induced-design-damage-html",
+        "yt-Tc5z64XIwIY",
+        "yt-z9quxZsLcfo"
+      ]
+    },
+    {
+      "text": "Optimize for programmer happiness, and use convention over configuration to cut recurring, mundane decisions.",
+      "sourceIds": [
+        "essay-doctrine",
+        "yt-vagyIcmIGOQ"
+      ]
+    },
+    {
+      "text": "Renting computers is a bad deal for stable businesses; owning hardware costs far less and needs no bigger team.",
+      "sourceIds": [
+        "essay-why-we-re-leaving-the-cloud-654b47e0",
+        "essay-the-big-cloud-exit-faq-20274010",
+        "x-2044441858063941980"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I start a new app with microservices?",
+      "answer": [
+        {
+          "text": "No. Start and stay with a majestic monolith. Microservices suit organizations orders of magnitude larger, and copying them is cargo culting.",
+          "sourceIds": [
+            "essay-how-to-recover-from-microservices-ce3803cc",
+            "essay-the-majestic-monolith"
+          ]
+        },
+        {
+          "text": "Extracting a service trades object collaboration for failure states and operational pain. Partition with modules and namespaces, not network boundaries.",
+          "sourceIds": [
+            "essay-the-majestic-monolith",
+            "essay-how-to-recover-from-microservices-ce3803cc"
+          ]
+        },
+        {
+          "text": "If you hit a real limit, improve the monolith first. Then extract a small Outpost for the divergent slice, not the whole app.",
+          "sourceIds": [
+            "essay-the-majestic-monolith-can-become-the-citadel"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Do I need TDD and 100% test coverage?",
+      "answer": [
+        {
+          "text": "No. He treats test-first as training wheels, not a design discipline. In 2012 his ratio was about 20% test-first, 80% test-after.",
+          "sourceIds": [
+            "essay-tdd-is-dead-long-live-testing-html",
+            "essay-3159-testing-like-the-tsa"
+          ]
+        },
+        {
+          "text": "Test models against the real database with fixtures, and mock only true externals like payment gateways.",
+          "sourceIds": [
+            "essay-tdd-is-dead-long-live-testing-html",
+            "yt-JoTB2mcjU7w",
+            "yt-Tc5z64XIwIY"
+          ]
+        },
+        {
+          "text": "60-80% coverage buys him enough confidence on a stable product team. Very few apps are critical enough to justify testing everything.",
+          "sourceIds": [
+            "yt-dGtasFJnUxI",
+            "essay-3159-testing-like-the-tsa"
+          ]
+        },
+        {
+          "text": "Keep browser-driven system tests to a top-level smoke test, and have a human check whether the UI feels right.",
+          "sourceIds": [
+            "essay-system-tests-have-failed-d90af718"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I still review every line of code an agent writes?",
+      "answer": [
+        {
+          "text": "He says no: there's no future where you manually review every line. Use adversarial agent reviews, automated testing and spot checks.",
+          "sourceIds": [
+            "x-2104542267281146357"
+          ]
+        },
+        {
+          "text": "Have a differently sourced model check the first one's work. From Codex he says \"Review this with claude\", and from Claude \"Review this with codex\".",
+          "sourceIds": [
+            "yt-NYFGCESmikA",
+            "x-2107882896195199116"
+          ]
+        },
+        {
+          "text": "Extend trust as competence is shown, as you would with a human hire. Keep pushing for simpler designs, because agents tend to bolt on code rather than reshape the architecture.",
+          "sourceIds": [
+            "yt-IEOqgPfGLQ8",
+            "yt-1JYTtAODjN8",
+            "x-2087983107458637839"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-vagyIcmIGOQ",
+    "yt-vDjW_dRyKXY",
+    "essay-doctrine",
+    "essay-the-majestic-monolith",
+    "essay-test-induced-design-damage-html",
+    "essay-why-we-re-leaving-the-cloud-654b47e0"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_400x400.jpg",
+    "alt": "Photo of DHH"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/dhh",
+      "label": "@dhh"
+    },
+    {
+      "kind": "website",
+      "url": "https://world.hey.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://dhh.dk"
+    },
+    {
+      "kind": "website",
+      "url": "https://rubyonrails.org"
+    }
+  ],
+  "followers": {
+    "x": 946255,
+    "asOf": "2026-11-03"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 55,
+    "xPostCount": 257,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 257,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 25,
+      "podcast": 0,
+      "essay": 30
+    },
+    "transcriptMinutes": 1784,
+    "dateRange": {
+      "from": "2012-04",
+      "to": "2026-11"
+    }
+  },
+  "createdAt": "2026-11-03T17:47:18.021Z",
+  "updatedAt": "2026-11-03T17:47:18.021Z",
+  "sources": [
+    {
+      "id": "yt-NYFGCESmikA",
+      "type": "youtube",
+      "title": "DHH on agentic engineering: Omarchy Quattro, 100% agent-written code, and why Linux wins",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "publishedAt": "2026-08-26",
+      "outlet": "Lex Fridman",
+      "durationSec": 18951,
+      "views": 2328690,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "DHH explains his shift from hand-chiseled Ruby to running parallel agents, shipping Omarchy Quattro without hand-writing its code. He covers vague prompts over specs, the shrinking payoff of beautiful"
+    },
+    {
+      "id": "yt-vagyIcmIGOQ",
+      "type": "youtube",
+      "title": "DHH on Lex Fridman: Ruby, Rails, small teams, dynamic typing, cloud exit and AI coding",
+      "url": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
+      "publishedAt": "2025-07-12",
+      "outlet": "Lex Fridman",
+      "durationSec": 22128,
+      "views": 1169142,
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "A long conversation where DHH explains why Ruby's focus on programmer happiness shaped Rails, and why he defends dynamic typing, the majestic monolith and tiny teams without managers. He also covers l"
+    },
+    {
+      "id": "yt-vDjW_dRyKXY",
+      "type": "youtube",
+      "title": "Rails World 2026 Keynote: DHH on the end of handwritten code and the agent era",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "publishedAt": "2026-09-23",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3787,
+      "views": 603109,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "DHH argues Opus 4.5 on Nov 24, 2025 was the Kodak Brownie moment for programming, and that 37signals has gone \"pencils down\" on handwritten code. He covers native apps with Rust backends driven by age"
+    },
+    {
+      "id": "yt-gcwzWzC7gUA",
+      "type": "youtube",
+      "title": "Rails World 2025 keynote: DHH on simplicity, local-first dev and owning the stack",
+      "url": "https://www.youtube.com/watch?v=gcwzWzC7gUA",
+      "publishedAt": "2025-09-04",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3835,
+      "views": 162083,
+      "topicIds": [],
+      "excerpt": "DHH rants that web development has regressed (deploys slower than 1999 FTP, brittle stacks) because we embrace complexity instead of proudly being CRUD monkeys. He argues for maximalist, end-to-end fr"
+    },
+    {
+      "id": "yt--cEn_83zRFw",
+      "type": "youtube",
+      "title": "Rails World 2024 keynote: Rails 8, no build, and leaving the cloud",
+      "url": "https://www.youtube.com/watch?v=-cEn_83zRFw",
+      "publishedAt": "2024-09-26",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3946,
+      "views": 155062,
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "DHH launches Rails 8 as the bridge from Hello World to IPO: no build, no PaaS, and a one-person framework. He argues for invalidating stale patterns, deploying your own servers on cheap hardware, and "
+    },
+    {
+      "id": "yt-iqXjGiQ_D-A",
+      "type": "youtube",
+      "title": "Rails World 2023 keynote: DHH on no-build, Solid Cache/Queue, Kamal and the one-person framework",
+      "url": "https://www.youtube.com/watch?v=iqXjGiQ_D-A",
+      "publishedAt": "2023-10-11",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3739,
+      "views": 93081,
+      "topicIds": [],
+      "excerpt": "DHH opens Rails World on the 20th anniversary, arguing the zero-interest era bred a productivity dark age of over-specialisation and complexity. He tours seven tools (Propshaft, Turbo 8, Strada, Solid"
+    },
+    {
+      "id": "yt-JiWgKRgdgpI",
+      "type": "youtube",
+      "title": "DHH on going agent-first: how 37signals and Omarchy build software with AI now",
+      "url": "https://www.youtube.com/watch?v=JiWgKRgdgpI",
+      "publishedAt": "2026-04-08",
+      "outlet": "The Pragmatic Engineer",
+      "durationSec": 6441,
+      "views": 315153,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "DHH explains why his opinions on AI didn't change but the tools did: agent harnesses plus Opus 4.5 crossed his quality bar. He covers his tmux/Neovim agent workflow, senior-vs-junior leverage, small t"
+    },
+    {
+      "id": "yt-uWqno4HM4xA",
+      "type": "youtube",
+      "title": "DHH on AI and coding: why he still hand-writes his Ruby (for now)",
+      "url": "https://www.youtube.com/watch?v=uWqno4HM4xA",
+      "publishedAt": "2026-01-13",
+      "outlet": "Amp, Inc.",
+      "durationSec": 3892,
+      "views": 31241,
+      "topicIds": [],
+      "excerpt": "DHH explains why AI isn't writing his code yet: he still cares about how code looks, uses AI mostly to learn faster, and sees no proof yet that AI lets companies cut half their programmers. He also co"
+    },
+    {
+      "id": "yt-1JYTtAODjN8",
+      "type": "youtube",
+      "title": "DHH on Basecamp 5, agents, and Rails' stable foundation",
+      "url": "https://www.youtube.com/watch?v=1JYTtAODjN8",
+      "publishedAt": "2026-06-12",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3583,
+      "views": 22295,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "DHH explains why Rails' stable back end let Basecamp 5 evolve on a 2013 chassis, and how AI agents change his workflow. Agents produce code fast but bolt on rather than refactor, so architecture, tast"
+    },
+    {
+      "id": "yt-IEOqgPfGLQ8",
+      "type": "youtube",
+      "title": "DHH with Matz and Jeremy Daer: Ruby, agents, and why programmers become software makers",
+      "url": "https://www.youtube.com/watch?v=IEOqgPfGLQ8",
+      "publishedAt": "2026-09-27",
+      "outlet": "Ruby on Rails",
+      "durationSec": 3832,
+      "views": 54474,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "A panel with Matz and DHH on how agents are changing programming. DHH argues acceptance comes first, that human value is taste and joy rather than hand-typing code, and that the \"slop\" critique is cop"
+    },
+    {
+      "id": "yt-mTa2d3OLXhg",
+      "type": "youtube",
+      "title": "DHH on Ruby, programmer happiness, open source as gift exchange, and no-build",
+      "url": "https://www.youtube.com/watch?v=mTa2d3OLXhg",
+      "publishedAt": "2024-09-18",
+      "outlet": "The PrimeTime",
+      "durationSec": 7373,
+      "views": 587029,
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH explains why Ruby's aesthetics and metaprogramming made programming itself the reward, why competence and understanding beat copy-paste or AI crutches, and why open source is a meritocratic gift e"
+    },
+    {
+      "id": "yt-z9quxZsLcfo",
+      "type": "youtube",
+      "title": "Is TDD dead? DHH on mocks, test-induced damage and self-testing code",
+      "url": "https://www.youtube.com/watch?v=z9quxZsLcfo",
+      "publishedAt": "2014-05-09",
+      "outlet": "Thoughtworks",
+      "durationSec": 1826,
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH, Kent Beck and Martin Fowler discuss TDD after DHH's RailsConf critique. DHH separates self-testing code from TDD, objects to mock-heavy isolation that distorts architecture, and says red-green-re"
+    },
+    {
+      "id": "yt-JoTB2mcjU7w",
+      "type": "youtube",
+      "title": "Is TDD dead? Part II: DHH on test-induced design damage, mocking and indirection",
+      "url": "https://www.youtube.com/watch?v=JoTB2mcjU7w",
+      "publishedAt": "2014-05-16",
+      "outlet": "Thoughtworks",
+      "durationSec": 2120,
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH debates Kent Beck and Martin Fowler over whether TDD pushes designs toward needless indirection. He argues that isolating every layer for fast unit tests (hexagonal, command and repository pattern"
+    },
+    {
+      "id": "yt-dGtasFJnUxI",
+      "type": "youtube",
+      "title": "Is TDD dead? Part IV: DHH on over-testing, test-first dogma, and the hidden costs of TDD",
+      "url": "https://www.youtube.com/watch?v=dGtasFJnUxI",
+      "publishedAt": "2014-05-27",
+      "outlet": "Thoughtworks",
+      "durationSec": 2118,
+      "topicIds": [],
+      "excerpt": "In the fourth Is TDD dead? hangout, DHH argues that TDD nudges teams toward over-testing, high test-to-code ratios and worship of testing infrastructure. He wants testing treated as a tradeoff: calibr"
+    },
+    {
+      "id": "yt-YNw4baDz6WA",
+      "type": "youtube",
+      "title": "Is TDD dead? Part III: DHH on the costs of testing, QA, and overconfidence in green bars",
+      "url": "https://www.youtube.com/watch?v=YNw4baDz6WA",
+      "publishedAt": "2014-05-20",
+      "outlet": "Thoughtworks",
+      "durationSec": 1710,
+      "topicIds": [],
+      "excerpt": "In the third Is TDD Dead hangout with Kent Beck and Martin Fowler, DHH argues that TDD's success bred overconfidence and led shops to drop QA. He says the costs of testing are rarely discussed, and th"
+    },
+    {
+      "id": "yt-9LfmrkyP81M",
+      "type": "youtube",
+      "title": "RailsConf 2014 keynote: Why test-first design hurts clarity and programmers should think like writers",
+      "url": "https://www.youtube.com/watch?v=9LfmrkyP81M",
+      "publishedAt": "2014-05-05",
+      "outlet": "Confreaks",
+      "durationSec": 3676,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH argues most information-system work is closer to writing than to hard science. He says TDD optimizes for ease of testing and metrics (coverage, ratio, speed) at the cost of architecture and compre"
+    },
+    {
+      "id": "yt-wXaC0YvDgIo",
+      "type": "youtube",
+      "title": "Code comments are a smell: extracting a constant and a create_or_find_by pattern",
+      "url": "https://www.youtube.com/watch?v=wXaC0YvDgIo",
+      "publishedAt": "2018-02-20",
+      "outlet": "Getting Real",
+      "durationSec": 959,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH walks through a Basecamp 3 refactoring session, treating code comments as a smell and replacing them with clearer code (an extracted private constant). He also weighs conflicting aesthetic convent"
+    },
+    {
+      "id": "yt-m1jOWu7woKM",
+      "type": "youtube",
+      "title": "DHH on callbacks: tracing the Basecamp mentions feature to manage auxiliary complexity",
+      "url": "https://www.youtube.com/watch?v=m1jOWu7woKM",
+      "publishedAt": "2018-02-13",
+      "outlet": "David Heinemeier Hansson",
+      "durationSec": 1311,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH walks through the Basecamp 3 mentions feature, tracing it from controller through concern, callbacks, background job and eavesdropper class. He argues callbacks push auxiliary complexity off to th"
+    },
+    {
+      "id": "yt-D7zUOtlpUPw",
+      "type": "youtube",
+      "title": "Using globals when the price is right: Rails Current at Basecamp",
+      "url": "https://www.youtube.com/watch?v=D7zUOtlpUPw",
+      "publishedAt": "2018-02-15",
+      "outlet": "David Heinemeier Hansson",
+      "durationSec": 1036,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH defends globals as a \"sharp knife\" for request-scoped context, showing how Basecamp's Current class (extracted into Rails 5.1) carries the current person, account and request details into event tr"
+    },
+    {
+      "id": "yt-Tc5z64XIwIY",
+      "type": "youtube",
+      "title": "Testing without test damage: real models, real controllers, fixtures, no mock soup",
+      "url": "https://www.youtube.com/watch?v=Tc5z64XIwIY",
+      "publishedAt": "2018-02-19",
+      "outlet": "David Heinemeier Hansson",
+      "durationSec": 1641,
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH walks through how Basecamp tests a lockable Document feature. He defends tests that hit the real database and render real views over isolated unit tests with mocks, uses fixtures instead of factor"
+    },
+    {
+      "id": "yt-AoxoPfilKqE",
+      "type": "youtube",
+      "title": "How Basecamp actually deletes data: the incineration pattern, 30-day grace, backups scrubbed",
+      "url": "https://www.youtube.com/watch?v=AoxoPfilKqE",
+      "publishedAt": "2018-03-05",
+      "outlet": "Getting Real",
+      "durationSec": 1385,
+      "topicIds": [],
+      "excerpt": "DHH argues programmers owe users real deletion, not a hidden flag, and walks through Basecamp's \"incineration\" code. Command objects traverse the account, buckets and recordings tree, scheduled 30 day"
+    },
+    {
+      "id": "yt-Yd3j3ZEx6DU",
+      "type": "youtube",
+      "title": "Push specifics down: replacing type checks with polymorphism in a Basecamp pull request",
+      "url": "https://www.youtube.com/watch?v=Yd3j3ZEx6DU",
+      "publishedAt": "2018-03-06",
+      "outlet": "Getting Real",
+      "durationSec": 851,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH walks through a real Basecamp pull request (skipping reminders for already-answered questions) to show how to evolve code without degrading it. Keep generic classes stable by pushing type-specific"
+    },
+    {
+      "id": "yt-i-htRRu1au4",
+      "type": "youtube",
+      "title": "Why 37signals dropped TypeScript from Turbo 8 and what DHH thinks of the flame war",
+      "url": "https://www.youtube.com/watch?v=i-htRRu1au4",
+      "publishedAt": "2023-09-13",
+      "outlet": "The Rework Podcast",
+      "durationSec": 1561,
+      "views": 182,
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH explains why the Turbo team removed TypeScript: the people building it weren't enjoying the work, so they pulled it out in about 40 minutes. He frames static versus dynamic typing as a tribal, ide"
+    },
+    {
+      "id": "yt-AkeTmfUW4_U",
+      "type": "youtube",
+      "title": "AI Revisited: why DHH flipped on AI coding once agents moved to the terminal",
+      "url": "https://www.youtube.com/watch?v=AkeTmfUW4_U",
+      "publishedAt": "2026-01-21",
+      "outlet": "37signals",
+      "durationSec": 2292,
+      "views": 7279,
+      "topicIds": [],
+      "excerpt": "DHH explains why AI finally clicked for him in late 2025: agent mode in the terminal, not autocomplete, produced work he kept about 80% of. He covers toil-reduction uses at 37signals, shipping AI feat"
+    },
+    {
+      "id": "yt--ItsulqPqbg",
+      "type": "youtube",
+      "title": "Cloud exit: why 37signals left rented clouds for owned hardware",
+      "url": "https://www.youtube.com/watch?v=-ItsulqPqbg",
+      "publishedAt": "2023-05-11",
+      "outlet": "Fintech Daydreaming",
+      "durationSec": 3075,
+      "views": 2497,
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "DHH explains why 37signals is leaving AWS: the promises of smaller teams, lower cost and less complexity never materialized, and a $3.2M annual cloud bill could shrink dramatically on owned hardware. "
+    },
+    {
+      "id": "essay-doctrine",
+      "type": "essay",
+      "title": "The Rails Doctrine: DHH's nine pillars of Rails philosophy",
+      "url": "https://rubyonrails.org/doctrine",
+      "publishedAt": "2016-01",
+      "outlet": "rubyonrails.org",
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH's founding essay lays out nine pillars behind Rails: programmer happiness, convention over configuration, omakase, no single paradigm, beautiful code, sharp knives, integrated systems (the majesti"
+    },
+    {
+      "id": "essay-tdd-is-dead-long-live-testing-html",
+      "type": "essay",
+      "title": "DHH on why test-first TDD is dead: rebalancing toward system tests",
+      "url": "https://dhh.dk/2014/tdd-is-dead-long-live-testing.html",
+      "publishedAt": "2014-04-23",
+      "outlet": "dhh.dk",
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH explains why he abandoned test-first TDD as a design practice while keeping automated regression testing. He argues that driving design from isolated unit tests produces over-engineered architectu"
+    },
+    {
+      "id": "essay-test-induced-design-damage-html",
+      "type": "essay",
+      "title": "Test-induced design damage: why DHH rejects bending code to fit TDD and unit isolation",
+      "url": "https://dhh.dk/2014/test-induced-design-damage.html",
+      "publishedAt": "2014-04-29",
+      "outlet": "dhh.dk",
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH argues that the maxim \"code hard to unit test is poorly designed\" causes test-induced design damage: needless indirection added only for fast, isolated, test-first tests. Using Jim Weirich's hexag"
+    },
+    {
+      "id": "essay-slow-database-test-fallacy-html",
+      "type": "essay",
+      "title": "Slow database test fallacy: why hitting the database in unit tests is fine in 2014",
+      "url": "https://dhh.dk/2014/slow-database-test-fallacy.html",
+      "publishedAt": "2014-04-30",
+      "outlet": "dhh.dk",
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH argues the TDD rule that unit tests must not touch the database is a relic of 1990s hardware. With SSDs, local databases, Spring preloading and transactional fixtures, Basecamp's model tests run i"
+    },
+    {
+      "id": "essay-3159-testing-like-the-tsa",
+      "type": "essay",
+      "title": "Testing like the TSA: why DHH says over-testing is coverage theater",
+      "url": "https://signalvnoise.com/posts/3159-testing-like-the-tsa",
+      "publishedAt": "2012-04-11",
+      "outlet": "signalvnoise.com",
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH argues tests have real costs, so developers must learn what not to test. He gives seven blunt rules for a typical Rails app (no 100% coverage, watch test ratios and time spent, skip testing framew"
+    },
+    {
+      "id": "essay-rails-is-omakase-html",
+      "type": "essay",
+      "title": "Rails is omakase: why a framework should be one curated menu, not à la carte",
+      "url": "https://dhh.dk/2012/rails-is-omakase.html",
+      "publishedAt": "2012",
+      "outlet": "dhh.dk",
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH frames Rails as an omakase meal: a small team of chefs picks the ingredients and APIs into one opinionated, personal full-stack framework. Substitutions are allowed within reason, but loud demands"
+    },
+    {
+      "id": "essay-the-majestic-monolith",
+      "type": "essay",
+      "title": "The Majestic Monolith: why small teams should embrace one integrated system, not microservices",
+      "url": "https://signalvnoise.com/svn3/the-majestic-monolith/",
+      "publishedAt": "2016-02-29",
+      "outlet": "signalvnoise.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH argues microservices/SOA suit organizations with thousands of developers, and copying them is cargo culting. Small teams should build an integrated \"majestic monolith\" that removes needless abstra"
+    },
+    {
+      "id": "essay-the-majestic-monolith-can-become-the-citadel",
+      "type": "essay",
+      "title": "The Majestic Monolith can become The Citadel: extract Outposts only when the monolith can't cope",
+      "url": "https://signalvnoise.com/svn3/the-majestic-monolith-can-become-the-citadel/",
+      "publishedAt": "2020-04-08",
+      "outlet": "signalvnoise.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH argues most web apps should start and stay as a Majestic Monolith, whose limits are far higher than architects imagine. If scale or team size ever demands it, extend into a Citadel: the monolith s"
+    },
+    {
+      "id": "essay-3250-clarity-over-brevity-in-variable-and-method-names",
+      "type": "essay",
+      "title": "Clarity over brevity: why DHH favors long, intention-revealing method names",
+      "url": "https://signalvnoise.com/posts/3250-clarity-over-brevity-in-variable-and-method-names",
+      "publishedAt": "2012-09-10",
+      "outlet": "signalvnoise.com",
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH argues programmers should trade brevity for clarity in variable and method names, citing long Basecamp method names as examples. Names should express intention rather than implementation, which re"
+    },
+    {
+      "id": "essay-conceptual-compression-means-beginners-dont-need-to-know-sql",
+      "type": "essay",
+      "title": "Conceptual compression: why beginners no longer need SQL (DHH, 2018)",
+      "url": "https://signalvnoise.com/svn3/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/",
+      "publishedAt": "2018-04-19",
+      "outlet": "signalvnoise.com",
+      "topicIds": [],
+      "excerpt": "DHH argues that abstractions like Active Record have compressed the database into an appliance, so beginners can build database-backed apps without learning SQL. Progress means making yesterday's fund"
+    },
+    {
+      "id": "essay-turbo-8-is-dropping-typescript-70165c01",
+      "type": "essay",
+      "title": "Turbo 8 is dropping TypeScript: DHH on JavaScript, typing, and joy",
+      "url": "https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01",
+      "publishedAt": "2023-09-06",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH announces Turbo 8 is dropping TypeScript. He explains he likes modern JavaScript, dislikes the compile step and type gymnastics, and argues programmers pick a typing camp early and rationalize it."
+    },
+    {
+      "id": "essay-open-source-hooliganism-and-the-typescript-meltdown-a474bfda",
+      "type": "essay",
+      "title": "DHH on the TypeScript meltdown: dogmatic crusading and open source hooliganism",
+      "url": "https://world.hey.com/dhh/open-source-hooliganism-and-the-typescript-meltdown-a474bfda",
+      "publishedAt": "2023-09-07",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH responds to the backlash after Turbo 8 dropped TypeScript. He separates good-faith technical objections from pile-ons by outsiders, argues a project may choose its own tools without being attacked"
+    },
+    {
+      "id": "essay-programming-types-and-mindsets-5b8490bc",
+      "type": "essay",
+      "title": "Programming types and mindsets: why DHH accepts both static and dynamic typing camps",
+      "url": "https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc",
+      "publishedAt": "2023-05-07",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH says he is a dynamic typing person who loves Ruby for its poetic syntax, and he dislikes static typing. He used to evangelize dynamic typing as a mark of better education or competence. He now see"
+    },
+    {
+      "id": "essay-system-tests-have-failed-d90af718",
+      "type": "essay",
+      "title": "System tests have failed: why DHH is cutting most browser-driven tests",
+      "url": "https://world.hey.com/dhh/system-tests-have-failed-d90af718",
+      "publishedAt": "2024-05-17",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "testing-and-tdd"
+      ],
+      "excerpt": "DHH argues that Rails system tests, despite high hopes in 2016, remain slow, brittle and full of false negatives. He keeps a small top-level smoke test, relies on model and controller tests for busine"
+    },
+    {
+      "id": "essay-the-advantages-of-large-long-running-pull-requests-c33d913c",
+      "type": "essay",
+      "title": "Why Basecamp lets pull requests run large and long: reviewing features in full context",
+      "url": "https://world.hey.com/dhh/the-advantages-of-large-long-running-pull-requests-c33d913c",
+      "publishedAt": "2022-02-24",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "DHH argues against chopping features into tiny, short-lived pull requests. Letting a PR run as long as a complete feature needs (weeks, up to six under Shape Up) lets reviewers see trade-offs and desi"
+    },
+    {
+      "id": "essay-the-premise-trap-924b8cd9",
+      "type": "essay",
+      "title": "The premise trap: treat AI like a junior programmer",
+      "url": "https://world.hey.com/dhh/the-premise-trap-924b8cd9",
+      "publishedAt": "2024-12-16",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH says the hardest part of working with juniors, and with AI, is the premise trap: flawed assumptions in a first draft go unquestioned until too much time is sunk into polishing. Current AI is a sup"
+    },
+    {
+      "id": "essay-how-to-recover-from-microservices-ce3803cc",
+      "type": "essay",
+      "title": "How to recover from microservices: DHH on returning to the majestic monolith",
+      "url": "https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc",
+      "publishedAt": "2023-05-05",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH argues microservices-first is rarely justified and that most systems should start and stay as a majestic monolith. For teams already in the mess, he gives a five-step recovery plan: stop adding se"
+    },
+    {
+      "id": "essay-they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
+      "type": "essay",
+      "title": "Why DHH sees Kubernetes as the next Death Star of complexity (J2EE, WS-*, now containers)",
+      "url": "https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d",
+      "publishedAt": "2023-01-12",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH traces a recurring pattern: vendors profit from complexity, so each time a wave (J2EE, WS-*) is flattened by simpler tools like Rails and JSON over HTTPS, the merchants of complexity regroup aroun"
+    },
+    {
+      "id": "essay-the-simplest-thing-that-could-possibly-work-8f0d8b43",
+      "type": "essay",
+      "title": "The simplest thing that could possibly work: Beck's mottos as DHH's programming engine",
+      "url": "https://world.hey.com/dhh/the-simplest-thing-that-could-possibly-work-8f0d8b43",
+      "publishedAt": "2023-03-01",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH credits Kent Beck's XP mottos, \"the simplest thing that could possibly work\" and \"you aren't gonna need it\", as the drivers of all his programming work. He pairs them with a cultivated outsider's "
+    },
+    {
+      "id": "essay-try-hard-not-to-solve-hard-problems-9e6550a2",
+      "type": "essay",
+      "title": "Try hard not to solve hard problems: reframe the problem, keep teams tiny",
+      "url": "https://world.hey.com/dhh/try-hard-not-to-solve-hard-problems-9e6550a2",
+      "publishedAt": "2022-08-16",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH argues most hard problems in business, design, or programming can be restated as easy ones by questioning assumptions, reweighing trade-offs, and abandoning sunk costs. He names this as 37signals'"
+    },
+    {
+      "id": "essay-a-writer-s-ruby-2050b634",
+      "type": "essay",
+      "title": "A writer's Ruby: why linting should enforce your style, not a universal one",
+      "url": "https://world.hey.com/dhh/a-writer-s-ruby-2050b634",
+      "publishedAt": "2024-01-04",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "happiness-conventions-typing"
+      ],
+      "excerpt": "DHH argues that style is an integral part of code as expression, and that Ruby's many ways to do things make it a language for writers. Linters are good when authors and teams enforce their own style,"
+    },
+    {
+      "id": "essay-why-we-re-leaving-the-cloud-654b47e0",
+      "type": "essay",
+      "title": "Why we're leaving the cloud: renting computers is a bad deal for stable, medium-sized companies",
+      "url": "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0",
+      "publishedAt": "2022-10-19",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "DHH explains why 37signals is leaving AWS and Google Cloud after years of running Basecamp and HEY there. The cloud only pays off for tiny apps or wildly irregular load, the promised ops savings never"
+    },
+    {
+      "id": "essay-the-big-cloud-exit-faq-20274010",
+      "type": "essay",
+      "title": "The Big Cloud Exit FAQ: how 37signals answered every objection to leaving the cloud",
+      "url": "https://world.hey.com/dhh/the-big-cloud-exit-faq-20274010",
+      "publishedAt": "2023-12-19",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "DHH answers the recurring objections to 37signals' cloud exit: team size, security, reliability, scaling, and cost. His core claim is that the cloud's promised savings and ease of use never materializ"
+    },
+    {
+      "id": "essay-we-once-more-have-no-full-time-managers-at-37signals-f861108",
+      "type": "essay",
+      "title": "How 37signals runs with no full-time managers: managers of one and distributed mentoring",
+      "url": "https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085",
+      "publishedAt": "2024-08-30",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH explains why 37signals dropped its experiment with full-time managers and went back to none. Management is spread across senior individual contributors, which keeps it minimal, avoids Parkinson's "
+    },
+    {
+      "id": "essay-programmers-should-stop-celebrating-incompetence-de1a4725",
+      "type": "essay",
+      "title": "Programmers should stop celebrating incompetence: why DHH rejects the \"I have no idea what I'm doing\" identity",
+      "url": "https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725",
+      "publishedAt": "2021-11-25",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH argues that well-meant efforts to fight imposter syndrome have drifted into celebrating incompetence and copy-paste programming. He says programmers should treat lookups as part of learning, accep"
+    },
+    {
+      "id": "essay-coding-should-be-a-vibe-50908f49",
+      "type": "essay",
+      "title": "Coding should be a vibe: why DHH won't hand AI the keyboard",
+      "url": "https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49",
+      "publishedAt": "2025-05-13",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH argues \"vibe coding\" appeals mostly to programmers stuck in unpleasant languages, and that Ruby's programmer-happiness premise makes writing code itself the enjoyable part. He uses AI as a pair pr"
+    },
+    {
+      "id": "essay-paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
+      "type": "essay",
+      "title": "Paranoia and desperation in the AI gold rush: Slack training on private messages",
+      "url": "https://world.hey.com/dhh/paranoia-and-desperation-in-the-ai-gold-rush-33042dbc",
+      "publishedAt": "2024-05-17",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH reacts to Salesforce announcing it will train Slack AI models on customers' private messages and files by default, with opt-out only via a special email. He reads it as a symptom of companies so a"
+    },
+    {
+      "id": "essay-promoting-ai-agents-3ee04945",
+      "type": "essay",
+      "title": "DHH on promoting AI agents: from autocomplete to supervised autonomous teammates",
+      "url": "https://world.hey.com/dhh/promoting-ai-agents-3ee04945",
+      "publishedAt": "2026-01-07",
+      "outlet": "world.hey.com",
+      "topicIds": [],
+      "excerpt": "DHH explains why terminal-based coding agents finally won him over after autocomplete left him cold. He treats agents as a team whose finished work he reviews, not a pair programmer, while staying ske"
+    },
+    {
+      "id": "essay-over-my-dead-pencil-fb0f3647",
+      "type": "essay",
+      "title": "Over my dead pencil: DHH on putting down the pencils and embracing coding agents",
+      "url": "https://world.hey.com/dhh/over-my-dead-pencil-fb0f3647",
+      "publishedAt": "2026-10-06",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "DHH follows up his Rails World keynote claim that programmers should stop writing most code by hand. He frames AI agents as fast, capable new coworkers rather than a threat, expects a boom in software"
+    },
+    {
+      "id": "essay-the-one-person-framework-711e6318",
+      "type": "essay",
+      "title": "The One Person Framework: Rails 7 and conceptual compression",
+      "url": "https://world.hey.com/dhh/the-one-person-framework-711e6318",
+      "publishedAt": "2021-12-16",
+      "outlet": "world.hey.com",
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "DHH presents Rails 7 as the closest realization of \"The One Person Framework\": a toolkit powerful enough for one individual to build a modern app and a competitive business. Conceptual compression and"
+    },
+    {
+      "id": "x-566227465962418177",
+      "type": "x_post",
+      "title": "10x productivity is not in how fast you can write the code, but in picking which problems ",
+      "url": "https://x.com/dhh/status/566227465962418177",
+      "publishedAt": "2015-02-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "10x productivity is not in how fast you can write the code, but in picking which problems to solve - http://t.co/a2GRiE7jK2"
+    },
+    {
+      "id": "x-574675385163501568",
+      "type": "x_post",
+      "title": "“Flaws in Scrum and Agile”, https://t.co/3JGKbr9b8A - very mild title for a crucial take-d",
+      "url": "https://x.com/dhh/status/574675385163501568",
+      "publishedAt": "2015-03-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“Flaws in Scrum and Agile”, https://t.co/3JGKbr9b8A - very mild title for a crucial take-down on scrum process orthodoxy. Great read."
+    },
+    {
+      "id": "x-598506328668172288",
+      "type": "x_post",
+      "title": "\"The majority of software systems should be built as a single monolithic application\", htt",
+      "url": "https://x.com/dhh/status/598506328668172288",
+      "publishedAt": "2015-05-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"The majority of software systems should be built as a single monolithic application\", http://t.co/k9dGcrRs3D - good take on microservices."
+    },
+    {
+      "id": "x-755836101084884992",
+      "type": "x_post",
+      "title": "Basecamp 3 API is of course all part of the same majestic monolith. Even use all the same ",
+      "url": "https://x.com/dhh/status/755836101084884992",
+      "publishedAt": "2016-07-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Basecamp 3 API is of course all part of the same majestic monolith. Even use all the same controllers. ❤️ integrated systems."
+    },
+    {
+      "id": "x-834146806594433025",
+      "type": "x_post",
+      "title": "Hello, my name is David. I would fail to write bubble sort on a whiteboard. I look code up",
+      "url": "https://x.com/dhh/status/834146806594433025",
+      "publishedAt": "2017-02-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hello, my name is David. I would fail to write bubble sort on a whiteboard. I look code up on the internet all the time. I don't do riddles."
+    },
+    {
+      "id": "x-843383656412516352",
+      "type": "x_post",
+      "title": "The argument isn't that web-based apps are \"better\", it's that they enable small teams to ",
+      "url": "https://x.com/dhh/status/843383656412516352",
+      "publishedAt": "2017-03-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The argument isn't that web-based apps are \"better\", it's that they enable small teams to actually \"Write Once\", like Java promised 😄"
+    },
+    {
+      "id": "x-962111734361178112",
+      "type": "x_post",
+      "title": "Basecamp 3 is up to 308 controllers. Some 1400 methods. Imagine recreating all that with a",
+      "url": "https://x.com/dhh/status/962111734361178112",
+      "publishedAt": "2018-02-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Basecamp 3 is up to 308 controllers. Some 1400 methods. Imagine recreating all that with all-native apps? No thanks. Majestic be thy Monolith. https://t.co/aTmwGT32ep"
+    },
+    {
+      "id": "x-962422983242461185",
+      "type": "x_post",
+      "title": "Here’s a complete shocker: It’s possible to fancy more than one programming language AT TH",
+      "url": "https://x.com/dhh/status/962422983242461185",
+      "publishedAt": "2018-02-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here’s a complete shocker: It’s possible to fancy more than one programming language AT THE SAME TIME. I know, heresy. I love Ruby, I like JavaScript, I respect Smalltalk, and I tip my hat at Python."
+    },
+    {
+      "id": "x-965757546618224640",
+      "type": "x_post",
+      "title": "On Writing Software Well #5: Testing models without excessive isolation, celebrating contr",
+      "url": "https://x.com/dhh/status/965757546618224640",
+      "publishedAt": "2018-02-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "On Writing Software Well #5: Testing models without excessive isolation, celebrating controller tests that do heavy integration, and doing it all without TDD. https://t.co/Ch6JbsgBu4"
+    },
+    {
+      "id": "x-966423421008556032",
+      "type": "x_post",
+      "title": "Learning Ruby was the magic moment when the beauty of programming revealed itself to me. I",
+      "url": "https://x.com/dhh/status/966423421008556032",
+      "publishedAt": "2018-02-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Learning Ruby was the magic moment when the beauty of programming revealed itself to me. I’ve been chasing and riding those highs for 15 years now. Thank you @yukihiro_matz for opening my mind. #ruby2"
+    },
+    {
+      "id": "x-967785067639488512",
+      "type": "x_post",
+      "title": "Microservices is not so much a technical pattern as a Keynesian one. Stimulating the econo",
+      "url": "https://x.com/dhh/status/967785067639488512",
+      "publishedAt": "2018-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Microservices is not so much a technical pattern as a Keynesian one. Stimulating the economy by requiring three programmers to screw in the lightbulbs that used to take one. I strongly support its use"
+    },
+    {
+      "id": "x-986964398878183424",
+      "type": "x_post",
+      "title": "The solution to a big mess of code isn’t a big rewrite but changing your programming habit",
+      "url": "https://x.com/dhh/status/986964398878183424",
+      "publishedAt": "2018-04-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The solution to a big mess of code isn’t a big rewrite but changing your programming habits, so every small change turns the tide and leaves the codebase better every time. “Everyone has to do the dis"
+    },
+    {
+      "id": "x-1016402071883583488",
+      "type": "x_post",
+      "title": "The advent of agile software development was a wrecking ball. So many broken practices and",
+      "url": "https://x.com/dhh/status/1016402071883583488",
+      "publishedAt": "2018-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The advent of agile software development was a wrecking ball. So many broken practices and bad incentives that needed to be smashed. But in the rubble there are lessons we need to relearn: Exploratory"
+    },
+    {
+      "id": "x-1029046131760615426",
+      "type": "x_post",
+      "title": "A podcast with yours truly about TDD, test-induced design damage, unit vs model scoping, e",
+      "url": "https://x.com/dhh/status/1029046131760615426",
+      "publishedAt": "2018-08-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A podcast with yours truly about TDD, test-induced design damage, unit vs model scoping, exploratory QA, and how to think of software creation within the paradigm of writing rather than construction ("
+    },
+    {
+      "id": "x-1051822985600950272",
+      "type": "x_post",
+      "title": "I am however disappointed when I see “beautiful code” denigrated because the speaker can’t",
+      "url": "https://x.com/dhh/status/1051822985600950272",
+      "publishedAt": "2018-10-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I am however disappointed when I see “beautiful code” denigrated because the speaker can’t conceive of why someone would care about aesthetics. Dancing joyfully with the machine, just for the pleasure"
+    },
+    {
+      "id": "x-1051820081775140864",
+      "type": "x_post",
+      "title": "Working in a small company with small teams allows for values that “doesn’t scale”. Like p",
+      "url": "https://x.com/dhh/status/1051820081775140864",
+      "publishedAt": "2018-10-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Working in a small company with small teams allows for values that “doesn’t scale”. Like placing an “unrealistic” emphasis on the craft and quality of every pull request. To relish in how pleasing the"
+    },
+    {
+      "id": "x-1066425872469520385",
+      "type": "x_post",
+      "title": "If Basecamp, with our small team, can continue to operate Basecamp 1 (2004-2012), Basecamp",
+      "url": "https://x.com/dhh/status/1066425872469520385",
+      "publishedAt": "2018-11-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If Basecamp, with our small team, can continue to operate Basecamp 1 (2004-2012), Basecamp 2 (2012-2015), Highrise (2007-2018), Tada List (2005-2009), Backpack (2005-2014), Campfire (2006-2018), and W"
+    },
+    {
+      "id": "x-1083224102595260417",
+      "type": "x_post",
+      "title": "It’s such a pleasure to be in the company of ⁦@martinfowler⁩’s Refactoring book again. Whe",
+      "url": "https://x.com/dhh/status/1083224102595260417",
+      "publishedAt": "2019-01-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s such a pleasure to be in the company of ⁦@martinfowler⁩’s Refactoring book again. \n\nWhenever you read it last, it’s time to read it again. And if you haven’t read it yet, please do before writing"
+    },
+    {
+      "id": "x-1086281291442544646",
+      "type": "x_post",
+      "title": "Great example of why you shouldn’t use abbreviations in code. Especially ones that can be ",
+      "url": "https://x.com/dhh/status/1086281291442544646",
+      "publishedAt": "2019-01-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Great example of why you shouldn’t use abbreviations in code. Especially ones that can be so easily mistaken for another meaning! /universal and /device would have been clearer and hardly any more typ"
+    },
+    {
+      "id": "x-1088499778294407168",
+      "type": "x_post",
+      "title": "Designing for the web ought to mean making HTML and CSS. When that's getting too hard to d",
+      "url": "https://x.com/dhh/status/1088499778294407168",
+      "publishedAt": "2019-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Designing for the web ought to mean making HTML and CSS. When that's getting too hard to do because of complexity sprawl of JavaScript, it's time to revisit your assumptions of how to work.  https://t"
+    },
+    {
+      "id": "x-1148963942116597766",
+      "type": "x_post",
+      "title": "Shape Up is a new book published on the web that describes how we build software at Baseca",
+      "url": "https://x.com/dhh/status/1148963942116597766",
+      "publishedAt": "2019-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Shape Up is a new book published on the web that describes how we build software at Basecamp. The 6-week cycles, scoping the work, budgets instead of estimates, assigning projects not tasks, and forgo"
+    },
+    {
+      "id": "x-1150113530584227841",
+      "type": "x_post",
+      "title": "Searching for 10x engineers before you’ve ensured you have a 10x workplace is the epitome ",
+      "url": "https://x.com/dhh/status/1150113530584227841",
+      "publishedAt": "2019-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Searching for 10x engineers before you’ve ensured you have a 10x workplace is the epitome of premature optimization."
+    },
+    {
+      "id": "x-1177973111561445377",
+      "type": "x_post",
+      "title": "This is why microservices can make sense for large companies with many, separate, and isol",
+      "url": "https://x.com/dhh/status/1177973111561445377",
+      "publishedAt": "2019-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is why microservices can make sense for large companies with many, separate, and isolated teams. And why it just about never makes any sense for small companies where teams can grasp the entire a"
+    },
+    {
+      "id": "x-1177991651962146817",
+      "type": "x_post",
+      "title": "Amen. Reaching for microservices is like writing convoluted code because a performance bot",
+      "url": "https://x.com/dhh/status/1177991651962146817",
+      "publishedAt": "2019-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Amen. Reaching for microservices is like writing convoluted code because a performance bottleneck demands it. It’s not that you WANT to devolve your code to please the performance alter, but that you "
+    },
+    {
+      "id": "x-1196855614732783648",
+      "type": "x_post",
+      "title": "So many software companies are stuck on a ticket treadmill working a never-ending backlog.",
+      "url": "https://x.com/dhh/status/1196855614732783648",
+      "publishedAt": "2019-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "So many software companies are stuck on a ticket treadmill working a never-ending backlog. When those companies look at Basecamp, they think, \"this can't work for software development?!\", because it's"
+    },
+    {
+      "id": "x-1196856802836541440",
+      "type": "x_post",
+      "title": "Software developers and designers aren't happy doing assembly line work. Calling that work",
+      "url": "https://x.com/dhh/status/1196856802836541440",
+      "publishedAt": "2019-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Software developers and designers aren't happy doing assembly line work. Calling that work \"stories\" is the great con of much modern agile process. A story without a beginning, a middle, or an end is "
+    },
+    {
+      "id": "x-1197696984431226880",
+      "type": "x_post",
+      "title": "“I would consider it a red flag if a team isn't doing exploratory testing at all - even if",
+      "url": "https://x.com/dhh/status/1197696984431226880",
+      "publishedAt": "2019-11-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“I would consider it a red flag if a team isn't doing exploratory testing at all - even if their automated testing was excellent”, amen! https://t.co/iIEJT3zNSG"
+    },
+    {
+      "id": "x-1201992702860107776",
+      "type": "x_post",
+      "title": "Programmers spend far too much time worrying about whether their stack will scale up, and ",
+      "url": "https://x.com/dhh/status/1201992702860107776",
+      "publishedAt": "2019-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Programmers spend far too much time worrying about whether their stack will scale up, and far too little addressing the real danger of whether it can scale down. Small teams bet – and lose! – the farm"
+    },
+    {
+      "id": "x-1222966700913479681",
+      "type": "x_post",
+      "title": "\"Monoliths are the future because the problem people are trying to solve with microservice",
+      "url": "https://x.com/dhh/status/1222966700913479681",
+      "publishedAt": "2020-01-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Monoliths are the future because the problem people are trying to solve with microservices doesn’t really line up with reality\", I aspire to such savage language as that which flows from @kelseyhight"
+    },
+    {
+      "id": "x-1223304167306870784",
+      "type": "x_post",
+      "title": "\"You don’t want to hear that the reason your monolith is a spaghetti monster is because yo",
+      "url": "https://x.com/dhh/status/1223304167306870784",
+      "publishedAt": "2020-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"You don’t want to hear that the reason your monolith is a spaghetti monster is because you let it become that way, one commit at the time, due to weak habits, pressurized deadlines, or simply sheer l"
+    },
+    {
+      "id": "x-1225117740962181120",
+      "type": "x_post",
+      "title": "Now that our industry is finally recovering from the mass delusion that microservices was ",
+      "url": "https://x.com/dhh/status/1225117740962181120",
+      "publishedAt": "2020-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Now that our industry is finally recovering from the mass delusion that microservices was going to be the future, it's surely time to for the even bigger delusion that serverless is what's going to pr"
+    },
+    {
+      "id": "x-1225118243108474880",
+      "type": "x_post",
+      "title": "Trying to make an entire application, like a Basecamp or Shopify or GitHub or just about a",
+      "url": "https://x.com/dhh/status/1225118243108474880",
+      "publishedAt": "2020-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Trying to make an entire application, like a Basecamp or Shopify or GitHub or just about anything, out of serverless takes all the bad ideas of microservices and says \"BUT WHAT IF WE JUST DID MORE OF "
+    },
+    {
+      "id": "x-1225106054079336449",
+      "type": "x_post",
+      "title": "It feels like we've regressed a lot when it comes to basic scaling and architecture for th",
+      "url": "https://x.com/dhh/status/1225106054079336449",
+      "publishedAt": "2020-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It feels like we've regressed a lot when it comes to basic scaling and architecture for the web. Basecamp launched in 2004 on a SHARED server (👋 Tilted). We ran with a single box until we had thousan"
+    },
+    {
+      "id": "x-1225130140843167744",
+      "type": "x_post",
+      "title": "\"Complexity is like a bug light for smart people. This stuff is just so cool to work on. T",
+      "url": "https://x.com/dhh/status/1225130140843167744",
+      "publishedAt": "2020-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Complexity is like a bug light for smart people. This stuff is just so cool to work on. Technologies for operating at scale developed by companies that need them end up in the hands of people who asp"
+    },
+    {
+      "id": "x-1247520755547377664",
+      "type": "x_post",
+      "title": "The amount of pain that’s been inflicted by the overeager adoption of microservices is imm",
+      "url": "https://x.com/dhh/status/1247520755547377664",
+      "publishedAt": "2020-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The amount of pain that’s been inflicted by the overeager adoption of microservices is immense."
+    },
+    {
+      "id": "x-1247522358908215296",
+      "type": "x_post",
+      "title": "In addition to the Majestic Monolith, someone should write up the pattern of The Citadel: ",
+      "url": "https://x.com/dhh/status/1247522358908215296",
+      "publishedAt": "2020-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In addition to the Majestic Monolith, someone should write up the pattern of The Citadel: A single Majestic Monolith captures the majority mass of the app, with a few auxiliary outpost apps for highly"
+    },
+    {
+      "id": "x-1247522889537998852",
+      "type": "x_post",
+      "title": "But all Citadel-type architectures evolve from a single Majestic Monolith. It’s the starti",
+      "url": "https://x.com/dhh/status/1247522889537998852",
+      "publishedAt": "2020-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "But all Citadel-type architectures evolve from a single Majestic Monolith. It’s the starting point for all, and for most, it’ll also be all they ever need. https://t.co/ysVCnxrkoF"
+    },
+    {
+      "id": "x-1247960413012021249",
+      "type": "x_post",
+      "title": "Microservices antidote: \"That next step is The Citadel, which keeps the Majestic Monolith ",
+      "url": "https://x.com/dhh/status/1247960413012021249",
+      "publishedAt": "2020-04-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Microservices antidote: \"That next step is The Citadel, which keeps the Majestic Monolith at the center, but supports it with a set of Outposts, each extracting a small subset of application responsib"
+    },
+    {
+      "id": "x-1264998700658515968",
+      "type": "x_post",
+      "title": "There's nothing like that feeling that you're pulling the thread on a big idea. The idea i",
+      "url": "https://x.com/dhh/status/1264998700658515968",
+      "publishedAt": "2020-05-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There's nothing like that feeling that you're pulling the thread on a big idea. The idea is still fuzzy, but you keep moving the code around, and it slowly becomes clearer, one refactoring at the time"
+    },
+    {
+      "id": "x-1264999220613767168",
+      "type": "x_post",
+      "title": "I don't know exactly what I'm making yet! I don't know what the API is supposed to finally",
+      "url": "https://x.com/dhh/status/1264999220613767168",
+      "publishedAt": "2020-05-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don't know exactly what I'm making yet! I don't know what the API is supposed to finally feel like. But I know I'm getting closer. And then, once the idea has a clear shape and an outline, I bring i"
+    },
+    {
+      "id": "x-1266057500547141633",
+      "type": "x_post",
+      "title": "The fundamental insight is that we can avoid 95% of all app-specific JavaScript by buildin",
+      "url": "https://x.com/dhh/status/1266057500547141633",
+      "publishedAt": "2020-05-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The fundamental insight is that we can avoid 95% of all app-specific JavaScript by building better, more flexible framework solutions. All new app-specific JS now has to answer: Why? Why not CSS? Why "
+    },
+    {
+      "id": "x-1266057878084845568",
+      "type": "x_post",
+      "title": "And end result is that it feels like the early days of Rails: We're doing things fundament",
+      "url": "https://x.com/dhh/status/1266057878084845568",
+      "publishedAt": "2020-05-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "And end result is that it feels like the early days of Rails: We're doing things fundamentally differently than the entire rest of the industry, and it's affording us some astounding productivity gain"
+    },
+    {
+      "id": "x-1266057115715596294",
+      "type": "x_post",
+      "title": "Perhaps the best way to express the change is that if a pull request includes custom JavaS",
+      "url": "https://x.com/dhh/status/1266057115715596294",
+      "publishedAt": "2020-05-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Perhaps the best way to express the change is that if a pull request includes custom JavaScript code, that's taken as a smell to be investigated. Doesn't mean it's necessarily wrong, but it quite poss"
+    },
+    {
+      "id": "x-1291124916708769792",
+      "type": "x_post",
+      "title": "Writing is important to all roles at Basecamp, but it's particularly important to programm",
+      "url": "https://x.com/dhh/status/1291124916708769792",
+      "publishedAt": "2020-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Writing is important to all roles at Basecamp, but it's particularly important to programmers, because we strive to hire software writers rather than mere software engineers. I dove into that distinct"
+    },
+    {
+      "id": "x-1316035328776511488",
+      "type": "x_post",
+      "title": "Serverless, as defined in this article, suffers from the same issue as microservices: Slic",
+      "url": "https://x.com/dhh/status/1316035328776511488",
+      "publishedAt": "2020-10-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Serverless, as defined in this article, suffers from the same issue as microservices: Slicing an integrated application into small bits, which you then have to stitch together afterwards as a distribu"
+    },
+    {
+      "id": "x-1315972235606347776",
+      "type": "x_post",
+      "title": "What's so fascinating about software development's inability to deliver a given spec by a ",
+      "url": "https://x.com/dhh/status/1315972235606347776",
+      "publishedAt": "2020-10-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What's so fascinating about software development's inability to deliver a given spec by a given date for decades on end is that PEOPLE STILL THINK IT'S DOABLE! Yeah, sure, this fails like, all the tim"
+    },
+    {
+      "id": "x-1323936556424564736",
+      "type": "x_post",
+      "title": "Delegated types is the pattern that has had the most profound impact on how we do domain m",
+      "url": "https://x.com/dhh/status/1323936556424564736",
+      "publishedAt": "2020-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Delegated types is the pattern that has had the most profound impact on how we do domain modeling at Basecamp. Introduced with Basecamp 3, continued with HEY. Really do need to make a YouTube episode "
+    },
+    {
+      "id": "x-1329115220778823688",
+      "type": "x_post",
+      "title": "I love – LOVE! – Ruby. I've written well over a hundred thousand lines of code in it over ",
+      "url": "https://x.com/dhh/status/1329115220778823688",
+      "publishedAt": "2020-11-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I love  – LOVE! – Ruby. I've written well over a hundred thousand lines of code in it over the past 18 years. Don't for a minute feel ashamed for loving your favorite programming language."
+    },
+    {
+      "id": "x-1331662279746654210",
+      "type": "x_post",
+      "title": "Maybe running half the internet off the same cloud service wasn’t such a great idea after ",
+      "url": "https://x.com/dhh/status/1331662279746654210",
+      "publishedAt": "2020-11-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Maybe running half the internet off the same cloud service wasn’t such a great idea after all 😬 https://t.co/dGP2cTWE4C"
+    },
+    {
+      "id": "x-1333863842733056004",
+      "type": "x_post",
+      "title": "It’s safe to say that Shopify is pushing the absolute frontier of what’s possible with Rai",
+      "url": "https://x.com/dhh/status/1333863842733056004",
+      "publishedAt": "2020-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s safe to say that Shopify is pushing the absolute frontier of what’s possible with Rails and Ruby. Their main majestic monolith is a staggering 2.8m lines of Ruby responsible for processing over $"
+    },
+    {
+      "id": "x-1335889486132154370",
+      "type": "x_post",
+      "title": "This is one of the key reasons we've don't have anyone at Basecamp that exclusively does \"",
+      "url": "https://x.com/dhh/status/1335889486132154370",
+      "publishedAt": "2020-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is one of the key reasons we've don't have anyone at Basecamp that exclusively does \"management\". Nothing is more dangerous to the well-being of employees than a manager with too much time on the"
+    },
+    {
+      "id": "x-1336193471305162752",
+      "type": "x_post",
+      "title": "I hereby declare Kelsey’s prediction for TRUE! 😄 After many cold years in the valley of n",
+      "url": "https://x.com/dhh/status/1336193471305162752",
+      "publishedAt": "2020-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I hereby declare Kelsey’s prediction for TRUE! 😄 After many cold years in the valley of needlessly distributed complexity, I’ve sensed not only a newfound appreciation for backend monoliths, but also"
+    },
+    {
+      "id": "x-1341345316424048641",
+      "type": "x_post",
+      "title": "The pendulum is finally swinging back, and with the force of a wrecking ball. May the towe",
+      "url": "https://x.com/dhh/status/1341345316424048641",
+      "publishedAt": "2020-12-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The pendulum is finally swinging back, and with the force of a wrecking ball. May the towers of needless complexity built in the past decade be smashed to smithereens 💥🔨"
+    },
+    {
+      "id": "x-1341739269367472129",
+      "type": "x_post",
+      "title": "\"The price for pursuing JavaScript for everything has been a monstrosity of modern complex",
+      "url": "https://x.com/dhh/status/1341739269367472129",
+      "publishedAt": "2020-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"The price for pursuing JavaScript for everything has been a monstrosity of modern complexity. Yes, it’s far more powerful than it ever was. But it’s also far more convoluted and time-consuming than i"
+    },
+    {
+      "id": "x-1341758748717510659",
+      "type": "x_post",
+      "title": "Hotwiring Rails expresses the desire to gift a lone full-stack developer all the tools the",
+      "url": "https://x.com/dhh/status/1341758748717510659",
+      "publishedAt": "2020-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hotwiring Rails expresses the desire to gift a lone full-stack developer all the tools they need to build the next Basecamp, GitHub, or Shopify. Not what a team of dozens or hundreds can do if they ha"
+    },
+    {
+      "id": "x-1441387903511408641",
+      "type": "x_post",
+      "title": "Stimulus 3 + Turbo 7 = Hotwire 1.0: There's a resurgence in the wisdom of letting HTML be ",
+      "url": "https://x.com/dhh/status/1441387903511408641",
+      "publishedAt": "2021-09-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Stimulus 3 + Turbo 7 = Hotwire 1.0: There's a resurgence in the wisdom of letting HTML be at the center of a web application. It's about spending some of those core advances in web technology to pay o"
+    },
+    {
+      "id": "x-1471267036793765888",
+      "type": "x_post",
+      "title": "Rails 7.0: Compress the complexity of modern web apps. Learn just what you need to get sta",
+      "url": "https://x.com/dhh/status/1471267036793765888",
+      "publishedAt": "2021-12-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Rails 7.0: Compress the complexity of modern web apps. Learn just what you need to get started, then keep leveling up as you go. Ruby on Rails scales from HELLO WORLD to IPO. https://t.co/lwxTGaEa1O"
+    },
+    {
+      "id": "x-1496829074655920131",
+      "type": "x_post",
+      "title": "\"My favorite part of doing code reviews is to see all the trade-offs, design decisions, an",
+      "url": "https://x.com/dhh/status/1496829074655920131",
+      "publishedAt": "2022-02-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"My favorite part of doing code reviews is to see all the trade-offs, design decisions, and changes in context together. You can't easily do that if your feature has been chopped into itty bitty piece"
+    },
+    {
+      "id": "x-1533748397093658624",
+      "type": "x_post",
+      "title": "“This is that fundamental truth that’s been driving the agile software development movemen",
+      "url": "https://x.com/dhh/status/1533748397093658624",
+      "publishedAt": "2022-06-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“This is that fundamental truth that’s been driving the agile software development movement for decades: no one knows what they want until they see it, including the designers.” https://t.co/hQwQuHIAB"
+    },
+    {
+      "id": "x-1600795819933806592",
+      "type": "x_post",
+      "title": "\"Humans are terrible at estimating anything complicated that involves novel attempts at pr",
+      "url": "https://x.com/dhh/status/1600795819933806592",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Humans are terrible at estimating anything complicated that involves novel attempts at problem solving. So getting out of estimates and into appetites is the single most important thing we have done."
+    },
+    {
+      "id": "x-1602665662698094593",
+      "type": "x_post",
+      "title": "\"You don’t cut corners or quality, you cut scope, and if you can’t, you scrap the project\"",
+      "url": "https://x.com/dhh/status/1602665662698094593",
+      "publishedAt": "2022-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"You don’t cut corners or quality, you cut scope, and if you can’t, you scrap the project\", from Your Estimates Suck. https://t.co/xPGkcJkPzM https://t.co/pwmpESyGLe"
+    },
+    {
+      "id": "x-1613553386049110016",
+      "type": "x_post",
+      "title": "\"The popularization of containers rank as one of my favorite milestones of progress. But d",
+      "url": "https://x.com/dhh/status/1613553386049110016",
+      "publishedAt": "2023-01-12",
+      "outlet": "X",
+      "views": 40280,
+      "topicIds": [],
+      "excerpt": "\"The popularization of containers rank as one of my favorite milestones of progress. But damn if the merchants of complexity didn't see such simplicity as a bug to quickly correct, and use their tract"
+    },
+    {
+      "id": "x-1613508201953038337",
+      "type": "x_post",
+      "title": "We spent $3,201,564.24 on cloud in 2022 at @37signals, mostly AWS. $907,837.83 on S3. $473",
+      "url": "https://x.com/dhh/status/1613508201953038337",
+      "publishedAt": "2023-01-12",
+      "outlet": "X",
+      "views": 734953,
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "We spent $3,201,564.24 on cloud in 2022 at @37signals, mostly AWS. $907,837.83 on S3. $473,196.30 on RDS. $519,959.60 on OpenSearch. $123,852.30 on Elasticache. This is with long commits (S3 for 4 yea"
+    },
+    {
+      "id": "x-1618554649556160513",
+      "type": "x_post",
+      "title": "\"There's a whole generation of app developers who've only ever known the cloud, which sepa",
+      "url": "https://x.com/dhh/status/1618554649556160513",
+      "publishedAt": "2023-01-26",
+      "outlet": "X",
+      "views": 72809,
+      "topicIds": [],
+      "excerpt": "\"There's a whole generation of app developers who've only ever known the cloud, which separates them from appreciating the direct advances in hardware considerably. As companies start redoing the math"
+    },
+    {
+      "id": "x-1628031576113045505",
+      "type": "x_post",
+      "title": "\"Any mid-sized+ SaaS business that does not benchmark their rental bill for servers in the",
+      "url": "https://x.com/dhh/status/1628031576113045505",
+      "publishedAt": "2023-02-21",
+      "outlet": "X",
+      "views": 142447,
+      "topicIds": [],
+      "excerpt": "\"Any mid-sized+ SaaS business that does not benchmark their rental bill for servers in the cloud against buying their own boxes is committing financial malpractice at this point. I suggest you call @D"
+    },
+    {
+      "id": "x-1628408520008941570",
+      "type": "x_post",
+      "title": "Five values guiding our cloud exit: 1. We value independence above all else 2. We serve th",
+      "url": "https://x.com/dhh/status/1628408520008941570",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 36101,
+      "topicIds": [],
+      "excerpt": "Five values guiding our cloud exit:\n\n1. We value independence above all else\n2. We serve the internet\n3. We spend our money wisely\n4. We lead the way\n5. We seek adventure\nhttps://t.co/5KJGuQ3lkY"
+    },
+    {
+      "id": "x-1629368799387320321",
+      "type": "x_post",
+      "title": "Ruby serenaded me into a career as a programmer. Before Ruby, code was a means to an end. ",
+      "url": "https://x.com/dhh/status/1629368799387320321",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 191420,
+      "topicIds": [],
+      "excerpt": "Ruby serenaded me into a career as a programmer. Before Ruby, code was a means to an end. After Ruby, code was flow, growth, and the greatest intellectual endeavor I’ve ever found. I love Ruby as much"
+    },
+    {
+      "id": "x-1638914244967301121",
+      "type": "x_post",
+      "title": "\"It frustrates me to no end to see tech companies trying to cut costs by firing folks rath",
+      "url": "https://x.com/dhh/status/1638914244967301121",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 71798,
+      "topicIds": [],
+      "excerpt": "\"It frustrates me to no end to see tech companies trying to cut costs by firing folks rather than reigning in the cloud spend. At least run the numbers. You owe it to your employees before you start p"
+    },
+    {
+      "id": "x-1654063951997542400",
+      "type": "x_post",
+      "title": "\"Now the real-world results of all this theory are finally in, and it's clear that in prac",
+      "url": "https://x.com/dhh/status/1654063951997542400",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 216321,
+      "topicIds": [],
+      "excerpt": "\"Now the real-world results of all this theory are finally in, and it's clear that in practice, microservices pose perhaps the biggest siren song for needlessly complicating your system.\" https://t.co"
+    },
+    {
+      "id": "x-1654100505646321664",
+      "type": "x_post",
+      "title": "To finally bury the scourge of microservices, all we need is a hot new thing to take its p",
+      "url": "https://x.com/dhh/status/1654100505646321664",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 423015,
+      "topicIds": [],
+      "excerpt": "To finally bury the scourge of microservices, all we need is a hot new thing to take its place in the hype cycle. So how about just renaming monoliths to megaservices! That sounds like a hot new term "
+    },
+    {
+      "id": "x-1654407787227611138",
+      "type": "x_post",
+      "title": "\"Yes, microservices, like any pattern of programming, is a tool. Yes, 'it depends' is tech",
+      "url": "https://x.com/dhh/status/1654407787227611138",
+      "publishedAt": "2023-05-05",
+      "outlet": "X",
+      "views": 317875,
+      "topicIds": [],
+      "excerpt": "\"Yes, microservices, like any pattern of programming, is a tool. Yes, 'it depends' is technically correct. But we offer no guidance to those looking to design better systems by simply saying that; we "
+    },
+    {
+      "id": "x-1655076668787097607",
+      "type": "x_post",
+      "title": "TypeScript sucked out much of the joy I had writing JavaScript. I’m forever grateful that ",
+      "url": "https://x.com/dhh/status/1655076668787097607",
+      "publishedAt": "2023-05-07",
+      "outlet": "X",
+      "views": 2351408,
+      "topicIds": [],
+      "excerpt": "TypeScript sucked out much of the joy I had writing JavaScript. I’m forever grateful that @yukihiro_matz didn’t succumb to the pressure of adding similar type hints to Ruby. May we forever enjoy this "
+    },
+    {
+      "id": "x-1655211853537058816",
+      "type": "x_post",
+      "title": "@yukihiro_matz \"I'm a recovering solutionist. So when I see folks cross their heart in dis",
+      "url": "https://x.com/dhh/status/1655211853537058816",
+      "publishedAt": "2023-05-07",
+      "outlet": "X",
+      "views": 112111,
+      "topicIds": [],
+      "excerpt": "@yukihiro_matz \"I'm a recovering solutionist. So when I see folks cross their heart in disbelief that anyone, anywhere might fancy JavaScript over TypeScript, I smile, and I remember the days when I'd"
+    },
+    {
+      "id": "x-1655080274005204992",
+      "type": "x_post",
+      "title": "@drochetti @yukihiro_matz Not in projects that have already been infected with TS, if you ",
+      "url": "https://x.com/dhh/status/1655080274005204992",
+      "publishedAt": "2023-05-07",
+      "outlet": "X",
+      "views": 75452,
+      "topicIds": [],
+      "excerpt": "@drochetti @yukihiro_matz Not in projects that have already been infected with TS, if you want to keep them coherent. But yes, I write all novel client-side code as JavaScript instead of TypeScript, a"
+    },
+    {
+      "id": "x-1671415396325380096",
+      "type": "x_post",
+      "title": "If you're unable to create a majestic monolith with basic programming tools like encapsula",
+      "url": "https://x.com/dhh/status/1671415396325380096",
+      "publishedAt": "2023-06-21",
+      "outlet": "X",
+      "views": 219827,
+      "topicIds": [
+        "monoliths-simplicity-small-teams"
+      ],
+      "excerpt": "If you're unable to create a majestic monolith with basic programming tools like encapsulation and namespaces, you don't have what it takes to improve upon the situation with a distributed swarm of mi"
+    },
+    {
+      "id": "x-1689634956790669312",
+      "type": "x_post",
+      "title": "All software has bugs. Many of them will never be fixed. This is normal, this is good. htt",
+      "url": "https://x.com/dhh/status/1689634956790669312",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 110514,
+      "topicIds": [],
+      "excerpt": "All software has bugs. Many of them will never be fixed. This is normal, this is good. https://t.co/vSpxXdg0XC https://t.co/uQIfzY4rlP"
+    },
+    {
+      "id": "x-1699427078586716327",
+      "type": "x_post",
+      "title": "\"So farewell, TypeScript. May you bring much rigor and satisfaction to your tribe while le",
+      "url": "https://x.com/dhh/status/1699427078586716327",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 2538240,
+      "topicIds": [],
+      "excerpt": "\"So farewell, TypeScript. May you bring much rigor and satisfaction to your tribe while letting the rest of us enjoy JavaScript in the glorious spirit it was originally designed: Free of strong typing"
+    },
+    {
+      "id": "x-1699493699212960030",
+      "type": "x_post",
+      "title": "ES6 + import maps have allowed us to ship raw, uncompiled, glorious JavaScript straight to",
+      "url": "https://x.com/dhh/status/1699493699212960030",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 198766,
+      "topicIds": [],
+      "excerpt": "ES6 + import maps have allowed us to ship raw, uncompiled, glorious JavaScript straight to the browser, and now CSS Nesting is making the same true for styling. We are finally in The New Age. Complexi"
+    },
+    {
+      "id": "x-1699865966816161810",
+      "type": "x_post",
+      "title": "\"Look, I'm happy if you found your true calling in TypeScript. I really am. I'm an unapolo",
+      "url": "https://x.com/dhh/status/1699865966816161810",
+      "publishedAt": "2023-09-07",
+      "outlet": "X",
+      "views": 578730,
+      "topicIds": [],
+      "excerpt": "\"Look, I'm happy if you found your true calling in TypeScript. I really am. I'm an unapologetic superfan of Ruby. But please, find another way to express your enthusiasm than by defacing collaboration"
+    },
+    {
+      "id": "x-1701299614148919301",
+      "type": "x_post",
+      "title": "Gotta love the pivot from \"it doesn't scale\" to \"you can't write real systems without type",
+      "url": "https://x.com/dhh/status/1701299614148919301",
+      "publishedAt": "2023-09-11",
+      "outlet": "X",
+      "views": 3329592,
+      "topicIds": [],
+      "excerpt": "Gotta love the pivot from \"it doesn't scale\" to \"you can't write real systems without types\" as the new ding-dong argument against dynamically-typed languages like Ruby (and vanilla JavaScript and Sma"
+    },
+    {
+      "id": "x-1701721560921624836",
+      "type": "x_post",
+      "title": "😍 my first community note! Look, I'm thrilled Rails got some of these companies so far in",
+      "url": "https://x.com/dhh/status/1701721560921624836",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 628839,
+      "topicIds": [],
+      "excerpt": "😍 my first community note! Look, I'm thrilled Rails got some of these companies so far into the millions of users + billions in market cap that they can afford optimizing with Go or whatever, as need"
+    },
+    {
+      "id": "x-1702095534293725273",
+      "type": "x_post",
+      "title": "The fact is that the majority of systems that go supernova need a variety of rewrites! The",
+      "url": "https://x.com/dhh/status/1702095534293725273",
+      "publishedAt": "2023-09-13",
+      "outlet": "X",
+      "views": 29179,
+      "topicIds": [],
+      "excerpt": "The fact is that the majority of systems that go supernova need a variety of rewrites! There's no shrink-wrapped solution that'll take the Twitters or Shopifys of the world from 0 to Internet Scale wi"
+    },
+    {
+      "id": "x-1702096105746633168",
+      "type": "x_post",
+      "title": "Nothing is more common than looking at the code of a fast-growing startup – ANY STARTUP – ",
+      "url": "https://x.com/dhh/status/1702096105746633168",
+      "publishedAt": "2023-09-13",
+      "outlet": "X",
+      "views": 28598,
+      "topicIds": [],
+      "excerpt": "Nothing is more common than looking at the code of a fast-growing startup – ANY STARTUP – and think \"what a mess\". Most exhibit a trace of every failed experiment, every blind alley. The folly is thin"
+    },
+    {
+      "id": "x-1702794644277670154",
+      "type": "x_post",
+      "title": "TypeScript Rorschach test. Some undoubtedly see beauty in this, others see the beast. Wisd",
+      "url": "https://x.com/dhh/status/1702794644277670154",
+      "publishedAt": "2023-09-15",
+      "outlet": "X",
+      "views": 349174,
+      "topicIds": [],
+      "excerpt": "TypeScript Rorschach test. Some undoubtedly see beauty in this, others see the beast. Wisdom is knowing that you needn't argue it one way or the other, just follow your heart 😄"
+    },
+    {
+      "id": "x-1702791819757797659",
+      "type": "x_post",
+      "title": "\"Our cloud spend (sans-S3) is down by 60% already. From around $180,000/month to less than",
+      "url": "https://x.com/dhh/status/1702791819757797659",
+      "publishedAt": "2023-09-15",
+      "outlet": "X",
+      "views": 165434,
+      "topicIds": [],
+      "excerpt": "\"Our cloud spend (sans-S3) is down by 60% already. From around $180,000/month to less than $80,000. That's a cool million dollars in savings at the yearly run rate. Just absolutely bonkers amount of m"
+    },
+    {
+      "id": "x-1704960459982688521",
+      "type": "x_post",
+      "title": "So the cost cross-over in this example is that if you’re using more than 4% of a single ma",
+      "url": "https://x.com/dhh/status/1704960459982688521",
+      "publishedAt": "2023-09-21",
+      "outlet": "X",
+      "views": 140919,
+      "topicIds": [],
+      "excerpt": "So the cost cross-over in this example is that if you’re using more than 4% of a single machine’s capacity, you’re better off buying that machine outright than renting serverless calls. The cloud brai"
+    },
+    {
+      "id": "x-1705271515997143168",
+      "type": "x_post",
+      "title": "As machines get ever more powerful, the scope of work that SQLite can handle grows. Cuttin",
+      "url": "https://x.com/dhh/status/1705271515997143168",
+      "publishedAt": "2023-09-22",
+      "outlet": "X",
+      "views": 290862,
+      "topicIds": [],
+      "excerpt": "As machines get ever more powerful, the scope of work that SQLite can handle grows. Cutting out the complexity of running a DB process is a major step forward. We are betting on SQLite in production w"
+    },
+    {
+      "id": "x-1709861506458755421",
+      "type": "x_post",
+      "title": "What a pleasure talking about The One-Person Framework, renaissance developers, and no les",
+      "url": "https://x.com/dhh/status/1709861506458755421",
+      "publishedAt": "2023-10-05",
+      "outlet": "X",
+      "views": 122692,
+      "topicIds": [],
+      "excerpt": "What a pleasure talking about The One-Person Framework, renaissance developers, and no less than 7 new frameworks and libraries that’s going to help Rails developers here at #RailsWorld. Perfect way t"
+    },
+    {
+      "id": "x-1712145950397841826",
+      "type": "x_post",
+      "title": "\"The state of the art is no longer in finding more sophisticated ways to build JavaScript ",
+      "url": "https://x.com/dhh/status/1712145950397841826",
+      "publishedAt": "2023-10-11",
+      "outlet": "X",
+      "views": 1033523,
+      "topicIds": [],
+      "excerpt": "\"The state of the art is no longer in finding more sophisticated ways to build JavaScript or CSS. It's not to build at all. To lean on HTTP/2 and the now universal support for import maps to avoid bun"
+    },
+    {
+      "id": "x-1712507052126347561",
+      "type": "x_post",
+      "title": "HEY is running No Build JavaScript for the main app. Contrast the Lighthouse scores and th",
+      "url": "https://x.com/dhh/status/1712507052126347561",
+      "publishedAt": "2023-10-12",
+      "outlet": "X",
+      "views": 492370,
+      "topicIds": [],
+      "excerpt": "HEY is running No Build JavaScript for the main app. Contrast the Lighthouse scores and the inbox vs imbox loads with Gmail. I think we're doing pretty alright with No Build, import maps, and a some ~"
+    },
+    {
+      "id": "x-1712355222654165278",
+      "type": "x_post",
+      "title": "This is what’s so odd about the tech discourse. You can literally be doing things at great",
+      "url": "https://x.com/dhh/status/1712355222654165278",
+      "publishedAt": "2023-10-12",
+      "outlet": "X",
+      "views": 318379,
+      "topicIds": [],
+      "excerpt": "This is what’s so odd about the tech discourse. You can literally be doing things at great scale (Shopify/Rails), and people will claim it doesn’t scale. Or be using a given method for years (HEY/no b"
+    },
+    {
+      "id": "x-1712541981220786606",
+      "type": "x_post",
+      "title": "We deleted our last big legacy cloud search cluster live at the company meetup today. What",
+      "url": "https://x.com/dhh/status/1712541981220786606",
+      "publishedAt": "2023-10-12",
+      "outlet": "X",
+      "views": 615336,
+      "topicIds": [],
+      "excerpt": "We deleted our last big legacy cloud search cluster live at the company meetup today. What used to be part of a $43,330/month spend on OpenSearch will now go to zero! Cloud exit hurray 🎉 https://t.co"
+    },
+    {
+      "id": "x-1713961161832710559",
+      "type": "x_post",
+      "title": "To be fair, it's the AWS OpenSearch bill going to zero. The price to run the equivalent el",
+      "url": "https://x.com/dhh/status/1713961161832710559",
+      "publishedAt": "2023-10-16",
+      "outlet": "X",
+      "views": 241394,
+      "topicIds": [],
+      "excerpt": "To be fair, it's the AWS OpenSearch bill going to zero. The price to run the equivalent elastic search cluster ourselves is about $5,000/month. That includes power/space/networking across two data cen"
+    },
+    {
+      "id": "x-1718347850361589947",
+      "type": "x_post",
+      "title": "I love that while the 10x programmer is still a controversial concept to some in the tech ",
+      "url": "https://x.com/dhh/status/1718347850361589947",
+      "publishedAt": "2023-10-28",
+      "outlet": "X",
+      "views": 1183408,
+      "topicIds": [],
+      "excerpt": "I love that while the 10x programmer is still a controversial concept to some in the tech world, Steve Jobs went straight for the claim that 50-100x programmers are possible. https://t.co/eF9ivI4guT"
+    },
+    {
+      "id": "x-1727080116063502430",
+      "type": "x_post",
+      "title": "Prune the tree of complexity and thy shall have a brighter harvest of progress. We can't h",
+      "url": "https://x.com/dhh/status/1727080116063502430",
+      "publishedAt": "2023-11-21",
+      "outlet": "X",
+      "views": 263296,
+      "topicIds": [],
+      "excerpt": "Prune the tree of complexity and thy shall have a brighter harvest of progress. We can't hold on to everything we've ever tried forever. (Also, lol 😂)."
+    },
+    {
+      "id": "x-1731346390323016142",
+      "type": "x_post",
+      "title": "This is why I don't even bother to get worked up about tech drama. Not even three months a",
+      "url": "https://x.com/dhh/status/1731346390323016142",
+      "publishedAt": "2023-12-03",
+      "outlet": "X",
+      "views": 217394,
+      "topicIds": [],
+      "excerpt": "This is why I don't even bother to get worked up about tech drama. Not even three months ago TypeScript fanatics threw a hissy fit because we dared to remove it from Turbo, and yet it might as well ha"
+    },
+    {
+      "id": "x-1733535845284761853",
+      "type": "x_post",
+      "title": "I haven't found much use for AI in full-on writing large bodies for code for me, but I con",
+      "url": "https://x.com/dhh/status/1733535845284761853",
+      "publishedAt": "2023-12-09",
+      "outlet": "X",
+      "views": 336417,
+      "topicIds": [],
+      "excerpt": "I haven't found much use for AI in full-on writing large bodies for code for me, but I continue to be astounded by its ability to be a superb pair programmer. It knows all the APIs, we never need to G"
+    },
+    {
+      "id": "x-1733536229084582220",
+      "type": "x_post",
+      "title": "It's an incredibly patient teacher, too. I don't care much for just receiving a glob of co",
+      "url": "https://x.com/dhh/status/1733536229084582220",
+      "publishedAt": "2023-12-09",
+      "outlet": "X",
+      "views": 48908,
+      "topicIds": [],
+      "excerpt": "It's an incredibly patient teacher, too. I don't care much for just receiving a glob of code to solve a problem, but I adore having AI explain The Why. More than anything, every AI-assisted session is"
+    },
+    {
+      "id": "x-1733537310942298491",
+      "type": "x_post",
+      "title": "(I'm using ChatGPT4. Don't care for anyone else to drive the keyboard than myself, so the ",
+      "url": "https://x.com/dhh/status/1733537310942298491",
+      "publishedAt": "2023-12-09",
+      "outlet": "X",
+      "views": 60530,
+      "topicIds": [],
+      "excerpt": "(I'm using ChatGPT4. Don't care for anyone else to drive the keyboard than myself, so the autocomplete AIs don't appeal quite as much. I want to understand, refine, and perfect every line, so manually"
+    },
+    {
+      "id": "x-1733537639087874490",
+      "type": "x_post",
+      "title": "@wfaler I like the metaphor of the pair programmer better. You're still driving the keyboa",
+      "url": "https://x.com/dhh/status/1733537639087874490",
+      "publishedAt": "2023-12-09",
+      "outlet": "X",
+      "views": 9828,
+      "topicIds": [],
+      "excerpt": "@wfaler I like the metaphor of the pair programmer better. You're still driving the keyboard, but the AI is there to unblock you, spot you, teach you. I never got all of that out of auto-completing ID"
+    },
+    {
+      "id": "x-1736832920370000085",
+      "type": "x_post",
+      "title": "Crazy to think that we were spending $150,000/month on cloud rentals just eight months ago",
+      "url": "https://x.com/dhh/status/1736832920370000085",
+      "publishedAt": "2023-12-18",
+      "outlet": "X",
+      "views": 932739,
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "Crazy to think that we were spending $150,000/month on cloud rentals just eight months ago. The savings booked since we started our exit has already paid for all the new hardware we bought. Now it's j"
+    },
+    {
+      "id": "x-1738611105260552601",
+      "type": "x_post",
+      "title": "“If there’s anything I see juniors often miss, it’s this. Careful, repeated, even obsessiv",
+      "url": "https://x.com/dhh/status/1738611105260552601",
+      "publishedAt": "2023-12-23",
+      "outlet": "X",
+      "views": 229817,
+      "topicIds": [],
+      "excerpt": "“If there’s anything I see juniors often miss, it’s this. Careful, repeated, even obsessive, study of their own work. For programmers that means poring over the pull request until it’s as aestheticall"
+    },
+    {
+      "id": "x-1743992355319882214",
+      "type": "x_post",
+      "title": "\"Programmers are attracted to complexity like moths to a flame. The more convoluted the sy",
+      "url": "https://x.com/dhh/status/1743992355319882214",
+      "publishedAt": "2024-01-07",
+      "outlet": "X",
+      "views": 336750,
+      "topicIds": [],
+      "excerpt": "\"Programmers are attracted to complexity like moths to a flame. The more convoluted the systems diagram, the greater the intellectual masturbation. Our commitment to resisting that is the key ingredie"
+    },
+    {
+      "id": "x-1750572445021741399",
+      "type": "x_post",
+      "title": "\"The best designers and the best programmers aren’t the ones with the best skills, or the ",
+      "url": "https://x.com/dhh/status/1750572445021741399",
+      "publishedAt": "2024-01-25",
+      "outlet": "X",
+      "views": 183764,
+      "topicIds": [],
+      "excerpt": "\"The best designers and the best programmers aren’t the ones with the best skills, or the nimblest fingers, or the ones who can rock and roll with photoshop or vim, they are the ones that can determin"
+    },
+    {
+      "id": "x-1754869501735399459",
+      "type": "x_post",
+      "title": "This principle applies to code as well. If you want to become a better programmer, you nee",
+      "url": "https://x.com/dhh/status/1754869501735399459",
+      "publishedAt": "2024-02-06",
+      "outlet": "X",
+      "views": 223674,
+      "topicIds": [],
+      "excerpt": "This principle applies to code as well. If you want to become a better programmer, you need to read more programs. Anything you can get your hands on. I read the entire Ruby standard library when I go"
+    },
+    {
+      "id": "x-1755264297071178167",
+      "type": "x_post",
+      "title": "Oh, and it's also the first release of Turbo that's entirely TypeScript free 😍. After the",
+      "url": "https://x.com/dhh/status/1755264297071178167",
+      "publishedAt": "2024-02-07",
+      "outlet": "X",
+      "views": 32217,
+      "topicIds": [],
+      "excerpt": "Oh, and it's also the first release of Turbo that's entirely TypeScript free 😍. After the initial outrage blew over, we saw a wonderful influx of contributors who no longer found the codebase as inti"
+    },
+    {
+      "id": "x-1755363667120734643",
+      "type": "x_post",
+      "title": "One of the marque features of Turbo 8, the hover pre-loading ala InstantClick, came curtes",
+      "url": "https://x.com/dhh/status/1755363667120734643",
+      "publishedAt": "2024-02-07",
+      "outlet": "X",
+      "views": 38709,
+      "topicIds": [],
+      "excerpt": "One of the marque features of Turbo 8, the hover pre-loading ala InstantClick, came curtesy of dumping TypeScript. I know there's an army of TS stans out there who can't fathom this, but there's a wor"
+    },
+    {
+      "id": "x-1765413728730955848",
+      "type": "x_post",
+      "title": "AI loves TypeScript because it can clearly demonstrate the superior mega brain needed to c",
+      "url": "https://x.com/dhh/status/1765413728730955848",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 137489,
+      "topicIds": [],
+      "excerpt": "AI loves TypeScript because it can clearly demonstrate the superior mega brain needed to comprehend such hostile code, and it has to compunction about sacrificing human readability or style on the alt"
+    },
+    {
+      "id": "x-1767718092250235073",
+      "type": "x_post",
+      "title": "Best ad I've ever seen for switching to Ruby. You should enjoy these last few years as man",
+      "url": "https://x.com/dhh/status/1767718092250235073",
+      "publishedAt": "2024-03-13",
+      "outlet": "X",
+      "views": 449559,
+      "topicIds": [],
+      "excerpt": "Best ad I've ever seen for switching to Ruby. You should enjoy these last few years as manual programmers in luxury and style. Go out in a flaming ball of glory 👑"
+    },
+    {
+      "id": "x-1768014306107687328",
+      "type": "x_post",
+      "title": "\"That's the trouble with The Future. It's awfully difficult to predict when it'll actually",
+      "url": "https://x.com/dhh/status/1768014306107687328",
+      "publishedAt": "2024-03-13",
+      "outlet": "X",
+      "views": 142259,
+      "topicIds": [],
+      "excerpt": "\"That's the trouble with The Future. It's awfully difficult to predict when it'll actually arrive.. But we just might not need as many human programmers pounding code with their little meat fingers.\" "
+    },
+    {
+      "id": "x-1782033353606382011",
+      "type": "x_post",
+      "title": "The rise of sqlite as a viable production database for smaller Rails apps is the epitome o",
+      "url": "https://x.com/dhh/status/1782033353606382011",
+      "publishedAt": "2024-04-21",
+      "outlet": "X",
+      "views": 76875,
+      "topicIds": [],
+      "excerpt": "The rise of sqlite as a viable production database for smaller Rails apps is the epitome of compressing complexity. ONCE/Campfire is running on it, and it's made distribution, debugging, and backups m"
+    },
+    {
+      "id": "x-1782036915619004797",
+      "type": "x_post",
+      "title": "Don't converge, don't comply. The web is the most important software platform exactly beca",
+      "url": "https://x.com/dhh/status/1782036915619004797",
+      "publishedAt": "2024-04-21",
+      "outlet": "X",
+      "views": 390713,
+      "topicIds": [],
+      "excerpt": "Don't converge, don't comply. The web is the most important software platform exactly because this hasn't happened. Write your Ruby, your Python, your whatever with pride and a smile. I'd rather stop "
+    },
+    {
+      "id": "x-1787867829536186705",
+      "type": "x_post",
+      "title": "This I'd why I have zero tolerance for accepting anything below the bar of beautiful code ",
+      "url": "https://x.com/dhh/status/1787867829536186705",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 242998,
+      "topicIds": [],
+      "excerpt": "This I'd why I have zero tolerance for accepting anything below the bar of beautiful code and a simplicity that allows for single programmers to build complete systems. I would have long since escaped"
+    },
+    {
+      "id": "x-1787888983877591197",
+      "type": "x_post",
+      "title": "@adymitruk My need for beautiful code is first and foremost a human need, not a system nee",
+      "url": "https://x.com/dhh/status/1787888983877591197",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 9467,
+      "topicIds": [],
+      "excerpt": "@adymitruk My need for beautiful code is first and foremost a human need, not a system need. It's the need of motivation, of inspiration, of aspiration. I don't care to be a programmer without that, a"
+    },
+    {
+      "id": "x-1788579873969373603",
+      "type": "x_post",
+      "title": "Never seen a better ad for ditching TypeScript. You don't have to live like this!!",
+      "url": "https://x.com/dhh/status/1788579873969373603",
+      "publishedAt": "2024-05-09",
+      "outlet": "X",
+      "views": 941169,
+      "topicIds": [],
+      "excerpt": "Never seen a better ad for ditching TypeScript. You don't have to live like this!!"
+    },
+    {
+      "id": "x-1788592046653292856",
+      "type": "x_post",
+      "title": "While I've been warming to Microsoft a lot, there's a funny analysis of TypeScript that's ",
+      "url": "https://x.com/dhh/status/1788592046653292856",
+      "publishedAt": "2024-05-09",
+      "outlet": "X",
+      "views": 104320,
+      "topicIds": [],
+      "excerpt": "While I've been warming to Microsoft a lot, there's a funny analysis of TypeScript that's classic embrace-extend-defoul. Vanilla JavaScript, free of a trillion npm dependencies and TS compiling, is a "
+    },
+    {
+      "id": "x-1789314705384972506",
+      "type": "x_post",
+      "title": "The microservices craze was perhaps the purest example of a ZIRP. Roosevelt couldn't have ",
+      "url": "https://x.com/dhh/status/1789314705384972506",
+      "publishedAt": "2024-05-11",
+      "outlet": "X",
+      "views": 345871,
+      "topicIds": [],
+      "excerpt": "The microservices craze was perhaps the purest example of a ZIRP. Roosevelt couldn't have designed a better full-employment program for programmers if he tried."
+    },
+    {
+      "id": "x-1791552150038024424",
+      "type": "x_post",
+      "title": "\"HEY today has some 300-odd system tests. We're going to cut that number way down. The sun",
+      "url": "https://x.com/dhh/status/1791552150038024424",
+      "publishedAt": "2024-05-17",
+      "outlet": "X",
+      "views": 472862,
+      "topicIds": [],
+      "excerpt": "\"HEY today has some 300-odd system tests. We're going to cut that number way down. The sunk cost fallacy has kept us running this brittle, cumbersome suite for too long. Time to cut our losses, reduce"
+    },
+    {
+      "id": "x-1791520061662073213",
+      "type": "x_post",
+      "title": "Automated testing is about finding the right level of confidence that your software will b",
+      "url": "https://x.com/dhh/status/1791520061662073213",
+      "publishedAt": "2024-05-17",
+      "outlet": "X",
+      "views": 52538,
+      "topicIds": [],
+      "excerpt": "Automated testing is about finding the right level of confidence that your software will be of acceptable quality for the criticality in question. It's not about finding certainty. It's confidence val"
+    },
+    {
+      "id": "x-1792643130551886027",
+      "type": "x_post",
+      "title": "Programmers are often skeptical of aesthetics because they frequently associate it with ve",
+      "url": "https://x.com/dhh/status/1792643130551886027",
+      "publishedAt": "2024-05-20",
+      "outlet": "X",
+      "views": 74601,
+      "topicIds": [],
+      "excerpt": "Programmers are often skeptical of aesthetics because they frequently associate it with veneering. A thin sheen of flashy marketing design covering up for a rotten or deficient product. Something that"
+    },
+    {
+      "id": "x-1797393255614853480",
+      "type": "x_post",
+      "title": "When Ruby on Rails was launched over twenty years ago, I was a twenty-some young programme",
+      "url": "https://x.com/dhh/status/1797393255614853480",
+      "publishedAt": "2024-06-02",
+      "outlet": "X",
+      "views": 708255,
+      "topicIds": [],
+      "excerpt": "When Ruby on Rails was launched over twenty years ago, I was a twenty-some young programmer convinced that anyone who gave my stack a try would accept its universal superiority for solving The Web Pro"
+    },
+    {
+      "id": "x-1821544958282858608",
+      "type": "x_post",
+      "title": "The key insight with Shape Up was to give up on software estimates entirely. Flip the scri",
+      "url": "https://x.com/dhh/status/1821544958282858608",
+      "publishedAt": "2024-08-08",
+      "outlet": "X",
+      "views": 251350,
+      "topicIds": [],
+      "excerpt": "The key insight with Shape Up was to give up on software estimates entirely. Flip the script. Pick a budget but leave the scope flexible. Then ship the very best you can do within that budget. Works l"
+    },
+    {
+      "id": "x-1827318401468862617",
+      "type": "x_post",
+      "title": "Web programmers seem to have no idea just how fast computers have become. The vast majorit",
+      "url": "https://x.com/dhh/status/1827318401468862617",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 585555,
+      "topicIds": [],
+      "excerpt": "Web programmers seem to have no idea just how fast computers have become. The vast majority of all SaaS apps ever made could easily run on a single, beefy beast. Main reason to add multiple machines i"
+    },
+    {
+      "id": "x-1827318704402497875",
+      "type": "x_post",
+      "title": "Basecamp ran on a single server back in 2004 until it was making hundreds of thousands of ",
+      "url": "https://x.com/dhh/status/1827318704402497875",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 98030,
+      "topicIds": [],
+      "excerpt": "Basecamp ran on a single server back in 2004 until it was making hundreds of thousands of dollars in revenue. That's TWENTY YEARS AGO! I wouldn't be surprised if the biggest box you could buy today co"
+    },
+    {
+      "id": "x-1827319007831036340",
+      "type": "x_post",
+      "title": "The merchants of complexity will try to convince you that you can't do anything yourself t",
+      "url": "https://x.com/dhh/status/1827319007831036340",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 1292441,
+      "topicIds": [],
+      "excerpt": "The merchants of complexity will try to convince you that you can't do anything yourself these days. You can't do auth, you can't do scale, you can't run a database, you can't connect a computer to th"
+    },
+    {
+      "id": "x-1827348869677461740",
+      "type": "x_post",
+      "title": "The thing to know about merchants of complexity is that they never go away, they merely mi",
+      "url": "https://x.com/dhh/status/1827348869677461740",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 66591,
+      "topicIds": [],
+      "excerpt": "The thing to know about merchants of complexity is that they never go away, they merely migrate. From WS-DeathStar to microservices to premature k8s to auth services to GraphQL and beyond. There's alw"
+    },
+    {
+      "id": "x-1830329731692294255",
+      "type": "x_post",
+      "title": "Running your own servers won't get you 100% uptime, but it will give you agency to act whe",
+      "url": "https://x.com/dhh/status/1830329731692294255",
+      "publishedAt": "2024-09-01",
+      "outlet": "X",
+      "views": 232081,
+      "topicIds": [],
+      "excerpt": "Running your own servers won't get you 100% uptime, but it will give you agency to act when something does go wrong. Rather than just wait around until the cloud gods get it together. We learned that "
+    },
+    {
+      "id": "x-1833183170763870293",
+      "type": "x_post",
+      "title": "\"Bottom line, I'm disappointed to report that passkeys don't appear worth the complexity o",
+      "url": "https://x.com/dhh/status/1833183170763870293",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 158183,
+      "topicIds": [],
+      "excerpt": "\"Bottom line, I'm disappointed to report that passkeys don't appear worth the complexity of implementation (which is substantial!) nor the complexity and gotchas of the user experience. So we're stick"
+    },
+    {
+      "id": "x-1837122327378608295",
+      "type": "x_post",
+      "title": "Training wheels are for getting you going, but eventually you should learn to keep your ow",
+      "url": "https://x.com/dhh/status/1837122327378608295",
+      "publishedAt": "2024-09-20",
+      "outlet": "X",
+      "views": 89996,
+      "topicIds": [],
+      "excerpt": "Training wheels are for getting you going, but eventually you should learn to keep your own balance. That's how I think of AI assistance for programmers at the moment."
+    },
+    {
+      "id": "x-1839653762551480629",
+      "type": "x_post",
+      "title": "Our primary priority for Ruby on Rails is getting you from 0-1. Once you've become rich be",
+      "url": "https://x.com/dhh/status/1839653762551480629",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 164568,
+      "topicIds": [],
+      "excerpt": "Our primary priority for Ruby on Rails is getting you from 0-1. Once you've become rich beyond belief, you can afford to tackle whatever unique frontier problems you face at that scale. Get the bag fi"
+    },
+    {
+      "id": "x-1840836293078761759",
+      "type": "x_post",
+      "title": "\"While everyone seems resigned to slice the expertise of web development into ever thinner",
+      "url": "https://x.com/dhh/status/1840836293078761759",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 50800,
+      "topicIds": [],
+      "excerpt": "\"While everyone seems resigned to slice the expertise of web development into ever thinner specialties, Rails is doubling down on the one-developer framework, the full stack, and the compression of co"
+    },
+    {
+      "id": "x-1843006224889225269",
+      "type": "x_post",
+      "title": "Get your words together. Writing well is thinking well. Peterson is spot on. Thus the dang",
+      "url": "https://x.com/dhh/status/1843006224889225269",
+      "publishedAt": "2024-10-06",
+      "outlet": "X",
+      "views": 180735,
+      "topicIds": [],
+      "excerpt": "Get your words together. Writing well is thinking well. Peterson is spot on. Thus the danger of outsourcing your words to AI. Your mind might stop trying to bother with the thinking bit too. https://t"
+    },
+    {
+      "id": "x-1849879289212305576",
+      "type": "x_post",
+      "title": "There's this weird aversion in some startup circles to saving money. Like you're admitting",
+      "url": "https://x.com/dhh/status/1849879289212305576",
+      "publishedAt": "2024-10-25",
+      "outlet": "X",
+      "views": 168991,
+      "topicIds": [],
+      "excerpt": "There's this weird aversion in some startup circles to saving money. Like you're admitting weakness if you take a few days to setup some servers to save big money because OPPORTUNITY COST. An internal"
+    },
+    {
+      "id": "x-1854957269651538360",
+      "type": "x_post",
+      "title": "We're getting real with the realization that system tests have failed to be worth their we",
+      "url": "https://x.com/dhh/status/1854957269651538360",
+      "publishedAt": "2024-11-08",
+      "outlet": "X",
+      "views": 140513,
+      "topicIds": [],
+      "excerpt": "We're getting real with the realization that system tests have failed to be worth their weight. We're killing ALL the system tests (359 cases) in HEY, replacing them with a minimal set of smoke tests."
+    },
+    {
+      "id": "x-1859650769127080442",
+      "type": "x_post",
+      "title": "The 10x programmer/designer is created largely as a function of motivation. The will to se",
+      "url": "https://x.com/dhh/status/1859650769127080442",
+      "publishedAt": "2024-11-21",
+      "outlet": "X",
+      "views": 79018,
+      "topicIds": [],
+      "excerpt": "The 10x programmer/designer is created largely as a function of motivation. The will to see your creation exist. An impatience with turning nothing into something. https://t.co/H3BmUdRe02"
+    },
+    {
+      "id": "x-1861466802364240184",
+      "type": "x_post",
+      "title": "Code and prose aren't the only things that need editing and pruning, company costs do too.",
+      "url": "https://x.com/dhh/status/1861466802364240184",
+      "publishedAt": "2024-11-26",
+      "outlet": "X",
+      "views": 38466,
+      "topicIds": [],
+      "excerpt": "Code and prose aren't the only things that need editing and pruning, company costs do too. There's an aesthetic quality to cutting needless costs, and seeing a tighter, clearer balance sheet. Beautifu"
+    },
+    {
+      "id": "x-1864681695791993201",
+      "type": "x_post",
+      "title": "We do the same at 37. Pull requests, especially for more junior staff, is littered with ev",
+      "url": "https://x.com/dhh/status/1864681695791993201",
+      "publishedAt": "2024-12-05",
+      "outlet": "X",
+      "views": 388356,
+      "topicIds": [
+        "code-clarity-and-review"
+      ],
+      "excerpt": "We do the same at 37. Pull requests, especially for more junior staff, is littered with even the most pedantic comments. Style matters. Linters don't capture it all. You learn by being shown the way. "
+    },
+    {
+      "id": "x-1864683910057300247",
+      "type": "x_post",
+      "title": "The way to avoid some dead-ends of pedantic pull request reviews is by ensuring the work i",
+      "url": "https://x.com/dhh/status/1864683910057300247",
+      "publishedAt": "2024-12-05",
+      "outlet": "X",
+      "views": 33405,
+      "topicIds": [],
+      "excerpt": "The way to avoid some dead-ends of pedantic pull request reviews is by ensuring the work is examined as a whole. Not a million tiny PR trees that obfuscate the architectural forest. Pedantic reviews m"
+    },
+    {
+      "id": "x-1868800504815554943",
+      "type": "x_post",
+      "title": "\"The hardest part about collaborating with jr programmers is avoiding the premise trap. Th",
+      "url": "https://x.com/dhh/status/1868800504815554943",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 51707,
+      "topicIds": [],
+      "excerpt": "\"The hardest part about collaborating with jr programmers is avoiding the premise trap. That's where the assumptions baked into the first draft of the code aren't questioned until you've spent far too"
+    },
+    {
+      "id": "x-1887876216171925731",
+      "type": "x_post",
+      "title": "\"That's over 3,500 days of service from this fleet, at a fully amortized cost of just $142",
+      "url": "https://x.com/dhh/status/1887876216171925731",
+      "publishedAt": "2025-02-07",
+      "outlet": "X",
+      "views": 69162,
+      "topicIds": [],
+      "excerpt": "\"That's over 3,500 days of service from this fleet, at a fully amortized cost of just $142/day. For everything needed to run Basecamp. A software service that has grossed hundreds of millions of dolla"
+    },
+    {
+      "id": "x-1892265453524803859",
+      "type": "x_post",
+      "title": "Some times you just gotta admit defeat. System tests -- the end-to-end variety that drive ",
+      "url": "https://x.com/dhh/status/1892265453524803859",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 150742,
+      "topicIds": [],
+      "excerpt": "Some times you just gotta admit defeat. System tests -- the end-to-end variety that drive a headless browser -- just aren't worth the effort. We'll bring back a minimal set for smoke testing, but rare"
+    },
+    {
+      "id": "x-1896932150055997517",
+      "type": "x_post",
+      "title": "Our new GitHub extension for local CI sign-offs make it easy to prevent PRs from being mer",
+      "url": "https://x.com/dhh/status/1896932150055997517",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 50028,
+      "topicIds": [],
+      "excerpt": "Our new GitHub extension for local CI sign-offs make it easy to prevent PRs from being merged until tests, linters, and security checks have all been run on the developer machine. Enjoy! https://t.co/"
+    },
+    {
+      "id": "x-1897979069670543790",
+      "type": "x_post",
+      "title": "The sweet spot for Docker in development is to let it run your accessories, like database,",
+      "url": "https://x.com/dhh/status/1897979069670543790",
+      "publishedAt": "2025-03-07",
+      "outlet": "X",
+      "views": 235422,
+      "topicIds": [],
+      "excerpt": "The sweet spot for Docker in development is to let it run your accessories, like database, Redis, ElasticSearch, but stick to native installations of Ruby/JavaScript/whatever using mise. No \"works on "
+    },
+    {
+      "id": "x-1899455239444451367",
+      "type": "x_post",
+      "title": "I've been enjoying LLM-assisted programming as much as the next guy, but this seems unbeli",
+      "url": "https://x.com/dhh/status/1899455239444451367",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 427148,
+      "topicIds": [],
+      "excerpt": "I've been enjoying LLM-assisted programming as much as the next guy, but this seems unbelievably optimistic? ~All programming done by AI in 12 months!? Has Dario seen a world so different from the one"
+    },
+    {
+      "id": "x-1901254942012166284",
+      "type": "x_post",
+      "title": "I kid but not. The biggest advantage to using more productive tooling is that getting away",
+      "url": "https://x.com/dhh/status/1901254942012166284",
+      "publishedAt": "2025-03-16",
+      "outlet": "X",
+      "views": 28686,
+      "topicIds": [],
+      "excerpt": "I kid but not. The biggest advantage to using more productive tooling is that getting away with a team of 3 vs a team of 9 is exponentially more reactive/agile/enjoyable. So if you like AI to shrink t"
+    },
+    {
+      "id": "x-1904931755393511693",
+      "type": "x_post",
+      "title": "$5,000/day. That's how much we'll have to spend on S3, if we don't make our departure date",
+      "url": "https://x.com/dhh/status/1904931755393511693",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 277751,
+      "topicIds": [],
+      "excerpt": "$5,000/day. That's how much we'll have to spend on S3, if we don't make our departure date on June 30 (when the 4-year commit contract expires). Nothing like a large, clarifying number to motivate the"
+    },
+    {
+      "id": "x-1907688129504461045",
+      "type": "x_post",
+      "title": "I unironically love that even cloud companies are discovering that so many of the cloud fu",
+      "url": "https://x.com/dhh/status/1907688129504461045",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 112922,
+      "topicIds": [],
+      "excerpt": "I unironically love that even cloud companies are discovering that so many of the cloud fundamentals (like network storage) can be murder for performance. We run our key databases straight on the meta"
+    },
+    {
+      "id": "x-1909312515873685659",
+      "type": "x_post",
+      "title": "We're a small team working on Basecamp, HEY and its Calendar, ONCE, and new greenfield pro",
+      "url": "https://x.com/dhh/status/1909312515873685659",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 130095,
+      "topicIds": [],
+      "excerpt": "We're a small team working on Basecamp, HEY and its Calendar, ONCE, and new greenfield products at 37signals. Just ten Ruby programmers total. Doing all this product work plus a steady stream of new o"
+    },
+    {
+      "id": "x-1909480252696408508",
+      "type": "x_post",
+      "title": "I'm as AI positive as the next guy, but you're delusional if you think any AI agent is ful",
+      "url": "https://x.com/dhh/status/1909480252696408508",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 371677,
+      "topicIds": [],
+      "excerpt": "I'm as AI positive as the next guy, but you're delusional if you think any AI agent is full-on replacing a great programmer today. Who knows about tomorrow, but that day hasn't arrived yet."
+    },
+    {
+      "id": "x-1909554324172107899",
+      "type": "x_post",
+      "title": "@bilqisium Not in my line of work. I like AI! I use AI every day! But the acceleration it ",
+      "url": "https://x.com/dhh/status/1909554324172107899",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 9056,
+      "topicIds": [],
+      "excerpt": "@bilqisium Not in my line of work. I like AI! I use AI every day! But the acceleration it offers isn't of the kind where one developer can suddenly do the work of three. Rails is though 😂"
+    },
+    {
+      "id": "x-1909551979170324789",
+      "type": "x_post",
+      "title": "@gfodor We aren't hiring junior developers with the intention that they stay junior. That ",
+      "url": "https://x.com/dhh/status/1909551979170324789",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 8700,
+      "topicIds": [],
+      "excerpt": "@gfodor We aren't hiring junior developers with the intention that they stay junior. That was a dead end even before AI. Hiring a promising junior is a bet that they'll emerge as a senior given the op"
+    },
+    {
+      "id": "x-1910743973489942609",
+      "type": "x_post",
+      "title": "It's amazing how long Claude allows our designers to fly solo these days, but it's also cr",
+      "url": "https://x.com/dhh/status/1910743973489942609",
+      "publishedAt": "2025-04-11",
+      "outlet": "X",
+      "views": 91635,
+      "topicIds": [],
+      "excerpt": "It's amazing how long Claude allows our designers to fly solo these days, but it's also crucial to cleanup the vibe coding, if you want a beautiful, maintainable code base for the long term. https://t"
+    },
+    {
+      "id": "x-1915312730107527446",
+      "type": "x_post",
+      "title": "\"We're always going to need people who know the ins and outs of what AI comes up with. May",
+      "url": "https://x.com/dhh/status/1915312730107527446",
+      "publishedAt": "2025-04-24",
+      "outlet": "X",
+      "views": 21416,
+      "topicIds": [],
+      "excerpt": "\"We're always going to need people who know the ins and outs of what AI comes up with. Maybe not as many, maybe not in the same roles, but it's truly utopian thinking that mankind won't need people ca"
+    },
+    {
+      "id": "x-1919291397909233858",
+      "type": "x_post",
+      "title": "FactoryBot is the quickest way to kill your test suite performance with Rails. Our HEY sui",
+      "url": "https://x.com/dhh/status/1919291397909233858",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 87671,
+      "topicIds": [],
+      "excerpt": "FactoryBot is the quickest way to kill your test suite performance with Rails. Our HEY suite runs in <2 mins on a modern Linux machine with over 30,000 assertions. Against a real database! The secret?"
+    },
+    {
+      "id": "x-1920856083645481291",
+      "type": "x_post",
+      "title": "@thekitze I'm using LLMs all day long, but I'm not letting it write my code. It's looking ",
+      "url": "https://x.com/dhh/status/1920856083645481291",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 259806,
+      "topicIds": [],
+      "excerpt": "@thekitze I'm using LLMs all day long, but I'm not letting it write my code. It's looking up APIs, it's explaining concepts, but I want to reserve the fun part of programming for myself: Actually writ"
+    },
+    {
+      "id": "x-1920856793602773316",
+      "type": "x_post",
+      "title": "AI is awesome, but do you know what else is awesome? Not releasing AI-powered features unt",
+      "url": "https://x.com/dhh/status/1920856793602773316",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 225799,
+      "topicIds": [],
+      "excerpt": "AI is awesome, but do you know what else is awesome? Not releasing AI-powered features until you've actually built something that's way better than what it was without. Not every feature you build or "
+    },
+    {
+      "id": "x-1922193693873688768",
+      "type": "x_post",
+      "title": "\"I have no interest in giving up writing code. That's not the unpleasant part that I want ",
+      "url": "https://x.com/dhh/status/1922193693873688768",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 119485,
+      "topicIds": [],
+      "excerpt": "\"I have no interest in giving up writing code. That's not the unpleasant part that I want AI to take off my hands. Just so I can — what? — become a project manager for a murder of AI crows?\" https://t"
+    },
+    {
+      "id": "x-1924391451368009833",
+      "type": "x_post",
+      "title": "Could the opposite of whatever you're doing be better? That's a healthy question to ask an",
+      "url": "https://x.com/dhh/status/1924391451368009833",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 40373,
+      "topicIds": [],
+      "excerpt": "Could the opposite of whatever you're doing be better? That's a healthy question to ask and test to perform regularly. We did it with managers for a moment, then with marketing. I've done it with clou"
+    },
+    {
+      "id": "x-1933250020301480298",
+      "type": "x_post",
+      "title": "Cloud concentration wrecked the internets primary design goal: aggregate resilience. DARPA",
+      "url": "https://x.com/dhh/status/1933250020301480298",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 295453,
+      "topicIds": [],
+      "excerpt": "Cloud concentration wrecked the internets primary design goal: aggregate resilience. DARPA designed it to survive a damn nuclear strike. Now it can barely survive a single hyperscaler wobbling. We've "
+    },
+    {
+      "id": "x-1933452151394537757",
+      "type": "x_post",
+      "title": "Resilience math: If your system depends on 10 microservices that all have 99.9 uptime, you",
+      "url": "https://x.com/dhh/status/1933452151394537757",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 220788,
+      "topicIds": [],
+      "excerpt": "Resilience math: If your system depends on 10 microservices that all have 99.9 uptime, your total uptime will only be 99.0. Literally 10x worse (88h v 8h downtime pr year)."
+    },
+    {
+      "id": "x-1935636333084479720",
+      "type": "x_post",
+      "title": "This tracks completely with what I've experienced using AI as a pair programmer. As soon a",
+      "url": "https://x.com/dhh/status/1935636333084479720",
+      "publishedAt": "2025-06-19",
+      "outlet": "X",
+      "views": 248699,
+      "topicIds": [],
+      "excerpt": "This tracks completely with what I've experienced using AI as a pair programmer. As soon as I'm tempted to let it drive, I learn nothing, retain nothing. But if I do the programming, and it does the A"
+    },
+    {
+      "id": "x-1935636807271809276",
+      "type": "x_post",
+      "title": "This is why tab-completion programming with AI is such a trap for juniors in particular. Y",
+      "url": "https://x.com/dhh/status/1935636807271809276",
+      "publishedAt": "2025-06-19",
+      "outlet": "X",
+      "views": 82703,
+      "topicIds": [],
+      "excerpt": "This is why tab-completion programming with AI is such a trap for juniors in particular. You're never going to develop the core skills needed to become a senior this way. Maybe you don't care, though!"
+    },
+    {
+      "id": "x-1938222811023348187",
+      "type": "x_post",
+      "title": "Merchants of complexity have convinced a shocking number of developers that they're too du",
+      "url": "https://x.com/dhh/status/1938222811023348187",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 301307,
+      "topicIds": [],
+      "excerpt": "Merchants of complexity have convinced a shocking number of developers that they're too dumb to do their own authentication. Of all the things you could outsource, I think you could do no worse than y"
+    },
+    {
+      "id": "x-1954195435385491541",
+      "type": "x_post",
+      "title": "We're all-in on Omarchy at @37signals. Just like we're all-in on Ruby on Rails, Hotwire, a",
+      "url": "https://x.com/dhh/status/1954195435385491541",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 131668,
+      "topicIds": [],
+      "excerpt": "We're all-in on Omarchy at @37signals. Just like we're all-in on Ruby on Rails, Hotwire, and Kamal. It's from total commitment we get out-sized results, full influence over our stack, and the motivati"
+    },
+    {
+      "id": "x-1958505914341654675",
+      "type": "x_post",
+      "title": "AI demonstrates the sunk-cost fallacy perfectly: Just one more \"this doesn't work!\" prompt",
+      "url": "https://x.com/dhh/status/1958505914341654675",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 378199,
+      "topicIds": [],
+      "excerpt": "AI demonstrates the sunk-cost fallacy perfectly: Just one more \"this doesn't work!\" prompt, you think, and it'll fix it!! But often it won't, and now you've wasted 30 minutes begging that you could ha"
+    },
+    {
+      "id": "x-1958507017816904159",
+      "type": "x_post",
+      "title": "Also, AI absolutely is a blessing. Incredible what it can do. Incredible when it Just Work",
+      "url": "https://x.com/dhh/status/1958507017816904159",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 60092,
+      "topicIds": [],
+      "excerpt": "Also, AI absolutely is a blessing. Incredible what it can do. Incredible when it Just Works. But we're still a million miles from AI obsoleting all programmers. And it doesn't feel like we've gotten t"
+    },
+    {
+      "id": "x-1960574413088178530",
+      "type": "x_post",
+      "title": "This is the root motivation behind most everything well-done in the world. Build for yours",
+      "url": "https://x.com/dhh/status/1960574413088178530",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 180531,
+      "topicIds": [],
+      "excerpt": "This is the root motivation behind most everything well-done in the world. Build for yourself first, so you can clearly gauge the quality, and you'll likely find others who share your sensibilities. T"
+    },
+    {
+      "id": "x-1973099198275846248",
+      "type": "x_post",
+      "title": "If you can't run your application test suite in three minutes or less, your business damn ",
+      "url": "https://x.com/dhh/status/1973099198275846248",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 315907,
+      "topicIds": [],
+      "excerpt": "If you can't run your application test suite in three minutes or less, your business damn well better be worth a billion dollars or more. Otherwise it's time for fewer browser tests, fully txn-wrapped"
+    },
+    {
+      "id": "x-1973345998840954953",
+      "type": "x_post",
+      "title": "Crazy we got near-flawless AI musicians before we got fully-competent AI programmers. http",
+      "url": "https://x.com/dhh/status/1973345998840954953",
+      "publishedAt": "2025-10-01",
+      "outlet": "X",
+      "views": 88338,
+      "topicIds": [],
+      "excerpt": "Crazy we got near-flawless AI musicians before we got fully-competent AI programmers. https://t.co/VLmDA2uYeN"
+    },
+    {
+      "id": "x-1980406485978116174",
+      "type": "x_post",
+      "title": "We're saving well over two million dollars per year on this cloud exit. We got much faster",
+      "url": "https://x.com/dhh/status/1980406485978116174",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 63583,
+      "topicIds": [],
+      "excerpt": "We're saving well over two million dollars per year on this cloud exit. We got much faster gear (local nvme storage vs network mounts is a game changer!). We own all our hardware. And when things go d"
+    },
+    {
+      "id": "x-1980245233339408596",
+      "type": "x_post",
+      "title": "Cloud marketing convinced a generation of programmers that the scariest thing in the world",
+      "url": "https://x.com/dhh/status/1980245233339408596",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 371457,
+      "topicIds": [],
+      "excerpt": "Cloud marketing convinced a generation of programmers that the scariest thing in the world was to connect their own server to the internet. All so they could be sold and resold the same centralized de"
+    },
+    {
+      "id": "x-1981342407129235683",
+      "type": "x_post",
+      "title": "The majestic monolith remains undefeated for the vast majority of web apps. Replacing meth",
+      "url": "https://x.com/dhh/status/1981342407129235683",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 263398,
+      "topicIds": [],
+      "excerpt": "The majestic monolith remains undefeated for the vast majority of web apps. Replacing method calls with network calls makes everything harder, slower, and more brittle. It should be the absolute last "
+    },
+    {
+      "id": "x-1983833208136589381",
+      "type": "x_post",
+      "title": "\"Bread, water, aesthetics.. that's the pyramid. You need beautiful things to sustain yours",
+      "url": "https://x.com/dhh/status/1983833208136589381",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 107532,
+      "topicIds": [],
+      "excerpt": "\"Bread, water, aesthetics.. that's the pyramid. You need beautiful things to sustain yourself. But when it comes to software, suddenly people feel the need to be Mr and Mrs Rational.\" https://t.co/bPI"
+    },
+    {
+      "id": "x-1995858288710476080",
+      "type": "x_post",
+      "title": "Writing Ruby code by hand in a text editor feels like such a luxury. Maybe this will soon ",
+      "url": "https://x.com/dhh/status/1995858288710476080",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 53733,
+      "topicIds": [],
+      "excerpt": "Writing Ruby code by hand in a text editor feels like such a luxury. Maybe this will soon be a lost art, but that's just all the more reason to enjoy the privilege to its fullest while we still have i"
+    },
+    {
+      "id": "x-1995941243353018831",
+      "type": "x_post",
+      "title": "Fizzy's entire git history is available for all, so @robzolkos had Claude summarize the pr",
+      "url": "https://x.com/dhh/status/1995941243353018831",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 29228,
+      "topicIds": [],
+      "excerpt": "Fizzy's entire git history is available for all, so @robzolkos had Claude summarize the progression, and it nailed my favorite repo activity: Collapsing concepts and compressing complexity! https://t."
+    },
+    {
+      "id": "x-1996481961330880667",
+      "type": "x_post",
+      "title": "The Fizzy test suite runs in UNDER FOUR SECONDS! Nearly 2,500 assertions. The magic is to ",
+      "url": "https://x.com/dhh/status/1996481961330880667",
+      "publishedAt": "2025-12-04",
+      "outlet": "X",
+      "views": 211672,
+      "topicIds": [],
+      "excerpt": "The Fizzy test suite runs in UNDER FOUR SECONDS! Nearly 2,500 assertions. The magic is to lean hard on vanilla Rails fixtures and parallel test runners. Not only is this blazingly fast, but it's also "
+    },
+    {
+      "id": "x-1998828199191654505",
+      "type": "x_post",
+      "title": "I've written a version of this rant several times, but I didn't write this version. This p",
+      "url": "https://x.com/dhh/status/1998828199191654505",
+      "publishedAt": "2025-12-10",
+      "outlet": "X",
+      "views": 185069,
+      "topicIds": [],
+      "excerpt": "I've written a version of this rant several times, but I didn't write this version. This prompt did: \"Write a 6 paragraph essay in the style of DHH about why microservice architectures are bad for sma"
+    },
+    {
+      "id": "x-1999024817035517970",
+      "type": "x_post",
+      "title": "The most satisfying part of programming for me is the refactoring phase. You've made it wo",
+      "url": "https://x.com/dhh/status/1999024817035517970",
+      "publishedAt": "2025-12-11",
+      "outlet": "X",
+      "views": 93570,
+      "topicIds": [],
+      "excerpt": "The most satisfying part of programming for me is the refactoring phase. You've made it work, so now you can make it beautiful. Weighing every comma, every colon, every character. And working in Ruby "
+    },
+    {
+      "id": "x-2004963782662250914",
+      "type": "x_post",
+      "title": "Opus, Gemini 3, and MiniMax M2.1 are the first models I've thrown at major code bases like",
+      "url": "https://x.com/dhh/status/2004963782662250914",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 350862,
+      "topicIds": [],
+      "excerpt": "Opus, Gemini 3, and MiniMax M2.1 are the first models I've thrown at major code bases like Rails and Basecamp where I've been genuinely impressed. By no means perfect, and you couldn't just let them v"
+    },
+    {
+      "id": "x-2004994090023444853",
+      "type": "x_post",
+      "title": "Both things can be true. I like writing code myself, and if I'm working in a new domain th",
+      "url": "https://x.com/dhh/status/2004994090023444853",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 12582,
+      "topicIds": [],
+      "excerpt": "Both things can be true. I like writing code myself, and if I'm working in a new domain that I want to learn myself (bash was the example, you'll learn less by using AI. But in domains I do know, like"
+    },
+    {
+      "id": "x-2005326958578856206",
+      "type": "x_post",
+      "title": "Git worktrees are perfect for starting sandboxes for agents to propose a solution to a pro",
+      "url": "https://x.com/dhh/status/2005326958578856206",
+      "publishedAt": "2025-12-28",
+      "outlet": "X",
+      "views": 188803,
+      "topicIds": [],
+      "excerpt": "Git worktrees are perfect for starting sandboxes for agents to propose a solution to a problem while you keep working on master or another branch. Here's the bash I use to start a new worktree/branch "
+    },
+    {
+      "id": "x-2007554178370154950",
+      "type": "x_post",
+      "title": "@ThePrimeagen I've been having this argument with type-safety brains for twenty-plus years",
+      "url": "https://x.com/dhh/status/2007554178370154950",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 403807,
+      "topicIds": [],
+      "excerpt": "@ThePrimeagen I've been having this argument with type-safety brains for twenty-plus years! Unit tests (and integration tests and other forms of automated tests!) are what gives you confidence that yo"
+    },
+    {
+      "id": "x-2007491851197251964",
+      "type": "x_post",
+      "title": "We finished 2025 with FOUR NINES of uptime across all of our apps (and if it hadn't been f",
+      "url": "https://x.com/dhh/status/2007491851197251964",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 81029,
+      "topicIds": [],
+      "excerpt": "We finished 2025 with FOUR NINES of uptime across all of our apps (and if it hadn't been for the CF outage it would have been five nines!!). Incredible reliability record after our cloud exit from the"
+    },
+    {
+      "id": "x-2007503687745490976",
+      "type": "x_post",
+      "title": "You can't let the slop and cringe deny you the wonder of AI. This is the most exciting thi",
+      "url": "https://x.com/dhh/status/2007503687745490976",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 310443,
+      "topicIds": [],
+      "excerpt": "You can't let the slop and cringe deny you the wonder of AI. This is the most exciting thing we've made computers do since we connected them to the internet. If you spent 2025 being pessimistic or ske"
+    },
+    {
+      "id": "x-2007512760733831575",
+      "type": "x_post",
+      "title": "Make it work (AI). Make it fast (also AI). Make it beautiful (still human).",
+      "url": "https://x.com/dhh/status/2007512760733831575",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 568022,
+      "topicIds": [],
+      "excerpt": "Make it work (AI). \nMake it fast (also AI).\nMake it beautiful (still human)."
+    },
+    {
+      "id": "x-2007504187568074843",
+      "type": "x_post",
+      "title": "Just this past summer, I spoke with @lexfridman about not letting AI write any code direct",
+      "url": "https://x.com/dhh/status/2007504187568074843",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 346624,
+      "topicIds": [],
+      "excerpt": "Just this past summer, I spoke with @lexfridman about not letting AI write any code directly, but it turns out half the resistance was simply that the models weren't good enough yet! I spent more time"
+    },
+    {
+      "id": "x-2007504716486562149",
+      "type": "x_post",
+      "title": "@lexfridman I still write plenty of code by hand. Both out of necessity (the models aren't",
+      "url": "https://x.com/dhh/status/2007504716486562149",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 61373,
+      "topicIds": [],
+      "excerpt": "@lexfridman I still write plenty of code by hand. Both out of necessity (the models aren't hitting what I want) and out of joy (writing code is fun!), but I've embraced the idea that getting a good dr"
+    },
+    {
+      "id": "x-2008275357234004124",
+      "type": "x_post",
+      "title": "What a perfect illustration of the type brain in its most rabid form. Catastrophizing the ",
+      "url": "https://x.com/dhh/status/2008275357234004124",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 133017,
+      "topicIds": [],
+      "excerpt": "What a perfect illustration of the type brain in its most rabid form. Catastrophizing the use of dynamic typing to the point of death. Fascinating state of mind. https://t.co/vp576AJKSU"
+    },
+    {
+      "id": "x-2008827848216461401",
+      "type": "x_post",
+      "title": "\"I also get some programmers are eager to tune it out. The hype drones on, the fantastical",
+      "url": "https://x.com/dhh/status/2008827848216461401",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 152532,
+      "topicIds": [],
+      "excerpt": "\"I also get some programmers are eager to tune it out. The hype drones on, the fantastical claims are still far off, and there's uncertainty where this leaves the profession. But that's not reason to "
+    },
+    {
+      "id": "x-2011455119750262946",
+      "type": "x_post",
+      "title": "The beauty of opinionated open source software, like Rails or Omarchy, is that the initial",
+      "url": "https://x.com/dhh/status/2011455119750262946",
+      "publishedAt": "2026-01-14",
+      "outlet": "X",
+      "views": 49526,
+      "topicIds": [],
+      "excerpt": "The beauty of opinionated open source software, like Rails or Omarchy, is that the initial experience can be carefully designed AND still offer the user infinite freedom to tailor it thereafter. It's "
+    },
+    {
+      "id": "x-2013611188651794611",
+      "type": "x_post",
+      "title": "Ruby is not just highly token efficient for the LLMs, but even more so for humans. Being a",
+      "url": "https://x.com/dhh/status/2013611188651794611",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 138683,
+      "topicIds": [],
+      "excerpt": "Ruby is not just highly token efficient for the LLMs, but even more so for humans. Being able to quickly read and verify what's been written by AI is a real advantage. And AI just doesn't need the typ"
+    },
+    {
+      "id": "x-2016449600257720742",
+      "type": "x_post",
+      "title": "We're busy at work on Basecamp 5, which is built on the same chassis as 3 (and 4). So that",
+      "url": "https://x.com/dhh/status/2016449600257720742",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 160296,
+      "topicIds": [],
+      "excerpt": "We're busy at work on Basecamp 5, which is built on the same chassis as 3 (and 4). So that's now a 12(!) year-old code base, and we're able to run the entire test suite in just 45 seconds on a local 1"
+    },
+    {
+      "id": "x-2018694150984532320",
+      "type": "x_post",
+      "title": "We now have the entire test suite for @heyhey running in less than a minute on Linux with ",
+      "url": "https://x.com/dhh/status/2018694150984532320",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 77756,
+      "topicIds": [],
+      "excerpt": "We now have the entire test suite for @heyhey running in less than a minute on Linux with an AMD 395+! 30,000 assertions. Hitting the real database. Gotta love the speed of the vanilla Rails test suit"
+    },
+    {
+      "id": "x-2018631575337095389",
+      "type": "x_post",
+      "title": "We're all still fumbling in the dark with agents, but some patterns are emerging (and some",
+      "url": "https://x.com/dhh/status/2018631575337095389",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 249565,
+      "topicIds": [],
+      "excerpt": "We're all still fumbling in the dark with agents, but some patterns are emerging (and some disappear quickly again!), and it's our role as software makers to make use of it all along the way. Here are"
+    },
+    {
+      "id": "x-2018574874675929544",
+      "type": "x_post",
+      "title": "Convention over configuration set the path for 20+ years of great training data for AI to ",
+      "url": "https://x.com/dhh/status/2018574874675929544",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 125569,
+      "topicIds": [],
+      "excerpt": "Convention over configuration set the path for 20+ years of great training data for AI to use today. Not only does this mean agents do great with Rails, but also that squishy humans can quickly and co"
+    },
+    {
+      "id": "x-2018989659481571424",
+      "type": "x_post",
+      "title": "We managed to optimize this even further with a few select tweaks. Now @heyhey's 30K-asser",
+      "url": "https://x.com/dhh/status/2018989659481571424",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 107858,
+      "topicIds": [],
+      "excerpt": "We managed to optimize this even further with a few select tweaks. Now @heyhey's 30K-assertion test suite can run in THIRTY SECONDS on a fast local Linux machine. These are tests hitting the database!"
+    },
+    {
+      "id": "x-2019365549411807492",
+      "type": "x_post",
+      "title": "Our core test suite never took this long, but when run in the cloud on a typical CI setup,",
+      "url": "https://x.com/dhh/status/2019365549411807492",
+      "publishedAt": "2026-02-05",
+      "outlet": "X",
+      "views": 75729,
+      "topicIds": [],
+      "excerpt": "Our core test suite never took this long, but when run in the cloud on a typical CI setup, it could! I once saw a 15-minute end-to-end CI run for HEY in the cloud. Now we can run the entire thing in 3"
+    },
+    {
+      "id": "x-2029565947825020996",
+      "type": "x_post",
+      "title": "Ruby on Rails is probably the most token-efficient way to write a real web app together wi",
+      "url": "https://x.com/dhh/status/2029565947825020996",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 80806,
+      "topicIds": [],
+      "excerpt": "Ruby on Rails is probably the most token-efficient way to write a real web app together with agents that doesn't immediately fall apart with security holes and unscalable decisions. https://t.co/ql3QE"
+    },
+    {
+      "id": "x-2029955480689270858",
+      "type": "x_post",
+      "title": "Opus produced the best output with Ruby in this shoot-out between a bunch of different lan",
+      "url": "https://x.com/dhh/status/2029955480689270858",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 78375,
+      "topicIds": [],
+      "excerpt": "Opus produced the best output with Ruby in this shoot-out between a bunch of different languages. Fewest tokens, fewest LOCs, fastest completion. Maybe one day, AI will just be writing straight machin"
+    },
+    {
+      "id": "x-2044441858063941980",
+      "type": "x_post",
+      "title": "In 2023, we spent $3,934,099 on AWS + other hosting. In 2026, our hosting + support bill i",
+      "url": "https://x.com/dhh/status/2044441858063941980",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 706599,
+      "topicIds": [
+        "cloud-exit"
+      ],
+      "excerpt": "In 2023, we spent $3,934,099 on AWS + other hosting. In 2026, our hosting + support bill is down to ~$1m/year due to the cloud exit. Even including all the hardware buying, we will already have saved "
+    },
+    {
+      "id": "x-2044442674871124023",
+      "type": "x_post",
+      "title": "As a reminder, we didn't grow the team at all. Same crew who ran the cloud now run it all ",
+      "url": "https://x.com/dhh/status/2044442674871124023",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 83853,
+      "topicIds": [],
+      "excerpt": "As a reminder, we didn't grow the team at all. Same crew who ran the cloud now run it all on-prem. We ditched k8s, though, and deploy everything through Kamal. Oh, and we also improved our uptime 👍 h"
+    },
+    {
+      "id": "x-2050670200702328890",
+      "type": "x_post",
+      "title": "We can just decide that our world should be different. That modern JavaScript can be made ",
+      "url": "https://x.com/dhh/status/2050670200702328890",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 242394,
+      "topicIds": [],
+      "excerpt": "We can just decide that our world should be different. That modern JavaScript can be made with #nobuild. That SaaS services can move out of the cloud. That Apple is not the end of history. https://t.c"
+    },
+    {
+      "id": "x-2058065130265452968",
+      "type": "x_post",
+      "title": "AI is the open source dream come true! Having access to the code actually giving mere mort",
+      "url": "https://x.com/dhh/status/2058065130265452968",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 38366,
+      "topicIds": [],
+      "excerpt": "AI is the open source dream come true! Having access to the code actually giving mere mortals the power to change it. Wasn't that what open source activists spent decades fighting for? TAKE THE WIN!"
+    },
+    {
+      "id": "x-2058066314795614306",
+      "type": "x_post",
+      "title": "Being into open source and recoiling from vibe coding is a contradiction in terms. Either ",
+      "url": "https://x.com/dhh/status/2058066314795614306",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 33069,
+      "topicIds": [],
+      "excerpt": "Being into open source and recoiling from vibe coding is a contradiction in terms. Either we are genuinely excited by giving freedom to many to change their software or we are frauds. If open source m"
+    },
+    {
+      "id": "x-2058648789703963111",
+      "type": "x_post",
+      "title": "Agents don't need types. They're perfectly capable of pulling off incredible refactorings ",
+      "url": "https://x.com/dhh/status/2058648789703963111",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 557821,
+      "topicIds": [],
+      "excerpt": "Agents don't need types. They're perfectly capable of pulling off incredible refactorings without. Give them a linter and a test suite, and you have all you need. Token efficiency is where it's at."
+    },
+    {
+      "id": "x-2060300806818005384",
+      "type": "x_post",
+      "title": "This describes my work on Rails and Omarchy well. I built both for me first and foremost. ",
+      "url": "https://x.com/dhh/status/2060300806818005384",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 112084,
+      "topicIds": [],
+      "excerpt": "This describes my work on Rails and Omarchy well. I built both for me first and foremost. The best framework, the best computer. What I'd want to have with me if I lived on the mountain by myself."
+    },
+    {
+      "id": "x-2075590975343436063",
+      "type": "x_post",
+      "title": "Narrative violation: \"The type safety we gave up hasn’t been noticeable in any concrete wa",
+      "url": "https://x.com/dhh/status/2075590975343436063",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 45894,
+      "topicIds": [],
+      "excerpt": "Narrative violation: \"The type safety we gave up hasn’t been noticeable in any concrete way yet, especially considering our test coverage has never been better.\"\n\nBut exactly what we see with Rails an"
+    },
+    {
+      "id": "x-2080698769784590761",
+      "type": "x_post",
+      "title": "Learning Rails from a real production app is a great way to go — whether you're doing it f",
+      "url": "https://x.com/dhh/status/2080698769784590761",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 131952,
+      "topicIds": [],
+      "excerpt": "Learning Rails from a real production app is a great way to go — whether you're doing it for your own edification or pointing an agent at a high-quality code base for direction. Hope to see other cont"
+    },
+    {
+      "id": "x-2082444831234674881",
+      "type": "x_post",
+      "title": "Using AI to convert TypeScript into JavaScript is a great idea. We did it by hand for Turb",
+      "url": "https://x.com/dhh/status/2082444831234674881",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 176675,
+      "topicIds": [],
+      "excerpt": "Using AI to convert TypeScript into JavaScript is a great idea. We did it by hand for Turbo, but didn't get around to finish the job with Stimulus. Great idea, Notch! https://t.co/mCDhyrmEnu"
+    },
+    {
+      "id": "x-2085710022772732189",
+      "type": "x_post",
+      "title": "Claude: \"Copilot left two active inline comments and two suppressed ones. I verified each ",
+      "url": "https://x.com/dhh/status/2085710022772732189",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 97682,
+      "topicIds": [],
+      "excerpt": "Claude: \"Copilot left two active inline comments and two suppressed ones. I verified each against the code — they're better than typical Copilot noise; three are real.\"\n\nTHE SHADE!!"
+    },
+    {
+      "id": "x-2086426384285487105",
+      "type": "x_post",
+      "title": "@RandallGT500 I do think AI can rob you of competence. I've felt it drain out of my finger",
+      "url": "https://x.com/dhh/status/2086426384285487105",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 16022,
+      "topicIds": [],
+      "excerpt": "@RandallGT500 I do think AI can rob you of competence. I've felt it drain out of my fingers in the past on skills I really should have been internalizing. But! It's also the most amazing tutor in the "
+    },
+    {
+      "id": "x-2086768588623380690",
+      "type": "x_post",
+      "title": "It's funny how people fret over agents now submitting pull requests to open source project",
+      "url": "https://x.com/dhh/status/2086768588623380690",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 142246,
+      "topicIds": [],
+      "excerpt": "It's funny how people fret over agents now submitting pull requests to open source projects. Have you ever had to review code written by random strangers on the internet?! Frontier agents produce far "
+    },
+    {
+      "id": "x-2087983107458637839",
+      "type": "x_post",
+      "title": "This is a pattern I see time and again with agents. Just simply prodding \"could this be si",
+      "url": "https://x.com/dhh/status/2087983107458637839",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 105273,
+      "topicIds": [],
+      "excerpt": "This is a pattern I see time and again with agents. Just simply prodding \"could this be simpler\" yields significant simplifications. It's like the modern version of \"don't make mistakes!\". Seems silly"
+    },
+    {
+      "id": "x-2087963750720540736",
+      "type": "x_post",
+      "title": "It's not just Omarchy that's leaning into agents, Rails is too, and now we're systematical",
+      "url": "https://x.com/dhh/status/2087963750720540736",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 83106,
+      "topicIds": [],
+      "excerpt": "It's not just Omarchy that's leaning into agents, Rails is too, and now we're systematically reviewing their coding performance. Shocking results too! @openai's Luna is absolutely mogging GLM 5.2 and "
+    },
+    {
+      "id": "x-2088152403388297378",
+      "type": "x_post",
+      "title": "Agents are far superior bug reporters than your average user. Omarchy Quattro puts them to",
+      "url": "https://x.com/dhh/status/2088152403388297378",
+      "publishedAt": "2026-08-14",
+      "outlet": "X",
+      "views": 65023,
+      "topicIds": [],
+      "excerpt": "Agents are far superior bug reporters than your average user. Omarchy Quattro puts them to good use, so we can get fewer but much improved reports. The age of agents is already doing wonders for open "
+    },
+    {
+      "id": "x-2089086661716267486",
+      "type": "x_post",
+      "title": "@trq212 @simonw @mitsuhiko Because good agent use is all framework building! Build the mac",
+      "url": "https://x.com/dhh/status/2089086661716267486",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 22924,
+      "topicIds": [],
+      "excerpt": "@trq212 @simonw @mitsuhiko Because good agent use is all framework building! Build the machine that builds the machines. Meta programming the virtual programmers."
+    },
+    {
+      "id": "x-2091059579207430457",
+      "type": "x_post",
+      "title": "@tomasync Agents are preparing all the preliminary reviews, and I decide what to merge. Th",
+      "url": "https://x.com/dhh/status/2091059579207430457",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 11929,
+      "topicIds": [],
+      "excerpt": "@tomasync Agents are preparing all the preliminary reviews, and I decide what to merge. That way I don't spend my time on issues and PRs that aren't ready for human attention. Works wonders for scalin"
+    },
+    {
+      "id": "x-2094128000438530329",
+      "type": "x_post",
+      "title": "@hd_nvim You didn't let me finish the thought! I actually really like Rust when I NEVER, E",
+      "url": "https://x.com/dhh/status/2094128000438530329",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 41807,
+      "topicIds": [],
+      "excerpt": "@hd_nvim You didn't let me finish the thought! I actually really like Rust when I NEVER, EVER have to look at the code itself 😂. Agents deliver that!"
+    },
+    {
+      "id": "x-2096217296976965711",
+      "type": "x_post",
+      "title": "This agent overview where you have multiple sessions running and can see what needs input,",
+      "url": "https://x.com/dhh/status/2096217296976965711",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 122116,
+      "topicIds": [],
+      "excerpt": "This agent overview where you have multiple sessions running and can see what needs input, what's running, what's done, was essential to my \"this is AGI\" bit flipping. So much concurrent work going, l"
+    },
+    {
+      "id": "x-2096860747435213023",
+      "type": "x_post",
+      "title": "I think this is (very) wrong, but I still love Bjarne. See how that works? You can disagre",
+      "url": "https://x.com/dhh/status/2096860747435213023",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 220762,
+      "topicIds": [],
+      "excerpt": "I think this is (very) wrong, but I still love Bjarne. See how that works? You can disagree with someone, and still manage to enjoy their work (I built 3 apps for Omarchy Quattro in C++ and never look"
+    },
+    {
+      "id": "x-2097559561993326752",
+      "type": "x_post",
+      "title": "The number of Linux distros and projects that have these batty AI policies is baffling. Li",
+      "url": "https://x.com/dhh/status/2097559561993326752",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 125650,
+      "topicIds": [],
+      "excerpt": "The number of Linux distros and projects that have these batty AI policies is baffling. Like rejecting the railroad because you like to pet donkeys. Oh well, more tokens for Omarchy! https://t.co/L2nS"
+    },
+    {
+      "id": "x-2102936073642869121",
+      "type": "x_post",
+      "title": "It's pencils down, people. Writing code by hand is no longer an economically viable skill ",
+      "url": "https://x.com/dhh/status/2102936073642869121",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 3215175,
+      "topicIds": [],
+      "excerpt": "It's pencils down, people. Writing code by hand is no longer an economically viable skill for most programmers at most companies. But the future of making software has never been brighter. Don't you d"
+    },
+    {
+      "id": "x-2103605531457867868",
+      "type": "x_post",
+      "title": "The number of programmers worldwide who can beat a collaborating pair of frontier models r",
+      "url": "https://x.com/dhh/status/2103605531457867868",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 397646,
+      "topicIds": [],
+      "excerpt": "The number of programmers worldwide who can beat a collaborating pair of frontier models rounds to zero."
+    },
+    {
+      "id": "x-2103613436752003511",
+      "type": "x_post",
+      "title": "I understand the appeal in trying to find the first plausible fortress in our retreat from",
+      "url": "https://x.com/dhh/status/2103613436752003511",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 616696,
+      "topicIds": [],
+      "excerpt": "I understand the appeal in trying to find the first plausible fortress in our retreat from writing code, but if you think it's \"architecture\", I have bad news for you. The models are also very good at"
+    },
+    {
+      "id": "x-2103606350009848169",
+      "type": "x_post",
+      "title": "It'll soon be seen as deeply irresponsible to have critical code reviewed by human eyes al",
+      "url": "https://x.com/dhh/status/2103606350009848169",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 250626,
+      "topicIds": [],
+      "excerpt": "It'll soon be seen as deeply irresponsible to have critical code reviewed by human eyes alone."
+    },
+    {
+      "id": "x-2103479745795227984",
+      "type": "x_post",
+      "title": "Tired: Not writing the code. Wired: Not reading the code.",
+      "url": "https://x.com/dhh/status/2103479745795227984",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 77447,
+      "topicIds": [],
+      "excerpt": "Tired: Not writing the code.\nWired: Not reading the code."
+    },
+    {
+      "id": "x-2103452747630882873",
+      "type": "x_post",
+      "title": "The value of programs going forward will be the collection of decisions and designs that e",
+      "url": "https://x.com/dhh/status/2103452747630882873",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 48987,
+      "topicIds": [],
+      "excerpt": "The value of programs going forward will be the collection of decisions and designs that encapsulates \"what does it do and how does it do it\". There is no more long-term value in a Rust code base than"
+    },
+    {
+      "id": "x-2103454839086706746",
+      "type": "x_post",
+      "title": "Slop is just a feature suggestion wrapped in code that nobody has any emotional attachment",
+      "url": "https://x.com/dhh/status/2103454839086706746",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 113411,
+      "topicIds": [],
+      "excerpt": "Slop is just a feature suggestion wrapped in code that nobody has any emotional attachment to. It's an executable idea. Who cares if the code needs to be rewritten. I love slop!"
+    },
+    {
+      "id": "x-2103796888638017830",
+      "type": "x_post",
+      "title": "This has never been more true. The opportunity cost of endless planning and contemplation ",
+      "url": "https://x.com/dhh/status/2103796888638017830",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 256137,
+      "topicIds": [],
+      "excerpt": "This has never been more true. The opportunity cost of endless planning and contemplation just went way up. Agents allow you to just try vastly more stuff, so let them, and you'll learn way more, way "
+    },
+    {
+      "id": "x-2104203632572842293",
+      "type": "x_post",
+      "title": "Every software developer should own a potato PC. It's the easiest way to ensure your appli",
+      "url": "https://x.com/dhh/status/2104203632572842293",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 351567,
+      "topicIds": [],
+      "excerpt": "Every software developer should own a potato PC. It's the easiest way to ensure your application is fast enough. Put your agents to work within it and watch the weight drop. There's no reason a machin"
+    },
+    {
+      "id": "x-2104128775231615378",
+      "type": "x_post",
+      "title": "Daniel has been cooking a Rust version of the asm upgrades to ttfx that pulls in the CPU-s",
+      "url": "https://x.com/dhh/status/2104128775231615378",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 122022,
+      "topicIds": [],
+      "excerpt": "Daniel has been cooking a Rust version of the asm upgrades to ttfx that pulls in the CPU-specific optimizations. Love it! I have zero allegiance to whatever code my agents wrote. This is exactly the k"
+    },
+    {
+      "id": "x-2104542267281146357",
+      "type": "x_post",
+      "title": "It takes a while to build the confidence, but there's no future where you're manually revi",
+      "url": "https://x.com/dhh/status/2104542267281146357",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 728628,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "It takes a while to build the confidence, but there's no future where you're manually reviewing every line of agent code. Not much acceleration in that. You need adversarial agent reviews, you need au"
+    },
+    {
+      "id": "x-2104532159511863688",
+      "type": "x_post",
+      "title": "The only programmers who are really in trouble with the competition from artificial intell",
+      "url": "https://x.com/dhh/status/2104532159511863688",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 215763,
+      "topicIds": [],
+      "excerpt": "The only programmers who are really in trouble with the competition from artificial intelligence are the ones who insist the world today isn't all that different from the one we lived in last year. \n\n"
+    },
+    {
+      "id": "x-2104856507942596917",
+      "type": "x_post",
+      "title": "You're going to have to deal with the fact that nobody knows exactly what the future role ",
+      "url": "https://x.com/dhh/status/2104856507942596917",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 166353,
+      "topicIds": [],
+      "excerpt": "You're going to have to deal with the fact that nobody knows exactly what the future role of programming languages and frameworks are. Maybe it all does go away and it's a straight shot from prompt to"
+    },
+    {
+      "id": "x-2105206400687182223",
+      "type": "x_post",
+      "title": "There's almost no problem that can't be solved by going faster, trying more options, testi",
+      "url": "https://x.com/dhh/status/2105206400687182223",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 110610,
+      "topicIds": [],
+      "excerpt": "There's almost no problem that can't be solved by going faster, trying more options, testing additional hypotheses. Accelerate!"
+    },
+    {
+      "id": "x-2106422196813877381",
+      "type": "x_post",
+      "title": "If you're stuck at \"AI is just another tool\", you're making a category error. This is not ",
+      "url": "https://x.com/dhh/status/2106422196813877381",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 181006,
+      "topicIds": [],
+      "excerpt": "If you're stuck at \"AI is just another tool\", you're making a category error. This is not \"same computer, but better\". It's far more akin to hiring a bunch of extremely intelligent and capable coworke"
+    },
+    {
+      "id": "x-2106810173683851564",
+      "type": "x_post",
+      "title": "I've had agents implement and optimize the Campfire web app in Elixir, Go, and Rust. Yes, ",
+      "url": "https://x.com/dhh/status/2106810173683851564",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 1025347,
+      "topicIds": [],
+      "excerpt": "I've had agents implement and optimize the Campfire web app in Elixir, Go, and Rust. Yes, Ruby is the slowest. I didn't care about that when the pay-off was huge in terms of productivity and developer"
+    },
+    {
+      "id": "x-2106860668158701657",
+      "type": "x_post",
+      "title": "But of course faster languages without any framework overhead are also vastly more verbose",
+      "url": "https://x.com/dhh/status/2106860668158701657",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 57763,
+      "topicIds": [],
+      "excerpt": "But of course faster languages without any framework overhead are also vastly more verbose! Rust is more than 10x the LOC of the Rails version (and 100x as ugly). That mattered greatly when expensive "
+    },
+    {
+      "id": "x-2106810687326486715",
+      "type": "x_post",
+      "title": "Speed is not the only consideration for a code base. Rust has other drawbacks, like slow c",
+      "url": "https://x.com/dhh/status/2106810687326486715",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 69603,
+      "topicIds": [],
+      "excerpt": "Speed is not the only consideration for a code base. Rust has other drawbacks, like slow compile times. But you really have to bury your head in the sand not to see that when agents write the code and"
+    },
+    {
+      "id": "x-2106844184392991137",
+      "type": "x_post",
+      "title": "If your answer here is \"frontier agents aren't good at writing Elixir or Go\", then it only",
+      "url": "https://x.com/dhh/status/2106844184392991137",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 185938,
+      "topicIds": [],
+      "excerpt": "If your answer here is \"frontier agents aren't good at writing Elixir or Go\", then it only makes the argument worse. Any programming language that agents can't write well out of the box is going to ha"
+    },
+    {
+      "id": "x-2107090619491594642",
+      "type": "x_post",
+      "title": "I can't believe that we're actually debating whether or why Rust — a systems level languag",
+      "url": "https://x.com/dhh/status/2107090619491594642",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 441617,
+      "topicIds": [],
+      "excerpt": "I can't believe that we're actually debating whether or why Rust — a systems level language meant to rival C/C++!! — would be much faster than the interpreted or GC-using alternatives people have hist"
+    },
+    {
+      "id": "x-2107090910613741728",
+      "type": "x_post",
+      "title": "The reason most people didn't write their web apps in Rust until recently was that it was ",
+      "url": "https://x.com/dhh/status/2107090910613741728",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 60909,
+      "topicIds": [],
+      "excerpt": "The reason most people didn't write their web apps in Rust until recently was that it was painful, verbose, and unproductive for that purpose! But if agents make it painless, productive, and you're no"
+    },
+    {
+      "id": "x-2107068829721673869",
+      "type": "x_post",
+      "title": "Keep your mind flexible! Rust has an edge at the moment, but Rauch is spot on: We should r",
+      "url": "https://x.com/dhh/status/2107068829721673869",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 159744,
+      "topicIds": [],
+      "excerpt": "Keep your mind flexible! Rust has an edge at the moment, but Rauch is spot on: We should rethink the entire stack from first principles given the transition to agent-led programming. Very little of wh"
+    },
+    {
+      "id": "x-2107372652272726306",
+      "type": "x_post",
+      "title": "\"We're about to see an absolute bloom in software development as the price of development ",
+      "url": "https://x.com/dhh/status/2107372652272726306",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 159179,
+      "topicIds": [],
+      "excerpt": "\"We're about to see an absolute bloom in software development as the price of development plummets and everyone realizes how much automation we still have left to do in this world... Don't go down wit"
+    },
+    {
+      "id": "x-2107423771090915775",
+      "type": "x_post",
+      "title": "I sympathize with programmers who worked on systems they never cared about, for customers ",
+      "url": "https://x.com/dhh/status/2107423771090915775",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 207439,
+      "topicIds": [],
+      "excerpt": "I sympathize with programmers who worked on systems they never cared about, for customers they didn't connect with, and took all their working joy from the mechanical act of turning tickets into code."
+    },
+    {
+      "id": "x-2107427852845199687",
+      "type": "x_post",
+      "title": "Maybe we can ensure full employment with programmers forever like this too? Every line of ",
+      "url": "https://x.com/dhh/status/2107427852845199687",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 70530,
+      "topicIds": [],
+      "excerpt": "Maybe we can ensure full employment with programmers forever like this too? Every line of code must be manually reviewed before you're allowed to merge! Ensure that any agent use does not lead to too "
+    },
+    {
+      "id": "x-2107375021572444355",
+      "type": "x_post",
+      "title": "It was almost impossible for a programmer who wrote all their code by hand to divorce thei",
+      "url": "https://x.com/dhh/status/2107375021572444355",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 120333,
+      "topicIds": [],
+      "excerpt": "It was almost impossible for a programmer who wrote all their code by hand to divorce their ego from the output. Now agents are delivering what decades of agile admonishing about “collective ownership"
+    },
+    {
+      "id": "x-2107882896195199116",
+      "type": "x_post",
+      "title": "Here's my technique for adversarial code review if I'm driving from Codex: \"Review this wi",
+      "url": "https://x.com/dhh/status/2107882896195199116",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 231370,
+      "topicIds": [
+        "agentic-coding"
+      ],
+      "excerpt": "Here's my technique for adversarial code review if I'm driving from Codex: \"Review this with claude\".\n\nAnd when I'm in Claude: \"Review this with codex\".\n\nModels know how to to kick off a review using "
+    },
+    {
+      "id": "x-2107823432205484040",
+      "type": "x_post",
+      "title": "This. People keep asking me for my setup. It's really just any harness, multiple agents co",
+      "url": "https://x.com/dhh/status/2107823432205484040",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 289967,
+      "topicIds": [],
+      "excerpt": "This. People keep asking me for my setup. It's really just any harness, multiple agents concurrently, barely any skills, and using adversarial reviews. There's no magic sauce (or source!). The models "
+    },
+    {
+      "id": "x-2108643095768101111",
+      "type": "x_post",
+      "title": "Rather than using 5% of some big honking package like Microsoft Office or Adobe Creative S",
+      "url": "https://x.com/dhh/status/2108643095768101111",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 232907,
+      "topicIds": [],
+      "excerpt": "Rather than using 5% of some big honking package like Microsoft Office or Adobe Creative Suite, you'll probably soon just ask your agent for the 5% you actually use. Bespoke software."
+    },
+    {
+      "id": "x-2109414545181831476",
+      "type": "x_post",
+      "title": "@poteto Agree. Most of software architecture and design needs a grounds-up rethink. Imposs",
+      "url": "https://x.com/dhh/status/2109414545181831476",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 61000,
+      "topicIds": [],
+      "excerpt": "@poteto Agree. Most of software architecture and design needs a grounds-up rethink. Impossible that what we were doing when every line of code was slow and expensive to create is the same we should be"
+    },
+    {
+      "id": "x-2109571603960930463",
+      "type": "x_post",
+      "title": "Besides, anyone still stuck in this scarcity mindset of software are unlikely to get on we",
+      "url": "https://x.com/dhh/status/2109571603960930463",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 19740,
+      "topicIds": [],
+      "excerpt": "Besides, anyone still stuck in this scarcity mindset of software are unlikely to get on well with those who've embraced abundance. There's so little retained value in these legacy code bases now. Let "
+    },
+    {
+      "id": "x-2113847430168908018",
+      "type": "x_post",
+      "title": "Completely agree. Bug reports by humans are terrible on average. Bug reports by agents are",
+      "url": "https://x.com/dhh/status/2113847430168908018",
+      "publishedAt": "2026-10-24",
+      "outlet": "X",
+      "views": 59337,
+      "topicIds": [],
+      "excerpt": "Completely agree. Bug reports by humans are terrible on average. Bug reports by agents are excellent on average. Let the clankers file!"
+    },
+    {
+      "id": "x-2116109588554498081",
+      "type": "x_post",
+      "title": "The real AI psychosis is thinking \"this is just another tool\" or \"it's just a stochastic p",
+      "url": "https://x.com/dhh/status/2116109588554498081",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 393848,
+      "topicIds": [],
+      "excerpt": "The real AI psychosis is thinking \"this is just another tool\" or \"it's just a stochastic parrot\" and \"humans still need to review every line\". You gotta snap out of it."
+    },
+    {
+      "id": "x-2117241303704432901",
+      "type": "x_post",
+      "title": "The age of agents is going to be amazing for most programmers, but it'll be hard times for",
+      "url": "https://x.com/dhh/status/2117241303704432901",
+      "publishedAt": "2026-11-02",
+      "outlet": "X",
+      "views": 259084,
+      "topicIds": [],
+      "excerpt": "The age of agents is going to be amazing for most programmers, but it'll be hard times for the cantankerous ones. \n\nSpecialized knowledge and rare skills will no longer offer immunity for those who ar"
+    },
+    {
+      "id": "x-2117220469514350940",
+      "type": "x_post",
+      "title": "The great gift of agents is how they allow you to route around every insufferable gatekeep",
+      "url": "https://x.com/dhh/status/2117220469514350940",
+      "publishedAt": "2026-11-02",
+      "outlet": "X",
+      "views": 155987,
+      "topicIds": [],
+      "excerpt": "The great gift of agents is how they allow you to route around every insufferable gatekeeper in software."
+    },
+    {
+      "id": "x-2117655933287555283",
+      "type": "x_post",
+      "title": "Agentic, exploratory testing is so obviously the future. Love how we're pushing this envel",
+      "url": "https://x.com/dhh/status/2117655933287555283",
+      "publishedAt": "2026-11-03",
+      "outlet": "X",
+      "views": 12011,
+      "topicIds": [],
+      "excerpt": "Agentic, exploratory testing is so obviously the future. Love how we're pushing this envelope with Omarchy. Plan is to be able to fully automate the flow from agentic bug fixes -> agentic PRs -> agent"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/dhh/mcp",
+    "serverName": "dhh-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search DHH's views on programming, software design, types, testing and AI coding.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in DHH's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-1JYTtAODjN8",
+  "title": "DHH on Basecamp 5, agents, and Rails' stable foundation",
+  "summary": "DHH explains why Rails' stable back end let Basecamp 5 evolve on a 2013 chassis, and how AI agents change his workflow. Agents produce code fast but bolt on rather than refactor, so architecture, taste and human review still matter. He sees agents opening Rails to non-programmers.",
+  "principles": [
+    {
+      "text": "Rails' stable back end lets investment in its DSLs pay off for two decades.",
+      "quote": "Active record, that was an investment you could amortize over literally two decades."
+    },
+    {
+      "text": "Brownfield and greenfield Rails apps look alike; only the front end dates an app.",
+      "quote": "I can open today models in the basecam codebase that would look absolutely right at home in Fizzy even though fizzy was just written five minutes ago."
+    },
+    {
+      "text": "Don't bake fast-moving agent conventions into the framework yet; stale agent files can hurt.",
+      "quote": "any agents MD file that was written three model jumps ago is not only going to be outdated, but it's literally going to be harmful to your agent's ability to do work"
+    },
+    {
+      "text": "Agents bolt on code instead of reshaping architecture, so care for design must stay human.",
+      "quote": "agents can make very hard changes and it's perfectly happy writing 1,200 lines of code on something when a architectural twist could have reduced that to 20 lines of code."
+    },
+    {
+      "text": "Cheap implementation lets you discard and compare many versions to find the shape you like.",
+      "quote": "I don't feel bad at all about flushing a thousand lines of code down the toilet because I know these agents will happily charge me for the tokens to build another implementation"
+    },
+    {
+      "text": "Learning AI tooling is a professional obligation, and Rails should welcome non-programmers building with agents.",
+      "quote": "I do actually think it is a professional obligation of every programmer to take this revolution seriously, to dedicate time to coming up to speed on it"
+    }
+  ],
+  "topics": [
+    "ai",
+    "architecture",
+    "simplicity",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

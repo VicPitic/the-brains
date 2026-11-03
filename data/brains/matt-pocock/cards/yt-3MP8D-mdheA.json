@@ -1,0 +1,39 @@
+{
+  "id": "yt-3MP8D-mdheA",
+  "title": "How Matt Pocock de-slops an AI-ruined codebase using deep modules and one skill",
+  "summary": "Matt argues AI has accelerated software entropy and walks through the cure: a shared vocabulary from Ousterhout's deep-module ideas (module, interface, seam, adapter, locality, leverage), then applies his improve-codebase-architecture skill to a real repo. The skill finds deepening candidates, but the human acts as the strategic \"general\" making the judgment calls.",
+  "principles": [
+    {
+      "text": "AI accelerates software entropy: changes made without regard to the whole codebase snowball into a ball of mud.",
+      "quote": "AI has simply accelerated software entropy. In other words, codebases are falling apart faster than they ever have before because every time that you make a change that doesn't take into account the entire codebase, you are likely to introduce little things, weird things that make the codebase harder to change."
+    },
+    {
+      "text": "Share precise vocabulary with the AI so you can ask for exactly what you want.",
+      "quote": "Having a shared vocabulary with the AI is super important because it means that you can talk using the same language. You can understand what each other's language is and you can be a lot more precise with what you're asking for."
+    },
+    {
+      "text": "Prefer deep modules: lots of implementation behind a small interface, so callers learn less and get more.",
+      "quote": "A deep module hides lots of implementation behind a relatively simple interface. A shallow module has a complex interface and kind of not much implementation actually behind it."
+    },
+    {
+      "text": "Deep modules give maintainers locality and users leverage; aim improvements at those two attributes.",
+      "quote": "For the maintainers, the people maintaining this module, they get locality. Changes to that module and bugs and all the fixes to do with them, they concentrate in one place, in that deep module."
+    },
+    {
+      "text": "Treat agents as tactical programmers; the human must be the strategic one who decides what is good for long-term codebase health.",
+      "quote": "I think of agents as really, really good tactical programmers. They're able to get on the ground and make changes quickly. But they need someone on the level above them who is the strategic programmer."
+    },
+    {
+      "text": "Before using AI on a legacy codebase, build a test harness around deep modules with good seams.",
+      "quote": "What you really need before you start making changes in a legacy code base is a harness around the code base to make sure that your changes don't mess anything up."
+    }
+  ],
+  "topics": [
+    "ai",
+    "code-review",
+    "building",
+    "testing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

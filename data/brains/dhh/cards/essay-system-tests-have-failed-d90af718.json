@@ -1,0 +1,37 @@
+{
+  "id": "essay-system-tests-have-failed-d90af718",
+  "title": "System tests have failed: why DHH is cutting most browser-driven tests",
+  "summary": "DHH argues that Rails system tests, despite high hopes in 2016, remain slow, brittle and full of false negatives. He keeps a small top-level smoke test, relies on model and controller tests for business logic, and prefers human exploratory testing for UI logic and feel. HEY is cutting its roughly 300 system tests way down.",
+  "principles": [
+    {
+      "text": "System tests have been slow, brittle and full of false negatives for a decade; the time spent making them reliable outweighs the bugs they catch.",
+      "quote": "System tests remain as slow, brittle, and full of false negatives as they did a decade ago."
+    },
+    {
+      "text": "Automate testing for fast feedback, regression catching and confidence, but system testing isn't automatically the best way to meet those goals.",
+      "quote": "These are all valid goals, but that doesn't mean system testing is the best way to fulfill them."
+    },
+    {
+      "text": "Keep system tests only as a top-level smoke test that cheaply catches configuration or loading failures.",
+      "quote": "System tests work well for the top-level smoke test."
+    },
+    {
+      "text": "Test business logic with model and controller tests, which do it better and cheaper than end-to-end tests.",
+      "quote": "The stickiest point, however, is not testing business logic, which model and controller tests do better and cheaper, but testing UI logic."
+    },
+    {
+      "text": "Human testing in a real browser gives the most confidence in UI logic because it judges how it feels, which automation can't.",
+      "quote": "Because half the time UI testing is not just about \"does it work\" but also \"does it feel right\". No automation can tell you that."
+    },
+    {
+      "text": "Don't let sunk cost keep a brittle suite alive; cut it down, as HEY is doing with its ~300 system tests.",
+      "quote": "The sunk cost fallacy has kept us running this brittle, cumbersome suite for too long."
+    }
+  ],
+  "topics": [
+    "testing",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

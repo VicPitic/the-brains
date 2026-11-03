@@ -1,0 +1,39 @@
+{
+  "id": "yt-i-htRRu1au4",
+  "title": "Why 37signals dropped TypeScript from Turbo 8 and what DHH thinks of the flame war",
+  "summary": "DHH explains why the Turbo team removed TypeScript: the people building it weren't enjoying the work, so they pulled it out in about 40 minutes. He frames static versus dynamic typing as a tribal, identity-driven fight, defends open source as a gift made for himself, and explains why internet backlash doesn't faze him.",
+  "principles": [
+    {
+      "text": "If the team building a tool isn't enjoying how they write it, change the approach; enjoyment is a valid engineering criterion.",
+      "quote": "does anyone like this way of working anymore like any of the people who are at the company um are we enjoying ourselves writing this software in this way and we were all like well not me not me not me"
+    },
+    {
+      "text": "Prefer dynamically typed languages like Ruby and JavaScript for their loose, permissive, freedom-loving feel.",
+      "quote": "my preference is for dynamically typed languages like the Ruby language that we predominately use and been using for 20 years like JavaScript itself"
+    },
+    {
+      "text": "Static vs dynamic typing is a debate nobody wins by argument; opinions rarely change, so don't try to debate your way out of it.",
+      "quote": "this is one of those things we can't debate our way out of"
+    },
+    {
+      "text": "Appreciate other paradigms by visiting them, then return to what suits you; diversity of tools is healthy.",
+      "quote": "I can appreciate these other ideas I think it's fun to spin them around but this is what speaks to me"
+    },
+    {
+      "text": "Open source is a gift made primarily for yourself; maintainers owe no one refunds or the gift they wanted instead.",
+      "quote": "I'm predominantly doing open source for me I love sharing also but like I'm not just doing it for the sharing I'm like I'm not here showing up as a volunteer labor force for whatever gifts you would like to have"
+    },
+    {
+      "text": "Online outrage is loud but small; ignore it, and say out loud the contrarian things many people privately believe.",
+      "quote": "I like to be of service to say things out loud that other people are hesitant"
+    }
+  ],
+  "topics": [
+    "types",
+    "simplicity",
+    "community",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

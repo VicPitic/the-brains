@@ -1,0 +1,39 @@
+{
+  "id": "yt-d_BuVJgadxs",
+  "title": "How Matt Pocock works with AI agents: grilling, ubiquitous language, disposable specs and the smart zone",
+  "summary": "Matt Pocock explains why his \"grill me\" skill works, how he keeps shared language and decisions in the repo, and why specs should be disposable. He also covers keeping agent sessions in the \"smart zone\" and designing interfaces while delegating implementation.",
+  "principles": [
+    {
+      "text": "Hide the build step from the agent so it interviews you thoroughly instead of rushing to a plan.",
+      "quote": "You're essentially hiding information from the agent and saying don't implement it yet. Just interview me, interview me, interview me."
+    },
+    {
+      "text": "Establish a ubiquitous language with the agent during planning so you share precise terms.",
+      "quote": "once you understand and establish the language of something you understand it right"
+    },
+    {
+      "text": "Treat specs as temporary scheduling artifacts, delete them once the code lands, and don't persist them.",
+      "quote": "they are temporary artifacts that are supposed to be discarded that are essentially just useful for scheduling work over multiple agent sessions."
+    },
+    {
+      "text": "Break big work into sessions that fit the early part of the context window, where agents perform best.",
+      "quote": "I like to do the bulk of my work in the smart zone because it's cheaper."
+    },
+    {
+      "text": "Design the interface yourself and delegate the implementation to the agent.",
+      "quote": "I think in a lot of cases you should design the interface and delegate the implementation."
+    },
+    {
+      "text": "One developer should own a whole spec and the agent running it, to avoid a crisis of responsibility.",
+      "quote": "A single developer should own an entire spec."
+    }
+  ],
+  "topics": [
+    "ai",
+    "code-review",
+    "api-design",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

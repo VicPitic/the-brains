@@ -1,0 +1,38 @@
+{
+  "id": "essay-programming-types-and-mindsets-5b8490bc",
+  "title": "Programming types and mindsets: why DHH accepts both static and dynamic typing camps",
+  "summary": "DHH says he is a dynamic typing person who loves Ruby for its poetic syntax, and he dislikes static typing. He used to evangelize dynamic typing as a mark of better education or competence. He now sees typing preferences as matters of faith and personality, and values multiplicity in programming paradigms.",
+  "principles": [
+    {
+      "text": "DHH is unashamedly a dynamic typing person, and Ruby's poetic syntax depends on dynamic typing.",
+      "quote": "Personally, I'm unashamedly a dynamic typing kind of guy. That's why I love Ruby so very much. It takes full advantage of dynamic typing to allow the poetic syntax that results in such beautiful code."
+    },
+    {
+      "text": "Static typing clashes with Ruby's nature; typed Ruby would be an unnatural mix.",
+      "quote": "To me, Ruby with explicit, static typing would be like a salad with a scoop of ice cream. They just don't go together."
+    },
+    {
+      "text": "Typing debates are matters of faith; rationalizations rarely convince anyone.",
+      "quote": "As rationalizations masquerading as reason rarely do in matters of faith. The rider will always justify the way of the elephant."
+    },
+    {
+      "text": "Treating dislike of dynamic typing as lack of education or competence is folly; people differ in temperament.",
+      "quote": "Seeing the lack of enthusiasm for dynamic typing as a reflection of missing education, experience, or perhaps even competence. Oh what folly."
+    },
+    {
+      "text": "Multiplicity of paradigms keeps programming creative; one paradigm for everyone would ruin it.",
+      "quote": "Programming would be an awful endeavor if we were all confined to the same paradigm. Human nature is much too varied to accept such constraint on its creativity."
+    },
+    {
+      "text": "He can coexist with typed-language fans as long as Ruby stays free of type hints and the front end isn't forced into TypeScript.",
+      "quote": "As long as I never have to soil my Ruby with type hints or write all front-end code in TypeScript, I can so happily coexist with those who adore Go or can't stand JavaScript."
+    }
+  ],
+  "topics": [
+    "types",
+    "mindset",
+    "simplicity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

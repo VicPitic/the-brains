@@ -1,0 +1,37 @@
+{
+  "id": "essay-type-vs-interface-which-should-you-use",
+  "title": "Type vs Interface: default to type, use interface for object inheritance",
+  "summary": "Matt Pocock argues you should default to `type` aliases and reach for `interface` only when you need object inheritance via `extends`. He covers the performance benefit of `extends`, the surprise of declaration merging, and the implicit index signature difference, and why these push him to the opposite default from the TypeScript team.",
+  "principles": [
+    {
+      "text": "Default to `type` aliases; switch to `interface` only when you need a feature like `extends`.",
+      "quote": "You should use types by default until you need a specific feature of interfaces, like 'extends'."
+    },
+    {
+      "text": "Use interfaces for objects that inherit from each other, since `extends` is cached by name and checks faster than `&`.",
+      "quote": "When you create an interface using `extends`, TypeScript can cache that interface by its name in an internal registry."
+    },
+    {
+      "text": "Declaration merging on same-named interfaces is a surprising footgun; guard against it with the ESLint no-redeclare rule.",
+      "quote": "But if you're not prepared for this, it can lead to really confusing bugs."
+    },
+    {
+      "text": "Type aliases have an implicit index signature that interfaces lack, so interfaces may not be assignable to Record-like types.",
+      "quote": "Type aliases have an implicit index signature, but interfaces don't."
+    },
+    {
+      "text": "Declaration merging and implicit index signatures are surprising enough to scare you off defaulting to interfaces.",
+      "quote": "The features of declaration merging and implicit index signatures are surprising enough that they should scare you off using interfaces by default."
+    },
+    {
+      "text": "The type vs interface difference is small, so either choice is workable; prefer the more flexible, less surprising `type`.",
+      "quote": "Interfaces are still my recommendation for object inheritance, but I'd recommend you use `type` by default. It's a little more flexible and a little less surprising."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-try-hard-not-to-solve-hard-problems-9e6550a2",
+  "title": "Try hard not to solve hard problems: reframe the problem, keep teams tiny",
+  "summary": "DHH argues most hard problems in business, design, or programming can be restated as easy ones by questioning assumptions, reweighing trade-offs, and abandoning sunk costs. He names this as 37signals' key principle for making big things with tiny teams, taught through constraints like 6-week cycles and two-person teams.",
+  "principles": [
+    {
+      "text": "Most hard problems can be restated as easy ones by questioning assumptions, reweighing trade-offs, and dropping sunk cost.",
+      "quote": "Almost all of them can be restated as an easy problem, if you dare question the assumptions, reweigh the trade-offs, and stop diving after sunk cost."
+    },
+    {
+      "text": "Refusing to solve hard problems is the key to pace and big results with tiny teams.",
+      "quote": "Above all the other principles at 37signals, this is our key to keeping the pace, making big things happen with tiny teams, and avoid getting bogged down in motivation-killing slogs."
+    },
+    {
+      "text": "Cultivate an allergy to hard problems and park the ego that takes pride in doing hard things.",
+      "quote": "To do this well, you have to cultivate an allergy to hard problems. Develop a higher sensitivity to the cumbersome, and park the part of the ego that thrives on doing hard things as a point of pride."
+    },
+    {
+      "text": "Bootstrapped founders learn this naturally from constraints; everyone else can learn it via artificial constraints like 6-week cycles.",
+      "quote": "Like by embracing artificial constraints tight enough to require an aversion to hard problems. See the 6-week cycles we run in Shape Up, for example."
+    },
+    {
+      "text": "Keep teams deliberately small: most 37signals work is built by one designer and one programmer.",
+      "quote": "virtually everything at 37signals is built by two people: one designer, one programmer"
+    },
+    {
+      "text": "When pushed, the answer is to do less, not throw more resources at the problem.",
+      "quote": "the right answer is not to throw more at the problem when push comes to shove, but to do just the opposite."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "leadership",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

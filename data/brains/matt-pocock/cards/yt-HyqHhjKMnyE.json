@@ -1,0 +1,39 @@
+{
+  "id": "yt-HyqHhjKMnyE",
+  "title": "Matt Pocock livestream: building a TypeScript test-fixture library (fromPartial, proxies, naming, publishing)",
+  "summary": "Matt live-builds a small testing utility that lets you pass partial, deeply partial test data into strictly typed functions without using `as`. He debates naming, tries a Proxy for runtime safety, sets up CI with changesets, and publishes to npm. Useful for testing ergonomics, library naming and shipping small helper libraries.",
+  "principles": [
+    {
+      "text": "Replace `as` casts in tests with a helper that infers the needed type and accepts a deep partial.",
+      "quote": "it looks at the type that you want to get back and then just lets you pass in a partial of that type and it's a deep partial too"
+    },
+    {
+      "text": "`as` feels bad because you must manually specify the type; an inferring helper detects it from the slot.",
+      "quote": "I think part of the reason that as feels bad is that you need to actually manually specify the type here so you actually need to dig out what type it needs to be whereas the thing about this partial function is you can actually just like pass it in and it just acts as it understands what type you need"
+    },
+    {
+      "text": "If you are tricking the compiler, be explicit about it; use clearly named primitives rather than silent casts.",
+      "quote": "if you want to trick the compiler I think it's good to be explicit about that"
+    },
+    {
+      "text": "Wrapping partial data in a Proxy that throws on undeclared property access gives runtime safety on top of type safety.",
+      "quote": "it should throw an error when the test itself accesses a property not defined on the input"
+    },
+    {
+      "text": "Prefer small, focused helper libraries that are cheap to maintain.",
+      "quote": "I want to maintain small little libraries Little Helper libraries"
+    },
+    {
+      "text": "Library naming is hard and can dominate the work; choose names that are plain and boring rather than clever.",
+      "quote": "90 of it was picking the names of stuff"
+    }
+  ],
+  "topics": [
+    "typescript",
+    "testing",
+    "api-design",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

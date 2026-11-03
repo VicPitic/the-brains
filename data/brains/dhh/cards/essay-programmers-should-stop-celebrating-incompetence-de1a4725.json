@@ -1,0 +1,38 @@
+{
+  "id": "essay-programmers-should-stop-celebrating-incompetence-de1a4725",
+  "title": "Programmers should stop celebrating incompetence: why DHH rejects the \"I have no idea what I'm doing\" identity",
+  "summary": "DHH argues that well-meant efforts to fight imposter syndrome have drifted into celebrating incompetence and copy-paste programming. He says programmers should treat lookups as part of learning, accept that the craft has depth and uneven talent, and aim to become the wizard rather than the bedazzled audience.",
+  "principles": [
+    {
+      "text": "Don't make 'I have no idea what I'm doing' a professional identity; the programming world must stop celebrating incompetence.",
+      "quote": "You can't become the I HAVE NO IDEA WHAT I'M DOING dog as a professional identity."
+    },
+    {
+      "text": "Looking things up is fine as part of learning, but dig deeper to understand, or competence stays at the surface.",
+      "quote": "Treat it as part of a learning process to actually understand what's going on. Not merely as a shortcut to solve today's problems. If you never dig deeper, your competence will be stuck at the surface."
+    },
+    {
+      "text": "Experienced programmers should not fake being clueless; relatability has a cost in making deep learning seem futile.",
+      "quote": "Whatever gains you derive from being relatable to someone struggling must be weighed against infusing this industry with a sense of futility of deep learning."
+    },
+    {
+      "text": "Programming magic is just things you don't know yet; the goal is to become the wizard.",
+      "quote": "The magic of programming is largely just things you don't know yet."
+    },
+    {
+      "text": "Accept that programming has depth and talent varies, as in chess; you can't master everything but should be on some path to mastery.",
+      "quote": "But it's not fine to think you shouldn't be on _some_ paths towards mastery, if you intend to make programming your career."
+    },
+    {
+      "text": "The world needs more competent programmers, so embrace your capacity to become good rather than self-deprecating nonsense.",
+      "quote": "It's never had a greater need for _competent_ programmers than it does today."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-testing-with-typescript-is-painful-heres-a-solution",
+  "title": "Testing with TypeScript is painful: why test code needs looser types and how shoehorn fixes it",
+  "summary": "Matt Pocock argues that test code shouldn't be held to the same type strictness as application code. Tests must often pass wrong or partial values, forcing noisy `as any` or `as unknown as X` casts. He introduces shoehorn, a library that makes passing partial or wrong types first-class in tests.",
+  "principles": [
+    {
+      "text": "Test code doesn't need the same type strictness as application code.",
+      "quote": "Tests don't need to live up to the same level of strictness as the rest of your application code."
+    },
+    {
+      "text": "A broken type in app code means user-facing bugs; in passing tests it is often just busywork.",
+      "quote": "If you've got a broken type in your app, that'll likely end up in your users finding a bug."
+    },
+    {
+      "text": "Tests must be able to pass the wrong type to verify a function handles bad input.",
+      "quote": "Sometimes, your tests will need to test that when a function receives the _wrong_ thing, it behaves in the right way."
+    },
+    {
+      "text": "Double assertions like `as unknown as string` are un-ergonomic for a very common testing need.",
+      "quote": "This is extremely un-ergonomic - a DOUBLE assertion, just to be able to do something extremely common."
+    },
+    {
+      "text": "Mocking large external types (e.g. express Request) forces repeated casts and imports everywhere.",
+      "quote": "In this case, you might only care about the `req.body` property. But you still need to pass the entire `Request` type to the function."
+    },
+    {
+      "text": "Provide a first-class API for passing partial/wrong values in tests instead of ad hoc casts.",
+      "quote": "It gives you a first-class way to pass the wrong type to a function."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "testing",
+    "types",
+    "api-design"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

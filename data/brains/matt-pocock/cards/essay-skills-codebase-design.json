@@ -1,0 +1,39 @@
+{
+  "id": "essay-skills-codebase-design",
+  "title": "The /codebase-design skill: the vocabulary Matt Pocock uses for designing deep modules",
+  "summary": "Describes Matt Pocock's codebase-design skill, a reference glossary (module, interface, depth, seam, adapter, leverage, locality) plus four principles for designing deep modules. Covers its limits as a reference rather than a process, and how it relates to neighbouring skills and agent workflows.",
+  "principles": [
+    {
+      "text": "Depth is leverage at the interface, not a ratio of implementation to interface lines.",
+      "quote": "The skill does _not_ define depth as the ratio of implementation lines to interface lines, which is Ousterhout's own definition. That metric rewards padding the implementation, so the skill uses depth-as-leverage instead."
+    },
+    {
+      "text": "Depth is a property of the interface, not the implementation; internals can be many small swappable parts.",
+      "quote": "**Depth is a property of the interface, not the implementation.** A deep module can be built internally from small swappable parts. Callers just don't see them."
+    },
+    {
+      "text": "Use the deletion test: if complexity vanishes when you delete a module, it was a pass-through.",
+      "quote": "Imagine deleting the module. If complexity disappears, the module was a pass-through. If it reappears across N callers, the module was hiding real complexity."
+    },
+    {
+      "text": "The interface is the test surface; wanting to test past it means the module is the wrong shape.",
+      "quote": "Callers and tests cross the same seam. If you want to test _past_ the interface, the module is the wrong shape."
+    },
+    {
+      "text": "Don't cut a seam until something varies across it; one adapter is just indirection.",
+      "quote": "**One adapter means a hypothetical seam. Two adapters means a real one.** Don't cut a seam until something varies across it. A single-adapter seam is just indirection."
+    },
+    {
+      "text": "An interface is everything a caller must know, not just the type signature.",
+      "quote": "Everything a caller must know to use it correctly: the type signature, plus invariants, ordering constraints, error modes, required config, performance characteristics."
+    }
+  ],
+  "topics": [
+    "api-design",
+    "ai",
+    "building",
+    "types"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

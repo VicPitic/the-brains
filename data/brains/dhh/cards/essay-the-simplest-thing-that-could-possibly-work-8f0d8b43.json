@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-simplest-thing-that-could-possibly-work-8f0d8b43",
+  "title": "The simplest thing that could possibly work: Beck's mottos as DHH's programming engine",
+  "summary": "DHH credits Kent Beck's XP mottos, \"the simplest thing that could possibly work\" and \"you aren't gonna need it\", as the drivers of all his programming work. He pairs them with a cultivated outsider's ignorance to break paradigms (Rails, Hotwire, Kamal) and get from nothing to working software in days.",
+  "principles": [
+    {
+      "text": "Beck's two mottos, simplest thing that could work and YAGNI, drive all of DHH's programming.",
+      "quote": "To this day, these are the mottos that move all my programming work forward."
+    },
+    {
+      "text": "Pithy mantras are needed as antidotes to speculative 'wouldn't it be nice' and 'we'll probably also need' thinking.",
+      "quote": "It's so easy to get lost in sentiments like \"but wouldn't it be nice if...\" and \"we'll probably also need...\". You need pithy mental antidotes at the ready to provide a counter."
+    },
+    {
+      "text": "Cultivated ignorance as an outsider helps you tackle problems from first principles and break paradigms.",
+      "quote": "It's easier to break the paradigms if you're not enmeshed in them on the daily."
+    },
+    {
+      "text": "Cutting straight to the epicenter of the solution gets you from nothing to working software in days, not weeks or months.",
+      "quote": "It's how you go from nothing to working software in days, not weeks or months. By cutting straight to the chase for the epicenter of the solution."
+    },
+    {
+      "text": "Human nature dwells on potentialities instead of acting, so sticking with simplicity takes constant effort.",
+      "quote": "Like human nature is primed to dwell on all potentialities vs the activating the instinct for action."
+    },
+    {
+      "text": "Whether or not you adopt XP wholesale, its audacious prescriptions train you to look for the simplest thing, a huge productivity unlock.",
+      "quote": "Few changes in perspective will unlock that hallowed 10x potential like this."
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "building",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

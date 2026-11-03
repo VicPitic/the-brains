@@ -1,0 +1,39 @@
+{
+  "id": "essay-four-essential-typescript-patterns",
+  "title": "Four essential TypeScript patterns: branded types, globals, assertion functions, classes",
+  "summary": "Matt Pocock argues that knowing TypeScript means combining its pieces into patterns. He walks through branded types for validation boundaries, declare global for typing globals, type predicates and assertion functions for narrowing, and classes for builder-style library design.",
+  "principles": [
+    {
+      "text": "Knowing TypeScript means combining its pieces into patterns, not just knowing generics and conditional types individually.",
+      "quote": "There’s a difference between using TypeScript and **_knowing_** TypeScript."
+    },
+    {
+      "text": "Use branded types to create validation boundaries: validate once, then pass the value around safely.",
+      "quote": "This creates validation boundaries in your app’s code - you can validate that something is a valid password, then safely pass it around your application."
+    },
+    {
+      "text": "If you use globals in JavaScript, you must be able to describe them in TypeScript, using declare global.",
+      "quote": "Love them or hate them, globals are a part of the way we use JavaScript. And if we use them in JavaScript, we need to be able to describe them in TypeScript."
+    },
+    {
+      "text": "Type predicates let a boolean-returning function describe its argument, improving narrowing such as filtering out undefined.",
+      "quote": "Type predicates let you specify that a function returns a boolean which _describes_ one of the arguments passed to it"
+    },
+    {
+      "text": "Assertion functions throw inside a function to assert a value's type, improving TypeScript's narrowing.",
+      "quote": "Both of these patterns let you improve TypeScript’s ability to narrow your code."
+    },
+    {
+      "text": "Classes are a pragmatic tool in library code, notably for the builder pattern that underpins tRPC.",
+      "quote": "when you’re writing TS in library-land, classes are a force of pragmatic utility that you can’t sleep on."
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

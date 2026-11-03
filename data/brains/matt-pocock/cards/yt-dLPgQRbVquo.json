@@ -1,0 +1,39 @@
+{
+  "id": "yt-dLPgQRbVquo",
+  "title": "Generics: 10 tips to make TypeScript generics click",
+  "summary": "Matt walks through ten tips that take generics from intimidating to usable: generic types as type functions, generic functions, inference from runtime arguments, constraints, multiple type parameters, defaults, and linking Zod schemas to inferred return types. The recurring theme is to concentrate the advanced typing in one place so function users never pass type arguments.",
+  "principles": [
+    {
+      "text": "A generic type is a type function that takes type arguments and produces new types.",
+      "quote": "this pattern lets you create type helpers type functions that you can create other types out of that's what's called a generic type"
+    },
+    {
+      "text": "A generic function is a normal function with a type helper mapped on top of it.",
+      "quote": "a generic function is just a normal function with a type helper mapped on top of it"
+    },
+    {
+      "text": "Let TypeScript infer type arguments from runtime arguments instead of passing them manually.",
+      "quote": "understanding that they can actually infer the type arguments you pass them without actually needing to pass any type arguments this is the source of a lot of the magic that you can do with generics"
+    },
+    {
+      "text": "Constrain type parameters with extends to control what callers can pass and reduce logic inside the function.",
+      "quote": "when you have a generic function you're usually going to want to put a constraint on this gives you control over what the users of your function can pass in"
+    },
+    {
+      "text": "Use multiple type parameters, with one constrained by another, to link arguments to a precise return type.",
+      "quote": "you can get this inference happening between the arguments of your functions which then maps on to the return type and lets you sort of propagate these types beautifully through your app"
+    },
+    {
+      "text": "Using 'as' inside a highly generic function body is acceptable when you know better than the compiler.",
+      "quote": "sometimes inside generic functions you know better than typescript typescript is going to lose its way in really complicated generic signatures"
+    }
+  ],
+  "topics": [
+    "typescript",
+    "types",
+    "api-design",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

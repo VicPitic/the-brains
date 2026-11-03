@@ -1,0 +1,38 @@
+{
+  "id": "essay-open-source-hooliganism-and-the-typescript-meltdown-a474bfda",
+  "title": "DHH on the TypeScript meltdown: dogmatic crusading and open source hooliganism",
+  "summary": "DHH responds to the backlash after Turbo 8 dropped TypeScript. He separates good-faith technical objections from pile-ons by outsiders, argues a project may choose its own tools without being attacked, and notes TypeScript is still JavaScript, a superset that adds an appearance of type safety to a weakly, dynamically typed language.",
+  "principles": [
+    {
+      "text": "Passion for your tools is fine, but evangelism should not turn into dogmatic crusading.",
+      "quote": "there's also a fine line between being a passionate evangelist and becoming a dogmatic crusader."
+    },
+    {
+      "text": "A project may drop a tool for its own reasons and let others reach different conclusions; that is no cause for attack.",
+      "quote": "This was one project, mostly overseen by one company, that removed TypeScript from their own project, and explained why, while allowing amble room and spirit for others to reach different conclusions for their own work."
+    },
+    {
+      "text": "Good-faith technical discussion with real contributors and users is welcome; drive-by crusaders are not.",
+      "quote": "I'm always happy to have technical discussions in good faith with such individuals"
+    },
+    {
+      "text": "TypeScript is JavaScript: a superset that sprinkles an appearance of type safety on a weakly, dynamically typed language.",
+      "quote": "TypeScript is JavaScript! It's a superset that sprinkles an appearance of type safety on top of a weakly- and dynamically-typed language."
+    },
+    {
+      "text": "Whether to use compiler-based type checking is ultimately unresolvable, and low stakes make debates nastier (bikeshedding).",
+      "quote": "That's the eternal wisdom of bikeshed parable. That when the stakes are low, the debate more easily becomes nasty."
+    },
+    {
+      "text": "Defacing a project's collaboration spaces or accusing differing developers of incompetence or malice is unbecoming of the profession.",
+      "quote": "find another way to express your enthusiasm than by defacing collaboration organs or slandering those who JavaScript differently with accusations of incompetence or malice."
+    }
+  ],
+  "topics": [
+    "types",
+    "community",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

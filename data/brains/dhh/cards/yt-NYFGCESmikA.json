@@ -1,0 +1,39 @@
+{
+  "id": "yt-NYFGCESmikA",
+  "title": "DHH on agentic engineering: Omarchy Quattro, 100% agent-written code, and why Linux wins",
+  "summary": "DHH explains his shift from hand-chiseled Ruby to running parallel agents, shipping Omarchy Quattro without hand-writing its code. He covers vague prompts over specs, the shrinking payoff of beautiful code, AI pull requests in open source, Linux as the agentic OS, and fast installs as pursuit of excellence.",
+  "principles": [
+    {
+      "text": "Agent-era work is bottlenecked on ideas, vision and taste, not implementation; human layers slow agents down.",
+      "quote": "Most organizations don't know what they want. They don't know how to make it better. They're not bottlenecked on implementation. They're bottlenecked on ideas. They're bottlenecked on vision. They're bottlenecked on taste."
+    },
+    {
+      "text": "Don't over-specify to agents; be vague, then use the result to discover what you want (agile applied to agents).",
+      "quote": "The way you arrive at good software is you write a little bit of software and then you try to use it. It is in the process of using software that you discover what you really want."
+    },
+    {
+      "text": "The economic payoff of sweating beautiful code is diminishing as agents do the modifying.",
+      "quote": "What I'm coming to realize is that the economic payoff of that sweat is diminishing rapidly."
+    },
+    {
+      "text": "The programmer's remaining job is editor-like judgment: proportions, shape, and telling agents to make it simpler.",
+      "quote": "I can tell you when the shape isn't proportional to the problem or when it just feels like it's too complicated. And shockingly often, it just works."
+    },
+    {
+      "text": "Agent-written pull requests are a gift to open source maintainers; declining them hurts no human's feelings.",
+      "quote": "I would rather get an agent written pull request to one of my projects than I'd get one written by a human."
+    },
+    {
+      "text": "Have a differently sourced second model review the first one's work, just as you'd want a human peer review.",
+      "quote": "I would actually rather have two differently sourced sort of I mean they're not mid-tier, they're all frontier, but have let's say Opus 5 and Codeex and have one check the other's job."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "simplicity",
+    "architecture"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

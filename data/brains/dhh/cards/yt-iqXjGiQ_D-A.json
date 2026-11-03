@@ -1,0 +1,38 @@
+{
+  "id": "yt-iqXjGiQ_D-A",
+  "title": "Rails World 2023 keynote: DHH on no-build, Solid Cache/Queue, Kamal and the one-person framework",
+  "summary": "DHH opens Rails World on the 20th anniversary, arguing the zero-interest era bred a productivity dark age of over-specialisation and complexity. He tours seven tools (Propshaft, Turbo 8, Strada, Solid Cache, Solid Queue, Mission Control, Kamal) that push toward simplicity and a one-person framework, with no-build JavaScript/CSS and cloud exit as through-lines.",
+  "principles": [
+    {
+      "text": "Progress need not mean complexity; complexity is a bridge you cross to reach simplicity.",
+      "quote": "progress is not synonymous with complexity complexity is a bridge we use to get to Simplicity"
+    },
+    {
+      "text": "Cheap money bred indifference to productivity and over-specialisation; pressure restores full-stack capability.",
+      "quote": "we should be working on designing and installing and maintaining and knowing how to do all of these things ourselves and being capable of doing all these things ourselves"
+    },
+    {
+      "text": "No build beats the fastest build: ship plain JavaScript via import maps and plain CSS straight to the browser.",
+      "quote": "no built is way better than fast built you can make the build as fast as possible but it's never going to be as fast as no build"
+    },
+    {
+      "text": "Choose progress over stability, replacing bloated legacy with a clean-sheet, far smaller implementation.",
+      "quote": "you have an order of magnitude less code to deal with you'll have an order of magnitude or maybe even two orders of magnitude less issues to content with"
+    },
+    {
+      "text": "Rails should stay free, open source and independent of commercial vendors end to end; vendors may add alternatives, never be required.",
+      "quote": "Ruby un rails from end to end should be free open- source software that is not owned by any commercial entity"
+    },
+    {
+      "text": "Rails should be a one-person framework, enabling Renaissance developers who handle design, implementation and deployment.",
+      "quote": "rail should be a oneperson framework that one individual should be able to make everything happen from start to end"
+    }
+  ],
+  "topics": [
+    "simplicity",
+    "architecture",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}
