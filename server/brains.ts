@@ -14,7 +14,7 @@ export interface IndexSource {
   quality?: number;
 }
 
-interface Chunk {
+export interface Chunk {
   sourceId: string;
   heading: string | null;
   text: string;
@@ -90,7 +90,7 @@ function pick(brain: Brain, query: string, limit: number): { chunk: Chunk; score
   return picked;
 }
 
-function formatPassage(brain: Brain, chunk: Chunk, n: number, withName: boolean): string {
+export function formatPassage(brain: Brain, chunk: Chunk, n: number, withName: boolean): string {
   const source = brain.sourceById.get(chunk.sourceId)!;
   const title =
     source.type === "x_post"

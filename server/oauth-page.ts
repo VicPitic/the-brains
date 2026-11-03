@@ -5,7 +5,8 @@ const escape = (value: string) =>
   value.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 
 export function renderSignInPage({ requestId, brainName, clientName }: { requestId: string; brainName: string | null; clientName: string | null }) {
-  const what = brainName ? `${escape(brainName)}'s brain` : "your brain";
+  // Roundtables are already plural ("Pricing Brains"); everything else is one person.
+  const what = brainName ? (brainName.endsWith(" Brains") ? escape(brainName) : `${escape(brainName)}'s brain`) : "your brain";
   const where = clientName ? ` to ${escape(clientName)}` : "";
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sign in · The Brains</title><link rel="icon" href="https://brains.ceo/assets/favicon.svg" type="image/svg+xml">

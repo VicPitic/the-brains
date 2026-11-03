@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "roundtables": [
+    {
+      "id": "business",
+      "label": "Business",
+      "blurb": "Should we do this at all, and how?",
+      "questions": [
+        "Should I quit my job to work on this idea?",
+        "When is it time to pivot instead of pushing through?",
+        "How do I tell if a market is big enough?"
+      ],
+      "people": [
+        {
+          "slug": "paul-graham",
+          "angle": "the idea and the founder",
+          "hint": "startup idea founder users"
+        },
+        {
+          "slug": "naval-ravikant",
+          "angle": "leverage and judgment",
+          "hint": "leverage judgment long term"
+        },
+        {
+          "slug": "alex-hormozi",
+          "angle": "the offer and the money",
+          "hint": "offer profit money"
+        },
+        {
+          "slug": "shaan-puri",
+          "angle": "spotting the opportunity",
+          "hint": "opportunity business idea trend"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "label": "Marketing",
+      "blurb": "Positioning, channels and the funnel.",
+      "questions": [
+        "How do I position a product in a crowded market?",
+        "Which marketing channel should I try first with no audience?",
+        "Should I spend on paid ads before I have traction?"
+      ],
+      "people": [
+        {
+          "slug": "corey-haines",
+          "angle": "positioning and message",
+          "hint": "positioning message marketing"
+        },
+        {
+          "slug": "cody-schneider",
+          "angle": "ads, SEO and cold email",
+          "hint": "ads SEO cold email channel"
+        },
+        {
+          "slug": "dustin-howes",
+          "angle": "partners and affiliates",
+          "hint": "affiliate partner program"
+        },
+        {
+          "slug": "sam-parr",
+          "angle": "brand and media",
+          "hint": "brand newsletter media marketing"
+        }
+      ]
+    },
+    {
+      "id": "sales",
+      "label": "Sales",
+      "blurb": "Leads, the pitch, closing and the team.",
+      "questions": [
+        "When should I hire my first salesperson?",
+        "How do I book meetings with cold outbound?",
+        "How do I handle the 'it's too expensive' objection?"
+      ],
+      "people": [
+        {
+          "slug": "alex-hormozi",
+          "angle": "the sales team",
+          "hint": "sales team closers scripts"
+        },
+        {
+          "slug": "roman-czerny",
+          "angle": "the pipeline",
+          "hint": "pipeline leads outbound sales"
+        },
+        {
+          "slug": "iman-gadzhi",
+          "angle": "the pitch and the close",
+          "hint": "sales call closing clients pitch"
+        },
+        {
+          "slug": "adam-robinson",
+          "angle": "signals and cold outreach",
+          "hint": "outbound signal sales leads"
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "blurb": "What to charge, how, and to whom.",
+      "questions": [
+        "Should I add a free plan to my SaaS?",
+        "How do I know if I'm charging too little?",
+        "Fixed price or time and materials for an MVP?"
+      ],
+      "people": [
+        {
+          "slug": "alex-hormozi",
+          "angle": "the money model",
+          "hint": "money model pricing offer"
+        },
+        {
+          "slug": "jason-cohen",
+          "angle": "what the price does to your business",
+          "hint": "pricing freemium customers business model"
+        },
+        {
+          "slug": "rob-walling",
+          "angle": "pricing a small SaaS",
+          "hint": "SaaS pricing plans freemium"
+        },
+        {
+          "slug": "tibo-maker",
+          "angle": "charging more",
+          "hint": "pricing freemium charge"
+        },
+        {
+          "slug": "corey-haines",
+          "angle": "what the customer will pay",
+          "hint": "pricing packaging value freemium"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "blurb": "What to build first, and what to leave out.",
+      "questions": [
+        "What should go in version one, and what should wait?",
+        "How do I decide which feature to build next?",
+        "When does quality matter more than speed?"
+      ],
+      "people": [
+        {
+          "slug": "guillermo-rauch",
+          "angle": "what to build first",
+          "hint": "product build ship iteration"
+        },
+        {
+          "slug": "jason-cohen",
+          "angle": "simple, lovable, complete",
+          "hint": "SLC MVP product simple customers"
+        },
+        {
+          "slug": "steve-jobs",
+          "angle": "taste and focus",
+          "hint": "focus design product say no"
+        },
+        {
+          "slug": "hunter-isaacson",
+          "angle": "consumer instinct",
+          "hint": "consumer app design product"
+        },
+        {
+          "slug": "paul-buchheit",
+          "angle": "a product a few people love",
+          "hint": "product users love"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "label": "Growth",
+      "blurb": "Where growth is stuck and what unblocks it.",
+      "questions": [
+        "My MRR has been flat for six months. Where do I look first?",
+        "Should I fix churn or add more acquisition?",
+        "How do I find the channel that will actually scale?"
+      ],
+      "people": [
+        {
+          "slug": "lenny-rachitsky",
+          "angle": "retention and the numbers",
+          "hint": "retention growth metrics activation"
+        },
+        {
+          "slug": "cody-schneider",
+          "angle": "the next channel",
+          "hint": "growth channel experiments"
+        },
+        {
+          "slug": "adam-robinson",
+          "angle": "the constraint",
+          "hint": "growth retention revenue channel"
+        },
+        {
+          "slug": "jake-castillo",
+          "angle": "scaling with creators",
+          "hint": "scale influencers creators growth"
+        },
+        {
+          "slug": "corey-haines",
+          "angle": "acquisition",
+          "hint": "acquisition growth marketing"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "label": "Launch",
+      "blurb": "Getting it out, and the first hundred users.",
+      "questions": [
+        "How do I get my first 100 users?",
+        "Is a Product Hunt launch still worth it?",
+        "Should I launch now or wait until it's better?"
+      ],
+      "people": [
+        {
+          "slug": "marc-lou",
+          "angle": "shipping in days",
+          "hint": "launch ship first customers"
+        },
+        {
+          "slug": "ryan-hoover",
+          "angle": "launch day",
+          "hint": "Product Hunt launch community"
+        },
+        {
+          "slug": "pieter-levels",
+          "angle": "launching in public",
+          "hint": "launch ship early users"
+        },
+        {
+          "slug": "damon-chen",
+          "angle": "the first paying customers",
+          "hint": "first customers launch early"
+        }
+      ]
+    },
+    {
+      "id": "audience",
+      "label": "Audience",
+      "blurb": "Content, personal brand and getting known.",
+      "questions": [
+        "How do I grow an audience from zero as a founder?",
+        "LinkedIn, X or short-form video: where should I post?",
+        "How do I turn followers into customers?"
+      ],
+      "people": [
+        {
+          "slug": "justin-welsh",
+          "angle": "a one-person content system",
+          "hint": "content system audience LinkedIn"
+        },
+        {
+          "slug": "jack-friks",
+          "angle": "short-form video",
+          "hint": "short form video TikTok views"
+        },
+        {
+          "slug": "alexxgrowth",
+          "angle": "clips and creators",
+          "hint": "clipping creators views content"
+        },
+        {
+          "slug": "ruben-hassid",
+          "angle": "the post itself",
+          "hint": "LinkedIn post hook writing audience"
+        },
+        {
+          "slug": "shaan-puri",
+          "angle": "storytelling",
+          "hint": "storytelling writing newsletter audience"
+        }
+      ]
+    },
+    {
+      "id": "fundraising",
+      "label": "Fundraising",
+      "blurb": "Whether to raise, from whom, on what terms.",
+      "questions": [
+        "Should I raise a seed round or bootstrap?",
+        "How much should I raise, and at what valuation?",
+        "How do I get a warm intro to an investor?"
+      ],
+      "people": [
+        {
+          "slug": "paul-graham",
+          "angle": "the founder's view",
+          "hint": "fundraising investors founders"
+        },
+        {
+          "slug": "jason-calacanis",
+          "angle": "the investor's view",
+          "hint": "angel investor fundraising pitch"
+        },
+        {
+          "slug": "dalton-caldwell",
+          "angle": "how the round really works",
+          "hint": "seed round fundraising valuation YC"
+        },
+        {
+          "slug": "sam-altman",
+          "angle": "raising for the long run",
+          "hint": "fundraising raise investors"
+        },
+        {
+          "slug": "rob-walling",
+          "angle": "whether to raise at all",
+          "hint": "bootstrap venture capital raise"
+        }
+      ]
+    },
+    {
+      "id": "bootstrapping",
+      "label": "Bootstrapping",
+      "blurb": "Growing on revenue, without investors.",
+      "questions": [
+        "Can I build this alone, or do I need a cofounder?",
+        "How do I keep going before it pays the bills?",
+        "One product or a portfolio of small bets?"
+      ],
+      "people": [
+        {
+          "slug": "rob-walling",
+          "angle": "cash first",
+          "hint": "bootstrapped SaaS stairstep"
+        },
+        {
+          "slug": "pieter-levels",
+          "angle": "staying solo and shipping",
+          "hint": "solo indie ship profit"
+        },
+        {
+          "slug": "justin-welsh",
+          "angle": "the one-person business",
+          "hint": "solopreneur one person business"
+        },
+        {
+          "slug": "damon-chen",
+          "angle": "the long grind",
+          "hint": "bootstrapped indie patience revenue"
+        },
+        {
+          "slug": "simon-hoiberg",
+          "angle": "a portfolio of small products",
+          "hint": "bootstrapped small products portfolio"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "blurb": "Building and selling with AI.",
+      "questions": [
+        "Is my AI wrapper defensible?",
+        "What should a small team build with agents right now?",
+        "How do I price an AI product with real usage costs?"
+      ],
+      "people": [
+        {
+          "slug": "guillermo-rauch",
+          "angle": "the product",
+          "hint": "AI agents product software"
+        },
+        {
+          "slug": "scott-wu",
+          "angle": "agents and the business model",
+          "hint": "AI agents engineers business"
+        },
+        {
+          "slug": "alexandr-wang",
+          "angle": "where the models are going",
+          "hint": "AI models future data"
+        },
+        {
+          "slug": "greg-isenberg",
+          "angle": "what to build now",
+          "hint": "AI startup ideas agents"
+        },
+        {
+          "slug": "ruben-hassid",
+          "angle": "what the tools can do today",
+          "hint": "AI tools ChatGPT Claude use"
+        }
+      ]
+    },
+    {
+      "id": "leadership",
+      "label": "Leadership",
+      "blurb": "The team, hiring and the founder's focus.",
+      "questions": [
+        "How do I know who to hire first?",
+        "When should I fire someone?",
+        "How do I stop being the bottleneck in my own company?"
+      ],
+      "people": [
+        {
+          "slug": "sam-altman",
+          "angle": "hiring and focus",
+          "hint": "hiring team focus founders"
+        },
+        {
+          "slug": "cris-pop",
+          "angle": "culture",
+          "hint": "culture people leadership team"
+        },
+        {
+          "slug": "elon-musk",
+          "angle": "speed and standards",
+          "hint": "engineering team standards speed"
+        },
+        {
+          "slug": "alexandr-wang",
+          "angle": "talent density",
+          "hint": "hiring talent team"
+        },
+        {
+          "slug": "jason-cohen",
+          "angle": "people better than you",
+          "hint": "hire delegation team people"
+        }
+      ]
+    }
+  ]
+}

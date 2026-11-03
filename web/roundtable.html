@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>The Brains</title>
+    <meta name="description" content="Several unofficial, cited brains in one MCP for Claude, Cursor or ChatGPT." />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <script type="module" src="/assets/roundtable.js"></script>
+    <script defer async data-host="brains.ceo" src="https://liteanalytics.com/lite.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/" data-logo>The Brains</a>
+        <nav class="nav" aria-label="Main">
+          <a class="nav-link optional" href="/">All brains</a>
+          <a class="nav-link" href="/roundtables">Roundtables</a>
+          <a class="nav-link optional" data-request>Request a brain</a>
+          <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark theme"></button>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap" tabindex="-1">
+      <div class="brain-grid" aria-busy="true">
+        <div>
+          <div class="identity" aria-hidden="true">
+            <span class="skeleton" style="width: 120px; height: 120px; border-radius: 50%"></span>
+            <div style="display: grid; gap: 12px">
+              <span class="skeleton" style="width: min(18rem, 60vw); height: 40px"></span>
+              <span class="skeleton" style="width: min(12rem, 40vw); height: 16px"></span>
+            </div>
+          </div>
+          <span class="skeleton" style="display: block; width: min(34rem, 90%); height: 20px; margin-top: 28px" aria-hidden="true"></span>
+          <span class="skeleton" style="display: block; height: 86px; margin-top: 32px; border-radius: 16px" aria-hidden="true"></span>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>Made by <a href="https://vic.ceo" target="_blank" rel="noopener">Vic</a>. Unofficial brains built from public content, every answer cited.</span>
+        <span><a data-repo>Open source on GitHub</a> · <a href="/">All brains</a> · <a href="/love">Wall of love</a> · <a data-mail="Claim my brain">Claim yours</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></span>
+      </div>
+    </footer>
+  </body>
+</html>

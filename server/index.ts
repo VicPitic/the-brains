@@ -1,5 +1,6 @@
 // The Brains MCP server: one stateless Streamable HTTP endpoint per brain at POST /<slug>/mcp,
-// plus POST /mcp, which serves every brain behind one connector (for app directories).
+// POST /mcp, which serves every brain behind one connector (for app directories),
+// and POST /<topic>-brains/mcp, which serves a roundtable: several brains behind one connector.
 import { createOAuthMetadata, mcpAuthRouter } from "@modelcontextprotocol/sdk/server/auth/router.js";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
@@ -12,11 +13,13 @@ import { AuthError, requestCode, resolveKey, verifyEmailCode } from "./auth.js";
 import { type Brain, listSources, loadBrains, searchBrain, searchBrains } from "./brains.js";
 import { hasDatabase, migrate } from "./db.js";
 import { createSeo } from "./seo.js";
+import { askAll, type Roundtable, roundtableForSlug, roundtableName, roundtableSlug, liveRoundtables, loadRoundtables } from "./roundtables.js";
 import { getBrain, listBrains, SLUG_RE, toCard } from "./site.js";
 import { completeAuthorization, createOAuthProvider, requestExists } from "./oauth.js";
 import { emailRows, ensureInstall, recordInstall, recordToolCall, uniqueInstallsBySlug } from "./tracking.js";
 
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data", "brains");
+const ROUNDTABLES_PATH = join(fileURLToPath(import.meta.url), "..", "..", "data", "roundtables.json");
 const WEB_DIR = join(fileURLToPath(import.meta.url), "..", "..", "web");
 const PORT = Number(process.env.PORT ?? 8790);
 const PUBLIC_BASE_URL = process.env.PUBLIC_BASE_URL?.replace(/\/$/, "") ?? null;
@@ -34,10 +37,15 @@ const BEHIND_MCP_GATEWAY = process.env.BEHIND_MCP_GATEWAY === "true";
 const CLIENT_IP_HEADER = process.env.CLIENT_IP_HEADER?.toLowerCase() || null;
 
 let brains = await loadBrains(DATA_DIR);
+const roundtableFile = await loadRoundtables(ROUNDTABLES_PATH);
+let roundtables = liveRoundtables(roundtableFile, brains);
 // Pick up brains the pipeline finishes while the server is running.
 setInterval(() => {
   loadBrains(DATA_DIR)
-    .then((next) => (brains = next))
+    .then((next) => {
+      brains = next;
+      roundtables = liveRoundtables(roundtableFile, next);
+    })
     .catch((error) => console.error("brain reload failed:", error.message));
 }, 60_000).unref();
 
@@ -200,6 +208,93 @@ function buildAllServer(caller: Caller): McpServer {
   return server;
 }
 
+// A roundtable: a few brains on one topic behind one connector, for people who want a panel rather than every brain.
+function buildRoundtableServer(roundtable: Roundtable, caller: Caller): McpServer {
+  const slug = roundtableSlug(roundtable);
+  const name = roundtableName(roundtable);
+  const people = roundtable.people.flatMap((person) => {
+    const brain = brains.get(person.slug);
+    return brain ? [brain] : [];
+  });
+  const roster = people.map((b) => b.name).join(", ");
+  const slugs = people.map((b) => b.slug).join(", ");
+  const findPerson = (ref: string) => {
+    const key = ref.trim().toLowerCase();
+    return people.find((b) => b.slug === key.replace(/\s+/g, "-") || b.name.toLowerCase() === key) ?? null;
+  };
+  const notHere = (ref: string) => ({ content: [{ type: "text" as const, text: `${ref} isn't in ${name}. The people here are: ${slugs}.` }], isError: true });
+  const track = (tool: string, query?: string) => recordToolCall({ userId: caller.userId, slug, tool, query, clientName: caller.clientName ?? undefined });
+  const annotations = (title: string) => ({ title, readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false });
+
+  const server = new McpServer(
+    { name: slug, version: "0.1.0" },
+    {
+      instructions:
+        `${name}: ${roster}. ${roundtable.blurb} Built from their public talks, interviews, essays and posts. Unofficial: not affiliated with or endorsed by these people. ` +
+        "Use ask_all for a decision or anything that needs several points of view, search_brains to look something up, and always cite the returned sources.",
+    },
+  );
+
+  server.registerTool(
+    "ask_all",
+    {
+      title: "Ask everyone",
+      description: `Put one question to everyone in ${name} (${roster}) and get each person's passages, separately and with sources. Then answer from those passages.`,
+      inputSchema: { question: z.string().min(3).max(500).describe("The decision or question, in the user's words") },
+      annotations: annotations("Ask everyone"),
+    },
+    async ({ question }) => {
+      track("ask_all", question);
+      return { content: [{ type: "text", text: askAll(roundtable, brains, question) }] };
+    },
+  );
+
+  server.registerTool(
+    "search_brains",
+    {
+      title: "Search these brains",
+      description: `Search what the people in ${name} have said. Leave \`brain\` empty to search all of them, or pass one person: ${slugs}. Returns passages with the person and source.`,
+      inputSchema: {
+        query: z.string().min(2).max(500).describe("What to look for, in plain words"),
+        brain: z.string().max(80).optional().describe("Optional: one person's slug or name"),
+        limit: z.number().int().min(1).max(10).default(6).describe("How many passages to return"),
+      },
+      annotations: annotations("Search these brains"),
+    },
+    async ({ query, brain: ref, limit }) => {
+      track("search_brains", query);
+      if (!ref) return { content: [{ type: "text", text: searchBrains(people, query, limit) }] };
+      const brain = findPerson(ref);
+      if (!brain) return notHere(ref);
+      return { content: [{ type: "text", text: searchBrain(brain, query, limit) }] };
+    },
+  );
+
+  server.registerTool(
+    "list_sources",
+    {
+      title: "List sources",
+      description: `List every talk, interview, essay and post collection behind one person in ${name}, with links.`,
+      inputSchema: { brain: z.string().max(80).describe(`The person's slug or name: ${slugs}`) },
+      annotations: annotations("List sources"),
+    },
+    async ({ brain: ref }) => {
+      const brain = findPerson(ref);
+      if (!brain) return notHere(ref);
+      track("list_sources");
+      return { content: [{ type: "text", text: listSources(brain) }] };
+    },
+  );
+
+  return server;
+}
+
+const ROUNDTABLE_TOOLS = [
+  { name: "ask_all", description: "Put one question to everyone and get each person's passages, separately and with sources.", readOnly: true },
+  { name: "search_brains", description: "Search all of them, or one person. Returns passages with their source.", readOnly: true },
+  { name: "list_sources", description: "List every talk, essay and post behind one person, with links.", readOnly: true },
+];
+
 const app = express();
 // Railway puts exactly one proxy in front of us; a precise hop count keeps req.ip honest.
 app.set("trust proxy", 1);
@@ -221,6 +316,12 @@ app.use((req, res, next) => {
   res.redirect(301, `${PUBLIC_BASE_URL ?? ""}${req.originalUrl}`);
 });
 
+// What sign-in and OAuth metadata call a connector: a person's name, or a roundtable's name.
+function connectableName(slug: string): string | null {
+  const roundtable = roundtableForSlug(roundtables, slug);
+  return brains.get(slug)?.name ?? (roundtable ? roundtableName(roundtable) : null);
+}
+
 const bearer = (req: express.Request) => req.get("authorization")?.match(/^Bearer\s+(\S+)$/i)?.[1] ?? null;
 const siteOrigin = (req: express.Request) => PUBLIC_BASE_URL ?? `${req.protocol}://${req.get("host")}`;
 
@@ -234,9 +335,9 @@ function sendAuthError(res: express.Response, error: unknown) {
 if (hasDatabase()) {
   const provider = createOAuthProvider({
     issuer: new URL(ISSUER).href,
-    brainName: (slug) => brains.get(slug)?.name ?? null,
+    brainName: (slug) => connectableName(slug),
     onAuthorized: async ({ userId, slug, clientName }) => {
-      if (slug && brains.has(slug)) await recordInstall(userId, slug, clientName);
+      if (slug && connectableName(slug)) await recordInstall(userId, slug, clientName);
     },
   });
   // Must match the SDK's authorization-server `issuer` byte for byte (it serializes via URL.href,
@@ -244,13 +345,13 @@ if (hasDatabase()) {
   const issuerUrl = new URL(ISSUER);
   // Each brain is its own protected resource, all served by one authorization server.
   app.get("/.well-known/oauth-protected-resource/:slug/mcp", (req, res) => {
-    const brain = brains.get(req.params.slug);
-    if (!brain) return void res.status(404).json({ error: "not_found" });
+    const name = connectableName(req.params.slug);
+    if (!name) return void res.status(404).json({ error: "not_found" });
     res.json({
-      resource: `${ISSUER}/${brain.slug}/mcp`,
+      resource: `${ISSUER}/${req.params.slug}/mcp`,
       authorization_servers: [issuerUrl.href],
       bearer_methods_supported: ["header"],
-      resource_name: `${brain.name}'s brain`,
+      resource_name: brains.has(req.params.slug) ? `${name}'s brain` : name,
     });
   });
   app.get("/.well-known/oauth-protected-resource/mcp", (_req, res) => {
@@ -317,9 +418,13 @@ app.get("/brains", (_req, res) => {
 });
 
 // Runs one stateless MCP request. `brain` is null for the all-brains endpoint.
-async function handleMcp(req: express.Request, res: express.Response, brain: Brain | null) {
-  const slug = brain?.slug ?? ALL_SLUG;
-  const resourcePath = brain ? `${brain.slug}/mcp` : "mcp";
+async function handleMcp(req: express.Request, res: express.Response, target: { brain: Brain } | { roundtable: Roundtable } | null) {
+  const brain = target && "brain" in target ? target.brain : null;
+  const roundtable = target && "roundtable" in target ? target.roundtable : null;
+  const scoped = brain?.slug ?? (roundtable ? roundtableSlug(roundtable) : null);
+  const slug = scoped ?? ALL_SLUG;
+  const resourcePath = scoped ? `${scoped}/mcp` : "mcp";
+  const signInName = brain ? `${brain.name}'s brain` : roundtable ? roundtableName(roundtable) : "The Brains";
   // Bearer token from the OAuth flow; ?key= keeps early personal links working.
   const key = bearer(req) ?? (typeof req.query.key === "string" ? req.query.key : null);
   const user = hasDatabase() ? await resolveKey(key).catch(() => null) : null;
@@ -330,13 +435,13 @@ async function handleMcp(req: express.Request, res: express.Response, brain: Bra
       .set(
         "WWW-Authenticate",
         // scope="brain:<slug>" tells the sign-in page which brain this is when the resource doesn't (SEP-835 clients send it).
-        brain && BEHIND_MCP_GATEWAY
-          ? `Bearer realm="The Brains", scope="brain:${brain.slug}"`
-          : `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"${brain ? `, scope="brain:${brain.slug}"` : ""}`,
+        scoped && BEHIND_MCP_GATEWAY
+          ? `Bearer realm="The Brains", scope="brain:${scoped}"`
+          : `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"${scoped ? `, scope="brain:${scoped}"` : ""}`,
       )
       .json({
         jsonrpc: "2.0",
-        error: { code: -32001, message: `Sign in to use ${brain ? `${brain.name}'s brain` : "The Brains"}: connect it from your MCP client.` },
+        error: { code: -32001, message: `Sign in to use ${signInName}: connect it from your MCP client.` },
         id: null,
       });
     return;
@@ -344,7 +449,7 @@ async function handleMcp(req: express.Request, res: express.Response, brain: Bra
   const clientName = req.body?.params?.clientInfo?.name ?? req.get("user-agent") ?? null;
   if (user) ensureInstall(user.userId, slug, clientName);
   const caller = { userId: user?.userId ?? null, clientName };
-  const server = brain ? buildServer(brain, caller) : buildAllServer(caller);
+  const server = brain ? buildServer(brain, caller) : roundtable ? buildRoundtableServer(roundtable, caller) : buildAllServer(caller);
   const transport = new StreamableHTTPServerTransport({ sessionIdGenerator: undefined });
   try {
     await server.connect(transport);
@@ -365,11 +470,12 @@ app.post("/mcp", (req, res) => handleMcp(req, res, null));
 
 app.post("/:slug/mcp", async (req, res) => {
   const brain = brains.get(req.params.slug);
-  if (!brain) {
+  const roundtable = brain ? null : roundtableForSlug(roundtables, req.params.slug);
+  if (!brain && !roundtable) {
     res.status(404).json({ jsonrpc: "2.0", error: { code: -32004, message: `No brain named "${req.params.slug}"` }, id: null });
     return;
   }
-  await handleMcp(req, res, brain);
+  await handleMcp(req, res, brain ? { brain } : { roundtable: roundtable! });
 });
 
 // Plain-text previews of the two tools, for checking a brain in a browser.
@@ -401,8 +507,33 @@ app.get("/api/brains", async (_req, res) => {
   res.json(all.map((brain) => ({ ...toCard(brain), installs: installs.get(brain.slug) ?? 0 })));
 });
 
+app.get("/api/roundtables", async (_req, res) => {
+  const [all, installs] = await Promise.all([listBrains(DATA_DIR), uniqueInstallsBySlug().catch(() => new Map<string, number>())]);
+  const site = new Map(all.map((b) => [b.slug, b]));
+  res.json(
+    roundtables.map((roundtable) => {
+      const slug = roundtableSlug(roundtable);
+      return {
+        slug,
+        name: roundtableName(roundtable),
+        blurb: roundtable.blurb,
+        questions: roundtable.questions,
+        installs: installs.get(slug) ?? 0,
+        mcp: { url: `${ISSUER}/${slug}/mcp`, serverName: slug, tools: ROUNDTABLE_TOOLS },
+        people: roundtable.people.flatMap((person) => {
+          const brain = site.get(person.slug);
+          if (!brain) return [];
+          const { slug: personSlug, name, shortName, avatarUrl, avatarAlt } = brain;
+          const sources = brain.stats.longFormCount + brain.stats.xPostCount + (brain.stats.linkedinPostCount ?? 0);
+          return [{ slug: personSlug, name, shortName, avatarUrl, avatarAlt, angle: person.angle, sources }];
+        }),
+      };
+    }),
+  );
+});
+
 // ---- Admin: who installed what, and the email list ----
-const brainName = (slug: string) => brains.get(slug)?.name ?? null;
+const brainName = (slug: string) => connectableName(slug);
 const ADMIN_RANGES = new Set([7, 30, 90, 0]);
 
 app.get("/admin", requireAdmin, (_req, res) => sendPage(res, "admin/index.html"));
@@ -462,7 +593,7 @@ app.get("/robots.txt", (_req, res) => {
   res.type("text/plain").send(seo.robots());
 });
 app.get("/sitemap.xml", async (_req, res) => {
-  res.type("application/xml").set("Cache-Control", "public, max-age=3600").send(seo.sitemap(await listBrains(DATA_DIR)));
+  res.type("application/xml").set("Cache-Control", "public, max-age=3600").send(seo.sitemap(await listBrains(DATA_DIR), roundtables.map(roundtableSlug)));
 });
 
 app.get("/", (_req, res) => sendSeoPage(res, listBrains(DATA_DIR).then(seo.home), "index.html"));
@@ -475,6 +606,13 @@ app.get("/terms", (_req, res) =>
 app.get("/love", (_req, res) => sendSeoPage(res, seo.page("love.html", "/love"), "love.html"));
 
 // /<slug> and /<slug>/sources are the brain page (the sources view is an anchor on it).
+app.get("/roundtables", (_req, res) => sendSeoPage(res, seo.roundtablesIndex(roundtables), "roundtables.html"));
+app.get("/:slug", (req, res, next) => {
+  const roundtable = roundtableForSlug(roundtables, req.params.slug);
+  if (!roundtable) return next();
+  sendSeoPage(res, seo.roundtable(roundtable, (slug) => brains.get(slug)?.name ?? null), "roundtable.html");
+});
+
 app.get(["/:slug", "/:slug/sources"], async (req, res) => {
   const brain = await getBrain(DATA_DIR, req.params.slug);
   if (!brain) return void sendSeoPage(res, seo.notFound(), "404.html", 404);

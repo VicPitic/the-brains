@@ -31,6 +31,10 @@ All tools are read-only.
 
 Each person also has their own endpoint, `https://mcp.brains.ceo/<slug>/mcp` (for example `https://mcp.brains.ceo/pieter-levels/mcp`), with `search_brain` and `list_sources`. See https://brains.ceo for the list.
 
+## A few people on one topic
+
+Roundtables put several people behind one endpoint, `https://mcp.brains.ceo/<topic>-brains/mcp` (for example `https://mcp.brains.ceo/pricing-brains/mcp`), with `ask_all`, `search_brains` and `list_sources`. See https://brains.ceo/roundtables for the list.
+
 ## Check it works
 
 Ask: "Use The Brains to find what Pieter Levels says about validating a product idea." The answer should cite passages with source links.

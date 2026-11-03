@@ -28,7 +28,9 @@
     "dev": "tsx watch server/index.ts",
     "start": "tsx server/index.ts",
     "typecheck": "tsc --noEmit",
-    "smoke": "node pipeline/smoke.mjs"
+    "smoke": "node pipeline/smoke.mjs",
+    "test": "tsx --test server/*.test.ts",
+    "smoke:roundtables": "node pipeline/roundtable-smoke.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",

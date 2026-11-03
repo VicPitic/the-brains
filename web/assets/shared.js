@@ -212,7 +212,10 @@ export function mountChrome() {
     el.rel = "noopener";
   }
   const nav = document.querySelector(".site-header .nav");
-  if (nav) mountStarButton(nav);
+  if (nav) {
+    nav.querySelector(`a.nav-link[href="${location.pathname}"]`)?.setAttribute("aria-current", "page");
+    mountStarButton(nav);
+  }
 }
 
 /* ---------- Portrait ---------- */
@@ -385,7 +388,7 @@ function base64(text) {
 function clientBody(id, brain) {
   const url = mcpUrl(brain);
   const name = brain.mcp?.serverName ?? `${brain.slug}-brain`;
-  const label = possessive(brain.shortName ?? brain.name) + " brain";
+  const label = brain.installLabel ?? possessive(brain.shortName ?? brain.name) + " brain";
   const ask = brain.topics?.[0]?.sampleQuestion;
   const askLine = ask ? h("p", { class: "or" }, "Then ask: ", h("span", { style: "color:var(--ink-strong)" }, `“${ask}”`)) : null;
   const json = JSON.stringify({ mcpServers: { [name]: { url } } }, null, 2);
@@ -503,11 +506,11 @@ export function mountInstall(container, brain, { flat = false } = {}) {
   wireTablist(tablist, (tab) => select(tab.dataset.client));
 
   const tools = brain.mcp?.tools ?? [];
-  const name = possessive(brain.shortName ?? brain.name);
+  const title = brain.installLabel ?? `${possessive(brain.shortName ?? brain.name)} brain`;
   const root = h(
     "section",
-    { class: `install${flat ? " flat" : ""}`, "aria-label": `Install ${name} brain` },
-    h("div", { class: "install-head" }, h("h2", {}, `Install ${name} brain`), h("p", {}, `Free · ${plural(tools.length || 2, "read-only tool", "read-only tools")}`)),
+    { class: `install${flat ? " flat" : ""}`, "aria-label": `Install ${title}` },
+    h("div", { class: "install-head" }, h("h2", {}, `Install ${title}`), h("p", {}, `Free · ${plural(tools.length || 2, "read-only tool", "read-only tools")}`)),
     tablist,
     panel,
     h("p", { class: "signin-note" }, icon("info"), h("span", {}, "Free. When you connect, your client opens a quick sign-in: enter your email and the 6-digit code we send.")),
@@ -519,7 +522,9 @@ export function mountInstall(container, brain, { flat = false } = {}) {
           h("ul", {}, tools.map((t) => h("li", {}, h("code", {}, t.name), t.readOnly ? h("span", { class: "ro" }, "read-only") : null, h("p", {}, t.description)))),
         )
       : null,
-    brain.mcp?.external
+    brain.installFoot
+      ? h("p", { class: "install-foot" }, brain.installFoot)
+      : brain.mcp?.external
       ? h(
           "p",
           { class: "install-foot" },
@@ -540,4 +545,58 @@ export function mountInstall(container, brain, { flat = false } = {}) {
   panels.add({ tablist, render });
   render(current);
   return root;
+}
+
+/** The install panel on mobile: a bar pinned to the bottom that opens it in a sheet. `lead` sits beside the button. */
+export function mountMobileInstall(brain, lead) {
+  const title = brain.installLabel ?? `${possessive(brain.shortName ?? brain.name)} brain`;
+  const sheetBody = h("div", { class: "sheet-body" });
+  const close = h("button", { class: "icon-btn sheet-close", type: "button", "aria-label": "Close" }, icon("close"));
+  const sheet = h(
+    "dialog",
+    { class: "sheet", "aria-label": `Install ${title}` },
+    h("div", { class: "sheet-top" }, h("span", { class: "grabber", "aria-hidden": "true" }), close),
+    sheetBody,
+  );
+  let mounted = false;
+  const open = () => {
+    if (!mounted) {
+      mountInstall(sheetBody, brain, { flat: true });
+      mounted = true;
+    }
+    sheet.classList.remove("closing");
+    sheet.showModal();
+    requestAnimationFrame(() => requestAnimationFrame(() => sheet.classList.add("open")));
+  };
+  const dismiss = () => {
+    if (!sheet.open) return;
+    if (REDUCED_MOTION.matches) {
+      sheet.classList.remove("open");
+      sheet.close();
+      return;
+    }
+    sheet.classList.add("closing");
+    sheet.classList.remove("open");
+    const done = () => {
+      sheet.removeEventListener("transitionend", done);
+      sheet.classList.remove("closing");
+      sheet.close();
+    };
+    sheet.addEventListener("transitionend", done);
+    setTimeout(done, 400);
+  };
+  close.addEventListener("click", dismiss);
+  sheet.addEventListener("cancel", (e) => {
+    e.preventDefault();
+    dismiss();
+  });
+  sheet.addEventListener("click", (e) => e.target === sheet && dismiss());
+  const bar = h(
+    "div",
+    { class: "install-bar" },
+    lead,
+    h("button", { class: "btn btn-primary", type: "button", "aria-haspopup": "dialog", onclick: open }, `Install ${title}`),
+  );
+  document.body.append(bar, sheet);
+  document.body.classList.add("has-bar");
 }

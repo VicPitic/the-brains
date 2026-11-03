@@ -13,6 +13,7 @@ import {
   isPostType,
   mountChrome,
   mountInstall,
+  mountMobileInstall,
   plural,
   portrait,
   possessive,
@@ -445,59 +446,6 @@ function revealSource(id, { smooth = true, focus = true } = {}) {
   if (focus) row.querySelector("a")?.focus({ preventScroll: true });
 }
 
-/* ---------- Install: rail on desktop, bottom sheet on mobile ---------- */
-function mountMobileInstall() {
-  const sheetBody = h("div", { class: "sheet-body" });
-  const close = h("button", { class: "icon-btn sheet-close", type: "button", "aria-label": "Close" }, icon("close"));
-  const sheet = h(
-    "dialog",
-    { class: "sheet", "aria-label": `Install ${possessive(brain.shortName)} brain` },
-    h("div", { class: "sheet-top" }, h("span", { class: "grabber", "aria-hidden": "true" }), close),
-    sheetBody,
-  );
-  let mounted = false;
-  const open = () => {
-    if (!mounted) {
-      mountInstall(sheetBody, brain, { flat: true });
-      mounted = true;
-    }
-    sheet.classList.remove("closing");
-    sheet.showModal();
-    requestAnimationFrame(() => requestAnimationFrame(() => sheet.classList.add("open")));
-  };
-  const dismiss = () => {
-    if (!sheet.open) return;
-    if (REDUCED_MOTION.matches) {
-      sheet.classList.remove("open");
-      sheet.close();
-      return;
-    }
-    sheet.classList.add("closing");
-    sheet.classList.remove("open");
-    const done = () => {
-      sheet.removeEventListener("transitionend", done);
-      sheet.classList.remove("closing");
-      sheet.close();
-    };
-    sheet.addEventListener("transitionend", done);
-    setTimeout(done, 400);
-  };
-  close.addEventListener("click", dismiss);
-  sheet.addEventListener("cancel", (e) => {
-    e.preventDefault();
-    dismiss();
-  });
-  sheet.addEventListener("click", (e) => e.target === sheet && dismiss());
-  const bar = h(
-    "div",
-    { class: "install-bar" },
-    portrait(brain, 38),
-    h("button", { class: "btn btn-primary", type: "button", "aria-haspopup": "dialog", onclick: open }, `Install ${possessive(brain.shortName)} brain`),
-  );
-  document.body.append(bar, sheet);
-  document.body.classList.add("has-bar");
-}
-
 /* ---------- Boot ---------- */
 async function load() {
   const res = await fetch(`/api/brains/${encodeURIComponent(slug)}`);
@@ -524,7 +472,7 @@ try {
     const grid = h("div", { class: "brain-grid" }, left, rail);
     main.replaceChildren(grid);
     mountInstall(rail, brain);
-    mountMobileInstall();
+    mountMobileInstall(brain, portrait(brain, 38));
 
     bindTips(main, ".cite, .badge[data-tip]", tipFor);
     main.addEventListener("click", (e) => {

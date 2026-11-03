@@ -5,6 +5,8 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { SiteBrain } from "./site.js";
 
+import { type Roundtable, roundtableName, roundtableSlug } from "./roundtables.js";
+
 const DEFAULT_IMAGE = "/assets/og.png";
 const REPO_URL = "https://github.com/VicPitic/the-brains";
 
@@ -161,6 +163,52 @@ export function createSeo(webDir: string, siteUrl: string) {
     });
   }
 
+  const ROUNDTABLES_DESCRIPTION = "Several of the smartest brains in one MCP, by topic. Add a roundtable to Claude, Cursor or ChatGPT, and hear from all of them on one question, every answer cited.";
+
+  function roundtablesIndex(roundtables: Roundtable[]) {
+    return render("roundtables.html", {
+      path: "/roundtables",
+      title: "Roundtables · The Brains",
+      description: ROUNDTABLES_DESCRIPTION,
+      structuredData: [
+        {
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: "Roundtables",
+          url: `${site}/roundtables`,
+          description: ROUNDTABLES_DESCRIPTION,
+          isPartOf: { "@type": "WebSite", name: "The Brains", url: `${site}/` },
+          mainEntity: {
+            "@type": "ItemList",
+            numberOfItems: roundtables.length,
+            itemListElement: roundtables.map((j, i) => ({ "@type": "ListItem", position: i + 1, name: roundtableName(j), url: `${site}/${roundtableSlug(j)}` })),
+          },
+        },
+      ],
+    });
+  }
+
+  function roundtable(j: Roundtable, nameOf: (slug: string) => string | null) {
+    const names = j.people.map((p) => nameOf(p.slug) ?? p.slug);
+    const roster = `${names.slice(0, -1).join(", ")} and ${names.at(-1)}`;
+    return render("roundtable.html", {
+      path: `/${roundtableSlug(j)}`,
+      title: `${roundtableName(j)}: ${names.slice(0, 3).join(", ")} and more · The Brains`,
+      description: `${j.blurb} ${roster} in one MCP for Claude, Cursor or ChatGPT, every answer cited. Unofficial.`,
+      structuredData: [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "The Brains", item: `${site}/` },
+            { "@type": "ListItem", position: 2, name: "Roundtables", item: `${site}/roundtables` },
+            { "@type": "ListItem", position: 3, name: roundtableName(j), item: `${site}/${roundtableSlug(j)}` },
+          ],
+        },
+      ],
+    });
+  }
+
   const page = (file: string, path: string, description?: string) => render(file, { path, description });
   const notFound = () => render("404.html", { noindex: true });
 
@@ -168,12 +216,14 @@ export function createSeo(webDir: string, siteUrl: string) {
     return `User-agent: *\nDisallow: /admin\nDisallow: /api/\n\nSitemap: ${site}/sitemap.xml\n`;
   }
 
-  function sitemap(brains: SiteBrain[]) {
+  function sitemap(brains: SiteBrain[], roundtableSlugs: string[] = []) {
     const ready = brains.filter((b) => b.status === "ready");
     const latest = ready.map((b) => b.updatedAt).filter(Boolean).sort().at(-1) ?? null;
     const entries: { loc: string; lastmod?: string | null }[] = [
       { loc: `${site}/`, lastmod: latest },
       { loc: `${site}/love` },
+      { loc: `${site}/roundtables` },
+      ...roundtableSlugs.map((slug) => ({ loc: `${site}/${slug}` })),
       ...ready.map((b) => ({ loc: `${site}/${b.slug}`, lastmod: b.updatedAt })),
       { loc: `${site}/privacy` },
       { loc: `${site}/terms` },
@@ -182,5 +232,5 @@ export function createSeo(webDir: string, siteUrl: string) {
     return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`;
   }
 
-  return { home, brain, page, notFound, robots, sitemap };
+  return { home, brain, roundtablesIndex, roundtable, page, notFound, robots, sitemap };
 }

@@ -43,6 +43,16 @@ The first time you connect, your client opens a short sign-in: enter your email 
 
 Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say about my idea?"*
 
+### Roundtables
+
+A roundtable puts a few people on one topic behind one connector, like `https://mcp.brains.ceo/pricing-brains/mcp`. Browse them at [brains.ceo/roundtables](https://brains.ceo/roundtables); they're defined in `data/roundtables.json`.
+
+| Tool | What it does |
+|---|---|
+| `ask_all(question)` | Gets each person's passages on one question, separately and with sources. Your agent writes the answer |
+| `search_brains(query, brain, limit)` | Searches all of them, or one person |
+| `list_sources(brain)` | Lists everything behind one person |
+
 ### Tools
 
 | Tool | What it does |

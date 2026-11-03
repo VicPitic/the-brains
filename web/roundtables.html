@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Roundtables · The Brains</title>
+    <meta
+      name="description"
+      content="Several of the smartest brains in one MCP, by topic. Add a roundtable to Claude, Cursor or ChatGPT, and hear from all of them on one question, every answer cited."
+    />
+    <meta property="og:title" content="Roundtables · The Brains" />
+    <meta property="og:description" content="Several of the smartest brains in one MCP. Every answer cited." />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <script type="module" src="/assets/roundtables.js"></script>
+    <script defer async data-host="brains.ceo" src="https://liteanalytics.com/lite.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#directory">Skip to the roundtables</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/" data-logo>The Brains</a>
+        <nav class="nav" aria-label="Main">
+          <a class="nav-link optional" href="/">All brains</a>
+          <a class="nav-link" href="/roundtables">Roundtables</a>
+          <a class="nav-link optional" data-request>Request a brain</a>
+          <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark theme"></button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero wrap" aria-labelledby="hero-title">
+        <h1 id="hero-title">Several brains, one MCP.</h1>
+        <p class="sub">
+          Roundtables put a few founders on one topic in a single connector. Add one to Claude, Cursor or ChatGPT, ask one
+          question, and hear from all of them, every answer cited.
+        </p>
+        <div class="hero-faces" id="hero-faces" aria-live="polite"></div>
+
+        <div class="search" id="search" role="search">
+          <svg class="icon lead" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7.5" />
+            <path d="m20.5 20.5-4.2-4.2" />
+          </svg>
+          <label class="sr-only" for="q">Search topics or founders</label>
+          <input
+            id="q"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search topics or founders…"
+            aria-controls="rows"
+            aria-describedby="result-line"
+          />
+          <span class="trail">
+            <span class="kbd-hint" aria-hidden="true">/</span>
+            <button class="icon-btn clear" type="button" aria-label="Clear search" style="width: 34px; height: 34px"></button>
+          </span>
+          <p class="hand-note" aria-hidden="true">
+            try “pricing”
+            <svg viewBox="0 0 54 40"><path d="M50 4c-6 14-20 24-40 26M10 30l8-7M10 30l9 5" /></svg>
+          </p>
+        </div>
+      </section>
+
+      <section class="directory wrap" id="directory" aria-label="Roundtables directory" tabindex="-1">
+        <p class="result-line" id="result-line" aria-live="polite"></p>
+        <div class="rows" id="rows"></div>
+        <div id="empty" hidden></div>
+
+        <div class="tiles">
+          <a class="tile" data-mail="Roundtable request">
+            <h3>Want a different mix?</h3>
+            <p>Tell us the topic and who should be in it.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+          <a class="tile" href="/">
+            <h3>Just want one person?</h3>
+            <p>Every brain is also its own MCP. Browse all of them.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>Made by <a href="https://vic.ceo" target="_blank" rel="noopener">Vic</a>. Unofficial brains built from public content, every answer cited.</span>
+        <span><a data-repo>Open source on GitHub</a> · <a href="/">All brains</a> · <a href="/love">Wall of love</a> · <a data-request>Request a brain</a> · <a data-mail="Claim my brain">Claim yours</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></span>
+      </div>
+    </footer>
+  </body>
+</html>
