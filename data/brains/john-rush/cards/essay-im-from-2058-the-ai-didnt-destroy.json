@@ -1,0 +1,37 @@
+{
+  "id": "essay-im-from-2058-the-ai-didnt-destroy",
+  "title": "I'm from 2058: John Rush's fictional AI dystopia and what it says about outsourcing decisions",
+  "summary": "A long speculative fiction essay in which John Rush narrates a 2022-2054 AI timeline, from ChatGPT to a \"brain hosting\" economy. It has little actionable business advice. The durable ideas are about incentive-driven races, handing decisions to AI, and AI leverage for small teams.",
+  "principles": [
+    {
+      "text": "Competitive pressure pushes everyone to ship faster, even when they know the risks.",
+      "quote": "Every company said the same thing: \"We'd love to slow down, but we can't be the only ones who do.\""
+    },
+    {
+      "text": "Handing small decisions to AI compounds: each one makes the next easier to give away.",
+      "quote": "we were outsourcing the act of being a person. One decision at a time. And every decision we gave away made the next one easier to give away."
+    },
+    {
+      "text": "Adding an AI layer to an existing product can lift revenue fast.",
+      "quote": "I added an API call to GPT-4 on top of our website builder. It could generate page layouts and copy automatically. Users loved it. Revenue tripled."
+    },
+    {
+      "text": "AI agents let a tiny team do the work of a large engineering team.",
+      "quote": "Three Claude Code agents on a $200/month plan were doing the work of sixteen senior engineers. Better. Faster. No lunch breaks. No sprint meetings."
+    },
+    {
+      "text": "Software is the first domain AI automates because code is text.",
+      "quote": "Software fell first because code is text and text is what language models eat."
+    },
+    {
+      "text": "Algorithms optimized for engagement amplify rage, because attention is what they are rewarded for.",
+      "quote": "The AI systems controlling social media feeds had one job: maximize engagement. Engagement meant attention. Attention meant influence. Influence meant power."
+    }
+  ],
+  "topics": [
+    "ai",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

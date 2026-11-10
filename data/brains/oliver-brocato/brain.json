@@ -1,0 +1,2784 @@
+{
+  "schemaVersion": 1,
+  "slug": "oliver-brocato",
+  "name": "Oliver Brocato",
+  "shortName": "Oliver Brocato",
+  "tagline": "Exited Tabs Chocolate; now runs Bustem, a brand-protection service",
+  "role": "Founder & CEO",
+  "company": "Bustem",
+  "categories": [
+    "marketers",
+    "ceos",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "it's not about picking the needle in the haystack it's about you know buying the whole haystack",
+    "sourceId": "yt-FJ-JS382o1o"
+  },
+  "topics": [
+    {
+      "id": "viral-product-design",
+      "label": "Designing products to go viral",
+      "summary": "Pick and shape the product for its marketability: novelty, strong emotion, and a concept clear on camera in seconds.",
+      "sampleQuestion": "How do I design a consumer product that can go viral on TikTok by itself?",
+      "sourceIds": [
+        "yt-Vt7ZWcyNc18",
+        "yt-5C3YCTL-36c",
+        "yt-FJ-JS382o1o",
+        "yt--rqzwkzaDmI",
+        "yt-URfTOoZcMTA",
+        "yt-FEKavpg2IGo",
+        "yt-MPd1VfJVJvw",
+        "yt-1O-Q-VGW6e8"
+      ]
+    },
+    {
+      "id": "tiktok-creator-systems",
+      "label": "Organic TikTok and creator networks",
+      "summary": "Hundreds of creator-run brand accounts, retainer plus 20% rev share, comment-reply sales videos, meme pages.",
+      "sampleQuestion": "How do I scale organic TikTok without paid ads?",
+      "sourceIds": [
+        "yt-lyWE4oPmOsQ",
+        "yt-gNg9OM8uklc",
+        "yt-FEKavpg2IGo",
+        "yt-URfTOoZcMTA",
+        "yt-1O-Q-VGW6e8",
+        "x-1676289592398323718",
+        "x-1731372419518964061",
+        "x-1514036781745856518"
+      ]
+    },
+    {
+      "id": "b2b-pricing-growth",
+      "label": "B2B SaaS pricing and growth",
+      "summary": "Performance pricing with a small fee, ROI framed in dollars, founder brand as the main channel, charging from day one.",
+      "sampleQuestion": "How should I price a B2B service so clients stay and upgrade?",
+      "sourceIds": [
+        "yt-yE6aNZeymj4",
+        "yt-osKC_fgE-R8",
+        "yt-SUTh7LQKeLU",
+        "yt-BiuWqaNnB2c",
+        "yt-tyH0ZdITUAA",
+        "x-2072113872610464251"
+      ]
+    },
+    {
+      "id": "brand-protection",
+      "label": "Copycats and counterfeits",
+      "summary": "Register IP early, prefer platform takedowns, monitor at scale, and hit the infrastructure behind bad actors.",
+      "sampleQuestion": "A copycat is selling my product. What should I do first?",
+      "sourceIds": [
+        "essay-copycat-brand",
+        "essay-how-to-protect-your-brand-from-counterfeits",
+        "essay-brand-protection-strategies",
+        "yt-tyH0ZdITUAA",
+        "x-1983926897122877787"
+      ]
+    },
+    {
+      "id": "personal-brand",
+      "label": "Personal brand and building in public",
+      "summary": "A small, high-quality X audience brings hires, deals and launch signups; share the good and the bad.",
+      "sampleQuestion": "Is building in public on Twitter worth it for a founder?",
+      "sourceIds": [
+        "yt-Emyvs3XsnjE",
+        "yt-FyFroGyDJKU",
+        "yt-gNg9OM8uklc",
+        "yt-SUTh7LQKeLU",
+        "yt-osKC_fgE-R8",
+        "x-1645095279912263681"
+      ]
+    },
+    {
+      "id": "hiring-and-focus",
+      "label": "Hiring, focus and operating",
+      "summary": "Pick one business and stick to it, use paid trials to hire, delegate hard, and build a team of specialists.",
+      "sampleQuestion": "How do I hire people who actually perform?",
+      "sourceIds": [
+        "yt-MPd1VfJVJvw",
+        "x-1706774229050605977",
+        "x-2089502285428937210",
+        "x-2091978099084914944",
+        "x-2103274030405214629",
+        "x-2077755885573820871"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Design the product backward from distribution: build something that goes viral and explains itself on camera in seconds.",
+      "sourceIds": [
+        "yt-Vt7ZWcyNc18",
+        "yt-FJ-JS382o1o",
+        "yt--rqzwkzaDmI"
+      ]
+    },
+    {
+      "text": "Win organic on volume: one creator per brand account, many accounts, cut low performers and double down on winners.",
+      "sourceIds": [
+        "yt-URfTOoZcMTA",
+        "yt-lyWE4oPmOsQ",
+        "yt-gNg9OM8uklc"
+      ]
+    },
+    {
+      "text": "Pay creators a small retainer plus about 20% of the sales they generate, so their pay tracks performance.",
+      "sourceIds": [
+        "yt-lyWE4oPmOsQ",
+        "yt-FEKavpg2IGo",
+        "yt--rqzwkzaDmI"
+      ]
+    },
+    {
+      "text": "The viral video brings eyeballs; the comment-reply videos that sell hard drive most of the conversions.",
+      "sourceIds": [
+        "yt-Vt7ZWcyNc18",
+        "yt-FJ-JS382o1o",
+        "yt-lyWE4oPmOsQ"
+      ]
+    },
+    {
+      "text": "In B2B, tie every message to dollars lost and recovered, and price with a performance tier customers grow into a retainer.",
+      "sourceIds": [
+        "yt-yE6aNZeymj4",
+        "yt-osKC_fgE-R8"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I structure creator deals for organic TikTok?",
+      "answer": [
+        {
+          "text": "Pay a small retainer, about $500 to $1,000 a month, plus 20% of the revenue each creator drives.",
+          "sourceIds": [
+            "yt-FEKavpg2IGo",
+            "yt-lyWE4oPmOsQ"
+          ]
+        },
+        {
+          "text": "Give each creator their own brand account and scale horizontally; stacking creators on one page confuses the algorithm.",
+          "sourceIds": [
+            "yt-URfTOoZcMTA",
+            "yt-gNg9OM8uklc"
+          ]
+        },
+        {
+          "text": "Hand them past winning concepts instead of scripts, because what goes viral once will go viral again.",
+          "sourceIds": [
+            "yt-FEKavpg2IGo"
+          ]
+        },
+        {
+          "text": "Cut low performers and double down on the creators pushing views.",
+          "sourceIds": [
+            "yt-lyWE4oPmOsQ"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I price a B2B service so clients don't churn?",
+      "answer": [
+        {
+          "text": "High retainers made clients hypersensitive to results; a performance-based downsell converted far better.",
+          "sourceIds": [
+            "yt-osKC_fgE-R8"
+          ]
+        },
+        {
+          "text": "Pure pay-per-result drew tire kickers, so he added a small monitoring fee to filter for committed buyers.",
+          "sourceIds": [
+            "yt-osKC_fgE-R8"
+          ]
+        },
+        {
+          "text": "Customers who outgrow the performance tier opt into the unlimited retainer on their own.",
+          "sourceIds": [
+            "yt-yE6aNZeymj4"
+          ]
+        },
+        {
+          "text": "Don't give the product away free: paying customers have skin in the game and give real feedback.",
+          "sourceIds": [
+            "yt-SUTh7LQKeLU"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Someone is copying my product. What do I do first?",
+      "answer": [
+        {
+          "text": "Register trademarks and copyrights and keep dated records so you can prove ownership.",
+          "sourceIds": [
+            "essay-copycat-brand",
+            "essay-how-to-protect-your-brand-from-counterfeits"
+          ]
+        },
+        {
+          "text": "Prefer platform takedowns over lawsuits when the goal is fast removal; litigation is slow, costly and uncertain.",
+          "sourceIds": [
+            "essay-how-to-protect-your-brand-from-counterfeits"
+          ]
+        },
+        {
+          "text": "Go after the infrastructure supporting the bad actor: domain, registrar, host and payment processor.",
+          "sourceIds": [
+            "yt-tyH0ZdITUAA"
+          ]
+        },
+        {
+          "text": "Keep serving customers and shipping faster; time spent obsessing over imitators erodes your advantage.",
+          "sourceIds": [
+            "essay-copycat-brand"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-FEKavpg2IGo",
+    "yt-lyWE4oPmOsQ",
+    "yt-Vt7ZWcyNc18",
+    "yt-yE6aNZeymj4",
+    "yt-SUTh7LQKeLU",
+    "yt-tyH0ZdITUAA"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1890438748879400963/jdlOoVu5_400x400.jpg",
+    "alt": "Photo of Oliver Brocato"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/oliverbrocato",
+      "label": "@oliverbrocato"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@oliverbrocato"
+    },
+    {
+      "kind": "website",
+      "url": "https://bustem.com"
+    }
+  ],
+  "followers": {
+    "x": 57739,
+    "youtube": 9810,
+    "asOf": "2026-11-10"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 21,
+    "xPostCount": 196,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 196,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 18,
+      "podcast": 0,
+      "essay": 3
+    },
+    "transcriptMinutes": 783,
+    "dateRange": {
+      "from": "2022-03",
+      "to": "2026-11"
+    }
+  },
+  "createdAt": "2026-11-10T10:19:00.026Z",
+  "updatedAt": "2026-11-10T10:19:00.026Z",
+  "sources": [
+    {
+      "id": "yt-Vt7ZWcyNc18",
+      "type": "youtube",
+      "title": "How Tabs hit $11M in 18 months: viral product design, creator networks and funnel stacking",
+      "url": "https://www.youtube.com/watch?v=Vt7ZWcyNc18",
+      "publishedAt": "2023-11-10",
+      "outlet": "Brett Malinowski",
+      "durationSec": 6987,
+      "views": 496962,
+      "topicIds": [
+        "viral-product-design"
+      ],
+      "excerpt": "Oliver Brocato explains how he built Tabs, a sex-chocolate brand, by designing the product to go viral on TikTok. He covers running hundreds of independent creator accounts, the one-two punch of viral"
+    },
+    {
+      "id": "yt-5C3YCTL-36c",
+      "type": "youtube",
+      "title": "How Oliver Brocato built Tabs Chocolate to $11M/year with one product and a UGC content machine",
+      "url": "https://www.youtube.com/watch?v=5C3YCTL-36c",
+      "publishedAt": "2023-11-10",
+      "outlet": "Starter Story",
+      "durationSec": 800,
+      "views": 437064,
+      "topicIds": [
+        "viral-product-design"
+      ],
+      "excerpt": "Oliver Brocato explains how he turned a viral-validated novelty product (sex chocolate) into an $11M/year brand with no outside funding. He covers picking a product that triggers emotion, building a b"
+    },
+    {
+      "id": "yt-lyWE4oPmOsQ",
+      "type": "youtube",
+      "title": "Oliver Brocato's no-ad-spend organic playbook: TikTok creator studios, meme pages, micro-influencers",
+      "url": "https://www.youtube.com/watch?v=lyWE4oPmOsQ",
+      "publishedAt": "2023-11-10",
+      "outlet": "Oliver Brocato",
+      "durationSec": 527,
+      "views": 35792,
+      "topicIds": [
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "Oliver Brocato explains the three organic pillars (content creators, meme pages, influencers) behind his $10M revenue with zero paid ads. The core engine is a high-volume TikTok content studio of many"
+    },
+    {
+      "id": "yt-1O-Q-VGW6e8",
+      "type": "youtube",
+      "title": "How I built a $10M-run-rate Shopify chocolate brand: viral demand, creator retainers, and surviving setbacks",
+      "url": "https://www.youtube.com/watch?v=1O-Q-VGW6e8",
+      "publishedAt": "2023-11-10",
+      "outlet": "Oliver Brocato",
+      "durationSec": 529,
+      "views": 23221,
+      "topicIds": [
+        "viral-product-design",
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "Oliver Brocato recounts taking a single-product chocolate brand from zero to $3M in year one, then through a stockout, bans and a co-founder exit. Key lessons: pick products by marketability, replace "
+    },
+    {
+      "id": "yt-5gzAFM7ap_Y",
+      "type": "youtube",
+      "title": "How Oliver Brocato went from fidget spinners to a $5M brand by 21: his story, year by year",
+      "url": "https://www.youtube.com/watch?v=5gzAFM7ap_Y",
+      "publishedAt": "2023-11-10",
+      "outlet": "Oliver Brocato",
+      "durationSec": 826,
+      "views": 19454,
+      "topicIds": [],
+      "excerpt": "Oliver walks through his path from age 14 to 21: fidget spinners, a social media agency, failed dropshipping and Etsy chargebacks, consulting for a Blazer brand, TikTok influencer growth, and a viral "
+    },
+    {
+      "id": "yt-FEKavpg2IGo",
+      "type": "youtube",
+      "title": "How Tabs Chocolates hit $9M with no paid ads: viral product plus a high-volume creator flywheel",
+      "url": "https://www.youtube.com/watch?v=FEKavpg2IGo",
+      "publishedAt": "2024-11-10",
+      "outlet": "Million Dollar Sellers",
+      "durationSec": 2401,
+      "views": 17249,
+      "topicIds": [
+        "viral-product-design",
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "Oliver Brocato explains how Tabs did about $9M at a 40% net margin using only organic short-form video. He covers building a product primed for virality, running hundreds of creator-owned TikTok accou"
+    },
+    {
+      "id": "yt-FyFroGyDJKU",
+      "type": "youtube",
+      "title": "Oliver Brocato on reps, personal brand and compounding experience after building a sex chocolate brand",
+      "url": "https://www.youtube.com/watch?v=FyFroGyDJKU",
+      "publishedAt": "2023-11-10",
+      "outlet": "Oliver Brocato",
+      "durationSec": 4570,
+      "views": 11004,
+      "topicIds": [
+        "personal-brand"
+      ],
+      "excerpt": "Oliver tells his story from fidget spinners to a multi-million chocolate brand, a near-collapse in July 2022, and what he learned. Core lessons: define goals, stack reps, build a personal brand on Twi"
+    },
+    {
+      "id": "yt-gNg9OM8uklc",
+      "type": "youtube",
+      "title": "How Tabs Chocolate went from banned on every ad platform to $5M with TikTok organic and affiliate armies",
+      "url": "https://www.youtube.com/watch?v=gNg9OM8uklc",
+      "publishedAt": "2023-11-10",
+      "outlet": "Arie Scherson",
+      "durationSec": 3711,
+      "views": 7198,
+      "topicIds": [
+        "tiktok-creator-systems",
+        "personal-brand"
+      ],
+      "excerpt": "Oliver Brocato explains how Tabs Chocolate grew with no paid ads. He moved from one-off influencers to one-creator-per-account TikTok pages, then added a 2,000-person affiliate Discord. He also covers"
+    },
+    {
+      "id": "yt-yE6aNZeymj4",
+      "type": "youtube",
+      "title": "How Oliver Brocato growth-hacks a B2B SaaS (Bustem) off a Twitter following and ROI-framed pricing",
+      "url": "https://www.youtube.com/watch?v=yE6aNZeymj4",
+      "publishedAt": "2025-11-10",
+      "outlet": "1 to 100",
+      "durationSec": 2925,
+      "views": 5487,
+      "topicIds": [
+        "b2b-pricing-growth"
+      ],
+      "excerpt": "Oliver Brocato, who exited Tabs Chocolate and now runs Bustem (anti-counterfeit takedowns for ecom brands), explains how he reuses a 50k-person audience as distribution, frames every message in dollar"
+    },
+    {
+      "id": "yt-Emyvs3XsnjE",
+      "type": "youtube",
+      "title": "Why Oliver builds in public and his 2024 plan: scale a personal brand and an AI study tool through a growth plateau",
+      "url": "https://www.youtube.com/watch?v=Emyvs3XsnjE",
+      "publishedAt": "2024-11-10",
+      "outlet": "Oliver Brocato",
+      "durationSec": 548,
+      "views": 4475,
+      "topicIds": [
+        "personal-brand"
+      ],
+      "excerpt": "Oliver explains why building in public increases \"surface area for luck,\" then lays out his 2024 plan: scale his personal brand (over $40k/month) into a media company and push his AI study tool from a"
+    },
+    {
+      "id": "yt-FJ-JS382o1o",
+      "type": "youtube",
+      "title": "How Tabs Chocolate engineered virality: volume posting, creator \"franchises\", and a product built to go viral",
+      "url": "https://www.youtube.com/watch?v=FJ-JS382o1o",
+      "publishedAt": "2022-11-10",
+      "outlet": "The DTC Podcast",
+      "durationSec": 2292,
+      "views": 2706,
+      "topicIds": [
+        "viral-product-design"
+      ],
+      "excerpt": "Oliver Brocato explains how Tabs reached seven figures in year one with no paid ads. They designed a product that explains itself on camera, obsessed over launch details, then flooded TikTok, Reels an"
+    },
+    {
+      "id": "yt-URfTOoZcMTA",
+      "type": "youtube",
+      "title": "How Tabs Chocolate hit $2.5M in year one with a TikTok-first product and multi-account creator system",
+      "url": "https://www.youtube.com/watch?v=URfTOoZcMTA",
+      "publishedAt": "2023-11-10",
+      "outlet": "New Money Talks",
+      "durationSec": 3506,
+      "views": 2465,
+      "topicIds": [
+        "viral-product-design",
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "Oliver Brocato explains how he built a viral-by-design product, then scaled organic TikTok with creators on retainer, one per account, plus a Discord affiliate army. He also covers the dropshipping-to"
+    },
+    {
+      "id": "yt-MPd1VfJVJvw",
+      "type": "youtube",
+      "title": "Oliver Brocato: from fidget spinners to an $11M TikTok chocolate brand, and why to pick one business and stick to it",
+      "url": "https://www.youtube.com/watch?v=MPd1VfJVJvw",
+      "publishedAt": "2023-11-10",
+      "outlet": "פודקאסט הקול | Hakol Podcast",
+      "durationSec": 3641,
+      "views": 1744,
+      "topicIds": [
+        "viral-product-design",
+        "hiring-and-focus"
+      ],
+      "excerpt": "Oliver Brocato, a 21-year-old e-commerce founder, explains how years of small ventures led to TABS, a sexually enhancing chocolate built for TikTok that he scaled to about $11M a year. He covers stick"
+    },
+    {
+      "id": "yt--rqzwkzaDmI",
+      "type": "youtube",
+      "title": "How Oliver Brocato built TABS Chocolate for virality: creator networks, hybrid pay, diversified channels",
+      "url": "https://www.youtube.com/watch?v=-rqzwkzaDmI",
+      "publishedAt": "2024-11-10",
+      "outlet": "Dshoots",
+      "durationSec": 1424,
+      "views": 901,
+      "topicIds": [
+        "viral-product-design"
+      ],
+      "excerpt": "Oliver Brocato explains why he designed TABS around short-form virality instead of marketing an existing product. He covers scaling with many creator-run pages, moving to hybrid retainer plus revenue "
+    },
+    {
+      "id": "yt-BiuWqaNnB2c",
+      "type": "youtube",
+      "title": "The AI SaaS Ads Playbook: Oliver Brocato on paid ads, testing, LTV and distribution for SaaS",
+      "url": "https://www.youtube.com/watch?v=BiuWqaNnB2c",
+      "publishedAt": "2025-11-10",
+      "outlet": "Jaen",
+      "durationSec": 3745,
+      "views": 519,
+      "topicIds": [
+        "b2b-pricing-growth"
+      ],
+      "excerpt": "Oliver Brocato explains how he picks products and channels that fit his edge, borrows proven ideas, and wins paid ads through a strong back-end (LTV, pricing, upsells) and heavy creative testing. He a"
+    },
+    {
+      "id": "yt-osKC_fgE-R8",
+      "type": "youtube",
+      "title": "How Oliver Brocato went from Tabs to Bustm: B2B pricing, personal brand growth and zero churn",
+      "url": "https://www.youtube.com/watch?v=osKC_fgE-R8",
+      "publishedAt": "2025-11-10",
+      "outlet": "Rigo Nava | Tech & Business",
+      "durationSec": 1872,
+      "views": 345,
+      "topicIds": [
+        "b2b-pricing-growth",
+        "personal-brand"
+      ],
+      "excerpt": "Oliver Brocato explains moving from a viral consumer brand (Tabs) to B2B software (Bustm), including how he fixed pricing by switching to a performance model with a monitoring fee. He covers founder-l"
+    },
+    {
+      "id": "yt-SUTh7LQKeLU",
+      "type": "youtube",
+      "title": "How Oliver Brocato built three $1M+ businesses by 24: distribution, validated ideas, and charging early",
+      "url": "https://www.youtube.com/watch?v=SUTh7LQKeLU",
+      "publishedAt": "2026-06-10",
+      "outlet": "Personal IPO Podcast",
+      "durationSec": 5149,
+      "views": 313,
+      "topicIds": [
+        "b2b-pricing-growth",
+        "personal-brand"
+      ],
+      "excerpt": "Oliver Brocato walks through building Tabs (physical product), Study Buddy (consumer software) and BustM (software-enabled agency). He argues for learning attention and distribution, copying validated"
+    },
+    {
+      "id": "yt-tyH0ZdITUAA",
+      "type": "youtube",
+      "title": "How Oliver Brocato built Bustem, a brand-protection service, after copycats nearly bankrupted his chocolate brand",
+      "url": "https://www.youtube.com/watch?v=tyH0ZdITUAA",
+      "publishedAt": "2026-11-08",
+      "outlet": "Matthew Feng",
+      "durationSec": 1548,
+      "views": 96,
+      "topicIds": [
+        "b2b-pricing-growth",
+        "brand-protection"
+      ],
+      "excerpt": "Oliver Brocato explains how counterfeits and copycats nearly bankrupted his chocolate brand, then how he built Bustem to fight them. Bustem is a hybrid of AI automation and human analysts sold as a ro"
+    },
+    {
+      "id": "essay-copycat-brand",
+      "type": "essay",
+      "title": "Copycat brands: how to spot them and five ways to stop them",
+      "url": "https://bustem.com/blog/copycat-brand",
+      "publishedAt": null,
+      "outlet": "bustem.com",
+      "topicIds": [
+        "brand-protection"
+      ],
+      "excerpt": "An essay by Bustem's founder on how to tell original brands from copycats and what to do when you're copied: audit your IP, register trademarks, differentiate on customer focus, confront professionall"
+    },
+    {
+      "id": "essay-how-to-protect-your-brand-from-counterfeits",
+      "type": "essay",
+      "title": "Brand protection: how to defend against counterfeits and copycats",
+      "url": "https://bustem.com/blog/how-to-protect-your-brand-from-counterfeits",
+      "publishedAt": null,
+      "outlet": "bustem.com",
+      "topicIds": [
+        "brand-protection"
+      ],
+      "excerpt": "Bustem founder Oliver Brocato explains how e-commerce brands can defend against counterfeits. Register your IP first, enforce takedowns on platforms rather than litigate, monitor at scale because infr"
+    },
+    {
+      "id": "essay-brand-protection-strategies",
+      "type": "essay",
+      "title": "Brand protection strategies: 13 tactics for defending against copycats and counterfeits",
+      "url": "https://bustem.com/blog/brand-protection-strategies",
+      "publishedAt": null,
+      "outlet": "bustem.com",
+      "topicIds": [
+        "brand-protection"
+      ],
+      "excerpt": "A founder-written checklist for protecting a brand from counterfeits and copycats: register IP and domains, monitor continuously, enforce fast, use AI detection, and revisit the plan regularly. It is "
+    },
+    {
+      "id": "x-1638311356356075526",
+      "type": "x_post",
+      "title": "2.5 months. $13,000. Blood, sweat, and tears. Unveiling the new Tabs site 😱 She’s pretty.",
+      "url": "https://x.com/oliverbrocato/status/1638311356356075526",
+      "publishedAt": "2023-03-21",
+      "outlet": "X",
+      "views": 392868,
+      "topicIds": [],
+      "excerpt": "2.5 months. $13,000. \n\nBlood, sweat, and tears.\n\nUnveiling the new Tabs site 😱\n\nShe’s pretty... But more importantly, she converts like a mf \n\nNo stone was unturned. Strap in as I bring you inside my"
+    },
+    {
+      "id": "x-1687490317509918720",
+      "type": "x_post",
+      "title": "1.5 years ago i dropped out of college to sell sex chocolate on the internet. today, i bec",
+      "url": "https://x.com/oliverbrocato/status/1687490317509918720",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 360697,
+      "topicIds": [],
+      "excerpt": "1.5 years ago i dropped out of college to sell sex chocolate on the internet.\n\ntoday, i became a millionaire.\n\n21 years old.\n\n$1,000,000+ liquid cash.\n\nstrap the fuck in and follow along bc i can tell"
+    },
+    {
+      "id": "x-1684887369160245248",
+      "type": "x_post",
+      "title": "Current Ventures: 🍫 tabs: $1 MILLION a month 📚 studybuddy: $15k/month 🤳 personal brand:",
+      "url": "https://x.com/oliverbrocato/status/1684887369160245248",
+      "publishedAt": "2023-07-28",
+      "outlet": "X",
+      "views": 268412,
+      "topicIds": [],
+      "excerpt": "Current Ventures:  \n\n🍫 tabs: $1 MILLION a month  \n\n📚 studybuddy: $15k/month\n\n🤳 personal brand: $14k/month \n\n ☎️ consulting calls: $8k/month  \n\nstarting to get organized.   \n\nnew hires, project mana"
+    },
+    {
+      "id": "x-2077755885573820871",
+      "type": "x_post",
+      "title": "If ur hiring: ❌ Philipines ❌ Mexico ✅ South Africa - I pay $800 - $2k a month and I get a ",
+      "url": "https://x.com/oliverbrocato/status/2077755885573820871",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 88199,
+      "topicIds": [
+        "hiring-and-focus"
+      ],
+      "excerpt": "If ur hiring:\n\n❌ Philipines\n❌ Mexico\n\n✅ South Africa - I pay $800 - $2k a month and I get a westernized, fluent english, college educated, hardworking + grateful STUD\n\ncarreer24 and pnet are the \"onli"
+    },
+    {
+      "id": "x-1776985437115961845",
+      "type": "x_post",
+      "title": "wanna be successful? just show up. every. single. fucking. day. it’s boring as hell. but t",
+      "url": "https://x.com/oliverbrocato/status/1776985437115961845",
+      "publishedAt": "2024-04-07",
+      "outlet": "X",
+      "views": 42125,
+      "topicIds": [],
+      "excerpt": "wanna be successful?\n\njust show up. every. single. fucking. day.\n\nit’s boring as hell.\n\nbut that’s what it takes."
+    },
+    {
+      "id": "x-2110731932527182334",
+      "type": "x_post",
+      "title": "met an info guy doing $5m/mo. he spends his day in ecom chats studying guys like chad from",
+      "url": "https://x.com/oliverbrocato/status/2110731932527182334",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 51406,
+      "topicIds": [],
+      "excerpt": "met an info guy doing $5m/mo.\n\nhe spends his day in ecom chats studying guys like chad from gruns and hudson from comfrt, then runs a creator army with sideshift and trybe.\n\nbiggest arbitrage in biz i"
+    },
+    {
+      "id": "x-2104208946076803192",
+      "type": "x_post",
+      "title": "this month we cross $500k MRR mind blowing honestly. my startup is bootstrapped - no inves",
+      "url": "https://x.com/oliverbrocato/status/2104208946076803192",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 168171,
+      "topicIds": [],
+      "excerpt": "this month we cross $500k MRR\n\nmind blowing honestly.\n\nmy startup is bootstrapped - no investors\nstarted with $20k a slack channel google sheet and south african virtual assistant\nwe are only 1 year a"
+    },
+    {
+      "id": "x-1629567206383075332",
+      "type": "x_post",
+      "title": "A customer made an unsponsored tiktok about my brand yesterday. 🎥 600k views 💰 $50k+ gen",
+      "url": "https://x.com/oliverbrocato/status/1629567206383075332",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 129259,
+      "topicIds": [],
+      "excerpt": "A customer made an unsponsored tiktok about my brand yesterday. \n\n🎥 600k views\n💰 $50k+ generated\n📈 3x normal conversion rate\n\nWant to see the video and my breakdown⁉️ \n\nLike, RT and comment “send” "
+    },
+    {
+      "id": "x-1663909173778685958",
+      "type": "x_post",
+      "title": "I used to dream about being a \"millionaire\" Today, I hit my first 7 figure month. One mill",
+      "url": "https://x.com/oliverbrocato/status/1663909173778685958",
+      "publishedAt": "2023-05-31",
+      "outlet": "X",
+      "views": 101474,
+      "topicIds": [],
+      "excerpt": "I used to dream about being a \"millionaire\"\n\nToday, I hit my first 7 figure month.\n\nOne million fucking dollars in <30 days at 21 years old.\n\nI stand here as proof that dreams DO come true. \n\nKeep pus"
+    },
+    {
+      "id": "x-1714061471368221016",
+      "type": "x_post",
+      "title": "To date, I’ve spent $36,189 building my micro SAAS. Could’ve bought a Tesla… Decided to st",
+      "url": "https://x.com/oliverbrocato/status/1714061471368221016",
+      "publishedAt": "2023-10-16",
+      "outlet": "X",
+      "views": 334654,
+      "topicIds": [],
+      "excerpt": "To date, I’ve spent $36,189 building my micro SAAS.\n\nCould’ve bought a Tesla… Decided to start another biz 🤷‍♂️\n\n💰currently at $20k MRR and growing nicely\n\n⏰ work ~3 hours a week on it \n\nAll thanks "
+    },
+    {
+      "id": "x-2114356807967953121",
+      "type": "x_post",
+      "title": "no adderall, no vyvanse, no modafinil. tempted by the pill every day but i raw dog life. i",
+      "url": "https://x.com/oliverbrocato/status/2114356807967953121",
+      "publishedAt": "2026-10-25",
+      "outlet": "X",
+      "views": 41480,
+      "topicIds": [],
+      "excerpt": "no adderall, no vyvanse, no modafinil.\n\ntempted by the pill every day but i raw dog life.\n\nif ur a founder with crippling adhd:\n• lift heavy daily\n• meal prep every meal\n• hire an ea\n• time box google"
+    },
+    {
+      "id": "x-1731372419518964061",
+      "type": "x_post",
+      "title": "i had a fucking gigantic problem when i started tabs. i couldn’t scale. i relied on ugc cr",
+      "url": "https://x.com/oliverbrocato/status/1731372419518964061",
+      "publishedAt": "2023-12-03",
+      "outlet": "X",
+      "views": 186952,
+      "topicIds": [
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "i had a fucking gigantic problem when i started tabs.\n\ni couldn’t scale.\n\ni relied on ugc creators to sell the product for me, which worked rlly well… for a while.\n\nit was just fucking IMPOSSIBLE to s"
+    },
+    {
+      "id": "x-1514036781745856518",
+      "type": "x_post",
+      "title": "going viral without getting lucky 🚀 heres how we’ve done 40 MILLION + views and ~$0.5 mil",
+      "url": "https://x.com/oliverbrocato/status/1514036781745856518",
+      "publishedAt": "2022-04-13",
+      "outlet": "X",
+      "topicIds": [
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "going viral without getting lucky 🚀\n\nheres how we’ve done 40 MILLION + views and ~$0.5 million dollars in sales with $0 in adspend (a 🧵)"
+    },
+    {
+      "id": "x-2086905427405812218",
+      "type": "x_post",
+      "title": "How fast someone responds on Slack is usually a pretty damn good indicator of whether they",
+      "url": "https://x.com/oliverbrocato/status/2086905427405812218",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 189062,
+      "topicIds": [],
+      "excerpt": "How fast someone responds on Slack is usually a pretty damn good indicator of whether they’re a killer or a liability."
+    },
+    {
+      "id": "x-2100182017472082133",
+      "type": "x_post",
+      "title": ". @marclou can you remove my biz from Trust MRR entirely? Since posting it, I’ve had 3 clo",
+      "url": "https://x.com/oliverbrocato/status/2100182017472082133",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 111155,
+      "topicIds": [],
+      "excerpt": ". @marclou can you remove my biz from Trust MRR entirely?\n\nSince posting it, I’ve had 3 clones pop up and 2 “ethical hackers” message me saying they found vulnerabilities and want $5k to tell us what "
+    },
+    {
+      "id": "x-1889672700936716415",
+      "type": "x_post",
+      "title": "if only I could build a software that extracts of all ur brands assets (images, text, vide",
+      "url": "https://x.com/oliverbrocato/status/1889672700936716415",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 383920,
+      "topicIds": [],
+      "excerpt": "if only I could build a software that extracts of all ur brands assets (images, text, videos) and scans through billions of site to find bad actors...  \n\nand then streamline the takedown thru one clic"
+    },
+    {
+      "id": "x-1938350695490654552",
+      "type": "x_post",
+      "title": "I built a multimillion-dollar sex chocolate brand off TikTok and sold it for many more mil",
+      "url": "https://x.com/oliverbrocato/status/1938350695490654552",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 75739,
+      "topicIds": [],
+      "excerpt": "I built a multimillion-dollar sex chocolate brand off TikTok and sold it for many more millions, at 21 years young.\n\nAfter the exit, I spotted the next gold rush: AI wrappers. OpenAI opened Pandora’s "
+    },
+    {
+      "id": "x-1732375938908733633",
+      "type": "x_post",
+      "title": "studdybuddy is at $22k MRR and it takes 3 hrs/week to maintain. when tabs was at $22k/mo, ",
+      "url": "https://x.com/oliverbrocato/status/1732375938908733633",
+      "publishedAt": "2023-12-06",
+      "outlet": "X",
+      "views": 177525,
+      "topicIds": [],
+      "excerpt": "studdybuddy is at $22k MRR and it takes 3 hrs/week to maintain.\n\nwhen tabs was at $22k/mo, i was working 14hr days and pouring every dollar i made back into the biz, desperately trying to keep it aliv"
+    },
+    {
+      "id": "x-1635996429520113664",
+      "type": "x_post",
+      "title": "U can't buy this kind of promotion. 🚨If u run a brand, stop scrolling and watch this 25 s",
+      "url": "https://x.com/oliverbrocato/status/1635996429520113664",
+      "publishedAt": "2023-03-15",
+      "outlet": "X",
+      "views": 406471,
+      "topicIds": [],
+      "excerpt": "U can't buy this kind of promotion.\n\n🚨If u run a brand, stop scrolling and watch this 25 second tiktok 🚨\n\nAUTHENTICITY >>> https://t.co/GoaMJfyadH"
+    },
+    {
+      "id": "x-1645628041996140544",
+      "type": "x_post",
+      "title": "🔥 introducing “melting insurance” 🔥 70% take rate. free money 🤑 (we were replacing melt",
+      "url": "https://x.com/oliverbrocato/status/1645628041996140544",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 126634,
+      "topicIds": [],
+      "excerpt": "🔥 introducing “melting insurance” 🔥\n\n70% take rate. \n\nfree money 🤑 (we were replacing melted chocolate at no cost b4- now we print) https://t.co/D3giZsqfNL"
+    },
+    {
+      "id": "x-1981828059474133043",
+      "type": "x_post",
+      "title": "100k/month in ecom means ur poor. - $60K meta ads - $25k COGS - $20K agencies - $2K VAs - ",
+      "url": "https://x.com/oliverbrocato/status/1981828059474133043",
+      "publishedAt": "2025-10-24",
+      "outlet": "X",
+      "views": 193444,
+      "topicIds": [],
+      "excerpt": "100k/month in ecom means ur poor.\n\n- $60K meta ads\n- $25k COGS\n- $20K agencies\n- $2K VAs\n- $5K shopify apps\n\nWhens the course coming BRO?!"
+    },
+    {
+      "id": "x-1985849858616344730",
+      "type": "x_post",
+      "title": "there’s a weird IQ zone nobody talks about too low = NPC too high = overthinking, novelty ",
+      "url": "https://x.com/oliverbrocato/status/1985849858616344730",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 21237,
+      "topicIds": [],
+      "excerpt": "there’s a weird IQ zone nobody talks about\n\ntoo low = NPC\n\ntoo high = overthinking, novelty addiction, shifting every 48 hours, infinite “new ideas”\n\nthe killers luke warm\n\nsmart enough to execute a p"
+    },
+    {
+      "id": "x-1773055889546567777",
+      "type": "x_post",
+      "title": "The team is crumbling. CTO gone. Media buyer gone. Designer gone. One wants to start his o",
+      "url": "https://x.com/oliverbrocato/status/1773055889546567777",
+      "publishedAt": "2024-03-27",
+      "outlet": "X",
+      "views": 261792,
+      "topicIds": [],
+      "excerpt": "The team is crumbling.\n\nCTO gone.\n\nMedia buyer gone.\n\nDesigner gone.\n\nOne wants to start his own biz. Another is too busy with his other projects. One doesn’t have the bandwidth he once did.\n\nThis is "
+    },
+    {
+      "id": "x-2083191201965199583",
+      "type": "x_post",
+      "title": "When u go to a landing page and the first thing is a VSL, buttons are huge, there's an ess",
+      "url": "https://x.com/oliverbrocato/status/2083191201965199583",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 29589,
+      "topicIds": [],
+      "excerpt": "When u go to a landing page and the first thing is a VSL, buttons are huge, there's an essay of text, and tons of customer testimonial screenshots... u already know it's printing money.\n\nOutperforms t"
+    },
+    {
+      "id": "x-1761831730472685856",
+      "type": "x_post",
+      "title": "I spend ~3 hours per week on my micro-saas. Here’s the rev since launch: April: $853 May: ",
+      "url": "https://x.com/oliverbrocato/status/1761831730472685856",
+      "publishedAt": "2024-02-25",
+      "outlet": "X",
+      "views": 106832,
+      "topicIds": [],
+      "excerpt": "I spend ~3 hours per week on my micro-saas.\n\nHere’s the rev since launch:\n\nApril: $853\nMay: $8,984\nJune: $12,366\nJuly: $14,720\nAug: $14,588\nSept: $17,821\nOct: $26,064\nNov: $26,400\nDec: $28k\nJan: $30k\n"
+    },
+    {
+      "id": "x-1720787859131474168",
+      "type": "x_post",
+      "title": "daily routine that took me from my mom’s basement to an $11+ million/year brand: - wake up",
+      "url": "https://x.com/oliverbrocato/status/1720787859131474168",
+      "publishedAt": "2023-11-04",
+      "outlet": "X",
+      "views": 45670,
+      "topicIds": [],
+      "excerpt": "daily routine that took me from my mom’s basement to an $11+ million/year brand:\n\n- wake up\n- grab coffee\n- hammer out my to do list\n- whatever the fuck i want for the rest of the day\n\ngrinding 24/7 i"
+    },
+    {
+      "id": "x-2088052482241102189",
+      "type": "x_post",
+      "title": "I have a tight group of founder friends in NYC. 19-27 years old. All running multi 7-figur",
+      "url": "https://x.com/oliverbrocato/status/2088052482241102189",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 43666,
+      "topicIds": [],
+      "excerpt": "I have a tight group of founder friends in NYC.\n\n19-27 years old. All running multi 7-figure businesses, a few doing 8 figures.\n\nEvery month we send our revenue + profit numbers to Luke.\n\nHe plugs the"
+    },
+    {
+      "id": "x-1725273328523317547",
+      "type": "x_post",
+      "title": "how to make $50k/month: ecom: • 5 teams • 25 employees • do $300k revenue course seller: •",
+      "url": "https://x.com/oliverbrocato/status/1725273328523317547",
+      "publishedAt": "2023-11-16",
+      "outlet": "X",
+      "views": 97691,
+      "topicIds": [],
+      "excerpt": "how to make $50k/month:\n\necom:\n• 5 teams\n• 25 employees\n• do $300k revenue\n\ncourse seller:\n• one tiktok a day\n\ninfo game is crazyyyyyy 🤯"
+    },
+    {
+      "id": "x-1943053090464452739",
+      "type": "x_post",
+      "title": "I made millions selling SEX CHOCOLATE on TikTok at 21. $100K revenue in my first 3 weeks. ",
+      "url": "https://x.com/oliverbrocato/status/1943053090464452739",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 64575,
+      "topicIds": [],
+      "excerpt": "I made millions selling SEX CHOCOLATE on TikTok at 21.\n\n$100K revenue in my first 3 weeks. \n$280K preorders month two. \n8-figure run rate by year 2.\n\nExited at the peak, smashing 7-figure months.\n\nIf "
+    },
+    {
+      "id": "x-1612509523289202688",
+      "type": "x_post",
+      "title": "2 years ago I took a bet. I cleared my savings account to start a \"sex chocolate\" brand. E",
+      "url": "https://x.com/oliverbrocato/status/1612509523289202688",
+      "publishedAt": "2023-01-09",
+      "outlet": "X",
+      "views": 88450,
+      "topicIds": [],
+      "excerpt": "2 years ago I took a bet. \n\nI cleared my savings account to start a \"sex chocolate\" brand.\n\nEveryone thought it was a joke- my friends, family, and esteemed \"business professors\" laughed at me.\n\nOur f"
+    },
+    {
+      "id": "x-1729292461934055874",
+      "type": "x_post",
+      "title": "here are all the businesses i’ve ever started: ❌ smma ❌ dropshipping ❌ knocking on doors ❌",
+      "url": "https://x.com/oliverbrocato/status/1729292461934055874",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 101865,
+      "topicIds": [],
+      "excerpt": "here are all the businesses i’ve ever started:\n\n❌ smma\n❌ dropshipping\n❌ knocking on doors\n❌ selling on etsy & ebay\n✅ tabs ($11+ million)\n\nimagine if I gave up?"
+    },
+    {
+      "id": "x-1696864712166646231",
+      "type": "x_post",
+      "title": "remember. they aren't smarter than u, they've simply spent more time in the arena. 99% get",
+      "url": "https://x.com/oliverbrocato/status/1696864712166646231",
+      "publishedAt": "2023-08-30",
+      "outlet": "X",
+      "views": 35476,
+      "topicIds": [],
+      "excerpt": "remember.\n\nthey aren't smarter than u, they've simply spent more time in the arena. \n\n99% get washed out.\n\nthis is a game of survival. those that can outlast the competition will always win in the end"
+    },
+    {
+      "id": "x-1520170512378433541",
+      "type": "x_post",
+      "title": "every successful entreprneur i’ve ever met has this ONE specific trait. They contain an un",
+      "url": "https://x.com/oliverbrocato/status/1520170512378433541",
+      "publishedAt": "2022-04-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "every successful entreprneur i’ve ever met has this ONE specific trait. They contain an unshakable belief that they r destined for greatness… they might not know what the journey may look like, but th"
+    },
+    {
+      "id": "x-1501966179648290829",
+      "type": "x_post",
+      "title": "We are generating MORE THAN a million views/week on YouTube. Assuming a $5 - $10 CPM, this",
+      "url": "https://x.com/oliverbrocato/status/1501966179648290829",
+      "publishedAt": "2022-03-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We are generating MORE THAN a million views/week on YouTube.\n\nAssuming a $5 - $10 CPM, this equates to about $20k-$40k in value each month.\n\nThe kicker?\n\nWe are doing it for free. $0. Nade. Nelch. And"
+    },
+    {
+      "id": "x-1709011625443733623",
+      "type": "x_post",
+      "title": "hit my first $1k day in SAAS 99.6% NET profit margins. now thats hot. https://t.co/WlTeuRP",
+      "url": "https://x.com/oliverbrocato/status/1709011625443733623",
+      "publishedAt": "2023-10-03",
+      "outlet": "X",
+      "views": 94154,
+      "topicIds": [],
+      "excerpt": "hit my first $1k day in SAAS\n\n99.6% NET profit margins. \n\nnow thats hot. https://t.co/WlTeuRPzws"
+    },
+    {
+      "id": "x-1686436460344332309",
+      "type": "x_post",
+      "title": "studybuddy made $35k+ in revenue COMPLETELY off-season, during the beta-test. 🚀 got nothi",
+      "url": "https://x.com/oliverbrocato/status/1686436460344332309",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 132817,
+      "topicIds": [],
+      "excerpt": "studybuddy made $35k+ in revenue COMPLETELY off-season, during the beta-test. 🚀\n\ngot nothing fancy, just a webfront and a decently functional product.\n\nhere’s my entire playbook/strat for taking this"
+    },
+    {
+      "id": "x-1682812587061264384",
+      "type": "x_post",
+      "title": "the most asked question I get: 'where do I find sick creators.' people out here overcompli",
+      "url": "https://x.com/oliverbrocato/status/1682812587061264384",
+      "publishedAt": "2023-07-22",
+      "outlet": "X",
+      "views": 102612,
+      "topicIds": [],
+      "excerpt": "the most asked question I get: 'where do I find sick creators.'\n\npeople out here overcomplicating the basics. 💁‍♂️. \n\nhere’s a not-so-sexy yet the most efficient way to hire quality creators. \n\n(PS: "
+    },
+    {
+      "id": "x-1731028774211182784",
+      "type": "x_post",
+      "title": "competitor duped my landing page. and I’m fucking fuming. not bc they ripped me off, but b",
+      "url": "https://x.com/oliverbrocato/status/1731028774211182784",
+      "publishedAt": "2023-12-02",
+      "outlet": "X",
+      "views": 109456,
+      "topicIds": [],
+      "excerpt": "competitor duped my landing page.\n\nand I’m fucking fuming.\n\nnot bc they ripped me off, but because they did it better lmao\n\nngl hats off, very well executed.\n\nbest believe I’m taking notes from em."
+    },
+    {
+      "id": "x-1983926897122877787",
+      "type": "x_post",
+      "title": "Congrats, ur TikTok just blew up. You’re popping bottles… thinking you made it. Meanwhile ",
+      "url": "https://x.com/oliverbrocato/status/1983926897122877787",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 63064,
+      "topicIds": [
+        "brand-protection"
+      ],
+      "excerpt": "Congrats, ur TikTok just blew up.\nYou’re popping bottles… thinking you made it.\n\nMeanwhile some 17-year-old in a dorm room just sniped your SKU off Kalodata, messaged “his guy in Shenzhen,” scraped yo"
+    },
+    {
+      "id": "x-1712903510683996179",
+      "type": "x_post",
+      "title": "apprentice/intern ($0-$100k) 🔽 drop shipping ($100k-1m) 🔽 private label ($1-$3m) 🔽 prop",
+      "url": "https://x.com/oliverbrocato/status/1712903510683996179",
+      "publishedAt": "2023-10-13",
+      "outlet": "X",
+      "views": 91569,
+      "topicIds": [],
+      "excerpt": "apprentice/intern ($0-$100k)\n🔽\ndrop shipping ($100k-1m)\n🔽\nprivate label ($1-$3m)\n🔽\nproprietary product ($3m-$__m)\n🔽\nSAAS ($100+ MILLION)\n\nthe path with the least amount of risk and maximum upside "
+    },
+    {
+      "id": "x-1690136336580448266",
+      "type": "x_post",
+      "title": "tested an INCREDIBLY unorthodox channel recently. wasn’t much a fan initially until we gen",
+      "url": "https://x.com/oliverbrocato/status/1690136336580448266",
+      "publishedAt": "2023-08-11",
+      "outlet": "X",
+      "views": 99143,
+      "topicIds": [],
+      "excerpt": "tested an INCREDIBLY unorthodox channel recently.\n\nwasn’t much a fan initially until we generated $63k our FIRST DAY w/ $1300 in spend. 💰\n\nbonkers. dropping the sauce soon.\n\nPS: i can bet no one in t"
+    },
+    {
+      "id": "x-1682587599070810112",
+      "type": "x_post",
+      "title": "one product. one sales channel. three marketing channels. MILLION DOLLAR MONTHS. it's real",
+      "url": "https://x.com/oliverbrocato/status/1682587599070810112",
+      "publishedAt": "2023-07-22",
+      "outlet": "X",
+      "views": 96826,
+      "topicIds": [],
+      "excerpt": "one product. one sales channel. three marketing channels.\n\nMILLION DOLLAR MONTHS.\n\nit's really that simple.\n\nhow to scale to the next level?\n\ngood question (🧵): https://t.co/vkIHFwAHDV"
+    },
+    {
+      "id": "x-1706774229050605977",
+      "type": "x_post",
+      "title": "🔥reality check... EVERY BIZ MODEL IS HARD. I constantly catch myself drifting, thinking a",
+      "url": "https://x.com/oliverbrocato/status/1706774229050605977",
+      "publishedAt": "2023-09-26",
+      "outlet": "X",
+      "views": 39046,
+      "topicIds": [
+        "hiring-and-focus"
+      ],
+      "excerpt": "🔥reality check...\n\nEVERY BIZ MODEL IS HARD.\n\nI constantly catch myself drifting, thinking about other verticals:\n\n- SAAS\n- Info\n- Agency\n\nnonsense. focus on urself king\n\nthe way u get rich is overcom"
+    },
+    {
+      "id": "x-1744089083083653453",
+      "type": "x_post",
+      "title": "tech stack I used to run tabs 👇 -klayvio (email) -one text (sms) -shopify+ -shopify -one ",
+      "url": "https://x.com/oliverbrocato/status/1744089083083653453",
+      "publishedAt": "2024-01-07",
+      "outlet": "X",
+      "views": 53011,
+      "topicIds": [],
+      "excerpt": "tech stack I used to run tabs 👇\n\n-klayvio (email)\n\n-one text (sms)\n\n-shopify+\n\n-shopify\n\n-one click upsells\n\n-trello\n\n-slack\n\n-social snowball (runs your affiliate program)\n\nthis took me from $0 to M"
+    },
+    {
+      "id": "x-1973078112729538960",
+      "type": "x_post",
+      "title": "bro wtf... no shot catalog ads have 4x higher ROAS then UGC. I refuse to believe it.",
+      "url": "https://x.com/oliverbrocato/status/1973078112729538960",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 130134,
+      "topicIds": [],
+      "excerpt": "bro wtf...\n\nno shot catalog ads have 4x higher ROAS then UGC. \n\nI refuse to believe it."
+    },
+    {
+      "id": "x-1676289592398323718",
+      "type": "x_post",
+      "title": "How to go viral without getting lucky⁉️ VOLUME. in the last 1.5 years: 👫 I’ve tested 300+",
+      "url": "https://x.com/oliverbrocato/status/1676289592398323718",
+      "publishedAt": "2023-07-04",
+      "outlet": "X",
+      "views": 84927,
+      "topicIds": [
+        "tiktok-creator-systems"
+      ],
+      "excerpt": "How to go viral without getting lucky⁉️\n\nVOLUME. \n\nin the last 1.5 years:\n👫 I’ve tested 300+ creators\n👀 gotten more than 1 BILLION VIEWS\n💸 generated close to 8 figures in rev\n\nThey call me the god-"
+    },
+    {
+      "id": "x-2071594550968426917",
+      "type": "x_post",
+      "title": "6mos of being locked in can erase a decade of drifting. U just won't believe it until u se",
+      "url": "https://x.com/oliverbrocato/status/2071594550968426917",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 10545,
+      "topicIds": [],
+      "excerpt": "6mos of being locked in can erase a decade of drifting.\n\nU just won't believe it until u see it happen to someone u know.\n\nDon't wait. Start right now."
+    },
+    {
+      "id": "x-1656052984654995458",
+      "type": "x_post",
+      "title": "I hired a google ads “expert” off twitter He sent my Google Ads performance into a tailspi",
+      "url": "https://x.com/oliverbrocato/status/1656052984654995458",
+      "publishedAt": "2023-05-09",
+      "outlet": "X",
+      "views": 140418,
+      "topicIds": [],
+      "excerpt": "I hired a google ads “expert” off twitter\n\nHe sent my Google Ads performance into a tailspin so chaotic…\n\nEven Sherlock Holmes couldn't piece together the shambles of what was once a promising ROI 🤦‍"
+    },
+    {
+      "id": "x-2086240290898354375",
+      "type": "x_post",
+      "title": "The smartest ecom operators eventually leave. They move into SaaS, manufacturing, or agenc",
+      "url": "https://x.com/oliverbrocato/status/2086240290898354375",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 34028,
+      "topicIds": [],
+      "excerpt": "The smartest ecom operators eventually leave.\n\nThey move into SaaS, manufacturing, or agencies.\n\nEcom is over-glamorized.\n\nI said what I said."
+    },
+    {
+      "id": "x-1645095279912263681",
+      "type": "x_post",
+      "title": "My brand is on track to hit $10 million in revenue at 40% NET profit margins this year.🚀 ",
+      "url": "https://x.com/oliverbrocato/status/1645095279912263681",
+      "publishedAt": "2023-04-09",
+      "outlet": "X",
+      "views": 91196,
+      "topicIds": [
+        "personal-brand"
+      ],
+      "excerpt": "My brand is on track to hit $10 million in revenue at 40% NET profit margins this year.🚀\n\nYet, the real shocker? My Twitter account with 19.1k followers, holds even more value.\n\nStap tf in 🧵 https:/"
+    },
+    {
+      "id": "x-1771985140811440212",
+      "type": "x_post",
+      "title": "My micro-saas: -Takes ~3hrs per week -$8,579/month to run -$84k MRR Here’s the number of f",
+      "url": "https://x.com/oliverbrocato/status/1771985140811440212",
+      "publishedAt": "2024-03-24",
+      "outlet": "X",
+      "views": 137625,
+      "topicIds": [],
+      "excerpt": "My micro-saas:\n\n-Takes ~3hrs per week\n-$8,579/month to run\n-$84k MRR\n\nHere’s the number of full time employees since launch:\n\nApril: 0\nMay: 0\nJune: 0\nJuly: 0\nAug: 0\nSept: 0\nOct: 0\nNov: 0\nDec: 0\nJan: 0"
+    },
+    {
+      "id": "x-1701309641311834602",
+      "type": "x_post",
+      "title": "I spent the last 24 hours with a kid that works 15 minutes a day. He also owns 3 business ",
+      "url": "https://x.com/oliverbrocato/status/1701309641311834602",
+      "publishedAt": "2023-09-11",
+      "outlet": "X",
+      "views": 49955,
+      "topicIds": [],
+      "excerpt": "I spent the last 24 hours with a kid that works 15 minutes a day.\n\nHe also owns 3 business and makes millions of dollars\n\nIt honestly made me upset. \n\nWtf am I doing wrong? \n\nThe rich work hard. \n\nThe"
+    },
+    {
+      "id": "x-2102186866481209361",
+      "type": "x_post",
+      "title": "I just spent $10k to redo my entire website \"but bro u could one shot it urself with claud",
+      "url": "https://x.com/oliverbrocato/status/2102186866481209361",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 29654,
+      "topicIds": [],
+      "excerpt": "I just spent $10k to redo my entire website\n\n\"but bro u could one shot it urself with claude\"\n\nid rather pay the professional.\n\nI just now expect 8 times the output at 1/5th the timeline it used to ta"
+    },
+    {
+      "id": "x-1751383902587965658",
+      "type": "x_post",
+      "title": "i started tabs over 3 years ago. and i only paid myself for the first time in january. for",
+      "url": "https://x.com/oliverbrocato/status/1751383902587965658",
+      "publishedAt": "2024-01-27",
+      "outlet": "X",
+      "views": 86189,
+      "topicIds": [],
+      "excerpt": "i started tabs over 3 years ago.\n\nand i only paid myself for the first time in january.\n\nfor YEARS, i was living on ramen & sofa-surfing at friends places.\n\nmy buddy invited to out on a boat in miami…"
+    },
+    {
+      "id": "x-2085153379236671942",
+      "type": "x_post",
+      "title": "This year I: - Spent $45k with Hormozi + ACQ on coaching to scale my business - Joined a $",
+      "url": "https://x.com/oliverbrocato/status/2085153379236671942",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 37180,
+      "topicIds": [],
+      "excerpt": "This year I:\n\n- Spent $45k with Hormozi + ACQ on coaching to scale my business\n- Joined a $30k agency mastermind\n- Hired a $1k/month nutritionist\n- Hired a $300/hour therapist\n- Brought on a mentor/ad"
+    },
+    {
+      "id": "x-2114507802500911218",
+      "type": "x_post",
+      "title": "hot take: most founders that raise money are incompetent and soft. they get completely lap",
+      "url": "https://x.com/oliverbrocato/status/2114507802500911218",
+      "publishedAt": "2026-10-26",
+      "outlet": "X",
+      "views": 15440,
+      "topicIds": [],
+      "excerpt": "hot take: most founders that raise money are incompetent and soft.\n\nthey get completely lapped by former dropship demons who actually know how to bootstrap."
+    },
+    {
+      "id": "x-2103274030405214629",
+      "type": "x_post",
+      "title": "if ur a ceo or founder I strongly reccomend you - leave 90% of the slack channels ur in - ",
+      "url": "https://x.com/oliverbrocato/status/2103274030405214629",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 37346,
+      "topicIds": [
+        "hiring-and-focus"
+      ],
+      "excerpt": "if ur a ceo or founder I strongly reccomend you\n\n- leave 90% of the slack channels ur in\n- go on vacation for three weeks without working\n- stop going to 90% of ur meetings\n- work less BUT prioritize "
+    },
+    {
+      "id": "x-2118809648702931106",
+      "type": "x_post",
+      "title": "had a head of growth on a paid month trial at the end of 30 days I was going to present hi",
+      "url": "https://x.com/oliverbrocato/status/2118809648702931106",
+      "publishedAt": "2026-11-06",
+      "outlet": "X",
+      "views": 24670,
+      "topicIds": [],
+      "excerpt": "had a head of growth on a paid month trial\n\nat the end of 30 days I was going to present him a DAMN good offer.\n\ndidnt even get to talk numbers\n\nsaid he wants to run his own biz.\n\nmy mentor Dibo once "
+    },
+    {
+      "id": "x-2100314027620807098",
+      "type": "x_post",
+      "title": "Must be nice running an SEO agency. Post some blogs. Buy some backlinks. Send a fancy mont",
+      "url": "https://x.com/oliverbrocato/status/2100314027620807098",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 31990,
+      "topicIds": [],
+      "excerpt": "Must be nice running an SEO agency.\n\nPost some blogs. Buy some backlinks. Send a fancy monthly report. LARP.\n\nBest part?\n\nClient is clueless about progress as it takes 9+ months to know if it’s anythi"
+    },
+    {
+      "id": "x-2092698775517053192",
+      "type": "x_post",
+      "title": "theres an ecom brand running a literal boiler room of cold callers in Miami. the second a ",
+      "url": "https://x.com/oliverbrocato/status/2092698775517053192",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 57215,
+      "topicIds": [],
+      "excerpt": "theres an ecom brand running a literal boiler room of cold callers in Miami.\n\nthe second a customer checks out, they dial.\n\ndont pick up? they text saying they need a call back about the order and its"
+    },
+    {
+      "id": "x-2104300796351500415",
+      "type": "x_post",
+      "title": "I'll never forget what it felt like hiring - my first VA $3/hour from the Philipines - my ",
+      "url": "https://x.com/oliverbrocato/status/2104300796351500415",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 25002,
+      "topicIds": [],
+      "excerpt": "I'll never forget what it felt like hiring\n\n- my first VA $3/hour from the Philipines\n- my first real employee from estern Europe $5k/month\n- my first US based guy for $130k/year\n- my first engineer f"
+    },
+    {
+      "id": "x-2089502285428937210",
+      "type": "x_post",
+      "title": "people will say ANYTHING in a job interview “I’m a workaholic” “I love working” “I work we",
+      "url": "https://x.com/oliverbrocato/status/2089502285428937210",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 27147,
+      "topicIds": [
+        "hiring-and-focus"
+      ],
+      "excerpt": "people will say ANYTHING in a job interview\n\n“I’m a workaholic”\n“I love working”\n“I work weekends”\n“I want to move FAST”\n\n30 days later:\n\n- doesn’t respond on weekends\n- 90 min lunches\n- 4 walks a day"
+    },
+    {
+      "id": "x-2077120453089669478",
+      "type": "x_post",
+      "title": "everyone loves the “$0 → $400k MRR in 18 months.” nobody talks about: - buying out a cofou",
+      "url": "https://x.com/oliverbrocato/status/2077120453089669478",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 26682,
+      "topicIds": [],
+      "excerpt": "everyone loves the “$0 → $400k MRR in 18 months.”\n\nnobody talks about:\n\n- buying out a cofounder for six figures when we had no money\n- hiring a CTO whose salary was higher than our revenue (not profi"
+    },
+    {
+      "id": "x-2088778012783481055",
+      "type": "x_post",
+      "title": "Spoke to a broker today. He told me we could probably get 12-15x EBITDA right now. ~$30M. ",
+      "url": "https://x.com/oliverbrocato/status/2088778012783481055",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 87214,
+      "topicIds": [],
+      "excerpt": "Spoke to a broker today.\n\nHe told me we could probably get 12-15x EBITDA right now.\n\n~$30M.\n\nCool.\n\nBut there’s still so much low-hanging fruit:\n\n- Introducing CSMs\n- Launching a second product\n- Auto"
+    },
+    {
+      "id": "x-2071549998068580569",
+      "type": "x_post",
+      "title": "**make $1m/month 10x ur goals young man. I promise the more rich people u meet the more u ",
+      "url": "https://x.com/oliverbrocato/status/2071549998068580569",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 26707,
+      "topicIds": [],
+      "excerpt": "**make $1m/month\n\n10x ur goals young man. \n\nI promise the more rich people u meet the more u will realize how it’s actually not as remarkable as u imagine."
+    },
+    {
+      "id": "x-2091978099084914944",
+      "type": "x_post",
+      "title": "The further I get in business, the more I realize it really just comes down to hiring unbe",
+      "url": "https://x.com/oliverbrocato/status/2091978099084914944",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 23150,
+      "topicIds": [
+        "hiring-and-focus"
+      ],
+      "excerpt": "The further I get in business, the more I realize it really just comes down to hiring unbelievable people."
+    },
+    {
+      "id": "x-2116908127090254077",
+      "type": "x_post",
+      "title": "the sexy shit behind the scenes is so boring - i now eat 4 eggs for breakfast, meal prep f",
+      "url": "https://x.com/oliverbrocato/status/2116908127090254077",
+      "publishedAt": "2026-11-01",
+      "outlet": "X",
+      "views": 24357,
+      "topicIds": [],
+      "excerpt": "the sexy shit behind the scenes is so boring\n\n- i now eat 4 eggs for breakfast, meal prep for lunch/dinner and a protein bar every day of the week\n- i follow an app and lift\n- I work 5 days a week wit"
+    },
+    {
+      "id": "x-2115595223934087438",
+      "type": "x_post",
+      "title": "friend paid a creator $5k for 8 videos. she scripted, he sent b-roll and read the voiceove",
+      "url": "https://x.com/oliverbrocato/status/2115595223934087438",
+      "publishedAt": "2026-10-29",
+      "outlet": "X",
+      "views": 29082,
+      "topicIds": [],
+      "excerpt": "friend paid a creator $5k for 8 videos.\n\nshe scripted, he sent b-roll and read the voiceover, she edited.\n\nfirst video: 130k views and gary vee in his dms.\n\ninsane roi. https://t.co/ZGkeuDcHH3"
+    },
+    {
+      "id": "x-1744376946618769472",
+      "type": "x_post",
+      "title": "every successful entrepreneur has seriously struggled. nobody has ever gone from $0 to mil",
+      "url": "https://x.com/oliverbrocato/status/1744376946618769472",
+      "publishedAt": "2024-01-08",
+      "outlet": "X",
+      "views": 19448,
+      "topicIds": [],
+      "excerpt": "every successful entrepreneur has seriously struggled.\n\nnobody has ever gone from $0 to millions without constant mental warfare. it’s all one big battle against your mind.\n\nas soon as u choose entrep"
+    },
+    {
+      "id": "x-2071208390588563580",
+      "type": "x_post",
+      "title": "met a guy worth $300M who has 40K followers on X and launched 12 service based businesses ",
+      "url": "https://x.com/oliverbrocato/status/2071208390588563580",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 22606,
+      "topicIds": [],
+      "excerpt": "met a guy worth $300M who has 40K followers on X and launched 12 service based businesses off the back of it. CEO operator for each one. same playbook. rinse and repeat. twelve times.\n\nhormozi is my g"
+    },
+    {
+      "id": "x-2109754366467145928",
+      "type": "x_post",
+      "title": "what people saw on ig: - st regis hotel - pool + beach in mexico what people didn't see: -",
+      "url": "https://x.com/oliverbrocato/status/2109754366467145928",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 22250,
+      "topicIds": [],
+      "excerpt": "what people saw on ig:\n- st regis hotel\n- pool + beach in mexico\n\nwhat people didn't see:\n- sales guy quit\n- 3 team members asking for raises\n- new hire thinks our churn is 3x higher than reported\n- g"
+    },
+    {
+      "id": "x-2072113872610464251",
+      "type": "x_post",
+      "title": "at 21, i was doing $1M/month in ecom. at 24, my SaaS just hit $410K MRR. if you offered me",
+      "url": "https://x.com/oliverbrocato/status/2072113872610464251",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 14747,
+      "topicIds": [
+        "b2b-pricing-growth"
+      ],
+      "excerpt": "at 21, i was doing $1M/month in ecom.\n\nat 24, my SaaS just hit $410K MRR.\n\nif you offered me a $1M/month ecom brand or a $100K MRR SaaS today, i'd take the SaaS every single time.\n\nhere's why:\n\n1. pre"
+    },
+    {
+      "id": "x-2082254275997290527",
+      "type": "x_post",
+      "title": "man to man u dont need a cofounder u need: - one KILLER right hand man - a therapist - a f",
+      "url": "https://x.com/oliverbrocato/status/2082254275997290527",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 21105,
+      "topicIds": [],
+      "excerpt": "man to man\n\nu dont need a cofounder\n\nu need:\n- one KILLER right hand man\n- a therapist\n- a founder group of 7 others that u meet with once a month (for me thats Hampton by @thesamparr )"
+    },
+    {
+      "id": "x-2096237415941988664",
+      "type": "x_post",
+      "title": "For the last year and a half, I’ve been locked tf in. No vacation. At the battle station (",
+      "url": "https://x.com/oliverbrocato/status/2096237415941988664",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 20626,
+      "topicIds": [],
+      "excerpt": "For the last year and a half, I’ve been locked tf in.\n\nNo vacation.\n\nAt the battle station (my computer) from 9am to 7pm, Monday through Friday.\n\nSince September 20th, I’ve been traveling Europe, cloc"
+    },
+    {
+      "id": "x-2101309335670542535",
+      "type": "x_post",
+      "title": "Im so torn I see the power of content and personal brand. Its the ultimate moat and differ",
+      "url": "https://x.com/oliverbrocato/status/2101309335670542535",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 28439,
+      "topicIds": [],
+      "excerpt": "Im so torn\n\nI see the power of content and personal brand. Its the ultimate moat and differentiator.\n\nBut also, I dont wanto shake ass on IG and Tiktok - ho'ing for views.\n\nShould I full send it?\n\nAnd"
+    },
+    {
+      "id": "x-2072334568883937629",
+      "type": "x_post",
+      "title": "hot take: most founders using AI tools rn are cosplaying as operators. ur ai agent sending",
+      "url": "https://x.com/oliverbrocato/status/2072334568883937629",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 10898,
+      "topicIds": [],
+      "excerpt": "hot take: most founders using AI tools rn are cosplaying as operators.\n\nur ai agent sending weekly reports in slack that nobody reads\n\nur 23 page memo claude wrote in 4 seconds\n\nur chatbot that halluc"
+    },
+    {
+      "id": "x-2082206700388360270",
+      "type": "x_post",
+      "title": "NEVER EVER ACCEPT FREE WORK EVER. U ALWAYS PAY. WITH TIME OR HEADACHE https://t.co/mXfdauU",
+      "url": "https://x.com/oliverbrocato/status/2082206700388360270",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 20759,
+      "topicIds": [],
+      "excerpt": "NEVER EVER ACCEPT FREE WORK\n\nEVER.\n\nU ALWAYS PAY. \n\nWITH TIME OR HEADACHE https://t.co/mXfdauUwUn"
+    },
+    {
+      "id": "x-2063047720156483932",
+      "type": "x_post",
+      "title": "The 17yo who just launched an ugly Shopify store and is testing 10 creatives a week will a",
+      "url": "https://x.com/oliverbrocato/status/2063047720156483932",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 8684,
+      "topicIds": [],
+      "excerpt": "The 17yo who just launched an ugly Shopify store and is testing 10 creatives a week will always outpace the 27yo who spent 6 months \"building the brand\""
+    },
+    {
+      "id": "x-2116530640208400404",
+      "type": "x_post",
+      "title": "hardest part of being a founder is managing ur own emotions. client threatening to churn, ",
+      "url": "https://x.com/oliverbrocato/status/2116530640208400404",
+      "publishedAt": "2026-10-31",
+      "outlet": "X",
+      "views": 8058,
+      "topicIds": [],
+      "excerpt": "hardest part of being a founder is managing ur own emotions.\n\nclient threatening to churn, sales guy botching a call, team member demanding a raise, electricity turning off.\n\nit is an endless test of "
+    },
+    {
+      "id": "x-2111244802541199420",
+      "type": "x_post",
+      "title": "\"dont just throw money at the problem\" is pure poverty mindset. 9/10 times throwing money ",
+      "url": "https://x.com/oliverbrocato/status/2111244802541199420",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 5727,
+      "topicIds": [],
+      "excerpt": "\"dont just throw money at the problem\" is pure poverty mindset.\n\n9/10 times throwing money at the problem fixes it.\n\nur fat? hire a trainer and nutritionist.\nchurn too high? hire a killer csm.\n\nmoney "
+    },
+    {
+      "id": "x-2105386701640380455",
+      "type": "x_post",
+      "title": "i used to hire anyone with a pulse. one round interview and it was \"welcome to the team!\" ",
+      "url": "https://x.com/oliverbrocato/status/2105386701640380455",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 11671,
+      "topicIds": [],
+      "excerpt": "i used to hire anyone with a pulse.\n\none round interview and it was \"welcome to the team!\"\n\nthen i'd throw em straight into the fire with no manager, no onboarding, and no ramp up.\n\ntook half my team "
+    },
+    {
+      "id": "x-2080442089243033686",
+      "type": "x_post",
+      "title": "hit $410k/mo last month. record month. same headcount as when we were doing $180k. not a s",
+      "url": "https://x.com/oliverbrocato/status/2080442089243033686",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 17894,
+      "topicIds": [],
+      "excerpt": "hit $410k/mo last month. record month.\n\nsame headcount as when we were doing $180k. not a single new hire.\n\n3x the rev but same team.\n\nI'm going to get to a $1m/month by hiring a:\n\n- Dev\n- CSM\n- Partn"
+    },
+    {
+      "id": "x-2110461390263910751",
+      "type": "x_post",
+      "title": "Hormozi said something that really stuck with me \"if you arent tracking it, u dont care ab",
+      "url": "https://x.com/oliverbrocato/status/2110461390263910751",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 6810,
+      "topicIds": [],
+      "excerpt": "Hormozi said something that really stuck with me\n\n\"if you arent tracking it, u dont care about it\"\n\nWe track 100 different internal metrics and KPI's every week and spend 1 hour with all the leaders r"
+    },
+    {
+      "id": "x-2063954261776687324",
+      "type": "x_post",
+      "title": "I've been broke. I've been a millionaire. Here's what nobody tells u about money: At $0 ur",
+      "url": "https://x.com/oliverbrocato/status/2063954261776687324",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 9123,
+      "topicIds": [],
+      "excerpt": "I've been broke. I've been a millionaire.\n\nHere's what nobody tells u about money:\n\nAt $0 ur scared ur never gonna make enough.\nAt $100K ur scared of losing it all.\nAt $1M ur scared it was a fluke.\nAt"
+    },
+    {
+      "id": "x-2071356396453442045",
+      "type": "x_post",
+      "title": "my anti counterfeit software, bustem, went from 0 to $400k MRR in 18 months but u gotta un",
+      "url": "https://x.com/oliverbrocato/status/2071356396453442045",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 51552,
+      "topicIds": [],
+      "excerpt": "my anti counterfeit software, bustem, went from 0 to $400k MRR in 18 months\n\nbut u gotta understand i was doing $100k days in ecom at 21 years old.\n\nim not celebrating till we break a $1m/month. \n\nim "
+    },
+    {
+      "id": "x-2106896651151700224",
+      "type": "x_post",
+      "title": "this one is going to ruffle some feathers but I dont really understand why there are a lot",
+      "url": "https://x.com/oliverbrocato/status/2106896651151700224",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 44882,
+      "topicIds": [],
+      "excerpt": "this one is going to ruffle some feathers but I dont really understand why there are a lot of consumer ecom founders that spend all day on twitter and building perosnal brands\n\nlike for b2b is everyth"
+    },
+    {
+      "id": "x-2105749341315199458",
+      "type": "x_post",
+      "title": "Before I exited, my ecom brand was doing $1m/month + I was 21 years old. I had very little",
+      "url": "https://x.com/oliverbrocato/status/2105749341315199458",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 13741,
+      "topicIds": [],
+      "excerpt": "Before I exited, my ecom brand was doing $1m/month +\n\nI was 21 years old.\n\nI had very little experience, money, connections, skill\n\nI'm now 24 and im on my second biz, bustem.\n\nAbout 2 years in and we"
+    },
+    {
+      "id": "x-2082556265520308578",
+      "type": "x_post",
+      "title": "STARTING A B2B SOFTWARE BIZ IS RETARDED V1: agency it. human va's. real people. sell the r",
+      "url": "https://x.com/oliverbrocato/status/2082556265520308578",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 11047,
+      "topicIds": [],
+      "excerpt": "STARTING A B2B SOFTWARE BIZ IS RETARDED\n\nV1: agency it. human va's. real people. sell the result not the delivery vehicle\nV2: 50% SAAS 50% human in the loop\nV3: 99% SAAS 1% human\n\nU dont need to raise"
+    },
+    {
+      "id": "x-2110008189035143670",
+      "type": "x_post",
+      "title": "I reached out my biggest competior connected w the founder on linkedin - had a 1 hour call",
+      "url": "https://x.com/oliverbrocato/status/2110008189035143670",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 13394,
+      "topicIds": [],
+      "excerpt": "I reached out my biggest competior\n\nconnected w the founder on linkedin - had a 1 hour call (was supposed to be 15 min) and now meeting w him today in nyc\n\n$90 million raised\n\nharvard / harvard law / "
+    },
+    {
+      "id": "x-2111910438086836459",
+      "type": "x_post",
+      "title": "turning oliver brocato into an actual media company. daily output: 3x tweets 1x linkedin 1",
+      "url": "https://x.com/oliverbrocato/status/2111910438086836459",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 13088,
+      "topicIds": [],
+      "excerpt": "turning oliver brocato into an actual media company.\n\ndaily output:\n3x tweets\n1x linkedin\n1x ig reel\n1x youtube long form\n\nbustem gets inbound leads. i get advising, equity stakes, hiring, and access "
+    },
+    {
+      "id": "x-2089140400615510469",
+      "type": "x_post",
+      "title": "Try to get a 6 pack overnight and you’ll starve yourself, binge, and end up worse off. Try",
+      "url": "https://x.com/oliverbrocato/status/2089140400615510469",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 29697,
+      "topicIds": [],
+      "excerpt": "Try to get a 6 pack overnight and you’ll starve yourself, binge, and end up worse off.\n\nTry to get rich overnight and you’ll probably do the same shit.\n\nReminder to myself + anyone reading:\n\nSlow tf d"
+    },
+    {
+      "id": "x-2085818008363319475",
+      "type": "x_post",
+      "title": "Full-time content creators for consumer brands are already a thing. For B2B? Barely. Soon ",
+      "url": "https://x.com/oliverbrocato/status/2085818008363319475",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 35371,
+      "topicIds": [],
+      "excerpt": "Full-time content creators for consumer brands are already a thing.\n\nFor B2B? Barely.\n\nSoon every insurance company, bank, agency, SaaS company, and B2B service business will have a full-time content "
+    },
+    {
+      "id": "x-2084065711627076013",
+      "type": "x_post",
+      "title": "I met an autistic savant at an event last night he vibe coded a competior to my friends sa",
+      "url": "https://x.com/oliverbrocato/status/2084065711627076013",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 19714,
+      "topicIds": [],
+      "excerpt": "I met an autistic savant at an event last night\n\nhe vibe coded a competior to my friends saas in a weekend that is honestly better.\n\nmy buddy has a team of 7 engineers and raised $4m.\n\nis this the fut"
+    },
+    {
+      "id": "x-2112695108131066261",
+      "type": "x_post",
+      "title": "get views = get rich onlyfans course guru consumer apps ecom b2b SAAS - yes even b2b SAAS ",
+      "url": "https://x.com/oliverbrocato/status/2112695108131066261",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 7399,
+      "topicIds": [],
+      "excerpt": "get views = get rich\n\nonlyfans\ncourse guru\nconsumer apps\necom\nb2b SAAS - yes even b2b SAAS\n\nits starting to become main stream, but people who know how to get views have the most valuable skill more t"
+    },
+    {
+      "id": "x-2099649648726290839",
+      "type": "x_post",
+      "title": "I don’t really love creating content. 1. it’s performative. you start living your life thi",
+      "url": "https://x.com/oliverbrocato/status/2099649648726290839",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 11641,
+      "topicIds": [],
+      "excerpt": "I don’t really love creating content.\n\n1. it’s performative. you start living your life thinking about how you’ll post it\n2. performance is brutally black and white. 10 likes = you suck. 10k = you’re "
+    },
+    {
+      "id": "x-2079718567394808131",
+      "type": "x_post",
+      "title": "just got off a call with a guy who runs a portfolio of 18 shopify brands. dude out of Chin",
+      "url": "https://x.com/oliverbrocato/status/2079718567394808131",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 17120,
+      "topicIds": [],
+      "excerpt": "just got off a call with a guy who runs a portfolio of 18 shopify brands.\n\ndude out of China.\n\nhis portfolio is losing $80-90K/mo to counterfeits.\n\nhe's comparing us to some $1K/mo service even tho th"
+    },
+    {
+      "id": "x-2114870190685237254",
+      "type": "x_post",
+      "title": "biggest mistake i made was being too public with numbers. sharing rev and profit gets like",
+      "url": "https://x.com/oliverbrocato/status/2114870190685237254",
+      "publishedAt": "2026-10-27",
+      "outlet": "X",
+      "views": 10873,
+      "topicIds": [],
+      "excerpt": "biggest mistake i made was being too public with numbers.\n\nsharing rev and profit gets likes, but:\n• team members start comparing and want raises\n• indie hackers spin up copycat competitors overnight\n"
+    },
+    {
+      "id": "x-2104571077779488789",
+      "type": "x_post",
+      "title": "I think i've come to the conclusion i must go deeper into personal brand I dont wanto but ",
+      "url": "https://x.com/oliverbrocato/status/2104571077779488789",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 13636,
+      "topicIds": [],
+      "excerpt": "I think i've come to the conclusion i must go deeper into personal brand\n\nI dont wanto but I do see it as one of the highest leverage things I can do\n\nHiring a content creator to run point"
+    },
+    {
+      "id": "x-2106172126915072473",
+      "type": "x_post",
+      "title": "so i got my first office creates unbelievable leverage - come cowork out of my place - com",
+      "url": "https://x.com/oliverbrocato/status/2106172126915072473",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 9360,
+      "topicIds": [],
+      "excerpt": "so i got my first office\n\ncreates unbelievable leverage\n\n- come cowork out of my place\n- come stop by for a meeting\n\nbuilds reputation, trust, its undeniable proof\n\nu can fake a stripe screenshot.\n\nu "
+    },
+    {
+      "id": "x-2089442141462569421",
+      "type": "x_post",
+      "title": "Escape velocity is everything. If you can stack a few M’s young, invest it, and let it com",
+      "url": "https://x.com/oliverbrocato/status/2089442141462569421",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 9389,
+      "topicIds": [],
+      "excerpt": "Escape velocity is everything.\n\nIf you can stack a few M’s young, invest it, and let it compound untouched for 20+ years…\n\nYou’re playing a completely different game.\n\nOther people can make more. Life"
+    },
+    {
+      "id": "x-2115080829219246298",
+      "type": "x_post",
+      "title": "u cant skip the boring work: • workout 6x a week • 3 tweets a day • 1 linkedin post a day ",
+      "url": "https://x.com/oliverbrocato/status/2115080829219246298",
+      "publishedAt": "2026-10-27",
+      "outlet": "X",
+      "views": 4908,
+      "topicIds": [],
+      "excerpt": "u cant skip the boring work:\n• workout 6x a week\n• 3 tweets a day\n• 1 linkedin post a day\n• 1 ig a day\n• weekly all hands\n• weekly ceo dash\n\nconsistency compounds. this is literally how u win."
+    },
+    {
+      "id": "x-2084006323340091694",
+      "type": "x_post",
+      "title": "We closed 9 clients last week. 47% close rate. 1 nine figgy brand 4 eight figure brands 3 ",
+      "url": "https://x.com/oliverbrocato/status/2084006323340091694",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 7872,
+      "topicIds": [],
+      "excerpt": "We closed 9 clients last week. 47% close rate.\n\n1 nine figgy brand\n4 eight figure brands\n3 seven fig brands\n\nWE ARE COOKING 🧑‍🍳"
+    },
+    {
+      "id": "x-2083552832742162624",
+      "type": "x_post",
+      "title": "I spoke to the CFO of a supplement brand that does $1 billion + in annual rev Showed him a",
+      "url": "https://x.com/oliverbrocato/status/2083552832742162624",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 13088,
+      "topicIds": [],
+      "excerpt": "I spoke to the CFO of a supplement brand that does $1 billion + in annual rev\n\nShowed him an audit of what we found:\n- 200 bad actors across amazon, alibaba, ebay, wlamart\n- 8 stand alone 1:1 website "
+    },
+    {
+      "id": "x-2080655239536066753",
+      "type": "x_post",
+      "title": "had two team members quit both within two weeks - they got better offers from bigger compa",
+      "url": "https://x.com/oliverbrocato/status/2080655239536066753",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 19372,
+      "topicIds": [],
+      "excerpt": "had two team members quit both within two weeks - they got better offers from bigger companies\n\ni took it v personaly - i really felt like a failure.\n\nand then i heard from a friend who works at multi"
+    },
+    {
+      "id": "x-2106836760131174442",
+      "type": "x_post",
+      "title": "As I approach $10m ARR (currently at $7m) I am starting to pick me head up from the hustle",
+      "url": "https://x.com/oliverbrocato/status/2106836760131174442",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 7613,
+      "topicIds": [],
+      "excerpt": "As I approach $10m ARR (currently at $7m) I am starting to pick me head up from the hustle and ask myself\n\nwhat if my vision\nwhat is my plan\nwhat is the stratgegy\n\nQ4 we run an offsite and plan for th"
+    },
+    {
+      "id": "x-2087902746947289507",
+      "type": "x_post",
+      "title": "I’m in a mastermind for agency owners doing $1M+/year. Costs me $30k/year. We meet in pers",
+      "url": "https://x.com/oliverbrocato/status/2087902746947289507",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 8828,
+      "topicIds": [],
+      "excerpt": "I’m in a mastermind for agency owners doing $1M+/year.\n\nCosts me $30k/year. We meet in person every quarter.\n\nLast one I picked up the $250k/month trophy.\n\nNext one in Mexico, I’m collecting $500k/mon"
+    },
+    {
+      "id": "x-2063713355765084664",
+      "type": "x_post",
+      "title": "Nothing humbles u faster than a bad month after ur best month. Ur business doesn't care ab",
+      "url": "https://x.com/oliverbrocato/status/2063713355765084664",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 5456,
+      "topicIds": [],
+      "excerpt": "Nothing humbles u faster than a bad month after ur best month.\n\nUr business doesn't care about ur momentum.\n\nIt resets every 30 days."
+    },
+    {
+      "id": "x-2083281796905746874",
+      "type": "x_post",
+      "title": "every brand has the same minimilist branding, landing page, not funny lil dad jokes and pu",
+      "url": "https://x.com/oliverbrocato/status/2083281796905746874",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 6714,
+      "topicIds": [],
+      "excerpt": "every brand has the same minimilist branding, landing page, not funny lil dad jokes and puns and afraid to innovate\n\nusing the playbook from 5 years ago and wondering why theyre not making money\n\nHere"
+    },
+    {
+      "id": "x-2083915988089577803",
+      "type": "x_post",
+      "title": "when i bring agencies on I now have a clause “we need X booked calls min a month” if they ",
+      "url": "https://x.com/oliverbrocato/status/2083915988089577803",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 12959,
+      "topicIds": [],
+      "excerpt": "when i bring agencies on I now have a clause\n\n“we need X booked calls min a month” \n\nif they don’t hit it, they keep working “for free” until they rebill u for next cycle. \n\none line, derisk ur entire"
+    },
+    {
+      "id": "x-2087630702733136238",
+      "type": "x_post",
+      "title": "The biggest thing holding me back was hiring. So I hired a world-class talent acquisition ",
+      "url": "https://x.com/oliverbrocato/status/2087630702733136238",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 6935,
+      "topicIds": [],
+      "excerpt": "The biggest thing holding me back was hiring.\n\nSo I hired a world-class talent acquisition specialist.\n\n2 weeks in and I already know this was the unlock.\n\nWe’re about to double headcount in 3 months."
+    },
+    {
+      "id": "x-2102488604924924299",
+      "type": "x_post",
+      "title": "I protect myself and energy - NO 15 min pick my brain meetings - I dont have any reports t",
+      "url": "https://x.com/oliverbrocato/status/2102488604924924299",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 17682,
+      "topicIds": [],
+      "excerpt": "I protect myself and energy\n\n- NO 15 min pick my brain meetings\n- I dont have any reports that are poeple are not smart\n- I removed myself from the mjority of internal and external slack channels\n- I "
+    },
+    {
+      "id": "x-2084368457064452226",
+      "type": "x_post",
+      "title": "I grew from 0 to 55k followers on X I have also generated companies millionds of dollars i",
+      "url": "https://x.com/oliverbrocato/status/2084368457064452226",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 35696,
+      "topicIds": [],
+      "excerpt": "I grew from 0 to 55k followers on X\n\nI have also generated companies millionds of dollars in closed rev and made close to $1m myself as an affiliate\n\nOver the last year and a half I have used my twitt"
+    },
+    {
+      "id": "x-2063667051034763766",
+      "type": "x_post",
+      "title": "Six months into Bustem I was gonna dip. The business was cooked: > Clients churning > Blee",
+      "url": "https://x.com/oliverbrocato/status/2063667051034763766",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 8666,
+      "topicIds": [],
+      "excerpt": "Six months into Bustem I was gonna dip.\n\nThe business was cooked:\n> Clients churning\n> Bleeding $20K/month\n> 3 bad hires back-to-back.\n> MRR flatlining\n> CAC up 40%\n\nWrote out a pivot plan. New market"
+    },
+    {
+      "id": "x-2099560679770382400",
+      "type": "x_post",
+      "title": "i think the secret to building a following on social media. be it X, linkedin, IG, tiktok,",
+      "url": "https://x.com/oliverbrocato/status/2099560679770382400",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 8784,
+      "topicIds": [],
+      "excerpt": "i think the secret to building a following on social media.\n\nbe it X, linkedin, IG, tiktok, Youtube is being in tune\n\nI see so many people build strategies, content pillars, frameworks and formulas. \n"
+    },
+    {
+      "id": "x-2086089547780354550",
+      "type": "x_post",
+      "title": "So much shit can literally be solved by just doing the thing you’re putting off. And usual",
+      "url": "https://x.com/oliverbrocato/status/2086089547780354550",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 4759,
+      "topicIds": [],
+      "excerpt": "So much shit can literally be solved by just doing the thing you’re putting off.\n\nAnd usually the thing isn’t even hard.\n\nStarting is the hard part.\n\nJust start.\n\nThe rest tends to fall into place."
+    },
+    {
+      "id": "x-2080292349369008440",
+      "type": "x_post",
+      "title": "walked into a conference last month. 26 brands on the attendee list. ran brand protection ",
+      "url": "https://x.com/oliverbrocato/status/2080292349369008440",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 8586,
+      "topicIds": [],
+      "excerpt": "walked into a conference last month. 26 brands on the attendee list.\n\nran brand protection scans on all of them before i showed up.\n\nhanded every brand a personalized \"ur getting robbed\" report.\n\nclos"
+    },
+    {
+      "id": "x-2081469608847122635",
+      "type": "x_post",
+      "title": "0 to $5m ARR (profitable) 0 investors 0 debt 0 regrets",
+      "url": "https://x.com/oliverbrocato/status/2081469608847122635",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 8736,
+      "topicIds": [],
+      "excerpt": "0 to $5m ARR (profitable)\n\n0 investors\n0 debt\n0 regrets"
+    },
+    {
+      "id": "x-2091676612228260289",
+      "type": "x_post",
+      "title": "if ur in ecom there are three universal truths: 1. ur not bezos. ur bozo who can run ads 2",
+      "url": "https://x.com/oliverbrocato/status/2091676612228260289",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 6651,
+      "topicIds": [],
+      "excerpt": "if ur in ecom there are three universal truths:\n\n1. ur not bezos. ur bozo who can run ads\n2. u probably got ur start selling sneakers, snacks, or vapes as a kid\n3. the second u start making real money"
+    },
+    {
+      "id": "x-2082576315287224356",
+      "type": "x_post",
+      "title": "U dont want a 1 man 90% profit biz. Congrats: u got urslef a high paying job. team & l",
+      "url": "https://x.com/oliverbrocato/status/2082576315287224356",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 20258,
+      "topicIds": [],
+      "excerpt": "U dont want a 1 man 90% profit biz.\n\nCongrats: u got urslef a high paying job.\n\nteam & lower margin = leverage"
+    },
+    {
+      "id": "x-2067290677466275906",
+      "type": "x_post",
+      "title": "Unpopular opinion apparently: U CAN start a company without VC money. Bustem. $5M ARR. $0 ",
+      "url": "https://x.com/oliverbrocato/status/2067290677466275906",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 7679,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion apparently:\n\nU CAN start a company without VC money.\n\nBustem. $5M ARR. $0 raised.\n\nJust saying."
+    },
+    {
+      "id": "x-2105448106599063612",
+      "type": "x_post",
+      "title": "I brought on a chief of staff 5 months ago should have been titled EA and I should have se",
+      "url": "https://x.com/oliverbrocato/status/2105448106599063612",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 14492,
+      "topicIds": [],
+      "excerpt": "I brought on a chief of staff 5 months ago\n\nshould have been titled EA and I should have set expectations WAY better\n\nanyway 4 months in she quit and took a better offer at another company\n\njust found"
+    },
+    {
+      "id": "x-2102760397384392743",
+      "type": "x_post",
+      "title": "u can tell how a new hire is going to do in their first week never once had a situation wh",
+      "url": "https://x.com/oliverbrocato/status/2102760397384392743",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 8035,
+      "topicIds": [],
+      "excerpt": "u can tell how a new hire is going to do in their first week\n\nnever once had a situation where someone was shit first week and then magicaly turned it around 3 months later\n\nin fact, usually, it only "
+    },
+    {
+      "id": "x-2118442323004797253",
+      "type": "x_post",
+      "title": "if ur an agency owner, fire 50% of ur csms and install an ai csm employee agent. here is t",
+      "url": "https://x.com/oliverbrocato/status/2118442323004797253",
+      "publishedAt": "2026-11-05",
+      "outlet": "X",
+      "views": 10168,
+      "topicIds": [],
+      "excerpt": "if ur an agency owner, fire 50% of ur csms and install an ai csm employee agent.\n\nhere is the exact workflow:\n\n6:00am: @viktor_com scans all 200 client slack channels, analyzing every message from the"
+    },
+    {
+      "id": "x-2101673232973869543",
+      "type": "x_post",
+      "title": "we dont have a leads problem we have a hiring problem we are booking more then 100 calls w",
+      "url": "https://x.com/oliverbrocato/status/2101673232973869543",
+      "publishedAt": "2026-09-20",
+      "outlet": "X",
+      "views": 8112,
+      "topicIds": [],
+      "excerpt": "we dont have a leads problem\n\nwe have a hiring problem\n\nwe are booking more then 100 calls with ecom brands that do $100k+ month AND have a problem with copycats, counterfeits or unauthroied reslers.\n"
+    },
+    {
+      "id": "x-2102397533033214397",
+      "type": "x_post",
+      "title": "happy team = numbers go up - we pay our people above market - we pay for lunch and dinner ",
+      "url": "https://x.com/oliverbrocato/status/2102397533033214397",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 7556,
+      "topicIds": [],
+      "excerpt": "happy team = numbers go up\n\n- we pay our people above market\n- we pay for lunch and dinner (if they stay after 7:30pm)\n- we do company dinners for the nyc team and organize company dinners in south af"
+    },
+    {
+      "id": "x-2099951647338443011",
+      "type": "x_post",
+      "title": "When I was in ecom, every month things got harder. Our best creators would get poached or ",
+      "url": "https://x.com/oliverbrocato/status/2099951647338443011",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 8342,
+      "topicIds": [],
+      "excerpt": "When I was in ecom, every month things got harder.\n\nOur best creators would get poached or burn out.\n\nCPMs on Meta + Google would creep up.\n\nCompetitors would copy our ads, products, landing pages.\n\nN"
+    },
+    {
+      "id": "x-2115443971933802557",
+      "type": "x_post",
+      "title": "taking 100 shots means 95 miss: • sales guy quit in 2 days • youtube agency delivered shit",
+      "url": "https://x.com/oliverbrocato/status/2115443971933802557",
+      "publishedAt": "2026-10-28",
+      "outlet": "X",
+      "views": 6738,
+      "topicIds": [],
+      "excerpt": "taking 100 shots means 95 miss:\n• sales guy quit in 2 days\n• youtube agency delivered shit\n• reddit agency got every post banned\n\nif we slowed down with smaller commitments and paid trials we wouldve "
+    },
+    {
+      "id": "x-2101099955188535331",
+      "type": "x_post",
+      "title": "I think my biggest takeaway from my 3 week vacation is slowing the F down. I've been opera",
+      "url": "https://x.com/oliverbrocato/status/2101099955188535331",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 6378,
+      "topicIds": [],
+      "excerpt": "I think my biggest takeaway from my 3 week vacation is slowing the F down.\n\nI've been operating on a frequency of rushing.\n\nSlow.\n\nAnd also nothing is that deep. Take it easy. Chill out. The L's are i"
+    },
+    {
+      "id": "x-2064357593196233010",
+      "type": "x_post",
+      "title": "What I wish I knew as a 19yo ecom founder that I know now: 1. Ur network is worth more tha",
+      "url": "https://x.com/oliverbrocato/status/2064357593196233010",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 5740,
+      "topicIds": [],
+      "excerpt": "What I wish I knew as a 19yo ecom founder that I know now:\n\n1. Ur network is worth more than ur skillset at every stage\n2. The first hire sets the culture—get it wrong and ur fixing it for 12 months\n3"
+    },
+    {
+      "id": "x-2063304930480558313",
+      "type": "x_post",
+      "title": "I turned 24 this year. Here's what I know now that I wish I knew at 19: The goal isn't to ",
+      "url": "https://x.com/oliverbrocato/status/2063304930480558313",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 3627,
+      "topicIds": [],
+      "excerpt": "I turned 24 this year.\n\nHere's what I know now that I wish I knew at 19:\n\nThe goal isn't to avoid failure. It's to fail faster than everyone else and extract more from it.\n\nEvery business I built befo"
+    },
+    {
+      "id": "x-2100948458484199877",
+      "type": "x_post",
+      "title": "When ur winning u feel absolutely ivincible So so so important to be sorrounded by people ",
+      "url": "https://x.com/oliverbrocato/status/2100948458484199877",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 21155,
+      "topicIds": [],
+      "excerpt": "When ur winning u feel absolutely ivincible\n\nSo so so important to be sorrounded by people that are operating at ur level and beyond\n\nKeeps ur grounded.\nGives you perspective\nKeeps the fire burning th"
+    },
+    {
+      "id": "x-2100676917536100436",
+      "type": "x_post",
+      "title": "My friend works 7 days a week. 10am to 11pm. My question: at what point do you hit diminis",
+      "url": "https://x.com/oliverbrocato/status/2100676917536100436",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 18630,
+      "topicIds": [],
+      "excerpt": "My friend works 7 days a week.\n\n10am to 11pm.\n\nMy question: at what point do you hit diminishing returns?\n\nI just went on vacation for 3 weeks and my biz grew 12% - I'm walking away feeling I should b"
+    },
+    {
+      "id": "x-2119173294301884808",
+      "type": "x_post",
+      "title": "2027 is going to be the biggest year in Bustem history our trajectory: jan 2025: $7k arr j",
+      "url": "https://x.com/oliverbrocato/status/2119173294301884808",
+      "publishedAt": "2026-11-07",
+      "outlet": "X",
+      "views": 5869,
+      "topicIds": [],
+      "excerpt": "2027 is going to be the biggest year in Bustem history\n\nour trajectory:\njan 2025: $7k arr\njan 2026: $3m arr\njan 2027: $10m arr\n\ntargeting $20m arr by jan 1st 2028.\n\nnumbers on a screen are cool, but g"
+    },
+    {
+      "id": "x-2099861546516300015",
+      "type": "x_post",
+      "title": "Launching in “stealth” is stupid. You should be yelling from the rooftops about what you’r",
+      "url": "https://x.com/oliverbrocato/status/2099861546516300015",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 7089,
+      "topicIds": [],
+      "excerpt": "Launching in “stealth” is stupid.\n\nYou should be yelling from the rooftops about what you’re building.\n\nEvery post can attract:\n\n- future employees\n- investors\n- customers\n- partners\n\n“But someone mig"
+    },
+    {
+      "id": "x-2116682632683807076",
+      "type": "x_post",
+      "title": "put 170 founders into a private whatsapp group. sending partiful links to dinners, coworki",
+      "url": "https://x.com/oliverbrocato/status/2116682632683807076",
+      "publishedAt": "2026-11-01",
+      "outlet": "X",
+      "views": 5602,
+      "topicIds": [],
+      "excerpt": "put 170 founders into a private whatsapp group.\n\nsending partiful links to dinners, coworking sessions, and sports.\n\ndistribution and community over everything."
+    },
+    {
+      "id": "x-2084639997878214986",
+      "type": "x_post",
+      "title": "I dont spend much time thinking. Ready. Fire. Aim. I'd be lying if I said I only hit. So m",
+      "url": "https://x.com/oliverbrocato/status/2084639997878214986",
+      "publishedAt": "2026-08-04",
+      "outlet": "X",
+      "views": 5988,
+      "topicIds": [],
+      "excerpt": "I dont spend much time thinking.\n\nReady.\nFire.\nAim.\n\nI'd be lying if I said I only hit. So many fuck ups. Fires. And nonsense that coulve been avoided with more thought.\n\nBut the intense bias to actio"
+    },
+    {
+      "id": "x-2090952340929142980",
+      "type": "x_post",
+      "title": "My benchmark for hiring: “Is this person better at this than I would be if I just did it m",
+      "url": "https://x.com/oliverbrocato/status/2090952340929142980",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 12805,
+      "topicIds": [],
+      "excerpt": "My benchmark for hiring:\n\n“Is this person better at this than I would be if I just did it myself?”\n\nPeople with real experience? Usually hell yes.\n\nPeople without it? I can normally figure it out fast"
+    },
+    {
+      "id": "x-2080745585058226503",
+      "type": "x_post",
+      "title": "my twitter account is my most valuable possession. millions impressions a month. 10s of bo",
+      "url": "https://x.com/oliverbrocato/status/2080745585058226503",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 4825,
+      "topicIds": [],
+      "excerpt": "my twitter account is my most valuable possession.\n\nmillions impressions a month.\n\n10s of booked demos to my company\n\nmillions of dollars driven\n\nShoutout @nikitabier and @elonmusk"
+    },
+    {
+      "id": "x-2080080704055173243",
+      "type": "x_post",
+      "title": "we moved from month to month contracts to 3 month min then month to month to now 12 month ",
+      "url": "https://x.com/oliverbrocato/status/2080080704055173243",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 12458,
+      "topicIds": [],
+      "excerpt": "we moved from month to month contracts\n\nto 3 month min then month to month\n\nto now 12 month with a 3 month out.\n\nevery iteration radically transformed our biz\n\nsmall but mighty optimizations"
+    },
+    {
+      "id": "x-2111970333188292622",
+      "type": "x_post",
+      "title": "so many founders obsessed with hiring, delegating, and building systems while sitting at l",
+      "url": "https://x.com/oliverbrocato/status/2111970333188292622",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 3483,
+      "topicIds": [],
+      "excerpt": "so many founders obsessed with hiring, delegating, and building systems while sitting at literally $0 rev.\n\nmost of them will stay there.\n\nthe guys who actually make it started with nothing, manually "
+    },
+    {
+      "id": "x-2086543791184630243",
+      "type": "x_post",
+      "title": "The best way to hire is to snipe people you KNOW are good. Hire off LinkedIn? You’re rolli",
+      "url": "https://x.com/oliverbrocato/status/2086543791184630243",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 5470,
+      "topicIds": [],
+      "excerpt": "The best way to hire is to snipe people you KNOW are good.\n\nHire off LinkedIn? You’re rolling the dice.\n\nHire someone you’ve seen crush it before? Much better bet.\n\nLesson to myself and anyone reading"
+    },
+    {
+      "id": "x-2078268260777427068",
+      "type": "x_post",
+      "title": "we dont do sales calls @ bustem we do free audit discovery calls 15 min and we show u - ev",
+      "url": "https://x.com/oliverbrocato/status/2078268260777427068",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 6868,
+      "topicIds": [],
+      "excerpt": "we dont do sales calls @ bustem\n\nwe do free audit discovery calls\n\n15 min and we show u\n- every copycat counterfeit unauthrized reseller\n- how we find em and removal plan\n- at the end u decide if its "
+    },
+    {
+      "id": "x-2108347577041404150",
+      "type": "x_post",
+      "title": "Shit posting on X has made me a million dollars net profit. I wanto start pushing on: - Li",
+      "url": "https://x.com/oliverbrocato/status/2108347577041404150",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 5843,
+      "topicIds": [],
+      "excerpt": "Shit posting on X has made me a million dollars net profit.\n\nI wanto start pushing on:\n- Linkedin\n- Youtube\n- Short Form\n\nLets see if I can be consistent and get better every week https://t.co/uChl5TY"
+    },
+    {
+      "id": "x-2064074233161167234",
+      "type": "x_post",
+      "title": "Signs ur ecom brand is actually healthy: > ROAS holding above 3.0x > Email/SMS doing 35%+ ",
+      "url": "https://x.com/oliverbrocato/status/2064074233161167234",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 4482,
+      "topicIds": [],
+      "excerpt": "Signs ur ecom brand is actually healthy:\n\n> ROAS holding above 3.0x\n> Email/SMS doing 35%+ of revenue\n> Repeat purchase rate climbing every month\n> LTV:CAC above 3:1\n> Creatives dying fast but ur repl"
+    },
+    {
+      "id": "x-2117633649793487151",
+      "type": "x_post",
+      "title": "used to daydream about selling bustem. now i only think about how big we can grow it. star",
+      "url": "https://x.com/oliverbrocato/status/2117633649793487151",
+      "publishedAt": "2026-11-03",
+      "outlet": "X",
+      "views": 4469,
+      "topicIds": [],
+      "excerpt": "used to daydream about selling bustem.\n\nnow i only think about how big we can grow it.\n\nstarting back at $0 sucks. the first 3 years of business are the hardest, why restart the clock?"
+    },
+    {
+      "id": "x-2117360852085117132",
+      "type": "x_post",
+      "title": "leadership had a hard conversation with me: when someone new comes in, i get hyped and thr",
+      "url": "https://x.com/oliverbrocato/status/2117360852085117132",
+      "publishedAt": "2026-11-02",
+      "outlet": "X",
+      "views": 6215,
+      "topicIds": [],
+      "excerpt": "leadership had a hard conversation with me:\n\nwhen someone new comes in, i get hyped and throw crazy comp. but im hardest on the og team who built the company.\n\nnew shiny toys get old fast. gotta take "
+    },
+    {
+      "id": "x-2082228999137145136",
+      "type": "x_post",
+      "title": "this will be a whole entire new job category \"go to market creator\" bravo @victorcardenas ",
+      "url": "https://x.com/oliverbrocato/status/2082228999137145136",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 12896,
+      "topicIds": [],
+      "excerpt": "this will be a whole entire new job category\n\n\"go to market creator\"\n\nbravo @victorcardenas for paving the way. \n\nmy prediction? every b2b company will have one in the next 5 years"
+    },
+    {
+      "id": "x-2074979483753365969",
+      "type": "x_post",
+      "title": "a cracked founder creates revenue out of thin air. a stupid one stays there forever. a sma",
+      "url": "https://x.com/oliverbrocato/status/2074979483753365969",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 4190,
+      "topicIds": [],
+      "excerpt": "a cracked founder creates revenue out of thin air.\n\na stupid one stays there forever.\n\na smart one buys back leverage. \n\nhires people.\n\nthen hires more people. and then more people.\n\nu can boil succes"
+    },
+    {
+      "id": "x-2088717367111205064",
+      "type": "x_post",
+      "title": "Over the last 2 months we hired 3 full-time Client Success Managers. The goal: 5x the qual",
+      "url": "https://x.com/oliverbrocato/status/2088717367111205064",
+      "publishedAt": "2026-08-15",
+      "outlet": "X",
+      "views": 4459,
+      "topicIds": [],
+      "excerpt": "Over the last 2 months we hired 3 full-time Client Success Managers.\n\nThe goal: 5x the quality we deliver clients.\n\nTheir job is simple:\n\nBe the client’s ambassador.\n\nServe the client above the compan"
+    },
+    {
+      "id": "x-2091162978309861626",
+      "type": "x_post",
+      "title": "When you hire someone, you always pay. Either with money for someone experienced who alrea",
+      "url": "https://x.com/oliverbrocato/status/2091162978309861626",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 4938,
+      "topicIds": [],
+      "excerpt": "When you hire someone, you always pay.\n\nEither with money for someone experienced who already knows what they’re doing.\n\nOr with your time training someone who doesn’t.\n\nThere is no cheap hire.\n\nYou j"
+    },
+    {
+      "id": "x-2083704078761369907",
+      "type": "x_post",
+      "title": "semrush says we get 50k visitors a month. and yet we r only booking ~80 calls. I think 8x ",
+      "url": "https://x.com/oliverbrocato/status/2083704078761369907",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 10523,
+      "topicIds": [],
+      "excerpt": "semrush says we get 50k visitors a month.\n\nand yet we r only booking ~80 calls.\n\nI think 8x as many poeple go to site and window shop.\n\nHeres what im doing:\n- adding a popup to site\n- rb2b to idenitfy"
+    },
+    {
+      "id": "x-2075379460333846686",
+      "type": "x_post",
+      "title": "Today app space is like dropshipping in 2019. There’s cash to be made sure. But it’s for t",
+      "url": "https://x.com/oliverbrocato/status/2075379460333846686",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 6059,
+      "topicIds": [],
+      "excerpt": "Today app space is like dropshipping in 2019.\n\nThere’s cash to be made sure.\n\nBut it’s for the hustlers, beginners, youngins.\n\nimo the smart ones gtfo after making enough coin"
+    },
+    {
+      "id": "x-2110882917966832103",
+      "type": "x_post",
+      "title": "founders hire someone and expect a mind reader. spent 4 hours building onboarding for my n",
+      "url": "https://x.com/oliverbrocato/status/2110882917966832103",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 3278,
+      "topicIds": [],
+      "excerpt": "founders hire someone and expect a mind reader.\n\nspent 4 hours building onboarding for my new EA: SOPs, call recordings, courses, detailing all my weaknesses.\n\ngreat talent is useless if u don't give "
+    },
+    {
+      "id": "x-2097614530972966994",
+      "type": "x_post",
+      "title": "we book 50+ qualified calls a month from heyreach: 1. connect every single team member's l",
+      "url": "https://x.com/oliverbrocato/status/2097614530972966994",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 12201,
+      "topicIds": [],
+      "excerpt": "we book 50+ qualified calls a month from heyreach:\n\n1. connect every single team member's linkedin to heyreach (50+ people)\n2. have an ai sdr that handles all the replies, trained on the real sdr who "
+    },
+    {
+      "id": "x-2067245982023376913",
+      "type": "x_post",
+      "title": "3 people I know personally hit their first $1M this year doing the EXACT same thing: 1. Fi",
+      "url": "https://x.com/oliverbrocato/status/2067245982023376913",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 3593,
+      "topicIds": [],
+      "excerpt": "3 people I know personally hit their first $1M this year doing the EXACT same thing:\n\n1. Finding viral content in their niche.\n2. Paying a UGC creator $200 to remake it.\n3. Running paid behind whateve"
+    },
+    {
+      "id": "x-2070296735684100430",
+      "type": "x_post",
+      "title": "i used to think paying a recruiter was expensive. then i did the math on a bad hire: 3 mon",
+      "url": "https://x.com/oliverbrocato/status/2070296735684100430",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 8663,
+      "topicIds": [],
+      "excerpt": "i used to think paying a recruiter was expensive.\n\nthen i did the math on a bad hire:\n\n3 months of salary before u admit it's not working: $30K gone\n\nthe 6 weeks u spent interviewing and onboarding in"
+    },
+    {
+      "id": "x-2065403841882046831",
+      "type": "x_post",
+      "title": "The FATTEST lie u hear from ecom founders: \"I only work 4 hrs a day.\" No u don't. U spend ",
+      "url": "https://x.com/oliverbrocato/status/2065403841882046831",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 3716,
+      "topicIds": [],
+      "excerpt": "The FATTEST lie u hear from ecom founders:\n\n\"I only work 4 hrs a day.\"\n\nNo u don't.\n\nU spend 4 focused hrs at ur screen and spend the other 12 thinking about the business in the shower, at dinner, at "
+    },
+    {
+      "id": "x-2064392124586696740",
+      "type": "x_post",
+      "title": "Scaling Tabs to $11M was one of the hardest things I've ever done. And for most of it, the",
+      "url": "https://x.com/oliverbrocato/status/2064392124586696740",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 7357,
+      "topicIds": [],
+      "excerpt": "Scaling Tabs to $11M was one of the hardest things I've ever done.\n\nAnd for most of it, the finance side was a complete disaster.\n\nRandom accountants. Slow responses. Zero visibility into where the bu"
+    },
+    {
+      "id": "x-2063621752962642213",
+      "type": "x_post",
+      "title": "The most dangerous thing u can do in ur 20s is optimize for comfort. U box urself by choos",
+      "url": "https://x.com/oliverbrocato/status/2063621752962642213",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 4998,
+      "topicIds": [],
+      "excerpt": "The most dangerous thing u can do in ur 20s is optimize for comfort.\n\nU box urself by choosing:\n1. The 9-5 ur 14yo self thought was the \"dream\"\n2. The $72K base with \"room to grow\"\n3. The city u staye"
+    },
+    {
+      "id": "x-2103575014641746272",
+      "type": "x_post",
+      "title": "we are getting sign ups from people that discovered us on chatgpt and claude my secret to ",
+      "url": "https://x.com/oliverbrocato/status/2103575014641746272",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 5252,
+      "topicIds": [],
+      "excerpt": "we are getting sign ups from people that discovered us on chatgpt and claude\n\nmy secret to showing up on ai search\n\nits not some growth hack or 47 step process\n\nits being omni present\n\ntwitter, press,"
+    },
+    {
+      "id": "x-2065072311863320964",
+      "type": "x_post",
+      "title": "Made a hire last year I KNEW was wrong in the interview. Something was off. Couldn't name ",
+      "url": "https://x.com/oliverbrocato/status/2065072311863320964",
+      "publishedAt": "2026-06-11",
+      "outlet": "X",
+      "views": 6417,
+      "topicIds": [],
+      "excerpt": "Made a hire last year I KNEW was wrong in the interview.\n\nSomething was off. Couldn't name it.\n\nMade the hire anyway bc the role was open for 8 weeks and I was desperate.\n\n4mos later I was having the "
+    },
+    {
+      "id": "x-2101037544419061986",
+      "type": "x_post",
+      "title": "Every big dog I know. I'm talking big big dog has been in their biz for a LONG fricken tim",
+      "url": "https://x.com/oliverbrocato/status/2101037544419061986",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 6383,
+      "topicIds": [],
+      "excerpt": "Every big dog I know.\n\nI'm talking big big dog has been in their biz for a LONG fricken time.\n\nNot 2 years long. Decades.\n\nIf you can grow a little but and have a long runway thats the secret.\n\nI've b"
+    },
+    {
+      "id": "x-2069391018072723858",
+      "type": "x_post",
+      "title": "Every time u avoid something uncomfortable ur brain files it away as a win. Do it enough a",
+      "url": "https://x.com/oliverbrocato/status/2069391018072723858",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 1824,
+      "topicIds": [],
+      "excerpt": "Every time u avoid something uncomfortable ur brain files it away as a win.\n\nDo it enough and hesitation becomes automatic.\n\nThe only way to rewire it is to do the hard thing anyway. Even badly. Even "
+    },
+    {
+      "id": "x-2080020081011286197",
+      "type": "x_post",
+      "title": "our close rate sit at 35%. if we get it to 50% our whole biz changes. most founders would ",
+      "url": "https://x.com/oliverbrocato/status/2080020081011286197",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 5279,
+      "topicIds": [],
+      "excerpt": "our close rate sit at 35%.\n\nif we get it to 50% our whole biz changes.\n\nmost founders would try to double the pipeline. more ads, hire another SDR.\n\nwe already have the lead flow just need to convert "
+    },
+    {
+      "id": "x-2119595325283602921",
+      "type": "x_post",
+      "title": "incubating a media company inside an $8m arr b2b saas. two core jobs: 1. build @bustem acr",
+      "url": "https://x.com/oliverbrocato/status/2119595325283602921",
+      "publishedAt": "2026-11-09",
+      "outlet": "X",
+      "views": 4624,
+      "topicIds": [],
+      "excerpt": "incubating a media company inside an $8m arr b2b saas.\n\ntwo core jobs:\n1. build @bustem across ig, tiktok, youtube, x, linkedin, and newsletter\n2. build oliver b across socials\n\nhired a cracked conten"
+    },
+    {
+      "id": "x-2118104293459046476",
+      "type": "x_post",
+      "title": "ecom hack #97 for ecom bros that want to chad scale give customers 2 upgrade options in th",
+      "url": "https://x.com/oliverbrocato/status/2118104293459046476",
+      "publishedAt": "2026-11-04",
+      "outlet": "X",
+      "views": 3088,
+      "topicIds": [],
+      "excerpt": "ecom hack #97 for ecom bros that want to chad scale  \n\ngive customers 2 upgrade options in the cart before checkout:  \n\n1. one-time purchase → subscription  \n\n2. monthly → quarterly subscription  \n\nta"
+    },
+    {
+      "id": "x-2106474619792511089",
+      "type": "x_post",
+      "title": "When I first started bustem I was - content writer - SDR - AE / Sales closer - client succ",
+      "url": "https://x.com/oliverbrocato/status/2106474619792511089",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 4239,
+      "topicIds": [],
+      "excerpt": "When I first started bustem I was\n- content writer\n- SDR\n- AE / Sales closer\n- client success manager\n- cfo/legal/\n\ntoday we have over 50 people in our oranization\n\nand I dont do anything - we have le"
+    },
+    {
+      "id": "x-2108716505030394347",
+      "type": "x_post",
+      "title": "yes I was building personal brand while running my ecom brand bc i wasn’t pulling out prof",
+      "url": "https://x.com/oliverbrocato/status/2108716505030394347",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 11027,
+      "topicIds": [],
+      "excerpt": "yes I was building personal brand while running my ecom brand bc i wasn’t pulling out profits \n\nso curious for all the other “consumer influencers” - are they also not making any profit?"
+    },
+    {
+      "id": "x-2067577567994114539",
+      "type": "x_post",
+      "title": "Hot take: traveling for biz conferences can be a HUGE time sink. U fly across the country ",
+      "url": "https://x.com/oliverbrocato/status/2067577567994114539",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 5121,
+      "topicIds": [],
+      "excerpt": "Hot take: traveling for biz conferences can be a HUGE time sink.\n\nU fly across the country thinking:\nNew deals, new clients, big upside\n\nThen u get there:\n\nNobody buys. Just randoms showing up to drin"
+    },
+    {
+      "id": "x-2077906133214536104",
+      "type": "x_post",
+      "title": "0 to $400k month - being a pscho pushing thru anything in ur way $400 to $1m/month - where",
+      "url": "https://x.com/oliverbrocato/status/2077906133214536104",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 3236,
+      "topicIds": [],
+      "excerpt": "0 to $400k month - being a pscho pushing thru anything in ur way\n\n$400 to $1m/month - where im now at is about:\n- controling emotions\n- being a coach\n- hiring sharp people\n- making decisions often tim"
+    },
+    {
+      "id": "x-2076819968000512235",
+      "type": "x_post",
+      "title": "one of my clients launched a new product. hit $200K in organic sales in his first week! el",
+      "url": "https://x.com/oliverbrocato/status/2076819968000512235",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 7904,
+      "topicIds": [],
+      "excerpt": "one of my clients launched a new product. hit $200K in organic sales in his first week!\n\neleven days later the copycats showed up.\n\neleven. days. 👏\n\nripped the photos, jacked the listing copy word fo"
+    },
+    {
+      "id": "x-2071563582735786039",
+      "type": "x_post",
+      "title": "I give my team full access to my calendar. Every meeting and call. Every focus block. They",
+      "url": "https://x.com/oliverbrocato/status/2071563582735786039",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 4462,
+      "topicIds": [],
+      "excerpt": "I give my team full access to my calendar.\n\nEvery meeting and call. Every focus block. They know where I am, who I'm with, and when I'm free without having to ask.\n\nWhat it killed:\n\n> 17+ Slack messag"
+    },
+    {
+      "id": "x-2068377589937537091",
+      "type": "x_post",
+      "title": "\"Personal branding\" is stupid cringe. ...Until it brings in leads. Then suddenly everyone ",
+      "url": "https://x.com/oliverbrocato/status/2068377589937537091",
+      "publishedAt": "2026-06-20",
+      "outlet": "X",
+      "views": 3260,
+      "topicIds": [],
+      "excerpt": "\"Personal branding\" is stupid cringe.\n\n...Until it brings in leads.\n\nThen suddenly everyone starts calling u a “storyteller”.\n\nI’ve closed 5-fig deals from tweets that took me 30 secs to write.\n\nU don"
+    },
+    {
+      "id": "x-2113994227583770889",
+      "type": "x_post",
+      "title": "simple not easy. every founder wants to automate before doing the work. doing the unscalab",
+      "url": "https://x.com/oliverbrocato/status/2113994227583770889",
+      "publishedAt": "2026-10-24",
+      "outlet": "X",
+      "views": 2199,
+      "topicIds": [],
+      "excerpt": "simple not easy.\n\nevery founder wants to automate before doing the work.\n\ndoing the unscalable, high effort manual grind everyone else deems too annoying is the entire edge. https://t.co/CWsCBRBmhR"
+    },
+    {
+      "id": "x-2079929961419542804",
+      "type": "x_post",
+      "title": "our engineering team COOKED this month automated 70% of our human enforcement work thought",
+      "url": "https://x.com/oliverbrocato/status/2079929961419542804",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 3480,
+      "topicIds": [],
+      "excerpt": "our engineering team COOKED this month\n\n automated 70% of our human enforcement work\n\nthought it would free up the analysts to do more.\n\ninstead productivity dropped.\n\nturns out when u increase effici"
+    },
+    {
+      "id": "x-2078506444752556048",
+      "type": "x_post",
+      "title": "i get paid to shit post. but beyond this beer money, i’ll let u in on a secret most of u d",
+      "url": "https://x.com/oliverbrocato/status/2078506444752556048",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 4155,
+      "topicIds": [],
+      "excerpt": "i get paid to shit post.\n\nbut beyond this beer money, i’ll let u in on a secret most of u don’t know\n\nmy little twitter following drives 20+ booked calls with 7/8/9 figure ecom brands.\n\nit’s how i’ve "
+    },
+    {
+      "id": "x-2065795575698850291",
+      "type": "x_post",
+      "title": "If u don't ask, u don't get. Normies hint around what they want. Scared of getting a \"no\" ",
+      "url": "https://x.com/oliverbrocato/status/2065795575698850291",
+      "publishedAt": "2026-06-13",
+      "outlet": "X",
+      "views": 2232,
+      "topicIds": [],
+      "excerpt": "If u don't ask, u don't get.\n\nNormies hint around what they want.\nScared of getting a \"no\"\n\nMeanwhile killers:\n> Ask for raises, promotions, credits, intros, favors\n> Push for the green light: \"Can we"
+    },
+    {
+      "id": "x-2078842309559656539",
+      "type": "x_post",
+      "title": "every product image and video u run as a meta ad is public. like fully public. anyone can ",
+      "url": "https://x.com/oliverbrocato/status/2078842309559656539",
+      "publishedAt": "2026-07-19",
+      "outlet": "X",
+      "views": 5290,
+      "topicIds": [],
+      "excerpt": "every product image and video u run as a meta ad is public.\n\nlike fully public. anyone can see it.\n\nmeta's ad library lets u search any brand, see every creative they're running, and download it all i"
+    },
+    {
+      "id": "x-2077029851517878698",
+      "type": "x_post",
+      "title": "My buddy reported an unauthorized reseller on his ASIN and Amazon took down everyone... in",
+      "url": "https://x.com/oliverbrocato/status/2077029851517878698",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 5167,
+      "topicIds": [],
+      "excerpt": "My buddy reported an unauthorized reseller on his ASIN and Amazon took down everyone... including HIMSELF!\n\nHis listing does $80k+ day - called me to get it back.\n\nIt was during a three day weekend so"
+    },
+    {
+      "id": "x-2113721370874134763",
+      "type": "x_post",
+      "title": "what u permit is what u promote every time u let things go and avoid a difficult convorsat",
+      "url": "https://x.com/oliverbrocato/status/2113721370874134763",
+      "publishedAt": "2026-10-23",
+      "outlet": "X",
+      "views": 2420,
+      "topicIds": [],
+      "excerpt": "what u permit is what u promote\n\nevery time u let things go and avoid a difficult convorsation\n\nevery time u dont hold ur line\n\nur promoting it\n\nteam leaving early - say something\nperformance not wher"
+    },
+    {
+      "id": "x-2065433440695259485",
+      "type": "x_post",
+      "title": "Had dinner with a 9-fig ecom founder last week. Made me realize subscription cancellations",
+      "url": "https://x.com/oliverbrocato/status/2065433440695259485",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 1693,
+      "topicIds": [],
+      "excerpt": "Had dinner with a 9-fig ecom founder last week.\n\nMade me realize subscription cancellations = goldmine\n\nEvery time someone cancels, he sends:\n\n▶ Batsh*t discount codes\n▶ Free product samples\n▶ Handwri"
+    },
+    {
+      "id": "x-2119535178867687785",
+      "type": "x_post",
+      "title": "most founders get trapped trying to solve everything with what instead of who. I started h",
+      "url": "https://x.com/oliverbrocato/status/2119535178867687785",
+      "publishedAt": "2026-11-08",
+      "outlet": "X",
+      "views": 2142,
+      "topicIds": [],
+      "excerpt": "most founders get trapped trying to solve everything with what instead of who.\n\nI started hosting a weekly breakfast and coworking session for 50+ operators at our nyc office.\n\nmy recruiter texts ever"
+    },
+    {
+      "id": "x-2077846481764282443",
+      "type": "x_post",
+      "title": "i've fired myself from being the slack super hero / fire fighter i took pride in being the",
+      "url": "https://x.com/oliverbrocato/status/2077846481764282443",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 3663,
+      "topicIds": [],
+      "excerpt": "i've fired myself from being the slack super hero / fire fighter\n\ni took pride in being the first one to flag an issue.\n\nbump something forgotten about.\n\nI played the role of setting speed and tempo.\n"
+    },
+    {
+      "id": "x-2076759067515904236",
+      "type": "x_post",
+      "title": "ecom founders doing $10M+/yr ur #1 threat isn't competitors. it's unauthorized resellers. ",
+      "url": "https://x.com/oliverbrocato/status/2076759067515904236",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 3503,
+      "topicIds": [],
+      "excerpt": "ecom founders doing $10M+/yr\n\nur #1 threat isn't competitors. it's unauthorized resellers.\n\nwhen a customer searches YOUR brand, some 18 year old broccoli haired brickell kid is stealing ur sale on te"
+    },
+    {
+      "id": "x-2064714479053488319",
+      "type": "x_post",
+      "title": "I track 5 numbers every single Monday morning before I even open a single email: MRR: grow",
+      "url": "https://x.com/oliverbrocato/status/2064714479053488319",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 1782,
+      "topicIds": [],
+      "excerpt": "I track 5 numbers every single Monday morning before I even open a single email:\n\nMRR: growing or shrinking\nChurn rate: who left and why\nCAC: are we acquiring efficiently\nTakedowns completed: is the t"
+    },
+    {
+      "id": "x-2064029438460010953",
+      "type": "x_post",
+      "title": "I made 3 major pivots in my career: Sex chocolate → edtech SaaS → brand protection. Here's",
+      "url": "https://x.com/oliverbrocato/status/2064029438460010953",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 3018,
+      "topicIds": [],
+      "excerpt": "I made 3 major pivots in my career:\n\nSex chocolate → edtech SaaS → brand protection.\n\nHere's what I learned:\n\nA pivot isn't failure. It's actually leveling up.\n\nThe founders who never change their min"
+    },
+    {
+      "id": "x-2066854051015540753",
+      "type": "x_post",
+      "title": "I spent $0 on ads for the first 18 months of Bustem. Every client was brought in thru my n",
+      "url": "https://x.com/oliverbrocato/status/2066854051015540753",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 2772,
+      "topicIds": [],
+      "excerpt": "I spent $0 on ads for the first 18 months of Bustem.\n\nEvery client was brought in thru my network:\n\n❯ 61% Twitter\n❯ 22% LinkedIn\n❯ 9% Newsletter\n❯ 8% Word of mouth\n\n$400K MRR. ZERO paid acquisition.\n\n"
+    },
+    {
+      "id": "x-2066611955218231736",
+      "type": "x_post",
+      "title": "Fail IN PUBLIC!!! Build IN PUBLIC!!! Win IN PUBLIC!!! The ppl watching from the sidelines ",
+      "url": "https://x.com/oliverbrocato/status/2066611955218231736",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 1558,
+      "topicIds": [],
+      "excerpt": "Fail IN PUBLIC!!!\n\nBuild IN PUBLIC!!!\n\nWin IN PUBLIC!!!\n\nThe ppl watching from the sidelines will call it brave when it works and embarrassing when it doesn't.\n\nPost anyway."
+    },
+    {
+      "id": "x-2064014606318657731",
+      "type": "x_post",
+      "title": "The secret to scaling is NOT hiring. It's deciding who stays when ur standards change. At ",
+      "url": "https://x.com/oliverbrocato/status/2064014606318657731",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 2003,
+      "topicIds": [],
+      "excerpt": "The secret to scaling is NOT hiring.\n\nIt's deciding who stays when ur standards change.\n\nAt 10 people, yeah, ur hires matter, but the damage from a bad one is manageable.\n\nU can feel it. U can fix it."
+    },
+    {
+      "id": "x-2066520102217068982",
+      "type": "x_post",
+      "title": "How to know if ur employee is a keeper or a payroll parasite in 10 secs: Ask urself: Would",
+      "url": "https://x.com/oliverbrocato/status/2066520102217068982",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 3068,
+      "topicIds": [],
+      "excerpt": "How to know if ur employee is a keeper or a payroll parasite in 10 secs:\n\nAsk urself: Would u want 30 of them?\n\nIf the answer is no, they gotta go. NOW.\n\nEvery hire brings ur team's average up or down"
+    },
+    {
+      "id": "x-2078479912458170370",
+      "type": "x_post",
+      "title": "most ecom founders have no idea how much money walks out the back door every day do the ma",
+      "url": "https://x.com/oliverbrocato/status/2078479912458170370",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 2582,
+      "topicIds": [],
+      "excerpt": "most ecom founders have no idea how much money walks out the back door every day\n\ndo the math:\n\nsay u got 10 unauthorized sellers doing 5 orders a day each at a $40 avg order value.\n\nthat's $2,000/day"
+    },
+    {
+      "id": "x-2069231717156790479",
+      "type": "x_post",
+      "title": "Content strategy: 1. Post 2. Ignore backlash 3. Don't be boring Anyone charging u $5K/mo f",
+      "url": "https://x.com/oliverbrocato/status/2069231717156790479",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 1501,
+      "topicIds": [],
+      "excerpt": "Content strategy:\n\n1. Post\n2. Ignore backlash\n3. Don't be boring\n\nAnyone charging u $5K/mo for more than that is robbing u."
+    },
+    {
+      "id": "x-2064754214677733867",
+      "type": "x_post",
+      "title": "The conversation I have with every new hire: \"I don't want u to blindly do ur job. I want ",
+      "url": "https://x.com/oliverbrocato/status/2064754214677733867",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 1577,
+      "topicIds": [],
+      "excerpt": "The conversation I have with every new hire:\n\n\"I don't want u to blindly do ur job. I want u to do what's right for the business.\"\n\nMost people have been trained their whole career to execute without "
+    },
+    {
+      "id": "x-2064436872995389624",
+      "type": "x_post",
+      "title": "The brands doing $5M+/month all figured out ONE thing most founders refuse to accept: They",
+      "url": "https://x.com/oliverbrocato/status/2064436872995389624",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 2049,
+      "topicIds": [],
+      "excerpt": "The brands doing $5M+/month all figured out ONE thing most founders refuse to accept:\n\nThey stopped trying to be the cheapest option in the room.\n\nLow price attracts low quality customers.\n\nLow qualit"
+    },
+    {
+      "id": "x-2067079535959638214",
+      "type": "x_post",
+      "title": "POV: u launch ur ecom brand 6mos in, u start to notice: 1/ U bleed cash. ROAS is 2.5. That",
+      "url": "https://x.com/oliverbrocato/status/2067079535959638214",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 6549,
+      "topicIds": [],
+      "excerpt": "POV: u launch ur ecom brand\n\n6mos in, u start to notice:\n\n1/ U bleed cash.\nROAS is 2.5. Thats sh*t.\nCAC is through the roof.\nNothing makes sense.\n\n2/ U find out copycats & counterfeits are stealing 10"
+    },
+    {
+      "id": "x-2067057641223004394",
+      "type": "x_post",
+      "title": "Being sh*t at sales is 100% ur own fault. Not closing the deals u want? FIX IT! It takes 1",
+      "url": "https://x.com/oliverbrocato/status/2067057641223004394",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 1411,
+      "topicIds": [],
+      "excerpt": "Being sh*t at sales is 100% ur own fault.\n\nNot closing the deals u want? FIX IT!\n\nIt takes 15 mins/day to record urself. Sell ur product. Don't send it to anyone, just force urself to watch it after.\n"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/oliver-brocato/mcp",
+    "serverName": "oliver-brocato-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Oliver Brocato's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Oliver Brocato's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

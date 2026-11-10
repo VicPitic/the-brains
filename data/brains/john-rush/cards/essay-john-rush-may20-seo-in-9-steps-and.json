@@ -1,0 +1,39 @@
+{
+  "id": "essay-john-rush-may20-seo-in-9-steps-and",
+  "title": "How John Rush grew Unicorn Platform to $300k ARR: SEO routine under $1k plus 14 growth levers",
+  "summary": "John shares his low-budget, founder-friendly SEO routine (under $1k, 0 to 1) and the 14 things that took Unicorn Platform to $300k ARR in 12 months. Covers redesign to cut churn, SEO stacking, directories, Product Hunt, Reddit, talking to users, cross-promo and word of mouth.",
+  "principles": [
+    {
+      "text": "Cheap DIY SEO gets you from 0 to 1 for under $1k; hire a pro later to go from 1 to 10.",
+      "quote": "Total budget is below $1k, and it brings you from 0 to 1."
+    },
+    {
+      "text": "Don't fix 100 support requests one by one; look for one structural change (UX redesign) that erases most of them.",
+      "quote": "It just erased 80% of the tasks from the backlog."
+    },
+    {
+      "text": "When new to SEO, try all the strategies at once instead of betting on one.",
+      "quote": "Instead of implementing just one strategy, I went on to try pretty much all of them at once"
+    },
+    {
+      "text": "Automate repetitive growth work by building tools for it (indexing, backlinks, articles, directory listings).",
+      "quote": "I eventually built 3 more tools to automate all this work(Index Rusher for indexing, Listingbott for backlinks, and Seobot for articles)."
+    },
+    {
+      "text": "Email every paid user and talk to them; it fixes churn and creates word of mouth.",
+      "quote": "I emailed every paid user, asking for feedback and starting a discussion. I talked to at least 300 of them."
+    },
+    {
+      "text": "Cross-link your own portfolio of products; about 30% of traffic came from footers, banners and emails across other products.",
+      "quote": "So my other 23 products drive traffic to this one via links in the footer and banners, and sometimes I recommend it in an email. About 30% of the traffic comes this way."
+    }
+  ],
+  "topics": [
+    "seo",
+    "growth",
+    "distribution",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

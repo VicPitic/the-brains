@@ -1,0 +1,39 @@
+{
+  "id": "yt-MwBp6Korc4g",
+  "title": "John Rush on solo-founder AI agents, picking niches, and directories",
+  "summary": "John Rush explains why he bootstrapped after a VC-backed decade and built agents that replace teams. He covers when an agent is good enough to ship, why founders should avoid popular ideas, how to validate via services, why directories are the easiest first product, and why startups take about 10 years.",
+  "principles": [
+    {
+      "text": "Solo founders and tiny talented teams will outcompete big funded startups.",
+      "quote": "we will move into the world where solo Founders or tiny teams with very focused and talented people will out compete these bigger startups and corporations"
+    },
+    {
+      "text": "Only launch an agent once it clearly saves users about 90% of their time.",
+      "quote": "before I go to the market with every tool I have every agent I have it has to be good enough that it the message is clear like it saves you 90% of the time"
+    },
+    {
+      "text": "Avoid competition: pick unsexy niches where you stay the only player, not just today but tomorrow.",
+      "quote": "your job as a Founder to make sure you avoid competition so to make sure that you are the only one doing what you do not just today but also tomorrow"
+    },
+    {
+      "text": "Start with a service in a niche, then turn the repeatable part into a product.",
+      "quote": "while you do the service you learn what could be turned into the product what part of the service could be turned into the product"
+    },
+    {
+      "text": "Directories are the easiest first product: quick to build and promoted through SEO.",
+      "quote": "it's the easiest tech product one can build it takes half an hour to to start and then it takes some time to collect the items and to you know write good descriptions"
+    },
+    {
+      "text": "Treat startups as a 10-year game; the first years are training camp, so pick fights you can win.",
+      "quote": "people should enter the game only if they accept the fact that the game will take 10 years and the first three to four years is almost like a training camp"
+    }
+  ],
+  "topics": [
+    "building",
+    "bootstrapping",
+    "ai",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

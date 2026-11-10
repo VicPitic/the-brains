@@ -1,0 +1,39 @@
+{
+  "id": "yt-bY3YL-A8dOs",
+  "title": "Building AI agents people use: 10/90 speed, one-button UX, and building without expectations",
+  "summary": "John Rush explains his 10/90 approach (10% of action gives 90% of outcome), why AI agents beat copilots, and why he keeps agents to a single \"turn on\" button. He also covers how adoption needs viral show-don't-tell demos, why most launches die, and why founders should solve problems they see around them.",
+  "principles": [
+    {
+      "text": "Do every task quick and not perfect; the compound effect of 10/90 turns weeks or months into days.",
+      "quote": "basically I do everything quick and not perfect and if you you know sum that app The Compound Effect of that is huge you just do stuff in days not weeks or not months"
+    },
+    {
+      "text": "Build agents, not copilots: an agent works while you sleep and you wake up to finished work.",
+      "quote": "if you use it as an agent it works when you sleep so that's what I do"
+    },
+    {
+      "text": "Resist adding buttons to an agent; one 'turn on' button is the key, and users stop asking once they see the value.",
+      "quote": "the only button you need for the agent is turn on that's it you can have more buttons and it's really hard to resist urge"
+    },
+    {
+      "text": "People talk about AI far more than they use it; a viral demo showing exactly how to use it drives real adoption.",
+      "quote": "unless they see something viral that shows exactly how to use it so that's that that's the reality"
+    },
+    {
+      "text": "Expect nothing from launches since most die; enjoy the process and be very happy when one works.",
+      "quote": "people should not expect anything from from their launches like I try to enjoy the process"
+    },
+    {
+      "text": "Find ideas by looking around for problems that bother you, not by inventing them from inside; money as the motive is a way to fail.",
+      "quote": "never bring it from inside like look around and see the problems and then solve them"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

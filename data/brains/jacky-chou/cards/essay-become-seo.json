@@ -1,0 +1,38 @@
+{
+  "id": "essay-become-seo",
+  "title": "How to become an SEO specialist: Jacky Chou's 7-step path (learn, build a site, specialize)",
+  "summary": "A beginner's roadmap to becoming an SEO specialist. It covers how search engines work, the three ranking factors (relevance, authority, value), the four SEO categories, then learning by building a real site, specializing as a T-shaped SEO, and showing results in a portfolio.",
+  "principles": [
+    {
+      "text": "Learn SEO by building a real site and doing the work, not by reading theory alone.",
+      "quote": "nothing beats getting your hands dirty and working to improve a site’s ranking."
+    },
+    {
+      "text": "Don't over-optimize minor factors before you control the big ones: relevance, authority and value.",
+      "quote": "Ensure you control significant elements before worrying about page speed and title tags."
+    },
+    {
+      "text": "Match search intent: the page must deliver what the searcher actually expects, not just the keyword.",
+      "quote": "Optimization for search intent means responding to the “why” behind a user’s search."
+    },
+    {
+      "text": "Authority mostly comes from building more quality, relevant backlinks, which Google treats as votes of confidence.",
+      "quote": "Google values links as votes of confidence."
+    },
+    {
+      "text": "Pick keywords with traffic potential and business value that aren't overly competitive.",
+      "quote": "A good rule of thumb is to go after keywords that can drive traffic to your site if you rank well for them (this is known as “traffic potential”), carry “business value,” or have the potential to bring in new clients, and are not overly competitive."
+    },
+    {
+      "text": "Become T-shaped: go deep in one SEO area while understanding the whole field, and choose a niche that breaks even and holds your interest.",
+      "quote": "A T-shaped SEO expert is strong in one area yet has a comprehensive knowledge of all things SEO."
+    }
+  ],
+  "topics": [
+    "seo",
+    "mindset",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

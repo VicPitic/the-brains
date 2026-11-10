@@ -1,0 +1,38 @@
+{
+  "id": "essay-local-seo-strategy",
+  "title": "Local SEO strategy: the ranking factors and five tactics for winning the local pack",
+  "summary": "A practical guide to local SEO built around Google's three local signals (relevance, prominence, distance). It covers key ranking factors (NAP consistency, localized content, local backlinks, schema) and five tactics: Google Business Profile, citations, website optimization, content, and customer reviews.",
+  "principles": [
+    {
+      "text": "Local rankings come down to three signals: relevance, prominence, and distance. You can't change distance, so win on the other two.",
+      "quote": "Although it’s impossible to change your physical distance from the searcher, a great local SEO strategy can assist your company in matching Google’s other ranking criteria"
+    },
+    {
+      "text": "Keep NAP (name, address, phone) identical everywhere; inconsistency makes search engines doubt you're legitimate.",
+      "quote": "All local businesses should observe this since an inconsistent NAP can confuse search engines, which could lead them to think you are not legitimate or have multiple businesses."
+    },
+    {
+      "text": "Claim and fully fill out your Google Business Profile first; it's the cheapest, highest-leverage local move.",
+      "quote": "A Google My Business (GMB) page should be at the top of every business’s local SEO to-do list because it is the simplest approach to promoting brand awareness."
+    },
+    {
+      "text": "Audit your citations by searching your NAP, misspellings and wrong addresses to find inconsistent or duplicate listings, then fix them.",
+      "quote": "You can also use methods like misspelling your brand name, typing a slightly different address than the real location, or finding duplicate listings to help figure out your inconsistent citations online."
+    },
+    {
+      "text": "Reviews are a top-three local pack factor; ask for them through many channels and respond to every one.",
+      "quote": "To get into the local pack, you’ll need customer reviews, which are one of the top three ranking variables."
+    },
+    {
+      "text": "Write content about your whole industry and area, not just sales pitches, to position yourself as the local authority.",
+      "quote": "Instead of looking for ways to sell your products and services, when writing content, choose a topic that represents your business as a whole."
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

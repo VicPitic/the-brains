@@ -1,0 +1,39 @@
+{
+  "id": "essay-im-turning-35-the-28-rules-i-learned",
+  "title": "I'm turning 35: 28 hard-won startup rules from John Rush",
+  "summary": "John Rush lists 28 lessons from a decade of failed and successful startups. Core themes: validate before building, chase users not investors, bootstrap, charge more, go paid-only, skip corporates and outsourcing, do SEO and daily posting early, and build for audiences you love.",
+  "principles": [
+    {
+      "text": "Sell features before building them: chat daily with users about ideas and only build what resonates.",
+      "quote": "I run DMs with 10-20 users every day, where I chat about all my ideas and features I wanna add. I clearly see what resonates with me most and only go build those."
+    },
+    {
+      "text": "Chase users, not investors; investor interest follows traction.",
+      "quote": "Chase users, and then investors will be chasing you."
+    },
+    {
+      "text": "No free tier until the product is validated; free users push you to build a perfect free product.",
+      "quote": "Free and paid users often need different products. Don't fall into this trap as I did."
+    },
+    {
+      "text": "Don't price lowest. $50 customers are happier and better advocates than $5 customers.",
+      "quote": "The audience on $5 and $50 are totally different."
+    },
+    {
+      "text": "Landing page is minor early; first sales happen outside the website.",
+      "quote": "Your first 100 sales happen outside of the website."
+    },
+    {
+      "text": "Start SEO as early as possible; ignoring it was his biggest regret.",
+      "quote": "I ignored this for 14 years, and it's my biggest regret."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "pricing",
+    "growth",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

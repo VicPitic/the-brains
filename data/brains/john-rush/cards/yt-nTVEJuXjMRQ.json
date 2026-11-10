@@ -1,0 +1,39 @@
+{
+  "id": "yt-nTVEJuXjMRQ",
+  "title": "John Rush on bootstrapping vs VC: small tools, delighted users, open source, enjoy the journey",
+  "summary": "John Rush explains why he left 12 years of VC-backed startups for bootstrapping, where he now runs 24 projects. He argues bootstrappers win with small specialized tools, over-delivering to users, open source with royalty-style forks, and building for emerging trends rather than existing hype.",
+  "principles": [
+    {
+      "text": "Bootstrappers should over-deliver to early users rather than spend on growth; delighted users become the growth engine.",
+      "quote": "you have to do more for the user then they pay you a lot more because in youc back you it it's wrong to do that but here you have to do that"
+    },
+    {
+      "text": "Bet on small, targeted solutions for small problems; VC-backed products get generic because they must target huge markets.",
+      "quote": "I bet all my business on the idea that the world wants small solutions for small problems like very targeted small solutions for small problems"
+    },
+    {
+      "text": "Build for future trends, not existing hype or past trends; a small growing niche will carry you as it grows.",
+      "quote": "I always do the projects for the future Trends and I highly recommend people to only do that because if you do for the past trends then you're going to see decline eventually"
+    },
+    {
+      "text": "Build every product for yourself first, test it across your own projects, then launch it to others.",
+      "quote": "everything I build I build for myself first I see if it works for me because I have tons of projects so I try on all my projects once it works for all my projects I launch it for the rest"
+    },
+    {
+      "text": "Open sourcing code has little downside because code is no longer the hard part; distribution and UX are. It builds trust.",
+      "quote": "today you know writing the code is is not the difficult part the difficult part is everything else you know figuring out what to write how to distribute it how to um you know the ux"
+    },
+    {
+      "text": "Enjoy the journey rather than the outcome; you can't control outcomes and exits can leave you empty.",
+      "quote": "you should love the journey not the outcome"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "product",
+    "mindset",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

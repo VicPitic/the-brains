@@ -1,0 +1,39 @@
+{
+  "id": "yt-V_lemYU_kcU",
+  "title": "How John Rush built 26 AI products in 3 years bootstrapped with a 50/50 co-maker model",
+  "summary": "John Rush explains his bootstrapped playbook: build an audience in public, sell before building, ship a tiny MVP with no-code tools, and split 50/50 with a technical co-maker. He also covers directories, AI agents, automating toward one-button tools, and staying productive by skipping unimportant work.",
+  "principles": [
+    {
+      "text": "Validate by sharing the idea publicly, then sell it manually to ~10 people before building anything.",
+      "quote": "I just don't even build the tool I do the job myself like I'm the tool and then I sell that to around 10 people to validate whether people are willing to pay for that or not."
+    },
+    {
+      "text": "Keep teams tiny: split 50/50 with a co-maker who codes, and hire no one until ~50k MRR.",
+      "quote": "We hire no more people until we hit at least 50k MR and only then we probably hire some people."
+    },
+    {
+      "text": "Build in public: marketing becomes a byproduct of your process, and you launch to an audience already waiting.",
+      "quote": "the marketing was a byproduct of you sharing your own process. So there's no extra special marketing you have to do on top of it."
+    },
+    {
+      "text": "Focus on one social platform until about 4-5k followers, then expand to all platforms.",
+      "quote": "get somewhere to 4k or maybe 5k followers and then go everywhere like all 10 platforms stack LinkedIn everything else."
+    },
+    {
+      "text": "Start with the audience, not the product: try to sell first, perfect the pitch, then build a simple MVP.",
+      "quote": "I start with the audience and then I go back and get to the product. You have to figure out whether you can build the audience for this because you will have to build the audience once you launch."
+    },
+    {
+      "text": "Don't spend effort on unimportant things early; put almost all effort into the pitch, and use templates.",
+      "quote": "don't do anything that's not important yet. Just put 1% effort, get something out, don't care. Be embarrassed."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "building",
+    "distribution",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

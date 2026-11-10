@@ -1,0 +1,39 @@
+{
+  "id": "essay-everything-ive-done-to-score-1-million",
+  "title": "How John Rush scored 1M SEO clicks: a practical checklist from domains to AI search",
+  "summary": "John Rush shares his SEO playbook after 1B impressions and 1M clicks. It covers domain naming, tech basics, indexing, a weekly analytics review, low-hanging fruit in positions 8-20, human-quality blogging, backlinks via AI-cited pages, social SEO, and treating AI search as the same game.",
+  "principles": [
+    {
+      "text": "Push pages ranking in positions 8-20 first; they are closer to page 1 than any new article.",
+      "quote": "Those are closer to page 1 than any new article"
+    },
+    {
+      "text": "Review GSC weekly: fix high-impression, low-click queries by putting the query in H1 and meta title; update decayed pages.",
+      "quote": "Queries with impressions but few clicks (take the queries pointing to these pages and embed them into h1 and meta title)"
+    },
+    {
+      "text": "Update old pages that already get traffic before writing new ones; Google likes regular real updates.",
+      "quote": "Update them before writing a new one (google kinda loves to see pages being regularly updated)"
+    },
+    {
+      "text": "Use AI to scale blog drafts, then manually upgrade the ones gaining traction into human-quality articles with original proof.",
+      "quote": "Manually turn the promising ones from AI-generated into high-quality human-made articles"
+    },
+    {
+      "text": "Get backlinks by asking AI \"best tool for X\", then paying or link-swapping with authors of the cited pages.",
+      "quote": "Ask them to include my URL in exchange for money or a backlink from you"
+    },
+    {
+      "text": "Repurpose each blog post to X, LinkedIn and Reddit with a link back; social gets indexed instantly and carries weight.",
+      "quote": "social media backlinks in my experience have really high weight for google"
+    }
+  ],
+  "topics": [
+    "seo",
+    "growth",
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

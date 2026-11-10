@@ -1,0 +1,39 @@
+{
+  "id": "essay-acquisition-offer-viral-directories-and-more",
+  "title": "Week one as a maker: viral directories, an acquisition offer, and why PH launches lost value",
+  "summary": "John recaps a week across 20+ projects. Directory sites (allgpts, osssoftware) pulled big traffic, PH launches are losing value versus tweets and HN/dev.to posts, and virality does not equal revenue. He also shares lifetime-deal pricing for indexgoogle.",
+  "principles": [
+    {
+      "text": "You can't predict what will take off. Ship many projects and let the market tell you.",
+      "quote": "This shows you never know what will work until you try."
+    },
+    {
+      "text": "Going viral doesn't mean making money. Traffic without paying conversions is not product-market fit.",
+      "quote": "Going viral doesn't always mean making money - an unexpected learning."
+    },
+    {
+      "text": "Product Hunt launches are worth less now than tweets or posts on Hacker News and dev.to.",
+      "quote": "I'm stepping back from promoting PH launches as they don't seem valuable anymore compared to tweets or posts on hackernews or devto."
+    },
+    {
+      "text": "Directory sites can pull big traffic cheaply. Offer a directory template so users can build them too.",
+      "quote": "unicornplatform.com got a big push from our new \"directory\" template. Users quickly create cool directories at low cost."
+    },
+    {
+      "text": "Signal an exit publicly to gauge price and demand. Then decide using the stats, and keep the asset if the upside is bigger.",
+      "quote": "hit 0.5M visits & got 4"
+    },
+    {
+      "text": "Price some tools as a one-time lifetime fee instead of a subscription.",
+      "quote": "$99 per domain for life or $199 for five domains. No subscription, just a one-time fee."
+    }
+  ],
+  "topics": [
+    "distribution",
+    "growth",
+    "launch",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

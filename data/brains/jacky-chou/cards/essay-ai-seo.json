@@ -1,0 +1,39 @@
+{
+  "id": "essay-ai-seo",
+  "title": "AI SEO: where AI helps with content and optimization, and the human review it still needs",
+  "summary": "Jacky Chou's guide to using AI for SEO: keyword research, link building, content generation, voice search and analytics prioritization. AI saves time and cuts manual errors, but output still needs human review and personalization. Google penalizes low-value content built to manipulate rankings, not AI origin itself.",
+  "principles": [
+    {
+      "text": "Google judges AI content on value to the reader, not on whether AI wrote it.",
+      "quote": "the origin of the content is not an issue; the problem is if the generated content lacks quality and has been created to manipulate the search algorithm."
+    },
+    {
+      "text": "Never publish AI content without a human checking spelling, style, tone, structure and context.",
+      "quote": "AI content published without a human checker"
+    },
+    {
+      "text": "Add your own expertise, experience and brand voice; that real-world perspective is what makes content credible.",
+      "quote": "Your perspective and real-world experience are what give your content value."
+    },
+    {
+      "text": "AI speeds up keyword research: trends, new ideas, competition analysis and long-tail terms.",
+      "quote": "AI-powered tools can help creators to identify specific and relevant long-tail keywords which are effective in driving targeted traffic to your website."
+    },
+    {
+      "text": "Use AI to prioritize SEO work: a few high-impact recommendations beat hundreds of low-value tasks.",
+      "quote": "It is more compelling to offer three recommendations that will greatly boost the website’s statistics."
+    },
+    {
+      "text": "Optimize for voice search by answering the questions people ask; assistants return only one top answer.",
+      "quote": "voice assistants give one answer only, which is the one at the top of the SERPs."
+    }
+  ],
+  "topics": [
+    "seo",
+    "ai",
+    "marketing",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

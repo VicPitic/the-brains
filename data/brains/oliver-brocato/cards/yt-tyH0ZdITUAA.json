@@ -1,0 +1,39 @@
+{
+  "id": "yt-tyH0ZdITUAA",
+  "title": "How Oliver Brocato built Bustem, a brand-protection service, after copycats nearly bankrupted his chocolate brand",
+  "summary": "Oliver Brocato explains how counterfeits and copycats nearly bankrupted his chocolate brand, then how he built Bustem to fight them. Bustem is a hybrid of AI automation and human analysts sold as a roughly $3k/month retainer. He covers productizing a services business, free audits as the sales motion, and who should and shouldn't buy.",
+  "principles": [
+    {
+      "text": "Build the product for the pain you lived through as an operator, especially when you see no existing solutions.",
+      "quote": "Copycats, counterfeits, and unauthorized resellers was a massive pain point uh that we dealt with that almost bankrupted the company multiple times."
+    },
+    {
+      "text": "Combine human experts with automation to deliver a service-grade outcome at an affordable flat retainer.",
+      "quote": "we've done a really interesting job of, you know, building a solution that combines real human labor and and people and experts with automation and technology to tackle this problem for a very affordable couple thousand a month retainer."
+    },
+    {
+      "text": "Customers often don't want software to operate; they want the outcome handled, so deliver white-glove service on a productized backend.",
+      "quote": "What we found is that clients don't want to even log into the platform or be bogged down inside of a software. They just want this handled all for them."
+    },
+    {
+      "text": "Lead sales with free value: run the audit before the call and give it away whether or not they buy.",
+      "quote": "we will compile all the threats that we found and we'll walk you through what we find on the call. We'll show you that. We'll give it to you whether you work with us or not."
+    },
+    {
+      "text": "Qualify ruthlessly: tell small brands to go scale first, and sell to businesses where the problem is already material.",
+      "quote": "you have to be a brand that's doing more than $100,000 a month. If you're doing less than that like I always tell founders like you got bigger problems to worry about"
+    },
+    {
+      "text": "Attack the weak points of the supporting infrastructure, not the bad actor, because the intermediaries respond to liability.",
+      "quote": "we basically attack the infrastructure that supports a bad guy. So, we go after the domain, the registar, the hosting provider, the payment processor in order to effectively get the bad guy removed and taken down."
+    }
+  ],
+  "topics": [
+    "building",
+    "sales",
+    "product",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,4421 @@
+{
+  "slug": "john-rush",
+  "fetchedAt": "2026-11-10T10:08:11.839Z",
+  "sources": [
+    {
+      "id": "yt-hPveUtta0Es",
+      "type": "youtube",
+      "title": "Do this to build a $200,000 side hustle (The Online Directory Blueprint)",
+      "url": "https://www.youtube.com/watch?v=hPveUtta0Es",
+      "publishedAt": "2024-11-10",
+      "outlet": "Greg Isenberg",
+      "durationSec": 3021,
+      "views": 226662,
+      "topics": [
+        "seo",
+        "distribution",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-En34iY-rQc0",
+      "type": "youtube",
+      "title": "I Make $250K/Month From 20 Apps",
+      "url": "https://www.youtube.com/watch?v=En34iY-rQc0",
+      "publishedAt": "2025-11-10",
+      "outlet": "Starter Story",
+      "durationSec": 1081,
+      "views": 96097,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-SiRlIMtZygI",
+      "type": "youtube",
+      "title": "He Makes $3M/Year From Tiny AI Tools (Here’s How You Can Too)",
+      "url": "https://www.youtube.com/watch?v=SiRlIMtZygI",
+      "publishedAt": "2025-11-10",
+      "outlet": "Chris Koerner on The Koerner Office Podcast",
+      "durationSec": 3095,
+      "views": 80747,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-dTYoe48eqoQ",
+      "type": "youtube",
+      "title": "How to Build SEO Directories (Step-by-Step) With John Rush",
+      "url": "https://www.youtube.com/watch?v=dTYoe48eqoQ",
+      "publishedAt": "2025-11-10",
+      "outlet": "Jaume Ros",
+      "durationSec": 2636,
+      "views": 49079,
+      "topics": [
+        "seo",
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "yt-RPSyWy3YJpU",
+      "type": "youtube",
+      "title": "AI IS MY CO-FOUNDER (this changes everything) | John Rush",
+      "url": "https://www.youtube.com/watch?v=RPSyWy3YJpU",
+      "publishedAt": "2025-11-10",
+      "outlet": "Winning Friends",
+      "durationSec": 4243,
+      "views": 31656,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "productivity"
+      ]
+    },
+    {
+      "id": "yt-ym6l_liTwhI",
+      "type": "youtube",
+      "title": "I can't believe he shared these $1M+/year startup ideas",
+      "url": "https://www.youtube.com/watch?v=ym6l_liTwhI",
+      "publishedAt": "2024-11-10",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2495,
+      "views": 24698,
+      "topics": [
+        "product",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-MwBp6Korc4g",
+      "type": "youtube",
+      "title": "Insight Jam Podcast - John Rush",
+      "url": "https://www.youtube.com/watch?v=MwBp6Korc4g",
+      "publishedAt": "2025-11-10",
+      "outlet": "Insight Jam",
+      "durationSec": 3541,
+      "views": 14287,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "yt-ZOGuhfBRKpU",
+      "type": "youtube",
+      "title": "An Unfiltered Talk with John Rush: Directories, AI SEO & Building To Win",
+      "url": "https://www.youtube.com/watch?v=ZOGuhfBRKpU",
+      "publishedAt": "2025-11-10",
+      "outlet": "Frey Chu",
+      "durationSec": 1953,
+      "views": 13038,
+      "topics": [
+        "seo",
+        "distribution",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-jcgXiQU-vYw",
+      "type": "youtube",
+      "title": "How I Run A 0-Employee Business With Ai Agents",
+      "url": "https://www.youtube.com/watch?v=jcgXiQU-vYw",
+      "publishedAt": "2025-11-10",
+      "outlet": "The Next Wave - AI and the Future of Technology",
+      "durationSec": 3049,
+      "views": 8838,
+      "topics": [
+        "ai",
+        "productivity",
+        "hiring"
+      ]
+    },
+    {
+      "id": "yt-TlE_CJMnP6c",
+      "type": "youtube",
+      "title": "How I Built My $3.5M AI Empire Without VC Money (Stripe Screenshare)",
+      "url": "https://www.youtube.com/watch?v=TlE_CJMnP6c",
+      "publishedAt": "2025-11-10",
+      "outlet": "Top Founders with Nathan Latka",
+      "durationSec": 2274,
+      "views": 2122,
+      "topics": [
+        "bootstrapping",
+        "pricing",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-vsC19u3Uw-c",
+      "type": "youtube",
+      "title": "John Rush: Buying an $800k product, SEO, & why indie hackers should not quit their jobs | BBoJS #6",
+      "url": "https://www.youtube.com/watch?v=vsC19u3Uw-c",
+      "publishedAt": "2025-11-10",
+      "outlet": "Kelvin Omereshone",
+      "durationSec": 4783,
+      "views": 1801,
+      "topics": [
+        "seo",
+        "bootstrapping",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-V_lemYU_kcU",
+      "type": "youtube",
+      "title": "He Built 26 AI Products in 3 Years (No VCs, $3M ARR) | John Rush",
+      "url": "https://www.youtube.com/watch?v=V_lemYU_kcU",
+      "publishedAt": "2025-11-10",
+      "outlet": "Angel Poon",
+      "durationSec": 3347,
+      "views": 1661,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-bY3YL-A8dOs",
+      "type": "youtube",
+      "title": "Building AI Tools People Actually Use with John Rush | Chipp Builder Series",
+      "url": "https://www.youtube.com/watch?v=bY3YL-A8dOs",
+      "publishedAt": "2024-11-10",
+      "outlet": "Chipp",
+      "durationSec": 887,
+      "views": 1189,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-k0GDnj4sTkQ",
+      "type": "youtube",
+      "title": "$2M a Year Running 24 Startups he Founded (feat John Rush from Unicorn Platform)",
+      "url": "https://www.youtube.com/watch?v=k0GDnj4sTkQ",
+      "publishedAt": "2024-11-10",
+      "outlet": "Morning Maker Show with Sandra and Dan ",
+      "durationSec": 6652,
+      "views": 771,
+      "topics": [
+        "bootstrapping",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-7UcfhI341v4",
+      "type": "youtube",
+      "title": "Stripe acquires LemonSqueezy, SaaS boilerplates, indie hacking in Europe is hard",
+      "url": "https://www.youtube.com/watch?v=7UcfhI341v4",
+      "publishedAt": "2024-11-10",
+      "outlet": "Alexander Isora 👽 (SaaS maker)",
+      "durationSec": 3601,
+      "views": 760,
+      "topics": [
+        "bootstrapping",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-SMmen-V8hOo",
+      "type": "youtube",
+      "title": "How To Generate Startup Ideas. The Big Talk with John Rush.",
+      "url": "https://www.youtube.com/watch?v=SMmen-V8hOo",
+      "publishedAt": "2024-11-10",
+      "outlet": "Alexander Isora 👽 (SaaS maker)",
+      "durationSec": 5239,
+      "views": 1502,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-hgJ-e-NpxJI",
+      "type": "youtube",
+      "title": "Million Dollar Exits Ep.10 with John Rush: On Bootstrapping, Acquisitions, and Market Trends",
+      "url": "https://www.youtube.com/watch?v=hgJ-e-NpxJI",
+      "publishedAt": "2023-11-10",
+      "outlet": "Build In Public with KP",
+      "durationSec": 3488,
+      "views": 530,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-nTVEJuXjMRQ",
+      "type": "youtube",
+      "title": "From Bootstrapping to the VC World The Advantages of Bootstrapping",
+      "url": "https://www.youtube.com/watch?v=nTVEJuXjMRQ",
+      "publishedAt": "2024-11-10",
+      "outlet": "Solos",
+      "durationSec": 7265,
+      "views": 231,
+      "topics": [
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "yt-NWdUdUyJX_Q",
+      "type": "youtube",
+      "title": "Product-Led Growth vs. VC Funding: Lessons from 25 Bootstrapped Startups with John Rush",
+      "url": "https://www.youtube.com/watch?v=NWdUdUyJX_Q",
+      "publishedAt": "2025-11-10",
+      "outlet": "Product Driven",
+      "durationSec": 2009,
+      "views": 198,
+      "topics": [
+        "product",
+        "bootstrapping",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-rGGuMz2QApw",
+      "type": "youtube",
+      "title": "Running 20+ Startups With AI (No Employees, No VC)",
+      "url": "https://www.youtube.com/watch?v=rGGuMz2QApw",
+      "publishedAt": "2025-11-10",
+      "outlet": "OpenTools",
+      "durationSec": 1905,
+      "views": 34,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "productivity"
+      ]
+    },
+    {
+      "id": "yt-yP4Nz2NI5sc",
+      "type": "youtube",
+      "title": "Hackathon Speech by John Rush from MarsX",
+      "url": "https://www.youtube.com/watch?v=yP4Nz2NI5sc",
+      "publishedAt": "2024-11-10",
+      "outlet": "Fastgen",
+      "durationSec": 1836,
+      "views": 120,
+      "topics": [
+        "building",
+        "ai",
+        "community"
+      ]
+    },
+    {
+      "id": "yt-ULZKMnIDRxA",
+      "type": "youtube",
+      "title": "Extreme startup building with AI w/ John Rush",
+      "url": "https://www.youtube.com/watch?v=ULZKMnIDRxA",
+      "publishedAt": "2025-11-10",
+      "outlet": "Mother",
+      "durationSec": 3033,
+      "views": 26,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-B7mMzXfHRJk",
+      "type": "youtube",
+      "title": "Tech-Driven Growth and AI Progress - Sustainable Business Strategies - interview with John Rush",
+      "url": "https://www.youtube.com/watch?v=B7mMzXfHRJk",
+      "publishedAt": "2025-11-10",
+      "outlet": "Osom to Know - a WordPress podcast",
+      "durationSec": 4724,
+      "views": 219,
+      "topics": [
+        "growth",
+        "ai",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "essay-everything-ive-done-to-score-1-million",
+      "type": "essay",
+      "title": "Everything I’ve done to score 1 million clicks from SEO",
+      "url": "https://johnrushx.substack.com/p/everything-ive-done-to-score-1-million",
+      "publishedAt": "2026-09-02",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-the-death-of-marketing-and-what-replaces",
+      "type": "essay",
+      "title": "The Death of Marketing (And What Replaces It)",
+      "url": "https://johnrushx.substack.com/p/the-death-of-marketing-and-what-replaces",
+      "publishedAt": "2026-03-09",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-the-traditional-saas-is-over-i-think",
+      "type": "essay",
+      "title": "The traditional SaaS is over → I think this is what comes next",
+      "url": "https://johnrushx.substack.com/p/the-traditional-saas-is-over-i-think",
+      "publishedAt": "2026-02-24",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "product",
+        "pricing",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-im-from-2058-the-ai-didnt-destroy",
+      "type": "essay",
+      "title": "I'm from 2058. The AI Didn't Destroy Us. It Did Something Worse.",
+      "url": "https://johnrushx.substack.com/p/im-from-2058-the-ai-didnt-destroy",
+      "publishedAt": "2026-02-13",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-revenue-dropped-comaker-had-a-burnout",
+      "type": "essay",
+      "title": "revenue dropped, comaker had a burnout, socialbot beta is live",
+      "url": "https://johnrushx.substack.com/p/revenue-dropped-comaker-had-a-burnout",
+      "publishedAt": "2025-10-01",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-99-mistakes-i-regret-making",
+      "type": "essay",
+      "title": "99 mistakes I regret making:",
+      "url": "https://johnrushx.substack.com/p/99-mistakes-i-regret-making",
+      "publishedAt": "2025-05-26",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "mindset",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-i-did-it-500k-users-ill-share-every",
+      "type": "essay",
+      "title": "I did it 🥹 500k users! I'll share every step:",
+      "url": "https://johnrushx.substack.com/p/i-did-it-500k-users-ill-share-every",
+      "publishedAt": "2025-04-07",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "growth",
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-if-only-someone-told-me-this-before-my-1st-startup",
+      "type": "essay",
+      "title": "If only someone told me this before my 1st startup",
+      "url": "https://johnrushx.substack.com/p/if-only-someone-told-me-this-before-my-1st-startup",
+      "publishedAt": "2023-12-24",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "mindset",
+        "product",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "essay-my-open-letter-to-the-new-startup",
+      "type": "essay",
+      "title": "My open letter to the new Startup Founders",
+      "url": "https://johnrushx.substack.com/p/my-open-letter-to-the-new-startup",
+      "publishedAt": "2024-11-21",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "essay-lazy-seo-tips-new-tech-dramas-copycats",
+      "type": "essay",
+      "title": "Lazy SEO tips, New tech dramas, Copycats, Scams & more",
+      "url": "https://johnrushx.substack.com/p/lazy-seo-tips-new-tech-dramas-copycats",
+      "publishedAt": "2024-10-21",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "essay-directory-playbook-build-grow-and",
+      "type": "essay",
+      "title": "Directory playbook: build, grow & monetize.",
+      "url": "https://johnrushx.substack.com/p/directory-playbook-build-grow-and",
+      "publishedAt": "2024-09-16",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "seo",
+        "distribution",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-im-turning-35-the-28-rules-i-learned",
+      "type": "essay",
+      "title": "I'm turning 35. The 28 rules I learned the hard way",
+      "url": "https://johnrushx.substack.com/p/im-turning-35-the-28-rules-i-learned",
+      "publishedAt": "2024-07-22",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "mindset",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-john-rush-may-27-unicorns-are-falling",
+      "type": "essay",
+      "title": "John Rush #May 27. Unicorns are Falling Dead ☠ & I'll buy a spot on your site.",
+      "url": "https://johnrushx.substack.com/p/john-rush-may-27-unicorns-are-falling",
+      "publishedAt": "2024-05-27",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "fundraising",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-john-rush-may20-seo-in-9-steps-and",
+      "type": "essay",
+      "title": "John Rush #May20: SEO in 9 steps & 300k ARR",
+      "url": "https://johnrushx.substack.com/p/john-rush-may20-seo-in-9-steps-and",
+      "publishedAt": "2024-05-20",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-i-pay-for-78-products-to-run-my-24",
+      "type": "essay",
+      "title": "I pay for 78 products to run my 24 projects.",
+      "url": "https://johnrushx.substack.com/p/i-pay-for-78-products-to-run-my-24",
+      "publishedAt": "2024-05-14",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "productivity",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-i-was-invisible-on-the-internet-a",
+      "type": "essay",
+      "title": "\"I was invisible on the internet a year ago\" + Best of the week.",
+      "url": "https://johnrushx.substack.com/p/i-was-invisible-on-the-internet-a",
+      "publishedAt": "2024-05-08",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "marketing",
+        "community",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-anyone-can-do-this-took-me-8h",
+      "type": "essay",
+      "title": "Anyone can do this (took me 8h)",
+      "url": "https://johnrushx.substack.com/p/anyone-can-do-this-took-me-8h",
+      "publishedAt": "2024-05-01",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "building",
+        "launch"
+      ]
+    },
+    {
+      "id": "essay-series-a-killed-my-startup",
+      "type": "essay",
+      "title": "Series A Round Killed My Startup + 5 more stories",
+      "url": "https://johnrushx.substack.com/p/series-a-killed-my-startup",
+      "publishedAt": "2024-01-03",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "fundraising",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-maker-predictions-for-2024-10m-clicks-googlesheet-as-db-and-",
+      "type": "essay",
+      "title": "Indie Maker Prediction for 2024-2026, got 10 million links clicks on directories, New Experiment, Google Sheet as DB, IndexGoogle",
+      "url": "https://johnrushx.substack.com/p/maker-predictions-for-2024-10m-clicks-googlesheet-as-db-and-more",
+      "publishedAt": "2023-12-18",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "seo",
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-acquisition-offer-viral-directories-and-more",
+      "type": "essay",
+      "title": "#1 - John Rush. VC, 0.5M visits, acquisition offer, viral directories and more.",
+      "url": "https://johnrushx.substack.com/p/acquisition-offer-viral-directories-and-more",
+      "publishedAt": "2023-12-11",
+      "outlet": "johnrushx.substack.com",
+      "topics": [
+        "distribution",
+        "growth",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "essay-leaving-vc-world-for-bootstrapping",
+      "type": "essay",
+      "title": "Leaving the VC world to bootstrapping - John Rush interview",
+      "url": "https://www.highsignal.io/leaving-vc-world-for-bootstrapping/",
+      "publishedAt": null,
+      "outlet": "www.highsignal.io",
+      "topics": [
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "essay-i-built-30-startups-in-20-years-3j41",
+      "type": "essay",
+      "title": "I built 30 startups in 20 years",
+      "url": "https://dev.to/johnrushx/i-built-30-startups-in-20-years-3j41",
+      "publishedAt": null,
+      "outlet": "dev.to",
+      "topics": [
+        "mindset",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1886610636144333272",
+      "type": "x_post",
+      "title": "I've tried all (24) AI coding agents &amp; IDEs 😵‍💫 [Cursor, Softgen, Windsurf, Wrapifai",
+      "url": "https://x.com/johnrush/status/1886610636144333272",
+      "publishedAt": "2025-02-04",
+      "outlet": "X",
+      "views": 2278343,
+      "likes": 12535,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1890234512984211900",
+      "type": "x_post",
+      "title": "AI won't replace the entire profession, but it's replacing the bottom 20-80% in {translati",
+      "url": "https://x.com/johnrush/status/1890234512984211900",
+      "publishedAt": "2025-02-14",
+      "outlet": "X",
+      "views": 1931527,
+      "likes": 9679,
+      "topics": [
+        "ai",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1871405441948987786",
+      "type": "x_post",
+      "title": "Absolutely nobody predicted this: AI Code is the new NoCode. Honestly, I like talking to A",
+      "url": "https://x.com/johnrush/status/1871405441948987786",
+      "publishedAt": "2024-12-24",
+      "outlet": "X",
+      "views": 1402406,
+      "likes": 7589,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1897655569101779201",
+      "type": "x_post",
+      "title": "What is MCP & why it's a big (huge) deal: (model context protocol) TLDR: MCP makes it poss",
+      "url": "https://x.com/johnrush/status/1897655569101779201",
+      "publishedAt": "2025-03-06",
+      "outlet": "X",
+      "views": 645923,
+      "likes": 4946,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1932417453989998737",
+      "type": "x_post",
+      "title": "Explain me this: Why would American companies hire US based remote employees for $120k-$35",
+      "url": "https://x.com/johnrush/status/1932417453989998737",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 773842,
+      "likes": 4826,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1915775789796306967",
+      "type": "x_post",
+      "title": "I automated 90% of my startup empire[24]. My biggest monthly expense is AI; it's no longer",
+      "url": "https://x.com/johnrush/status/1915775789796306967",
+      "publishedAt": "2025-04-25",
+      "outlet": "X",
+      "views": 1285787,
+      "likes": 4778,
+      "topics": [
+        "ai",
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1885319633496138215",
+      "type": "x_post",
+      "title": "I run the most automated org on earth, thx to the agents I built myself or third parties. ",
+      "url": "https://x.com/johnrush/status/1885319633496138215",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 832603,
+      "likes": 3988,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1889872137667879108",
+      "type": "x_post",
+      "title": "I launched 20+ startups using the following playbook: Audience → Problem → Idea → Validati",
+      "url": "https://x.com/johnrush/status/1889872137667879108",
+      "publishedAt": "2025-02-13",
+      "outlet": "X",
+      "views": 69316,
+      "likes": 1033,
+      "topics": [
+        "product",
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1894583200158244981",
+      "type": "x_post",
+      "title": "I'm working on 24 startups simultaneously (half a million b2b users, multimillion ARR) No ",
+      "url": "https://x.com/johnrush/status/1894583200158244981",
+      "publishedAt": "2025-02-26",
+      "outlet": "X",
+      "views": 894812,
+      "likes": 3550,
+      "topics": [
+        "fundraising",
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1988266900103581927",
+      "type": "x_post",
+      "title": "Product &gt; Distribution Every successful founder I know agrees with it, but every failed",
+      "url": "https://x.com/johnrush/status/1988266900103581927",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 245656,
+      "likes": 3227,
+      "topics": [
+        "distribution",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1892046451838157173",
+      "type": "x_post",
+      "title": "My Biggest Regrets as a Startup Founder: 1. Taking VC money 2. Hiring too early 3. Buildin",
+      "url": "https://x.com/johnrush/status/1892046451838157173",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 291239,
+      "likes": 2638,
+      "topics": [
+        "building",
+        "hiring",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1891684077994123426",
+      "type": "x_post",
+      "title": "My secret hack for infinite startup ideas: 1. Google search bar: an app that..; cms that..",
+      "url": "https://x.com/johnrush/status/1891684077994123426",
+      "publishedAt": "2025-02-18",
+      "outlet": "X",
+      "views": 269256,
+      "likes": 2595,
+      "topics": [
+        "product",
+        "seo",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1868883835498463726",
+      "type": "x_post",
+      "title": "I've replaced 100% of my marketing &amp; sales dept with AI in 2024. It's literally just m",
+      "url": "https://x.com/johnrush/status/1868883835498463726",
+      "publishedAt": "2024-12-17",
+      "outlet": "X",
+      "views": 582509,
+      "likes": 2406,
+      "topics": [
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1963074476645744973",
+      "type": "x_post",
+      "title": "I've spent $76,082.42 in August 😓 Can you help me reduce this? Contractors: -$10,137.78 A",
+      "url": "https://x.com/johnrush/status/1963074476645744973",
+      "publishedAt": "2025-09-03",
+      "outlet": "X",
+      "views": 952847,
+      "likes": 2250,
+      "topics": [
+        "ai",
+        "seo",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1963290860998856923",
+      "type": "x_post",
+      "title": "Twitter brain is insane 👏 I know how to cut my expenses in half now, from $76k to $38k: 1",
+      "url": "https://x.com/johnrush/status/1963290860998856923",
+      "publishedAt": "2025-09-03",
+      "outlet": "X",
+      "views": 131576,
+      "likes": 1100,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1920848168419516794",
+      "type": "x_post",
+      "title": "It’s 2012. I sold my bootstrapped startup, made my 1st mil. I wanna build a unicorn, raise",
+      "url": "https://x.com/johnrush/status/1920848168419516794",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 510674,
+      "likes": 2080,
+      "topics": [
+        "fundraising",
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1864535178133250318",
+      "type": "x_post",
+      "title": "We've built a real AI AGENT: @seobotai It works 100% on autopilot. For example, an article",
+      "url": "https://x.com/johnrush/status/1864535178133250318",
+      "publishedAt": "2024-12-05",
+      "outlet": "X",
+      "views": 418032,
+      "likes": 2040,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1814770962346483810",
+      "type": "x_post",
+      "title": "I'm turning 35. If you're a startup founder in your 20's, read these 28 rules I learned th",
+      "url": "https://x.com/johnrush/status/1814770962346483810",
+      "publishedAt": "2024-07-20",
+      "outlet": "X",
+      "views": 242808,
+      "likes": 2017,
+      "topics": [
+        "product",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1806682114290541049",
+      "type": "x_post",
+      "title": "Very sad ending for Software Developers. I kept saying this for 6 years. In 10 years, 90% ",
+      "url": "https://x.com/johnrush/status/1806682114290541049",
+      "publishedAt": "2024-06-28",
+      "outlet": "X",
+      "views": 683454,
+      "likes": 2010,
+      "topics": [
+        "bootstrapping",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1859252339846021236",
+      "type": "x_post",
+      "title": "I co-founded a startup as CTO, had Lego, McKinsey, and Macy as customers, entered the best",
+      "url": "https://x.com/johnrush/status/1859252339846021236",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 628286,
+      "likes": 1795,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1933524708659699993",
+      "type": "x_post",
+      "title": "&gt; Traditional SaaS is done (soon) &gt; commoditized &gt; founders clone successful prod",
+      "url": "https://x.com/johnrush/status/1933524708659699993",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 348180,
+      "likes": 1787,
+      "topics": [
+        "building",
+        "pricing",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1856117880275812638",
+      "type": "x_post",
+      "title": "5 years ago, I needed 30 people &amp; $3M in funding to build just one startup, Today, I r",
+      "url": "https://x.com/johnrush/status/1856117880275812638",
+      "publishedAt": "2024-11-11",
+      "outlet": "X",
+      "views": 344016,
+      "likes": 1746,
+      "topics": [
+        "building",
+        "ai",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1893858396778225856",
+      "type": "x_post",
+      "title": "The lowest-hanging SEO fruit (just takes 5 min &amp; often works) 1) Go to Google Search C",
+      "url": "https://x.com/johnrush/status/1893858396778225856",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 178425,
+      "likes": 1674,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1930097179026436296",
+      "type": "x_post",
+      "title": "I'm risking being unfollowed for saying this, but I really wanna help, so I'll still proce",
+      "url": "https://x.com/johnrush/status/1930097179026436296",
+      "publishedAt": "2025-06-04",
+      "outlet": "X",
+      "views": 117388,
+      "likes": 1276,
+      "topics": [
+        "product",
+        "community",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1979332873648763227",
+      "type": "x_post",
+      "title": "I’m feeling so pessimistic about AI today. After building dozens of AI agents for many yea",
+      "url": "https://x.com/johnrush/status/1979332873648763227",
+      "publishedAt": "2025-10-17",
+      "outlet": "X",
+      "views": 252609,
+      "likes": 1579,
+      "topics": [
+        "ai",
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1926661831252181193",
+      "type": "x_post",
+      "title": "I built 30 startups in 20 years. VC-backed, Bootstrapped, Apps, SaaS, B2B, B2C, AI Agents.",
+      "url": "https://x.com/johnrush/status/1926661831252181193",
+      "publishedAt": "2025-05-25",
+      "outlet": "X",
+      "views": 723770,
+      "likes": 1320,
+      "topics": [
+        "fundraising",
+        "hiring",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1897119884620030132",
+      "type": "x_post",
+      "title": "Absolutely nobody gets this yet. Running ideas inside of your brain is 1000x more efficien",
+      "url": "https://x.com/johnrush/status/1897119884620030132",
+      "publishedAt": "2025-03-05",
+      "outlet": "X",
+      "views": 114617,
+      "likes": 1268,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1900018987188248939",
+      "type": "x_post",
+      "title": "Building a “SaaS people wanna pay for” is sooooooooo hard 😩 AI made it easier to build th",
+      "url": "https://x.com/johnrush/status/1900018987188248939",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 178949,
+      "likes": 1219,
+      "topics": [
+        "building",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1913804824514347183",
+      "type": "x_post",
+      "title": "i wish I could go back to my 20s and: 1. bootstrap instead of raising VC money 2. build in",
+      "url": "https://x.com/johnrush/status/1913804824514347183",
+      "publishedAt": "2025-04-20",
+      "outlet": "X",
+      "views": 98112,
+      "likes": 1201,
+      "topics": [
+        "building",
+        "hiring",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1922864527676408073",
+      "type": "x_post",
+      "title": "If you’re a corporate employee, Cancel your hobbies, Netflix &amp; entertainment. Free up ",
+      "url": "https://x.com/johnrush/status/1922864527676408073",
+      "publishedAt": "2025-05-15",
+      "outlet": "X",
+      "views": 129611,
+      "likes": 1189,
+      "topics": [
+        "mindset",
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1927026143196020750",
+      "type": "x_post",
+      "title": "I acquired Unicorn Platform for almost $1M. Since then, it went from 25k to 551k users. I'",
+      "url": "https://x.com/johnrush/status/1927026143196020750",
+      "publishedAt": "2025-05-26",
+      "outlet": "X",
+      "views": 335103,
+      "likes": 1164,
+      "topics": [
+        "growth",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1871043054653841626",
+      "type": "x_post",
+      "title": "An essay: Why founders fail, despite being good at coding and high IQ. Being mathematicall",
+      "url": "https://x.com/johnrush/status/1871043054653841626",
+      "publishedAt": "2024-12-23",
+      "outlet": "X",
+      "views": 247318,
+      "likes": 1146,
+      "topics": [
+        "product",
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1924676472549343439",
+      "type": "x_post",
+      "title": "My Startup log from 2005 to 2025, TLDR; > exit > invested > failed > failed > failed > los",
+      "url": "https://x.com/johnrush/status/1924676472549343439",
+      "publishedAt": "2025-05-20",
+      "outlet": "X",
+      "views": 96287,
+      "likes": 1124,
+      "topics": [
+        "mindset",
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1827427703210844330",
+      "type": "x_post",
+      "title": "My 10 cents on this hot debate. Bootstrappers say: you don’t need to pay for all these too",
+      "url": "https://x.com/johnrush/status/1827427703210844330",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 245531,
+      "likes": 1123,
+      "topics": [
+        "mindset",
+        "building",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1910543335292580241",
+      "type": "x_post",
+      "title": "I'm announcing my new mission, Until today, My goal in life was to try EVERYTHING:::: 1) T",
+      "url": "https://x.com/johnrush/status/1910543335292580241",
+      "publishedAt": "2025-04-11",
+      "outlet": "X",
+      "views": 58359,
+      "likes": 1086,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1905092421752685033",
+      "type": "x_post",
+      "title": "AI can: &gt; generate UI, sites, logos, banners, images, photos, movies.. &gt; write books",
+      "url": "https://x.com/johnrush/status/1905092421752685033",
+      "publishedAt": "2025-03-27",
+      "outlet": "X",
+      "views": 139188,
+      "likes": 1028,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1892771231512117443",
+      "type": "x_post",
+      "title": "I extracted the most common failure patterns from my 20-year-long startup journey. (spoile",
+      "url": "https://x.com/johnrush/status/1892771231512117443",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 173765,
+      "likes": 1013,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1931138652706377792",
+      "type": "x_post",
+      "title": "I fight myself every week. One part of me wants to build an empire of AI agents that’ll ch",
+      "url": "https://x.com/johnrush/status/1931138652706377792",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 52469,
+      "likes": 995,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1870571951858880702",
+      "type": "x_post",
+      "title": "“Made by humans” will 100x the price of all commodities in post-AGI era. Movies, music, an",
+      "url": "https://x.com/johnrush/status/1870571951858880702",
+      "publishedAt": "2024-12-21",
+      "outlet": "X",
+      "views": 116369,
+      "likes": 984,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1760743588516733322",
+      "type": "x_post",
+      "title": "If only someone told me this before my first startup: 1. Validate idea first. I wasted a d",
+      "url": "https://x.com/johnrush/status/1760743588516733322",
+      "publishedAt": "2024-02-22",
+      "outlet": "X",
+      "views": 140363,
+      "likes": 1017,
+      "topics": [
+        "product",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2000208498349523316",
+      "type": "x_post",
+      "title": "Why don’t we see any real impact of AI on the GDP and productivity? It’s been 3 full years",
+      "url": "https://x.com/johnrush/status/2000208498349523316",
+      "publishedAt": "2025-12-14",
+      "outlet": "X",
+      "views": 330523,
+      "likes": 3636,
+      "topics": [
+        "ai",
+        "product",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2021369575464419516",
+      "type": "x_post",
+      "title": "Sorry to be that guy, but most vibe coders will soon realize that their business failures ",
+      "url": "https://x.com/johnrush/status/2021369575464419516",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 188141,
+      "likes": 3073,
+      "topics": [
+        "ai",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020709269369471427",
+      "type": "x_post",
+      "title": "Software demand is about to grow 200x. Every country will build its own sovereign tech sta",
+      "url": "https://x.com/johnrush/status/2020709269369471427",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 158016,
+      "likes": 1712,
+      "topics": [
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2104603432837365870",
+      "type": "x_post",
+      "title": "It’s Sept 28, 2026, For the first time in my life I’m genuinely convinced I might never ag",
+      "url": "https://x.com/johnrush/status/2104603432837365870",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 252773,
+      "likes": 1386,
+      "topics": [
+        "marketing",
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2100557934493131200",
+      "type": "x_post",
+      "title": "You're wasting your time If you're working on anything that's not: - api (screenshotone) -",
+      "url": "https://x.com/johnrush/status/2100557934493131200",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 110282,
+      "likes": 1321,
+      "topics": [
+        "ai",
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2116075306515882322",
+      "type": "x_post",
+      "title": "I can’t get any hired dev to be significantly productive with AI, compared to what I can d",
+      "url": "https://x.com/johnrush/status/2116075306515882322",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 121117,
+      "likes": 1269,
+      "topics": [
+        "building",
+        "ai",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2003921641437344078",
+      "type": "x_post",
+      "title": "I have this unusual take on AI and the future of work: Knowing \"what to do\" is more import",
+      "url": "https://x.com/johnrush/status/2003921641437344078",
+      "publishedAt": "2025-12-24",
+      "outlet": "X",
+      "views": 84301,
+      "likes": 1235,
+      "topics": [
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2009381071222190257",
+      "type": "x_post",
+      "title": "I used to love coding I could spend days and nights doing it I’d discover new library or a",
+      "url": "https://x.com/johnrush/status/2009381071222190257",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 126719,
+      "likes": 1126,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2008828776050839850",
+      "type": "x_post",
+      "title": "Learn to be a Solopreneur building b2b micro saas without VC funding for a small niche you",
+      "url": "https://x.com/johnrush/status/2008828776050839850",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 73187,
+      "likes": 1117,
+      "topics": [
+        "building",
+        "fundraising",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2095014127421067321",
+      "type": "x_post",
+      "title": "I wanna share all my startup experience, one topic at a time, Today it's ---SEO--- In the ",
+      "url": "https://x.com/johnrush/status/2095014127421067321",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 78273,
+      "likes": 1020,
+      "topics": [
+        "seo",
+        "ai",
+        "community"
+      ]
+    },
+    {
+      "id": "x-2106815580884074715",
+      "type": "x_post",
+      "title": "Everything boosted by AI is losing its value down to zero - code / software / apps / saas ",
+      "url": "https://x.com/johnrush/status/2106815580884074715",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 68818,
+      "likes": 972,
+      "topics": [
+        "ai",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1785358653022675009",
+      "type": "x_post",
+      "title": "Anyone can do this (took me 8h in total) 1. I saw a hot topic 2. I checked google search v",
+      "url": "https://x.com/johnrush/status/1785358653022675009",
+      "publishedAt": "2024-04-30",
+      "outlet": "X",
+      "views": 199990,
+      "likes": 925,
+      "topics": [
+        "seo",
+        "distribution",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1829128390848176581",
+      "type": "x_post",
+      "title": "My playbook for micro SaaS startups to get to $10k/mo in 3 months: (I've done this 20+ tim",
+      "url": "https://x.com/johnrush/status/1829128390848176581",
+      "publishedAt": "2024-08-29",
+      "outlet": "X",
+      "views": 134681,
+      "likes": 920,
+      "topics": [
+        "product",
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1920327816782188895",
+      "type": "x_post",
+      "title": "In 2023, I decided to learn marketing &amp; distribution from zero. I had no followers on ",
+      "url": "https://x.com/johnrush/status/1920327816782188895",
+      "publishedAt": "2025-05-08",
+      "outlet": "X",
+      "views": 164858,
+      "likes": 917,
+      "topics": [
+        "marketing",
+        "distribution",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1816235515768668213",
+      "type": "x_post",
+      "title": "I laid off entire sales & marketing department of my enterprise SaaS a year ago. My goal w",
+      "url": "https://x.com/johnrush/status/1816235515768668213",
+      "publishedAt": "2024-07-24",
+      "outlet": "X",
+      "views": 284918,
+      "likes": 890,
+      "topics": [
+        "ai",
+        "pricing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1964318793439887850",
+      "type": "x_post",
+      "title": "as a first-time startup founder, just don’t do this: - b2c - Quit your main job to go all ",
+      "url": "https://x.com/johnrush/status/1964318793439887850",
+      "publishedAt": "2025-09-06",
+      "outlet": "X",
+      "views": 99843,
+      "likes": 882,
+      "topics": [
+        "product",
+        "building",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-2029406051716743354",
+      "type": "x_post",
+      "title": "Despite everyone saying everything is easy now with AI, it is much, much harder. AI basica",
+      "url": "https://x.com/johnrush/status/2029406051716743354",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 81214,
+      "likes": 879,
+      "topics": [
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1879662402276397098",
+      "type": "x_post",
+      "title": "Don’t do this until you reach $10k MRR: > hire employees > paid ads > website redesign > r",
+      "url": "https://x.com/johnrush/status/1879662402276397098",
+      "publishedAt": "2025-01-15",
+      "outlet": "X",
+      "views": 112999,
+      "likes": 847,
+      "topics": [
+        "product",
+        "marketing",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1835020593894195446",
+      "type": "x_post",
+      "title": "To make $5k/mo &gt; launch a directory, jobboard or launchpad. To make $20k/mo &gt; launch",
+      "url": "https://x.com/johnrush/status/1835020593894195446",
+      "publishedAt": "2024-09-14",
+      "outlet": "X",
+      "views": 199224,
+      "likes": 845,
+      "topics": [
+        "launch",
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2000707309849436519",
+      "type": "x_post",
+      "title": "To make $0 build b2c To make $1k build a directory To make $5k build a launchpad To make $",
+      "url": "https://x.com/johnrush/status/2000707309849436519",
+      "publishedAt": "2025-12-15",
+      "outlet": "X",
+      "views": 80112,
+      "likes": 815,
+      "topics": [
+        "building",
+        "launch",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1842645192358482085",
+      "type": "x_post",
+      "title": "It happened way sooner than I predicted. Bootstrapper mindset is the new default: > small ",
+      "url": "https://x.com/johnrush/status/1842645192358482085",
+      "publishedAt": "2024-10-05",
+      "outlet": "X",
+      "views": 106277,
+      "likes": 845,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1863369456254116205",
+      "type": "x_post",
+      "title": "X changed my life. I went from a broke VC-backed founder to a profitable holdco with 24 pr",
+      "url": "https://x.com/johnrush/status/1863369456254116205",
+      "publishedAt": "2024-12-01",
+      "outlet": "X",
+      "views": 220628,
+      "likes": 824,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "community"
+      ]
+    },
+    {
+      "id": "x-2100322424386429223",
+      "type": "x_post",
+      "title": "It’s time to admit this I think the era of micro saas is over and indie makers or bootstra",
+      "url": "https://x.com/johnrush/status/2100322424386429223",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 167209,
+      "likes": 820,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1929734798349947122",
+      "type": "x_post",
+      "title": "1. What I'd learn (to be prepared for 2025-2050) 2. What I'd avoid doing 3. What I'd do ri",
+      "url": "https://x.com/johnrush/status/1929734798349947122",
+      "publishedAt": "2025-06-03",
+      "outlet": "X",
+      "views": 109336,
+      "likes": 781,
+      "topics": [
+        "building",
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1910059072445100432",
+      "type": "x_post",
+      "title": "Most founders think VC-backed means rich, but bootstrapped means poor. Not true. I’ve done",
+      "url": "https://x.com/johnrush/status/1910059072445100432",
+      "publishedAt": "2025-04-09",
+      "outlet": "X",
+      "views": 305813,
+      "likes": 778,
+      "topics": [
+        "fundraising",
+        "bootstrapping",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2027899803640774791",
+      "type": "x_post",
+      "title": "Every coder saying “ai generated code is low quality slop…” Have you actually tried compar",
+      "url": "https://x.com/johnrush/status/2027899803640774791",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 79836,
+      "likes": 742,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1804137541324443801",
+      "type": "x_post",
+      "title": "I was left with just 0.15% of my own VC-backed Startup. (may happen to anyone). In 2013, I",
+      "url": "https://x.com/johnrush/status/1804137541324443801",
+      "publishedAt": "2024-06-21",
+      "outlet": "X",
+      "views": 105279,
+      "likes": 739,
+      "topics": [
+        "fundraising",
+        "hiring",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1856479967208472620",
+      "type": "x_post",
+      "title": "Every month, I pay $15,000 for 88 third-party subscriptions. Idk why bootstrapped founders",
+      "url": "https://x.com/johnrush/status/1856479967208472620",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 180943,
+      "likes": 736,
+      "topics": [
+        "pricing",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1848838509739585921",
+      "type": "x_post",
+      "title": "I hate to say how much I hate the haters. indie making is a playground. not a real biz. we",
+      "url": "https://x.com/johnrush/status/1848838509739585921",
+      "publishedAt": "2024-10-22",
+      "outlet": "X",
+      "views": 317544,
+      "likes": 734,
+      "topics": [
+        "bootstrapping",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2029857345036079345",
+      "type": "x_post",
+      "title": "It has never been easier to fool VCs > generate beautiful landing page with micro animatio",
+      "url": "https://x.com/johnrush/status/2029857345036079345",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 82233,
+      "likes": 718,
+      "topics": [
+        "fundraising",
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2004823437248700788",
+      "type": "x_post",
+      "title": "His experience is subjective. Low-productive coders are even less productive with AI. High",
+      "url": "https://x.com/johnrush/status/2004823437248700788",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 50458,
+      "likes": 677,
+      "topics": [
+        "product",
+        "productivity",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1900381372902236177",
+      "type": "x_post",
+      "title": "From easy to hard: 1. Being an employee 2. Selling courses 2. Freelancer 3. Running an age",
+      "url": "https://x.com/johnrush/status/1900381372902236177",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 82127,
+      "likes": 668,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1909093788758552587",
+      "type": "x_post",
+      "title": "To get your first 100 users, literally, bring them all one by one, hold their hands, liste",
+      "url": "https://x.com/johnrush/status/1909093788758552587",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 60734,
+      "likes": 666,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1908006628609372348",
+      "type": "x_post",
+      "title": "I did it 🥹 Halfway towards my dream of reaching a million users! - 4 years for 0 -&gt; 25",
+      "url": "https://x.com/johnrush/status/1908006628609372348",
+      "publishedAt": "2025-04-04",
+      "outlet": "X",
+      "views": 77644,
+      "likes": 654,
+      "topics": [
+        "growth",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1981358967206137912",
+      "type": "x_post",
+      "title": "don't be me > built & sold my first startup in 2009 > over the next 13 years, invested all",
+      "url": "https://x.com/johnrush/status/1981358967206137912",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 80138,
+      "likes": 644,
+      "topics": [
+        "building",
+        "bootstrapping",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1828706650452021525",
+      "type": "x_post",
+      "title": "The age of specialists is over. We’re entering the century of entrepreneurs. The skills I’",
+      "url": "https://x.com/johnrush/status/1828706650452021525",
+      "publishedAt": "2024-08-28",
+      "outlet": "X",
+      "views": 63907,
+      "likes": 637,
+      "topics": [
+        "marketing",
+        "product",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1962712092685037837",
+      "type": "x_post",
+      "title": "My AI predictions (2025-2035) - Agents (agentic software will replace saas &amp; humans at",
+      "url": "https://x.com/johnrush/status/1962712092685037837",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 119964,
+      "likes": 636,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1842541519867191378",
+      "type": "x_post",
+      "title": "The Future of <Software Developer> profession: > software developer jobs will mainly becom",
+      "url": "https://x.com/johnrush/status/1842541519867191378",
+      "publishedAt": "2024-10-05",
+      "outlet": "X",
+      "views": 105022,
+      "likes": 634,
+      "topics": [
+        "building",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1846686269557940545",
+      "type": "x_post",
+      "title": "B2C is digging for oil A lottery. If you find, you’re super rich. B2B is hunting. Some can",
+      "url": "https://x.com/johnrush/status/1846686269557940545",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 68734,
+      "likes": 626,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1977207612480659534",
+      "type": "x_post",
+      "title": "If you aren't building an AI agent, you're missing the opportunity that comes once in a li",
+      "url": "https://x.com/johnrush/status/1977207612480659534",
+      "publishedAt": "2025-10-12",
+      "outlet": "X",
+      "views": 71505,
+      "likes": 622,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1963799259658211837",
+      "type": "x_post",
+      "title": "I started building an AI Agent for SEO in 2022. The 1st version took a year to build, then",
+      "url": "https://x.com/johnrush/status/1963799259658211837",
+      "publishedAt": "2025-09-05",
+      "outlet": "X",
+      "views": 133156,
+      "likes": 621,
+      "topics": [
+        "seo",
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2008988601019683316",
+      "type": "x_post",
+      "title": "Founders think $100,000 MRR is freedom, and that's absolutely true! Full breakdown of @seo",
+      "url": "https://x.com/johnrush/status/2008988601019683316",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 163682,
+      "likes": 607,
+      "topics": [
+        "ai",
+        "distribution",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1913442442344644751",
+      "type": "x_post",
+      "title": "Solo founders + AI Agents will eat the world. I'm literally making it happen! I launched S",
+      "url": "https://x.com/johnrush/status/1913442442344644751",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 66687,
+      "likes": 588,
+      "topics": [
+        "ai",
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2026961833723113782",
+      "type": "x_post",
+      "title": "Few predictions nobody has thought of yet 1. Open Source movement gonna end because AI can",
+      "url": "https://x.com/johnrush/status/2026961833723113782",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 70386,
+      "likes": 584,
+      "topics": [
+        "ai",
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1894945553706037363",
+      "type": "x_post",
+      "title": "Every profile here with no followers &amp; no reach thinks it's all about hacks, luck, ret",
+      "url": "https://x.com/johnrush/status/1894945553706037363",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 83345,
+      "likes": 580,
+      "topics": [
+        "marketing",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1739800497383420014",
+      "type": "x_post",
+      "title": "Series A round Killed my startup! [Seed] After graduating from 500 Startups & raising seed",
+      "url": "https://x.com/johnrush/status/1739800497383420014",
+      "publishedAt": "2023-12-27",
+      "outlet": "X",
+      "views": 201628,
+      "likes": 573,
+      "topics": [
+        "fundraising",
+        "product",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1992967427898974216",
+      "type": "x_post",
+      "title": "When I reached $1M ARR without an office, employees &amp; VC funding All my life until 202",
+      "url": "https://x.com/johnrush/status/1992967427898974216",
+      "publishedAt": "2025-11-24",
+      "outlet": "X",
+      "views": 122094,
+      "likes": 570,
+      "topics": [
+        "fundraising",
+        "hiring",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1911086134823932398",
+      "type": "x_post",
+      "title": "Stop telling you can’t afford bootstrapping: 1. Work for someone for 5 years , eat sh*t, s",
+      "url": "https://x.com/johnrush/status/1911086134823932398",
+      "publishedAt": "2025-04-12",
+      "outlet": "X",
+      "views": 56651,
+      "likes": 569,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1907431753029140752",
+      "type": "x_post",
+      "title": "I failed 15 startups until I learned this: Make something YOU yourself want to use &amp; p",
+      "url": "https://x.com/johnrush/status/1907431753029140752",
+      "publishedAt": "2025-04-02",
+      "outlet": "X",
+      "views": 35814,
+      "likes": 564,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1720943449661223323",
+      "type": "x_post",
+      "title": "I see bad signs from startup ecosystem. More than 50% of my network are VC backed founders",
+      "url": "https://x.com/johnrush/status/1720943449661223323",
+      "publishedAt": "2023-11-04",
+      "outlet": "X",
+      "views": 164724,
+      "likes": 564,
+      "topics": [
+        "fundraising",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1914167211620749620",
+      "type": "x_post",
+      "title": "a guide on building successful AI agents: Take any job done on a computer, automate it wit",
+      "url": "https://x.com/johnrush/status/1914167211620749620",
+      "publishedAt": "2025-04-21",
+      "outlet": "X",
+      "views": 65135,
+      "likes": 556,
+      "topics": [
+        "ai",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1900743770788032881",
+      "type": "x_post",
+      "title": "My bootstrapped founder report(good & bad): > crossed $3.5M ARR > unicorn is almost at 0.5",
+      "url": "https://x.com/johnrush/status/1900743770788032881",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 87125,
+      "likes": 550,
+      "topics": [
+        "ai",
+        "growth",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2116798462414950438",
+      "type": "x_post",
+      "title": "My open letter to the new Startup Founders : ( It's extremely negative. An unfiltered trut",
+      "url": "https://x.com/johnrush/status/2116798462414950438",
+      "publishedAt": "2026-11-01",
+      "outlet": "X",
+      "views": 42560,
+      "likes": 549,
+      "topics": [
+        "community",
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1825203639989735783",
+      "type": "x_post",
+      "title": "90% of my Marketing failed, 10% worked. Everything I’ve learned the hard way building 50+ ",
+      "url": "https://x.com/johnrush/status/1825203639989735783",
+      "publishedAt": "2024-08-18",
+      "outlet": "X",
+      "views": 90255,
+      "likes": 546,
+      "topics": [
+        "distribution",
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1817819471056155091",
+      "type": "x_post",
+      "title": "Indie hacking won’t ever thrive in US. The VC-route will stay dominant here. An average so",
+      "url": "https://x.com/johnrush/status/1817819471056155091",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 92104,
+      "likes": 526,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1859252359760613743",
+      "type": "x_post",
+      "title": "8. The moral: Owning equity in a startup doesn’t protect you. Rich investors can kick you ",
+      "url": "https://x.com/johnrush/status/1859252359760613743",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 83588,
+      "likes": 525,
+      "topics": [
+        "fundraising",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1740530917179899949",
+      "type": "x_post",
+      "title": "How I Go From Idea to Revenue in 13 steps. [1] Idea. I only build products that I would us",
+      "url": "https://x.com/johnrush/status/1740530917179899949",
+      "publishedAt": "2023-12-29",
+      "outlet": "X",
+      "views": 86641,
+      "likes": 514,
+      "topics": [
+        "product",
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1904203699733565802",
+      "type": "x_post",
+      "title": "Future of Software Companies (my take): TLDR: Independent Founders-led brands will eat the",
+      "url": "https://x.com/johnrush/status/1904203699733565802",
+      "publishedAt": "2025-03-24",
+      "outlet": "X",
+      "views": 39885,
+      "likes": 511,
+      "topics": [
+        "distribution",
+        "ai",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1827260808780243137",
+      "type": "x_post",
+      "title": "Last year I started with 0 followers on a new account. I sucked the first few months. No l",
+      "url": "https://x.com/johnrush/status/1827260808780243137",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 59587,
+      "likes": 498,
+      "topics": [
+        "community",
+        "marketing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1827037167849500872",
+      "type": "x_post",
+      "title": "SEO is simple but not easy. 4 months ago, I quietly launched https://t.co/8DJv61bGcy. It t",
+      "url": "https://x.com/johnrush/status/1827037167849500872",
+      "publishedAt": "2024-08-23",
+      "outlet": "X",
+      "views": 80631,
+      "likes": 476,
+      "topics": [
+        "seo",
+        "distribution",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1842115400852508964",
+      "type": "x_post",
+      "title": "Every time I go $0 to $10k MRR, I stop marketing & optimize: the network effect + word of ",
+      "url": "https://x.com/johnrush/status/1842115400852508964",
+      "publishedAt": "2024-10-04",
+      "outlet": "X",
+      "views": 94257,
+      "likes": 467,
+      "topics": [
+        "product",
+        "growth",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2023564801109053497",
+      "type": "x_post",
+      "title": "In the past 2 weeks I produced more software than in the last two years and instead of fee",
+      "url": "https://x.com/johnrush/status/2023564801109053497",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 34914,
+      "likes": 462,
+      "topics": [
+        "building",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1981570601103048735",
+      "type": "x_post",
+      "title": "I'll be canceled for saying this, but you dont need more marketing, you simply need to mak",
+      "url": "https://x.com/johnrush/status/1981570601103048735",
+      "publishedAt": "2025-10-24",
+      "outlet": "X",
+      "views": 31341,
+      "likes": 460,
+      "topics": [
+        "marketing",
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2084378920384672207",
+      "type": "x_post",
+      "title": "Everything I ever learned bootstrapping startups from 0 to $1M ARR multiple times. This is",
+      "url": "https://x.com/johnrush/status/2084378920384672207",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 73504,
+      "likes": 455,
+      "topics": [
+        "product",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2022773541062512877",
+      "type": "x_post",
+      "title": "The future of work is basically this: > the most agentic humans gonna run 100% of their bi",
+      "url": "https://x.com/johnrush/status/2022773541062512877",
+      "publishedAt": "2026-02-14",
+      "outlet": "X",
+      "views": 43282,
+      "likes": 421,
+      "topics": [
+        "ai",
+        "hiring",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1799925426673877247",
+      "type": "x_post",
+      "title": "How I'd build a startup if I were starting out: 1. Launch a directory. Promote it. It's th",
+      "url": "https://x.com/johnrush/status/1799925426673877247",
+      "publishedAt": "2024-06-09",
+      "outlet": "X",
+      "views": 78615,
+      "likes": 448,
+      "topics": [
+        "building",
+        "product",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1867434276427641336",
+      "type": "x_post",
+      "title": "$1M bootstrapped founder playbook (i wish I knew earlier, not to waste a decade doing wron",
+      "url": "https://x.com/johnrush/status/1867434276427641336",
+      "publishedAt": "2024-12-13",
+      "outlet": "X",
+      "views": 48490,
+      "likes": 443,
+      "topics": [
+        "product",
+        "distribution",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1889225722486739425",
+      "type": "x_post",
+      "title": "10. Hire only people you'd wanna hug. My mentor said this to me in 2015. And it was a big ",
+      "url": "https://x.com/johnrush/status/1889225722486739425",
+      "publishedAt": "2025-02-11",
+      "outlet": "X",
+      "views": 30911,
+      "likes": 441,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1980484697747837214",
+      "type": "x_post",
+      "title": "Be your own boss, they said 🥴 This is my life for the last 15 years: > coding > designing",
+      "url": "https://x.com/johnrush/status/1980484697747837214",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 49750,
+      "likes": 431,
+      "topics": [
+        "marketing",
+        "building",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2086017754801332648",
+      "type": "x_post",
+      "title": "Golden age of selling hours as freelancer/outsourcing agency is over See it in my org too:",
+      "url": "https://x.com/johnrush/status/2086017754801332648",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 47942,
+      "likes": 371,
+      "topics": [
+        "ai",
+        "marketing",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1977896673062826039",
+      "type": "x_post",
+      "title": "My most controversial take: While most people think the software creation will be automate",
+      "url": "https://x.com/johnrush/status/1977896673062826039",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 32231,
+      "likes": 405,
+      "topics": [
+        "ai",
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1955630451256885432",
+      "type": "x_post",
+      "title": "I built the most automated org on earth &amp; shipped 30 products with co-makers: &gt; SEO",
+      "url": "https://x.com/johnrush/status/1955630451256885432",
+      "publishedAt": "2025-08-13",
+      "outlet": "X",
+      "views": 89587,
+      "likes": 400,
+      "topics": [
+        "distribution",
+        "ai",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1972858945275572564",
+      "type": "x_post",
+      "title": "I automated most of my job as an entrepreneur (landing pages, lead magnets, ads, websites,",
+      "url": "https://x.com/johnrush/status/1972858945275572564",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 48178,
+      "likes": 395,
+      "topics": [
+        "ai",
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2004180282165940618",
+      "type": "x_post",
+      "title": "me at a xmass table when dad asked for a toast: 1. Things I learned after 20 startups 2. H",
+      "url": "https://x.com/johnrush/status/2004180282165940618",
+      "publishedAt": "2025-12-25",
+      "outlet": "X",
+      "views": 32658,
+      "likes": 389,
+      "topics": [
+        "building",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1839427357616259437",
+      "type": "x_post",
+      "title": "I wish I realized this in 2012, I'd be a fu*king internet traffic king by now 😣 I worked ",
+      "url": "https://x.com/johnrush/status/1839427357616259437",
+      "publishedAt": "2024-09-26",
+      "outlet": "X",
+      "views": 108697,
+      "likes": 388,
+      "topics": [
+        "distribution",
+        "launch",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1906919454396776856",
+      "type": "x_post",
+      "title": "My open Startup Founder Report for March! &gt; $3M+ arr &gt; unicorn platform hit 500,000 ",
+      "url": "https://x.com/johnrush/status/1906919454396776856",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 62008,
+      "likes": 386,
+      "topics": [
+        "growth",
+        "distribution",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1882085332273009149",
+      "type": "x_post",
+      "title": "I turned down every VC in 2024 with no regrets. I'd maybe 100x the revenue If I had raised",
+      "url": "https://x.com/johnrush/status/1882085332273009149",
+      "publishedAt": "2025-01-22",
+      "outlet": "X",
+      "views": 26389,
+      "likes": 385,
+      "topics": [
+        "fundraising",
+        "growth",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1830676739682353166",
+      "type": "x_post",
+      "title": "I’ve tried “hiring good people and giving them room to do their jobs” for 15 years with a ",
+      "url": "https://x.com/johnrush/status/1830676739682353166",
+      "publishedAt": "2024-09-02",
+      "outlet": "X",
+      "views": 98918,
+      "likes": 384,
+      "topics": [
+        "mindset",
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1781813953267486826",
+      "type": "x_post",
+      "title": "I’m sorry, but you can’t - go from $0 to $100k in 30 days - learn anything useful in a day",
+      "url": "https://x.com/johnrush/status/1781813953267486826",
+      "publishedAt": "2024-04-20",
+      "outlet": "X",
+      "views": 100966,
+      "likes": 379,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1785060490529370514",
+      "type": "x_post",
+      "title": "90% of VCs add no value to startups, 70% even harm them. just the fact that you got an MBA",
+      "url": "https://x.com/johnrush/status/1785060490529370514",
+      "publishedAt": "2024-04-29",
+      "outlet": "X",
+      "views": 51981,
+      "likes": 374,
+      "topics": [
+        "mindset",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1880842628004241894",
+      "type": "x_post",
+      "title": "“Build it and they will come” is actually real, if: &gt; it boosts their revenue or profit",
+      "url": "https://x.com/johnrush/status/1880842628004241894",
+      "publishedAt": "2025-01-19",
+      "outlet": "X",
+      "views": 24259,
+      "likes": 373,
+      "topics": [
+        "growth",
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1808498339819770061",
+      "type": "x_post",
+      "title": "This is so hard, man. You notice my wins, new launches & growth charts. But the reality is",
+      "url": "https://x.com/johnrush/status/1808498339819770061",
+      "publishedAt": "2024-07-03",
+      "outlet": "X",
+      "views": 32130,
+      "likes": 357,
+      "topics": [
+        "growth",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1773846935452979376",
+      "type": "x_post",
+      "title": "I came up with 20 Ideas in 12 months using this approach: 1. Pain at my own work Listing t",
+      "url": "https://x.com/johnrush/status/1773846935452979376",
+      "publishedAt": "2024-03-29",
+      "outlet": "X",
+      "views": 49327,
+      "likes": 357,
+      "topics": [
+        "product",
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1771505650993963225",
+      "type": "x_post",
+      "title": "I have no to-do list or notes. No sleep routine. No daily goals. No system. I drink sugare",
+      "url": "https://x.com/johnrush/status/1771505650993963225",
+      "publishedAt": "2024-03-23",
+      "outlet": "X",
+      "views": 61182,
+      "likes": 357,
+      "topics": [
+        "building",
+        "productivity",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2085824557231833317",
+      "type": "x_post",
+      "title": "It’s crazy to realize that I have almost 1 million users across all my b2b products and I’",
+      "url": "https://x.com/johnrush/status/2085824557231833317",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 64657,
+      "likes": 355,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1790485292752810299",
+      "type": "x_post",
+      "title": "Today is a very special day for me. Unicorn Platform is at $25k MRR! 128,328 users built t",
+      "url": "https://x.com/johnrush/status/1790485292752810299",
+      "publishedAt": "2024-05-14",
+      "outlet": "X",
+      "views": 32470,
+      "likes": 352,
+      "topics": [
+        "distribution",
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1758266841175105672",
+      "type": "x_post",
+      "title": "My Biggest Fu*kup As A Founder - Ignoring SEO for 14 years My SEO journey started in March",
+      "url": "https://x.com/johnrush/status/1758266841175105672",
+      "publishedAt": "2024-02-15",
+      "outlet": "X",
+      "views": 75340,
+      "likes": 344,
+      "topics": [
+        "seo",
+        "distribution",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1938746265799663881",
+      "type": "x_post",
+      "title": "“Attention” is king; it’s more valuable than money. it’ll survive AGI. Everything else wil",
+      "url": "https://x.com/johnrush/status/1938746265799663881",
+      "publishedAt": "2025-06-27",
+      "outlet": "X",
+      "views": 127944,
+      "likes": 336,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1938219864038248720",
+      "type": "x_post",
+      "title": "My bootstrapped founder report for 2023-2025 - no VCs / Offices / Employees - near a milli",
+      "url": "https://x.com/johnrush/status/1938219864038248720",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 44278,
+      "likes": 332,
+      "topics": [
+        "ai",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1758990424075604271",
+      "type": "x_post",
+      "title": "❌How To Fail A Startup: → Idea → Design → Coding → 😫Audience ✅How To Succeed at Startups ",
+      "url": "https://x.com/johnrush/status/1758990424075604271",
+      "publishedAt": "2024-02-17",
+      "outlet": "X",
+      "views": 40376,
+      "likes": 326,
+      "topics": [
+        "product",
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1788197193586790911",
+      "type": "x_post",
+      "title": "An idiot admires complexity. A genius admires simplicity. Because complexity isn't an asse",
+      "url": "https://x.com/johnrush/status/1788197193586790911",
+      "publishedAt": "2024-05-08",
+      "outlet": "X",
+      "views": 33244,
+      "likes": 321,
+      "topics": [
+        "product",
+        "productivity",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2026456937563316681",
+      "type": "x_post",
+      "title": "Idk why nobody does it, but simply asking Codex to generate unit & e2e tests with 100% cov",
+      "url": "https://x.com/johnrush/status/2026456937563316681",
+      "publishedAt": "2026-02-25",
+      "outlet": "X",
+      "views": 23264,
+      "likes": 315,
+      "topics": [
+        "ai",
+        "product",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1872277832266612737",
+      "type": "x_post",
+      "title": "I receive this letter every 6 months. It has saved me multiple times: John, Don't be evil.",
+      "url": "https://x.com/johnrush/status/1872277832266612737",
+      "publishedAt": "2024-12-26",
+      "outlet": "X",
+      "views": 30122,
+      "likes": 308,
+      "topics": [
+        "fundraising",
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1771684410628137399",
+      "type": "x_post",
+      "title": "Founder with $.. MRR: →work-from-home → validate → build → promote → create-content → talk",
+      "url": "https://x.com/johnrush/status/1771684410628137399",
+      "publishedAt": "2024-03-23",
+      "outlet": "X",
+      "views": 46240,
+      "likes": 307,
+      "topics": [
+        "growth",
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1750177875787923465",
+      "type": "x_post",
+      "title": "Friends, I Can't Believe This Yet, Unicorn Platform has achieved PMF! 15,000% growth in De",
+      "url": "https://x.com/johnrush/status/1750177875787923465",
+      "publishedAt": "2024-01-24",
+      "outlet": "X",
+      "views": 52077,
+      "likes": 304,
+      "topics": [
+        "distribution",
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1794330095642956032",
+      "type": "x_post",
+      "title": "I hate to say this, but BuildInPublic is dead 🪦 Twitter was the key reason why it flouris",
+      "url": "https://x.com/johnrush/status/1794330095642956032",
+      "publishedAt": "2024-05-25",
+      "outlet": "X",
+      "views": 265264,
+      "likes": 299,
+      "topics": [
+        "community",
+        "building",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2027494069144850555",
+      "type": "x_post",
+      "title": "i know so many people not worried about AI they keep going to their job & do the same thin",
+      "url": "https://x.com/johnrush/status/2027494069144850555",
+      "publishedAt": "2026-02-27",
+      "outlet": "X",
+      "views": 22794,
+      "likes": 295,
+      "topics": [
+        "ai",
+        "building",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1996564381451346151",
+      "type": "x_post",
+      "title": "(this is not ragebait, i promise, just read til the end) The \"employment\" concept is havin",
+      "url": "https://x.com/johnrush/status/1996564381451346151",
+      "publishedAt": "2025-12-04",
+      "outlet": "X",
+      "views": 19396,
+      "likes": 295,
+      "topics": [
+        "building",
+        "marketing",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1910360623852171661",
+      "type": "x_post",
+      "title": "Most people I know rarely use AI (for ±15% of their tasks). I use AI for 99% of my tasks. ",
+      "url": "https://x.com/johnrush/status/1910360623852171661",
+      "publishedAt": "2025-04-10",
+      "outlet": "X",
+      "views": 22446,
+      "likes": 294,
+      "topics": [
+        "ai",
+        "product",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1783815467787760061",
+      "type": "x_post",
+      "title": "You think being a founder is fun? I'll change your mind: - working 7 days a week 10+ hours",
+      "url": "https://x.com/johnrush/status/1783815467787760061",
+      "publishedAt": "2024-04-26",
+      "outlet": "X",
+      "views": 85514,
+      "likes": 285,
+      "topics": [
+        "product",
+        "ai",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1991632207253799048",
+      "type": "x_post",
+      "title": "I’m done investing in stocks or crypto0. Never again! My new routine: - earn profits with ",
+      "url": "https://x.com/johnrush/status/1991632207253799048",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 35171,
+      "likes": 284,
+      "topics": [
+        "ai",
+        "productivity",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2119394443123904724",
+      "type": "x_post",
+      "title": "Claude Code few-shots anything I can think of (software, process automation, docs, design,",
+      "url": "https://x.com/johnrush/status/2119394443123904724",
+      "publishedAt": "2026-11-08",
+      "outlet": "X",
+      "views": 23280,
+      "likes": 282,
+      "topics": [
+        "ai",
+        "marketing",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1973447406017806605",
+      "type": "x_post",
+      "title": "My bootstrapped founder report(good & bad): > revenue dropped by 20% > one of my comakers ",
+      "url": "https://x.com/johnrush/status/1973447406017806605",
+      "publishedAt": "2025-10-01",
+      "outlet": "X",
+      "views": 44401,
+      "likes": 281,
+      "topics": [
+        "ai",
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1787514143852933271",
+      "type": "x_post",
+      "title": "I was invisible on the internet a year ago. No followers, no views. After earning 50 milli",
+      "url": "https://x.com/johnrush/status/1787514143852933271",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 67227,
+      "likes": 280,
+      "topics": [
+        "community",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1772594741231731129",
+      "type": "x_post",
+      "title": "As a coder who learned marketing, my advice for devpreneurs: You think in binary: 0 / 1. Y",
+      "url": "https://x.com/johnrush/status/1772594741231731129",
+      "publishedAt": "2024-03-26",
+      "outlet": "X",
+      "views": 29446,
+      "likes": 279,
+      "topics": [
+        "community",
+        "mindset",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1841207830873063440",
+      "type": "x_post",
+      "title": "I build the \"shovels.\" My corporate customers book $100M in revenue yearly. But today, I d",
+      "url": "https://x.com/johnrush/status/1841207830873063440",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 48008,
+      "likes": 274,
+      "topics": [
+        "building",
+        "distribution",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2029233278276751575",
+      "type": "x_post",
+      "title": "I watch designers, marketers, entrepreneurs &amp; coders vibe-coding, and the coders do th",
+      "url": "https://x.com/johnrush/status/2029233278276751575",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 20140,
+      "likes": 266,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020075119666680225",
+      "type": "x_post",
+      "title": "We’re almost there Expect traditional saas prices to go to $0 Agentic software is the soft",
+      "url": "https://x.com/johnrush/status/2020075119666680225",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 54713,
+      "likes": 265,
+      "topics": [
+        "pricing",
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1766266602712891859",
+      "type": "x_post",
+      "title": "How I Startup! I started in 2004, made an exit, fundraised many times, 2 top accelerators.",
+      "url": "https://x.com/johnrush/status/1766266602712891859",
+      "publishedAt": "2024-03-09",
+      "outlet": "X",
+      "views": 75244,
+      "likes": 264,
+      "topics": [
+        "product",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1819307843780034853",
+      "type": "x_post",
+      "title": "I consider myself unlucky. I Failed Almost Everything I've Tried. 🚫failed to complete my ",
+      "url": "https://x.com/johnrush/status/1819307843780034853",
+      "publishedAt": "2024-08-02",
+      "outlet": "X",
+      "views": 21187,
+      "likes": 262,
+      "topics": [
+        "mindset",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2087125734338728070",
+      "type": "x_post",
+      "title": "AI Coding made me 100x more productive, but I haven't launched anything new for 2y now I g",
+      "url": "https://x.com/johnrush/status/2087125734338728070",
+      "publishedAt": "2026-08-11",
+      "outlet": "X",
+      "views": 19337,
+      "likes": 259,
+      "topics": [
+        "building",
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1836803374198497636",
+      "type": "x_post",
+      "title": "An internet + AI + NoCode will let 8 billion people run a lifestyle internet business that",
+      "url": "https://x.com/johnrush/status/1836803374198497636",
+      "publishedAt": "2024-09-19",
+      "outlet": "X",
+      "views": 23679,
+      "likes": 256,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1746331397994766838",
+      "type": "x_post",
+      "title": "I'm Done With Free Tools. All my life, I'd first launch my products for free. Recently, I ",
+      "url": "https://x.com/johnrush/status/1746331397994766838",
+      "publishedAt": "2024-01-14",
+      "outlet": "X",
+      "views": 60449,
+      "likes": 250,
+      "topics": [
+        "growth",
+        "product",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1992526194701418985",
+      "type": "x_post",
+      "title": "X personas: 1) lowercase philosophers 2) Successful success. You have pretty gf, funding r",
+      "url": "https://x.com/johnrush/status/1992526194701418985",
+      "publishedAt": "2025-11-23",
+      "outlet": "X",
+      "views": 27256,
+      "likes": 247,
+      "topics": [
+        "product",
+        "fundraising",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1889225838945833221",
+      "type": "x_post",
+      "title": "20. Bootstrap. I raised over 10 times, preseed, seed, and series A. Today I bootstrap all ",
+      "url": "https://x.com/johnrush/status/1889225838945833221",
+      "publishedAt": "2025-02-11",
+      "outlet": "X",
+      "views": 21016,
+      "likes": 245,
+      "topics": [
+        "fundraising",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1890234787635622147",
+      "type": "x_post",
+      "title": "7. AI for accounting. I have been using AI for most of my accounting since 2023. Ofc I get",
+      "url": "https://x.com/johnrush/status/1890234787635622147",
+      "publishedAt": "2025-02-14",
+      "outlet": "X",
+      "views": 59713,
+      "likes": 243,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1825802456699134093",
+      "type": "x_post",
+      "title": "I suck at paid ads OR it’s a scam??? Let’s say a SaaS founder runs FB/Google ads with a po",
+      "url": "https://x.com/johnrush/status/1825802456699134093",
+      "publishedAt": "2024-08-20",
+      "outlet": "X",
+      "views": 127574,
+      "likes": 242,
+      "topics": [
+        "marketing",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1828540045042630782",
+      "type": "x_post",
+      "title": "99% of sites losing on SEO have zero domain rating. The domain rating directly correlates ",
+      "url": "https://x.com/johnrush/status/1828540045042630782",
+      "publishedAt": "2024-08-27",
+      "outlet": "X",
+      "views": 54519,
+      "likes": 267,
+      "topics": [
+        "seo",
+        "distribution",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1813990500485247180",
+      "type": "x_post",
+      "title": "Traffic sources for my 24 projects: > 30% SEO. > 20% Listings. > 20% Word of mouth. > 20% ",
+      "url": "https://x.com/johnrush/status/1813990500485247180",
+      "publishedAt": "2024-07-18",
+      "outlet": "X",
+      "views": 67481,
+      "likes": 362,
+      "topics": [
+        "distribution",
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1822403351025160511",
+      "type": "x_post",
+      "title": "I've studied transactions across all my 24 products: 1. US customers' LTV is 2.4x bigger t",
+      "url": "https://x.com/johnrush/status/1822403351025160511",
+      "publishedAt": "2024-08-10",
+      "outlet": "X",
+      "views": 58187,
+      "likes": 361,
+      "topics": [
+        "pricing",
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1873594874995630491",
+      "type": "x_post",
+      "title": "It’s happening! 3 years ago I shared my prediction: - Most SaaS will be commoditized - The",
+      "url": "https://x.com/johnrush/status/1873594874995630491",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 79764,
+      "likes": 361,
+      "topics": [
+        "building",
+        "bootstrapping",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1767321346856440226",
+      "type": "x_post",
+      "title": "I'm sick of Vendor Lock 🤕 The future is Open Source, Self-Hosted and One-Time. Cloud is g",
+      "url": "https://x.com/johnrush/status/1767321346856440226",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 39003,
+      "likes": 368,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1761693013175050693",
+      "type": "x_post",
+      "title": "Programming is gonna disappear. Everyone with a domain expertise will be able to create so",
+      "url": "https://x.com/johnrush/status/1761693013175050693",
+      "publishedAt": "2024-02-25",
+      "outlet": "X",
+      "views": 100176,
+      "likes": 339,
+      "topics": [
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2024074233081438521",
+      "type": "x_post",
+      "title": "It’s happening There is no way solo founders with AI agents as cofounders and employees wo",
+      "url": "https://x.com/johnrush/status/2024074233081438521",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 109222,
+      "likes": 533,
+      "topics": [
+        "ai",
+        "bootstrapping",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1961900702982152543",
+      "type": "x_post",
+      "title": "I didn’t expect it to happen so soon 😔 While going crazy &amp; building all these startup",
+      "url": "https://x.com/johnrush/status/1961900702982152543",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 143704,
+      "likes": 532,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1919965419190026498",
+      "type": "x_post",
+      "title": "I still cannot believe that I can: &gt; serve millions of happy users &gt; be my own boss ",
+      "url": "https://x.com/johnrush/status/1919965419190026498",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 28367,
+      "likes": 396,
+      "topics": [
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1889225710830854376",
+      "type": "x_post",
+      "title": "9. Sell features, before building them. Ask existing users if they want this feature. I ru",
+      "url": "https://x.com/johnrush/status/1889225710830854376",
+      "publishedAt": "2025-02-11",
+      "outlet": "X",
+      "views": 32570,
+      "likes": 290,
+      "topics": [
+        "product",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2016903205972746645",
+      "type": "x_post",
+      "title": "Here's what \"AI agent era\" actually looks like They work for me 24/7: writing code, doing ",
+      "url": "https://x.com/johnrush/status/2016903205972746645",
+      "publishedAt": "2026-01-29",
+      "outlet": "X",
+      "views": 53797,
+      "likes": 360,
+      "topics": [
+        "ai",
+        "seo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1920848395612418227",
+      "type": "x_post",
+      "title": "[I earn PTSD after this] I lose faith in VC-backed-path. I stabilize the company, automate",
+      "url": "https://x.com/johnrush/status/1920848395612418227",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 29511,
+      "likes": 369,
+      "topics": [
+        "bootstrapping",
+        "ai",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-2086128496875643163",
+      "type": "x_post",
+      "title": "I pay for 116 products, $730k a year. It’s insane 😵‍💫 Are there cheaper alternatives? 1.",
+      "url": "https://x.com/johnrush/status/2086128496875643163",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 100842,
+      "likes": 411,
+      "topics": [
+        "ai",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1748487722619052275",
+      "type": "x_post",
+      "title": "Must Read for Early Stage Founders! Do Not Do This if you have zero traffic - A/B testing ",
+      "url": "https://x.com/johnrush/status/1748487722619052275",
+      "publishedAt": "2024-01-19",
+      "outlet": "X",
+      "views": 40894,
+      "likes": 204,
+      "topics": [
+        "distribution",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1850318226636366278",
+      "type": "x_post",
+      "title": "This is why I left VC World, I had a VC-backed startup. I loved our strategy and vision, b",
+      "url": "https://x.com/johnrush/status/1850318226636366278",
+      "publishedAt": "2024-10-26",
+      "outlet": "X",
+      "views": 47254,
+      "likes": 200,
+      "topics": [
+        "fundraising",
+        "bootstrapping",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1842206226391707779",
+      "type": "x_post",
+      "title": "I burned your ears with \"validate your ideas\"! Here is validation in practice: 1) I tweete",
+      "url": "https://x.com/johnrush/status/1842206226391707779",
+      "publishedAt": "2024-10-04",
+      "outlet": "X",
+      "views": 28064,
+      "likes": 196,
+      "topics": [
+        "product",
+        "pricing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1760637648794730526",
+      "type": "x_post",
+      "title": "I Discovered The Best SEO Trick Of All Time. Traditionally, marketers & growth hackers are",
+      "url": "https://x.com/johnrush/status/1760637648794730526",
+      "publishedAt": "2024-02-22",
+      "outlet": "X",
+      "views": 25251,
+      "likes": 196,
+      "topics": [
+        "growth",
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1905265505583112251",
+      "type": "x_post",
+      "title": "The new startup moat in the post-AI world: &gt; founder (why? who?) &gt; ideas (not just t",
+      "url": "https://x.com/johnrush/status/1905265505583112251",
+      "publishedAt": "2025-03-27",
+      "outlet": "X",
+      "views": 14657,
+      "likes": 196,
+      "topics": [
+        "marketing",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1761187622024585647",
+      "type": "x_post",
+      "title": "I Launched 30 Projects. ‣ 20 failed ‣ 10 survived Raw story of each survivor, idea → codin",
+      "url": "https://x.com/johnrush/status/1761187622024585647",
+      "publishedAt": "2024-02-24",
+      "outlet": "X",
+      "views": 37265,
+      "likes": 194,
+      "topics": [
+        "distribution",
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2024852576471232824",
+      "type": "x_post",
+      "title": "I've rebuilt more than 50% of all saas i used to pay for internally and it works 10x bette",
+      "url": "https://x.com/johnrush/status/2024852576471232824",
+      "publishedAt": "2026-02-20",
+      "outlet": "X",
+      "views": 16132,
+      "likes": 193,
+      "topics": [
+        "ai",
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1744508035282665522",
+      "type": "x_post",
+      "title": "We Failed Such A Great idea. 7 years ago, we started a startup to challenge Carta, we rais",
+      "url": "https://x.com/johnrush/status/1744508035282665522",
+      "publishedAt": "2024-01-08",
+      "outlet": "X",
+      "views": 37654,
+      "likes": 193,
+      "topics": [
+        "mindset",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1925550091525660908",
+      "type": "x_post",
+      "title": "I accidentally built a money printer (in 6 steps): 1) I found \"ai tool for\" keyword with h",
+      "url": "https://x.com/johnrush/status/1925550091525660908",
+      "publishedAt": "2025-05-22",
+      "outlet": "X",
+      "views": 25360,
+      "likes": 190,
+      "topics": [
+        "distribution",
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1863638275925156131",
+      "type": "x_post",
+      "title": "Building a Vertical SaaS Monopoly. &gt; In 2015 I predicted 2025 for the vertical &gt; sai",
+      "url": "https://x.com/johnrush/status/1863638275925156131",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 31663,
+      "likes": 189,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1918260863095681222",
+      "type": "x_post",
+      "title": "How to turn $0.05B into $10B > setup startup studio that’ll reinvent existing verticals > ",
+      "url": "https://x.com/johnrush/status/1918260863095681222",
+      "publishedAt": "2025-05-02",
+      "outlet": "X",
+      "views": 23561,
+      "likes": 183,
+      "topics": [
+        "fundraising",
+        "hiring",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1774811046546423849",
+      "type": "x_post",
+      "title": "Bootstrapped Startup Cookbook for indie makers and small teams. Idea💡 1. Your pain (at wo",
+      "url": "https://x.com/johnrush/status/1774811046546423849",
+      "publishedAt": "2024-04-01",
+      "outlet": "X",
+      "views": 14946,
+      "likes": 182,
+      "topics": [
+        "marketing",
+        "product",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1983581496582795762",
+      "type": "x_post",
+      "title": "20 Years as an Entrepreneur → 21 Tips 1. Enjoy. It'll consume your entire life. Learn to e",
+      "url": "https://x.com/johnrush/status/1983581496582795762",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 20819,
+      "likes": 180,
+      "topics": [
+        "product",
+        "building",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2109183217970327683",
+      "type": "x_post",
+      "title": "Wow, I absolutely didn't expect this Revenue went up 300% (4x) after I used Opus5.5 to rew",
+      "url": "https://x.com/johnrush/status/2109183217970327683",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 22838,
+      "likes": 179,
+      "topics": [
+        "ai",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1790912382341918727",
+      "type": "x_post",
+      "title": "I Will Pay You Every Month! The deal: - I pay you every month fixed price forever - I cont",
+      "url": "https://x.com/johnrush/status/1790912382341918727",
+      "publishedAt": "2024-05-16",
+      "outlet": "X",
+      "views": 81301,
+      "likes": 179,
+      "topics": [
+        "pricing",
+        "distribution",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1769871072994758842",
+      "type": "x_post",
+      "title": "My 11 Universal Growth Hacks 1. Social Media. I can't stress this enough. Spend about 10 h",
+      "url": "https://x.com/johnrush/status/1769871072994758842",
+      "publishedAt": "2024-03-18",
+      "outlet": "X",
+      "views": 29787,
+      "likes": 179,
+      "topics": [
+        "distribution",
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1758607276242264413",
+      "type": "x_post",
+      "title": "I'm a Very Weird Founder. 1. I use X for 80% of my customer support. Over 100 chats daily.",
+      "url": "https://x.com/johnrush/status/1758607276242264413",
+      "publishedAt": "2024-02-16",
+      "outlet": "X",
+      "views": 21596,
+      "likes": 177,
+      "topics": [
+        "product",
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1782909769721811029",
+      "type": "x_post",
+      "title": "I'm obsessed with margins. I'm the world champion on being scrappy. Let's break down one o",
+      "url": "https://x.com/johnrush/status/1782909769721811029",
+      "publishedAt": "2024-04-23",
+      "outlet": "X",
+      "views": 72489,
+      "likes": 176,
+      "topics": [
+        "product",
+        "ai",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1766958173875818999",
+      "type": "x_post",
+      "title": "Free SEO Keyword Research hack 1) go to Google Keyword Planner 2) enter the query you pick",
+      "url": "https://x.com/johnrush/status/1766958173875818999",
+      "publishedAt": "2024-03-10",
+      "outlet": "X",
+      "views": 28666,
+      "likes": 171,
+      "topics": [
+        "seo",
+        "distribution",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1755003318953234586",
+      "type": "x_post",
+      "title": "The Worst Day In My Startup Life. I was having a New Year's Eve party, had a few beers, an",
+      "url": "https://x.com/johnrush/status/1755003318953234586",
+      "publishedAt": "2024-02-06",
+      "outlet": "X",
+      "views": 29454,
+      "likes": 170,
+      "topics": [
+        "fundraising",
+        "launch",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1978766138214404223",
+      "type": "x_post",
+      "title": "Why have the “pay once, use for life” movement failed? 80% of the apps I use need no updat",
+      "url": "https://x.com/johnrush/status/1978766138214404223",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 48156,
+      "likes": 167,
+      "topics": [
+        "pricing",
+        "community",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1784952172586664246",
+      "type": "x_post",
+      "title": "Most indie makers target small businesses, but the real💰is here: My enterprise clients pa",
+      "url": "https://x.com/johnrush/status/1784952172586664246",
+      "publishedAt": "2024-04-29",
+      "outlet": "X",
+      "views": 24045,
+      "likes": 163,
+      "topics": [
+        "bootstrapping",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1755349373595103662",
+      "type": "x_post",
+      "title": "'Fast' beats the Sh*t out of Perfect. Capitalism throws negative force at you. Founders wh",
+      "url": "https://x.com/johnrush/status/1755349373595103662",
+      "publishedAt": "2024-02-07",
+      "outlet": "X",
+      "views": 21350,
+      "likes": 158,
+      "topics": [
+        "product",
+        "distribution",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1730002354605318228",
+      "type": "x_post",
+      "title": "Today I've decided to share what worked for me as a startup founder over all these years. ",
+      "url": "https://x.com/johnrush/status/1730002354605318228",
+      "publishedAt": "2023-11-29",
+      "outlet": "X",
+      "views": 30302,
+      "likes": 158,
+      "topics": [
+        "product",
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1750891117485175050",
+      "type": "x_post",
+      "title": "My Overnight Success that Took 20 years. 2004: everyone is going crazy about mobile phones",
+      "url": "https://x.com/johnrush/status/1750891117485175050",
+      "publishedAt": "2024-01-26",
+      "outlet": "X",
+      "views": 30554,
+      "likes": 157,
+      "topics": [
+        "building",
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1755603229877076290",
+      "type": "x_post",
+      "title": "I Went From 6% to 22% conversion in 12 months. [#1 Attempt] In May we tried to completely ",
+      "url": "https://x.com/johnrush/status/1755603229877076290",
+      "publishedAt": "2024-02-08",
+      "outlet": "X",
+      "views": 45162,
+      "likes": 156,
+      "topics": [
+        "product",
+        "building",
+        "community"
+      ]
+    },
+    {
+      "id": "x-2119730990884987168",
+      "type": "x_post",
+      "title": "My startup founder life now 08:00 - 08:30: see what my agents did over night, give them fe",
+      "url": "https://x.com/johnrush/status/2119730990884987168",
+      "publishedAt": "2026-11-09",
+      "outlet": "X",
+      "views": 17562,
+      "likes": 155,
+      "topics": [
+        "ai",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1734959197039546510",
+      "type": "x_post",
+      "title": "My prediction for indie makers for 2024-2026. > Exponential growth of quantity. > Everyone",
+      "url": "https://x.com/johnrush/status/1734959197039546510",
+      "publishedAt": "2023-12-13",
+      "outlet": "X",
+      "views": 27838,
+      "likes": 153,
+      "topics": [
+        "product",
+        "growth",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1818680254300356764",
+      "type": "x_post",
+      "title": "8 months ago, I had 3 acquisition requests for https://t.co/ibReA1N2QE. I turned down all ",
+      "url": "https://x.com/johnrush/status/1818680254300356764",
+      "publishedAt": "2024-07-31",
+      "outlet": "X",
+      "views": 57235,
+      "likes": 151,
+      "topics": [
+        "growth",
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1742877932119335416",
+      "type": "x_post",
+      "title": "Just Showing Up Daily isn't Enough. You need more! I saw founders showing up daily for 10+",
+      "url": "https://x.com/johnrush/status/1742877932119335416",
+      "publishedAt": "2024-01-04",
+      "outlet": "X",
+      "views": 19824,
+      "likes": 150,
+      "topics": [
+        "product",
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1759668703824642165",
+      "type": "x_post",
+      "title": "🙅‍♂️3 Biggest Traps For SaaS Founders The faster I fail, the faster I can move on to the ",
+      "url": "https://x.com/johnrush/status/1759668703824642165",
+      "publishedAt": "2024-02-19",
+      "outlet": "X",
+      "views": 17668,
+      "likes": 149,
+      "topics": [
+        "pricing",
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1765891534036115460",
+      "type": "x_post",
+      "title": "Bad News for Startup Founders. Customer acquisition cost is going UP 🔺 Customer lifetime ",
+      "url": "https://x.com/johnrush/status/1765891534036115460",
+      "publishedAt": "2024-03-08",
+      "outlet": "X",
+      "views": 25947,
+      "likes": 147,
+      "topics": [
+        "product",
+        "building",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1760676583868858371",
+      "type": "x_post",
+      "title": "I went from 0 to 15K followers 0 to 20M views 1 to 20+ projects in 10 months! I'm sharing ",
+      "url": "https://x.com/johnrush/status/1760676583868858371",
+      "publishedAt": "2024-02-22",
+      "outlet": "X",
+      "views": 20958,
+      "likes": 147,
+      "topics": [
+        "marketing",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1978250879405847023",
+      "type": "x_post",
+      "title": "The game has changed, here are the new rules: &gt; be know by the world for being the best",
+      "url": "https://x.com/johnrush/status/1978250879405847023",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 8734,
+      "likes": 142,
+      "topics": [
+        "ai",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1731836708964941830",
+      "type": "x_post",
+      "title": "SaaS makers, We are now all in the fashion business. You want it or not. I explain why. in",
+      "url": "https://x.com/johnrush/status/1731836708964941830",
+      "publishedAt": "2023-12-05",
+      "outlet": "X",
+      "views": 33404,
+      "likes": 141,
+      "topics": [
+        "pricing",
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1681819963219165184",
+      "type": "x_post",
+      "title": "We, Indie developers often fail because coding is addictive. Marketing rarely brings joy. ",
+      "url": "https://x.com/johnrush/status/1681819963219165184",
+      "publishedAt": "2023-07-20",
+      "outlet": "X",
+      "views": 22682,
+      "likes": 140,
+      "topics": [
+        "building",
+        "marketing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1746919323828969554",
+      "type": "x_post",
+      "title": "Best Growth Hack in 2024! Directories Drive a Hell of a Lot Of Traffic. People reach out t",
+      "url": "https://x.com/johnrush/status/1746919323828969554",
+      "publishedAt": "2024-01-15",
+      "outlet": "X",
+      "views": 44962,
+      "likes": 121,
+      "topics": [
+        "distribution",
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1794023087924469964",
+      "type": "x_post",
+      "title": "The rules I follow from Hormozicism: 1. Stop looking for hacks. 2. Sell to rich people unt",
+      "url": "https://x.com/johnrush/status/1794023087924469964",
+      "publishedAt": "2024-05-24",
+      "outlet": "X",
+      "views": 9191,
+      "likes": 117,
+      "topics": [
+        "mindset",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1960353795637993841",
+      "type": "x_post",
+      "title": "Negative ROI is there by design. Let’s say I built a new product and I need my first 100 u",
+      "url": "https://x.com/johnrush/status/1960353795637993841",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 42774,
+      "likes": 112,
+      "topics": [
+        "fundraising",
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1922663520744685695",
+      "type": "x_post",
+      "title": "A new trend: billion dollar companies acquhiring bootstrappers &amp; indie makers. So the ",
+      "url": "https://x.com/johnrush/status/1922663520744685695",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 14315,
+      "likes": 101,
+      "topics": [
+        "bootstrapping",
+        "fundraising",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1820760638248866017",
+      "type": "x_post",
+      "title": "5. Distribution will mean everything. The next generation of founders are those who built ",
+      "url": "https://x.com/johnrush/status/1820760638248866017",
+      "publishedAt": "2024-08-06",
+      "outlet": "X",
+      "views": 6702,
+      "likes": 93,
+      "topics": [
+        "community",
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1732452356187455752",
+      "type": "x_post",
+      "title": "🚩Listen, The wildest idea of my life. Lifetime deal on anything I ever build. Both the ex",
+      "url": "https://x.com/johnrush/status/1732452356187455752",
+      "publishedAt": "2023-12-06",
+      "outlet": "X",
+      "views": 24792,
+      "likes": 92,
+      "topics": [
+        "building",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1770953232904274173",
+      "type": "x_post",
+      "title": "$15k with single-purpose SaaS LTD. A year ago, I gave this prediction: 1. Surge of LTDs. F",
+      "url": "https://x.com/johnrush/status/1770953232904274173",
+      "publishedAt": "2024-03-21",
+      "outlet": "X",
+      "views": 13902,
+      "likes": 84,
+      "topics": [
+        "launch",
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1769284704031625612",
+      "type": "x_post",
+      "title": "Venture Capitalists are to blame. The order of events: ↳ cheap money led to a lack of prog",
+      "url": "https://x.com/johnrush/status/1769284704031625612",
+      "publishedAt": "2024-03-17",
+      "outlet": "X",
+      "views": 15035,
+      "likes": 84,
+      "topics": [
+        "fundraising",
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1866265481151488021",
+      "type": "x_post",
+      "title": "Do we really need Backlinks &amp; Domain Rating? Too many opinions, so I ran a test for my",
+      "url": "https://x.com/johnrush/status/1866265481151488021",
+      "publishedAt": "2024-12-09",
+      "outlet": "X",
+      "views": 12060,
+      "likes": 78,
+      "topics": [
+        "seo",
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1760105562665058729",
+      "type": "x_post",
+      "title": "My Growth Secret: Bet Only On Ogranic. When you grow a product for free, you have a limite",
+      "url": "https://x.com/johnrush/status/1760105562665058729",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 9493,
+      "likes": 78,
+      "topics": [
+        "distribution",
+        "seo",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1861175926320508962",
+      "type": "x_post",
+      "title": "For the First Time in My Life, I'm doing Black Friday &amp; Cyber Monday campaigns for all",
+      "url": "https://x.com/johnrush/status/1861175926320508962",
+      "publishedAt": "2024-11-25",
+      "outlet": "X",
+      "views": 23952,
+      "likes": 75,
+      "topics": [
+        "distribution",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1760313543079960870",
+      "type": "x_post",
+      "title": "One-Feature Tool Made $7164 in a Month. Just a month ago I said I'll run this project as a",
+      "url": "https://x.com/johnrush/status/1760313543079960870",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 18650,
+      "likes": 72,
+      "topics": [
+        "distribution",
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1800831986610692383",
+      "type": "x_post",
+      "title": "SEO needs patience. No traffic first 2 months. Then you grow Domain Rating, get more backl",
+      "url": "https://x.com/johnrush/status/1800831986610692383",
+      "publishedAt": "2024-06-12",
+      "outlet": "X",
+      "views": 5903,
+      "likes": 72,
+      "topics": [
+        "seo",
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1732077349464658128",
+      "type": "x_post",
+      "title": "Growth hacking is a trap. I learned this the hard way after 10 years. Here's my story. Mos",
+      "url": "https://x.com/johnrush/status/1732077349464658128",
+      "publishedAt": "2023-12-05",
+      "outlet": "X",
+      "views": 9904,
+      "likes": 71,
+      "topics": [
+        "growth",
+        "product",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1747043960789274831",
+      "type": "x_post",
+      "title": "Google doesn't bother to index new sites quickly (SEO). I launched this directory in Dec, ",
+      "url": "https://x.com/johnrush/status/1747043960789274831",
+      "publishedAt": "2024-01-15",
+      "outlet": "X",
+      "views": 14960,
+      "likes": 70,
+      "topics": [
+        "seo",
+        "ai",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1735082022807183728",
+      "type": "x_post",
+      "title": "Time to reveal a new project. My directories drove 🤯10 million clicks to 3rd-party projec",
+      "url": "https://x.com/johnrush/status/1735082022807183728",
+      "publishedAt": "2023-12-13",
+      "outlet": "X",
+      "views": 14491,
+      "likes": 84,
+      "topics": [
+        "distribution",
+        "product",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1826737574594941299",
+      "type": "x_post",
+      "title": "So, I have this VC backed startup that has 100% automated sales and marketing system (lite",
+      "url": "https://x.com/johnrush/status/1826737574594941299",
+      "publishedAt": "2024-08-22",
+      "outlet": "X",
+      "views": 20402,
+      "likes": 85,
+      "topics": [
+        "seo",
+        "ai",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1987960685486391336",
+      "type": "x_post",
+      "title": "what I learned just recently is that saying \"yes\" to opportunities works well in your 20s,",
+      "url": "https://x.com/johnrush/status/1987960685486391336",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 15779,
+      "likes": 114,
+      "topics": [
+        "fundraising",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2117748585001255164",
+      "type": "x_post",
+      "title": "3. https://t.co/d4au0Gdj6U In April 2023, I was spending lots of time on SEO since that wa",
+      "url": "https://x.com/johnrush/status/2117748585001255164",
+      "publishedAt": "2026-11-03",
+      "outlet": "X",
+      "views": 714,
+      "likes": 1,
+      "topics": [
+        "seo",
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1892771278849003565",
+      "type": "x_post",
+      "title": "4. Raised VC money for a non-unicorn idea. VCs make 100 bets. You're just one of 100. The ",
+      "url": "https://x.com/johnrush/status/1892771278849003565",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 9493,
+      "likes": 100,
+      "topics": [
+        "fundraising",
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1892771267109146689",
+      "type": "x_post",
+      "title": "3. Failed to monetize b2c. Once, I built an app with over 100k users, and was 1st on App S",
+      "url": "https://x.com/johnrush/status/1892771267109146689",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 10094,
+      "likes": 60,
+      "topics": [
+        "growth",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1920848383683817744",
+      "type": "x_post",
+      "title": "[Pivot to profitability] I drop all non core customers, we focus on one customer segment o",
+      "url": "https://x.com/johnrush/status/1920848383683817744",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 25483,
+      "likes": 63,
+      "topics": [
+        "growth",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1885319645407932644",
+      "type": "x_post",
+      "title": "1. SEObot - automated entire blog SEO. - figures out my topics, keywords, knowledge tree, ",
+      "url": "https://x.com/johnrush/status/1885319645407932644",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 55382,
+      "likes": 184,
+      "topics": [
+        "seo",
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1885319681608941891",
+      "type": "x_post",
+      "title": "4. @listingbott - works 24/7 to find all relevant directories &amp; websites where it can ",
+      "url": "https://x.com/johnrush/status/1885319681608941891",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 39913,
+      "likes": 145,
+      "topics": [
+        "distribution",
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1742342046508015881",
+      "type": "x_post",
+      "title": "World is Being Reinvented in 2024 5 Opportunities ↓ Once in a generation, we have the chan",
+      "url": "https://x.com/johnrush/status/1742342046508015881",
+      "publishedAt": "2024-01-03",
+      "outlet": "X",
+      "views": 13422,
+      "likes": 94,
+      "topics": [
+        "ai",
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1747386430706340244",
+      "type": "x_post",
+      "title": "YC founder reached out with very good questions. Every day I answer hundreds of questions ",
+      "url": "https://x.com/johnrush/status/1747386430706340244",
+      "publishedAt": "2024-01-16",
+      "outlet": "X",
+      "views": 33987,
+      "likes": 141,
+      "topics": [
+        "pricing",
+        "building",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1762180367564353669",
+      "type": "x_post",
+      "title": "Alright, 2 hours later the directory is ready → https://t.co/qwzFUhetII What I did 1. Boug",
+      "url": "https://x.com/johnrush/status/1762180367564353669",
+      "publishedAt": "2024-02-26",
+      "outlet": "X",
+      "views": 80478,
+      "likes": 201,
+      "topics": [
+        "distribution",
+        "seo",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1760252890592039167",
+      "type": "x_post",
+      "title": "90% Chance You’ll Be Laid Off in The Next 7 Years. It seems very far in the future, but it",
+      "url": "https://x.com/johnrush/status/1760252890592039167",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 44786,
+      "likes": 196,
+      "topics": [
+        "community",
+        "building",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1736886626855346222",
+      "type": "x_post",
+      "title": "16 years in the startup world. 25 failures. 4 successes in VC funded startups, Pivot into ",
+      "url": "https://x.com/johnrush/status/1736886626855346222",
+      "publishedAt": "2023-12-18",
+      "outlet": "X",
+      "views": 13191,
+      "likes": 188,
+      "topics": [
+        "product",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2086551658725597570",
+      "type": "x_post",
+      "title": "i noticed, that almost everyone is smart during the same day, but very few people wake up ",
+      "url": "https://x.com/johnrush/status/2086551658725597570",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 11453,
+      "likes": 179,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1767208763323261396",
+      "type": "x_post",
+      "title": "My past is a horror story. Today, I'm running a profitable multi-million fast-growing Hold",
+      "url": "https://x.com/johnrush/status/1767208763323261396",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 21406,
+      "likes": 177,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2019061678176940219",
+      "type": "x_post",
+      "title": "People thinking that AI is a game changer for them should realize that those who are smart",
+      "url": "https://x.com/johnrush/status/2019061678176940219",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 20516,
+      "likes": 173,
+      "topics": [
+        "ai",
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1789248188320239958",
+      "type": "x_post",
+      "title": "Nothing what I do is difficult. My life is privileged and soft, just like yours. I write c",
+      "url": "https://x.com/johnrush/status/1789248188320239958",
+      "publishedAt": "2024-05-11",
+      "outlet": "X",
+      "views": 13178,
+      "likes": 165,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1824584369685795227",
+      "type": "x_post",
+      "title": "I might get canceled for this, but I have to say this: building a startup is single best w",
+      "url": "https://x.com/johnrush/status/1824584369685795227",
+      "publishedAt": "2024-08-16",
+      "outlet": "X",
+      "views": 19974,
+      "likes": 237,
+      "topics": [
+        "building",
+        "community",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1995625298424213999",
+      "type": "x_post",
+      "title": "Product is 100x more difficult than marketing Marketing is easy, cuz you can try a million",
+      "url": "https://x.com/johnrush/status/1995625298424213999",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 18434,
+      "likes": 236,
+      "topics": [
+        "product",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1922059201599389928",
+      "type": "x_post",
+      "title": "Why dont you fking focus on one winning product?? literally everyone asks me I come up wit",
+      "url": "https://x.com/johnrush/status/1922059201599389928",
+      "publishedAt": "2025-05-12",
+      "outlet": "X",
+      "views": 32106,
+      "likes": 236,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1922602646868730329",
+      "type": "x_post",
+      "title": "My full startup idea strategy: < unbundle ( pick one feature of a famous cluttered product",
+      "url": "https://x.com/johnrush/status/1922602646868730329",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 25500,
+      "likes": 233,
+      "topics": [
+        "product",
+        "building",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1805502500826431818",
+      "type": "x_post",
+      "title": "It took UiPath 10 years to get to $1M ARR. Then just a year from $1M to $100M ARR. The fir",
+      "url": "https://x.com/johnrush/status/1805502500826431818",
+      "publishedAt": "2024-06-25",
+      "outlet": "X",
+      "views": 31123,
+      "likes": 232,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1909706626766192994",
+      "type": "x_post",
+      "title": "I had the same experience in b2c for decades. I was the world champion in failing startups",
+      "url": "https://x.com/johnrush/status/1909706626766192994",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 33603,
+      "likes": 232,
+      "topics": [
+        "product",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1745211780115140690",
+      "type": "x_post",
+      "title": "Worst Advice I Ever Got * 0] Build scalable tech 1] Raise VC money 2] Join startup incubat",
+      "url": "https://x.com/johnrush/status/1745211780115140690",
+      "publishedAt": "2024-01-10",
+      "outlet": "X",
+      "views": 39005,
+      "likes": 230,
+      "topics": [
+        "building",
+        "fundraising",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2010040953562648968",
+      "type": "x_post",
+      "title": "If you read this til the end, the chance that you’ll give up on entrepreneurship is 81% or",
+      "url": "https://x.com/johnrush/status/2010040953562648968",
+      "publishedAt": "2026-01-10",
+      "outlet": "X",
+      "views": 21151,
+      "likes": 224,
+      "topics": [
+        "product",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1859906405857390625",
+      "type": "x_post",
+      "title": "Seriously. Who needs VC funding when Stripe &amp; Mercury give loans on good terms in a fe",
+      "url": "https://x.com/johnrush/status/1859906405857390625",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 24618,
+      "likes": 218,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1747062207802667289",
+      "type": "x_post",
+      "title": "I Bought a Startup For almost $1M but it didn't go as planned. Two years ago I bought a pr",
+      "url": "https://x.com/johnrush/status/1747062207802667289",
+      "publishedAt": "2024-01-16",
+      "outlet": "X",
+      "views": 52848,
+      "likes": 217,
+      "topics": [
+        "growth",
+        "product",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1879831464436768798",
+      "type": "x_post",
+      "title": "Also, don’t raise VC funding until you reached $10k MRR. Because: &gt; you’ll just waste y",
+      "url": "https://x.com/johnrush/status/1879831464436768798",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 28923,
+      "likes": 215,
+      "topics": [
+        "fundraising",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1830924932651401543",
+      "type": "x_post",
+      "title": "How to combine startups and parenting: 1. Setup a family where one is working on startups ",
+      "url": "https://x.com/johnrush/status/1830924932651401543",
+      "publishedAt": "2024-09-03",
+      "outlet": "X",
+      "views": 35334,
+      "likes": 215,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1670425559447351298",
+      "type": "x_post",
+      "title": "Most coders can make a lot more working on an easy remote job than running their startups.",
+      "url": "https://x.com/johnrush/status/1670425559447351298",
+      "publishedAt": "2023-06-18",
+      "outlet": "X",
+      "views": 54083,
+      "likes": 212,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1799540346835062926",
+      "type": "x_post",
+      "title": "I run over 20 profitable products. 1. I make 100% of the decisions, creative work, and mee",
+      "url": "https://x.com/johnrush/status/1799540346835062926",
+      "publishedAt": "2024-06-08",
+      "outlet": "X",
+      "views": 31491,
+      "likes": 208,
+      "topics": [
+        "building",
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1754457643660280192",
+      "type": "x_post",
+      "title": "It's So Painful To Be a SaaS Founder. I've had hundreds of disaster moments, hidden behind",
+      "url": "https://x.com/johnrush/status/1754457643660280192",
+      "publishedAt": "2024-02-05",
+      "outlet": "X",
+      "views": 38767,
+      "likes": 208,
+      "topics": [
+        "product",
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1781466075093229794",
+      "type": "x_post",
+      "title": "B2B2C is my favorite. Find a customer who needs software. Build it for them, don't charge ",
+      "url": "https://x.com/johnrush/status/1781466075093229794",
+      "publishedAt": "2024-04-19",
+      "outlet": "X",
+      "views": 30395,
+      "likes": 205,
+      "topics": [
+        "building",
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1786895298188423369",
+      "type": "x_post",
+      "title": "When I was 11 years old working on a farm, My grandfather asked me to clean the potato fie",
+      "url": "https://x.com/johnrush/status/1786895298188423369",
+      "publishedAt": "2024-05-04",
+      "outlet": "X",
+      "views": 23993,
+      "likes": 204,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1753420685165166597",
+      "type": "x_post",
+      "title": "My Startup Founder Report. January Was My Best Month Ever. 👉 https://t.co/HHrirMWCWQ got ",
+      "url": "https://x.com/johnrush/status/1753420685165166597",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 39790,
+      "likes": 232,
+      "topics": [
+        "distribution",
+        "launch",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1803395930726568318",
+      "type": "x_post",
+      "title": "Every single time I post updates about my products, someone attacks them. Over the last si",
+      "url": "https://x.com/johnrush/status/1803395930726568318",
+      "publishedAt": "2024-06-19",
+      "outlet": "X",
+      "views": 61757,
+      "likes": 210,
+      "topics": [
+        "seo",
+        "ai",
+        "growth"
+      ]
+    }
+  ],
+  "failures": []
+}

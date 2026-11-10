@@ -1,0 +1,39 @@
+{
+  "id": "yt-7UcfhI341v4",
+  "title": "John Rush on indie hacking: wrappers, niche boilerplates, and why bootstrappers win on speed",
+  "summary": "A conversation prompted by Stripe acquiring LemonSqueezy. John Rush argues indie makers can build wrappers on top of big platforms, win with niche boilerplates, and beat VC-backed teams by launching early and talking to users. He also covers why good products always find users and why Europe suits bootstrappers.",
+  "principles": [
+    {
+      "text": "Building a wrapper on top of a big platform is smart, not lazy. Users care about experience, not the layer underneath.",
+      "quote": "in fact it's a good thing everything is a rupper and the higher level it is the smarter you are"
+    },
+    {
+      "text": "Don't build a generic boilerplate against an incumbent. Pick a specific niche where you can win the audience.",
+      "quote": "don't do the generic one because there's one that's cool and everybody knows and you will not win that audience against mark But if you make something for specific Niche you might win"
+    },
+    {
+      "text": "Bootstrappers win by launching unfinished and talking to users early, while VC-backed teams build in a bunker.",
+      "quote": "if you're booster founder you launch as soon as you can if you're a good with Boost founder and it means you launch unfinished product but also it means that you talk to the user very early"
+    },
+    {
+      "text": "Paid growth no longer works well. Bots, weak retention and high cost make VC money less of an advantage.",
+      "quote": "paid growth sucks 10 years ago paid growth was amazing"
+    },
+    {
+      "text": "Great products find users. A weak landing page is a reliable signal of a weak product, because marketing and UX skill go together.",
+      "quote": "I never seen great product without users every time somebody says they have a great product and they have no users just because users are dumb"
+    },
+    {
+      "text": "The indie maker community is a free launchpad: early adopters give fast, critical feedback, then you grow beyond the bubble through SEO and social.",
+      "quote": "we sell to each other at the start we are very good users because we give good feedback and we are very critical"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "product",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

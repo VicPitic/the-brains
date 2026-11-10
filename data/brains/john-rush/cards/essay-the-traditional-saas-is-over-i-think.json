@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-traditional-saas-is-over-i-think",
+  "title": "The traditional SaaS is over: agents collapse tools, so sell results, data and trust",
+  "summary": "John argues that AI agents connected via MCP replace SaaS UIs, killing UX moats, brand loyalty and switching costs and pushing tool prices toward zero. The remaining moats are data network effects and regulated trust. The new opportunities are the agent layer, one-time-paid code repos and outcome-based pricing.",
+  "principles": [
+    {
+      "text": "UX is no longer a moat: an agent in front of your product ignores your landing page, onboarding and feature naming.",
+      "quote": "the AI agent sitting in front of all of them doesn’t care about your landing page, your onboarding flow, your clever feature naming, or your freemium funnel."
+    },
+    {
+      "text": "Most users touch about 5% of any SaaS, so a custom dashboard of just the needed 5% from each tool can replace them.",
+      "quote": "I only use 5% of any given tool. The rest was just noise to me. So I just picked the 5% from each and put it all into one dashboard."
+    },
+    {
+      "text": "Brand loyalty and switching costs vanish when agents choose providers on price and whether it works.",
+      "quote": "I just care that the thing works and costs the least."
+    },
+    {
+      "text": "Data network effects are a moat agents can't commoditize: products that get better as more people use them.",
+      "quote": "If your product genuinely gets better because more people use it... that’s the one thing agents can’t commoditize."
+    },
+    {
+      "text": "Sell the result, not the tool: pricing flips from paying for access to paying for outcomes, and you can charge more.",
+      "quote": "The pricing model flips from “pay for access” to “pay for outcomes.”"
+    },
+    {
+      "text": "Sell full code repos for a one-time payment so buyers customize with Claude Code instead of starting from zero.",
+      "quote": "I’d happily pay someone $199 to purchase the code that I’ll then throw into Claude Code and ask to customize it for my needs"
+    }
+  ],
+  "topics": [
+    "product",
+    "pricing",
+    "ai",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

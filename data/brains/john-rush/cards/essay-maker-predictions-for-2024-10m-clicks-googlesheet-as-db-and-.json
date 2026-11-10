@@ -1,0 +1,39 @@
+{
+  "id": "essay-maker-predictions-for-2024-10m-clicks-googlesheet-as-db-and-",
+  "title": "Maker predictions 2024-2026: distribution beats code, Google Sheets as DB, directory promo network",
+  "summary": "John Rush predicts a flood of indie makers, multi-product makers and \"maker labels\", where distribution is 90% of winning. He explains why Google Sheets replaced databases for his directories (10M clicks, $0 revenue so far), and his plan for a pay-per-click directory promo network.",
+  "principles": [
+    {
+      "text": "In the new world distribution is ~90% of winning; big dev teams without distribution lose.",
+      "quote": "They got large dev force and little distribution force. In the new world, distribution is 90% of what one needs to win."
+    },
+    {
+      "text": "Most makers will move from endless features on one SaaS to many tools for the same audience.",
+      "quote": "So most realize this and instead of endless feature releases, they go and build more tools, to the same audience."
+    },
+    {
+      "text": "Use public Google Sheets as the DB for directories: free, crowd-editable, transparent, far easier than conventional DBs.",
+      "quote": "Now all my public directories run on Google Sheets. It's totally free! No matter how much traffic or users I have."
+    },
+    {
+      "text": "Don't build complex moderation software when a public sheet lets users fix the data themselves.",
+      "quote": "Imagine if I'd spent time building complex software for comment moderation...what a waste that would've been!"
+    },
+    {
+      "text": "AI content must be quality, not garbage: spend real money per article on multiple improvement cycles.",
+      "quote": "We spend almost a dollar on each article, cuz we do numerous cycles of content generation, improvement, research and more."
+    },
+    {
+      "text": "Monetize directories with sponsored spots, matched by software, with a tiny entry price for buyers.",
+      "quote": "The best way to monetize the directory is to sell \"sponsored\" spots. But it's not easy to find a buyer."
+    }
+  ],
+  "topics": [
+    "distribution",
+    "building",
+    "seo",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

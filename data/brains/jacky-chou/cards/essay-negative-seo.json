@@ -1,0 +1,37 @@
+{
+  "id": "essay-negative-seo",
+  "title": "Negative SEO: attack types, why they rarely work now, and how to defend your site",
+  "summary": "Jacky Chou explains what negative SEO is, the main attack types (link farms, fake link-removal requests, hacking, heavy crawling, duplicate content, fake reviews), and why Google's Penguin 4.0 makes link-spam attacks far less effective. He gives a monitoring and defense checklist: traffic and Search Console alerts, backlink audits, disavowing, securing admin logins, and site speed.",
+  "principles": [
+    {
+      "text": "Negative SEO works far less than it used to, but it isn't zero risk; monitor rather than assume Google handles it.",
+      "quote": "While negative SEO can still work, it is far less of an issue than it was some years back."
+    },
+    {
+      "text": "Google now devalues link spam instead of penalizing whole sites, so link-farm attacks mostly fail.",
+      "quote": "Rather than devaluing whole websites, Google now devalues link spam."
+    },
+    {
+      "text": "Defending against negative SEO means watching your whole online presence, not just backlinks.",
+      "quote": "It is now necessary to monitor your complete online presence and implement good security measures to keep negative SEO attacks at bay."
+    },
+    {
+      "text": "Detect attacks early by tracking organic traffic and Google's notifications; faster detection means less damage.",
+      "quote": "The sooner you learn about the negative SEO, the sooner you can respond and mitigate the harm."
+    },
+    {
+      "text": "Audit your backlink profile regularly and keep your disavow file updated for toxic links you can't remove.",
+      "quote": "If you receive fresh harmful backlinks that you cannot delete, update your disavow file regularly."
+    },
+    {
+      "text": "Harden admin access and run regular site audits so hackers can't inject spam, alter redirects or robots.txt.",
+      "quote": "Hackers usually need administrator access to interfere with your site, and by adding extra layers of protection, you can substantially minimize the chances that they'll be able to break in."
+    }
+  ],
+  "topics": [
+    "seo",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

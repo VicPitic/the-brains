@@ -1493,5 +1493,73 @@
       "xTerms": "(TypeScript OR types OR type OR any OR generics OR inference OR zod OR Effect OR tests OR testing OR AI OR agent OR agents OR Claude OR Cursor OR code OR PR OR review OR refactor)",
       "search": "views on TypeScript, type safety, API design and AI coding agents"
     }
+  },
+  {
+    "slug": "john-rush",
+    "name": "John Rush",
+    "x": "johnrush",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "John Rush interview",
+      "John Rush indie hacker podcast",
+      "John Rush 24 startups",
+      "John Rush SEObot AI agents",
+      "John Rush MarsX Unicorn Platform",
+      "John Rush bootstrapping no employees"
+    ],
+    "sites": [
+      {
+        "domain": "johnrushx.substack.com",
+        "search": "John Rush essays on bootstrapping, running 24 startups, AI agents, SEO, distribution and indie hacking"
+      },
+      {
+        "domain": "seobotai.com",
+        "search": "John Rush articles on SEO, AI content, programmatic SEO and growth"
+      }
+    ]
+  },
+  {
+    "slug": "oliver-brocato",
+    "name": "Oliver Brocato",
+    "x": "oliverbrocato",
+    "youtubeChannelQuery": "Oliver Brocato",
+    "youtubeQueries": [
+      "Oliver Brocato interview",
+      "Oliver Brocato Tabs Chocolate",
+      "Tabs Chocolate founder podcast",
+      "Oliver Brocato TikTok UGC marketing",
+      "Oliver Brocato Starter Story",
+      "Oliver Brocato Bustem"
+    ],
+    "sites": [
+      {
+        "domain": "bustem.com",
+        "search": "Oliver Brocato on ecommerce brands, copycats, counterfeits and DTC growth"
+      }
+    ]
+  },
+  {
+    "slug": "jacky-chou",
+    "name": "Jacky Chou",
+    "x": "indexsy",
+    "youtubeChannelQuery": "Jacky Chou Indexsy",
+    "youtubeQueries": [
+      "Jacky Chou interview",
+      "Jacky Chou Indexsy SEO",
+      "Jacky Chou buying online businesses",
+      "Jacky Chou affiliate SEO podcast",
+      "Jacky Chou link building",
+      "Jacky Chou acquisitions content sites"
+    ],
+    "sites": [
+      {
+        "domain": "jackychou.com",
+        "search": "Jacky Chou essays on SEO, buying and operating online businesses, acquisitions, affiliate sites"
+      },
+      {
+        "domain": "indexsy.com",
+        "search": "Jacky Chou articles on SEO, link building, affiliate marketing and growth"
+      }
+    ]
   }
 ]

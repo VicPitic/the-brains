@@ -1,0 +1,39 @@
+{
+  "id": "essay-my-open-letter-to-the-new-startup",
+  "title": "Open letter to new founders: no shortcuts, learn by doing, go deep in one niche",
+  "summary": "John Rush's blunt letter says startup success has no shortcut. It takes years of reps, many skills learned by doing, and total focus. He then lays out what works: pick a narrow niche, become top 1%, educate the audience, build micro MVPs, and treat it as a marathon.",
+  "principles": [
+    {
+      "text": "No quick, risk-free path to startup success exists; anyone promising one is lying, and most makers fail repeatedly.",
+      "quote": "There is no easy, quick, risk-free & proven way to succeed."
+    },
+    {
+      "text": "\"Overnight\" success hides years of reps; his fast results come from 20 years of building startups.",
+      "quote": "I may start a product today and reach $30k MRR in 6 months. Can I teach you this? NO! I can do that because I've spent 20 years building startups."
+    },
+    {
+      "text": "Founders must be above average across many skills, and the only way to learn them is by doing, not consuming.",
+      "quote": "No amount of reading, watching youtube, consuming the courses and bookmarking the tweets will help, if you don't actually apply this knowledge right away."
+    },
+    {
+      "text": "Don't mix fun and education; consuming content trains you to get dopamine from consuming instead of acting.",
+      "quote": "Don't mix fun & education. It inevitably kills your bias for action. Suddenly you get dopamine when u consume, not when u act."
+    },
+    {
+      "text": "Pick a narrow niche you understand deeply instead of targeting a wide audience.",
+      "quote": "Don't spread to wide audiences. Pick a narrow niche. You should have some connection to the audience or be able to understand the audience and emulate their thought, pain, taste, and desires."
+    },
+    {
+      "text": "Iterate for months with micro MVPs and manual work for your audience; the tool that gains attention shows where to invest.",
+      "quote": "Spend months iterating with micro MVPs and doing things manually for your audience and inevitably, one of the tools/services will gain more attention, and you'll clearly see you need to put more time into it."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "bootstrapping",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

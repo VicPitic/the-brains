@@ -1,0 +1,39 @@
+{
+  "id": "essay-i-built-30-startups-in-20-years-3j41",
+  "title": "I built 30 startups in 20 years: the mistakes John Rush regrets most",
+  "summary": "John Rush lists regrets from 30 startups: raising VC and hiring too early, skipping SEO, content and social, building consumer apps, free tiers in B2B, and coding from scratch. His pattern: stay lean, work with doers, validate, and market early.",
+  "principles": [
+    {
+      "text": "Do most of the work yourself until PMF; hiring too early hurts startups.",
+      "quote": "Founders should do most of the work until PMF."
+    },
+    {
+      "text": "Raising VC money too early killed most of his funded startups.",
+      "quote": "Eventually, most of these startups failed by being funded too early."
+    },
+    {
+      "text": "Start SEO early; postponing it forever is a mistake.",
+      "quote": "None of the people in my network did SEO. We all thought it was something too late, and we kept postponing it forever."
+    },
+    {
+      "text": "Don't assume what the audience wants; validate ideas, because assumptions almost never hold.",
+      "quote": "I’d always assume for the audience. Anticipate what they need. It almost never turned out to be true."
+    },
+    {
+      "text": "Hire doers, not managers or specialists; one fullstack dev can outpace a big team.",
+      "quote": "Today I have 1 fullstack dev doing 5x more progress on a project than a team of 12 back then."
+    },
+    {
+      "text": "Don't start B2B with a free tier; if nobody pays, fix the product or find another audience.",
+      "quote": "If nobody wants to pay for my product, I have to fix it or find another audience for it."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "hiring",
+    "mindset",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

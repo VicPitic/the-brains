@@ -1,0 +1,38 @@
+{
+  "id": "essay-seo-private-equity",
+  "title": "SEO for private equity: an on-site, off-site and technical playbook",
+  "summary": "A generic SEO checklist for private equity firms. It leans on one stat (SEO leads close at 14.6% vs 1.7% for outbound) and then covers keyword research, on-page basics, backlinks, local and reputation, and technical hygiene. Mostly standard beginner SEO with little original insight.",
+  "principles": [
+    {
+      "text": "SEO leads close far better than outbound leads because inbound searchers already have intent.",
+      "quote": "SEO leads have a 14.6% close rate, compared to outbound leads, with a 1.7% close rate"
+    },
+    {
+      "text": "Target long-tail keywords: less competitive and more likely to convert into leads.",
+      "quote": "Long-tail keywords are the more specific phrases that are less competitive and more likely to convert into leads."
+    },
+    {
+      "text": "Optimize content with target keywords but never stuff them; structure it so it is easy to scan.",
+      "quote": "Include your target keywords and phrases in your content, but avoid keyword stuffing."
+    },
+    {
+      "text": "For backlinks, prioritize quality over quantity: a few reputable links beat many low-quality ones.",
+      "quote": "It is better to have a few high-quality backlinks from reputable websites than a large number of low-quality backlinks."
+    },
+    {
+      "text": "Prospects research a firm online before committing, so monitor and manage your reputation and reviews.",
+      "quote": "potential investors will often research a private equity firm online before investing."
+    },
+    {
+      "text": "SEO is ongoing: monitor and adjust the strategy regularly rather than set and forget.",
+      "quote": "SEO is an ongoing process, and it’s important to monitor and adjust your strategy regularly to stay ahead of the competition."
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

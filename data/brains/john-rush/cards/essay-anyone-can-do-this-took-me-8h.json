@@ -1,0 +1,39 @@
+{
+  "id": "essay-anyone-can-do-this-took-me-8h",
+  "title": "How John Rush built a Next.js boilerplate directory for SEO traffic and sponsor revenue in 8 hours",
+  "summary": "John walks through his playbook for a niche directory site: spot a hyped topic, validate with Google Keyword Planner, buy a .com, build the directory fast, generate content with AI, force indexing, and monetize via featured spots. He stresses letting a new domain warm up and not launching many pages at once.",
+  "principles": [
+    {
+      "text": "Find demand first: spot a hyped topic, then check keyword volume for low-competition, decent-traffic keywords.",
+      "quote": "I saw hype around nextjs boilerplates, so I searched for this term and found low-competition keywords with good traffic."
+    },
+    {
+      "text": "Always pick a .com domain; his tests show it beats every other TLD.",
+      "quote": "I always start with .com, since after all my tests, .com beats crap out of everything else."
+    },
+    {
+      "text": "Build the first version fast from a template, and put top keywords on the home page.",
+      "quote": "I used my own website/directory builder (Unicorn Platforms) just out of the template in less than an hour."
+    },
+    {
+      "text": "Seed a directory by scraping existing sources, then let authors submit more listings.",
+      "quote": "I found about 50 items and got 100 more submitted via the from later by the authors."
+    },
+    {
+      "text": "Let a new site warm up before publishing the blog; don't launch many pages at once.",
+      "quote": "I didn’t publish the blog right away. I launched the site and let it warm up for 2 months and launched the blog on third month."
+    },
+    {
+      "text": "Monetize directory traffic by selling featured spots to the products listed in it.",
+      "quote": "the site became attractive for nextjs boilerplate authors, so I made good revenues on selling \"featured-spot\"."
+    }
+  ],
+  "topics": [
+    "seo",
+    "building",
+    "launch",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

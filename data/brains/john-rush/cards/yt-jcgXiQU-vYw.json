@@ -1,0 +1,39 @@
+{
+  "id": "yt-jcgXiQU-vYw",
+  "title": "How John Rush runs an 80% automated, 0-employee business with AI agents",
+  "summary": "John Rush explains how he left VC-backed startups to run solo with AI agents. He prototypes ideas in Lovable and tests them with users, uses specialized agents for real work, and runs SEO content at volume, then improves only the winners. He also shares views on directories, SEO vs AIO, and agents as autopilot.",
+  "principles": [
+    {
+      "text": "Prototype ideas with AI instead of Figma: build many versions in a day and let users pick the winner.",
+      "quote": "I built like around 10 different prototypes using lovable within one day with different kind of ideas in place, the different designs, different UX, and then I bring that to my friends."
+    },
+    {
+      "text": "Test prototypes silently: users try all of them without talking, and you see which one is understood.",
+      "quote": "I don't ask any questions. I just tell them, \"Try that. Don't talk to me. Just try them all.\""
+    },
+    {
+      "text": "Validate solo first; only bring in a co-maker once about 10 licenses sell.",
+      "quote": "when I manage to actually get attention and I sell at least 10 licenses for that, uh then it's a sign that it works. Then I go and find somebody who will build with me further."
+    },
+    {
+      "text": "Use general agents for prototypes, then switch to specialized agents for real work, since they've fixed the corner cases.",
+      "quote": "the best way to use AI agents is to basically find specialized agents for every task and then you start by using general agent."
+    },
+    {
+      "text": "Build agents that run on autopilot for busy founders; the user acts as a boss giving feedback, not a tool operator.",
+      "quote": "my main users are the busy founders like me who don't want to become more productive. I just want to do nothing and the whole thing happens"
+    },
+    {
+      "text": "Treat AI content like seed funding: generate 100 articles, then spend time improving the top 3 performers.",
+      "quote": "after the last day of the month I go to the analytics and I see which are the three articles that did the best and then I spend an hour to improve those three articles."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-revenue-dropped-comaker-had-a-burnout",
+  "title": "Bootstrapped founder report: revenue drop, burnout, and shipping a portfolio of AI products",
+  "summary": "John Rush shares a raw update across his SaaS portfolio: a 20% revenue drop, a comaker burnout, and many shipped features. Useful lessons: cut low-value pricing tiers, build experimentation into products, bundle agents in a store, and recruit beta testers publicly.",
+  "principles": [
+    {
+      "text": "Remove the cheapest plan to filter out difficult users who drain support.",
+      "quote": "Removed the $19 plan to cut out “difficult users” who drain my support agents"
+    },
+    {
+      "text": "Build automated experimentation into the product: the agent generates campaigns, copy and media to find what converts.",
+      "quote": "shipped A/B testing engine inside **[tinyadz.com](https://tinyadz.com/)** (the agent keeps coming up with different campaigns/copy/media to find what converts best"
+    },
+    {
+      "text": "Recruit beta testers by asking for a public comment, then DM them.",
+      "quote": "beta launched socialbot for my product accounts on social media, I need 10 beta testers now, reply with a comment and I’ll DM u"
+    },
+    {
+      "text": "Make your product ecosystem easy to adopt: one-click install of all your agents from an in-platform store.",
+      "quote": "launched an “Agent Store” inside unicorn platform. It’s so cool. You can install all my agents with just one click inside there."
+    },
+    {
+      "text": "Share the bad alongside the good in founder reports; the rawness engages readers.",
+      "quote": "My bootstrapped founder report(good & bad):"
+    },
+    {
+      "text": "Move the business to lower-tax jurisdictions to keep more of what you earn.",
+      "quote": "started moving my biz from US to Dubai (to save on taxes)"
+    }
+  ],
+  "topics": [
+    "building",
+    "pricing",
+    "bootstrapping",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

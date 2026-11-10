@@ -1,0 +1,39 @@
+{
+  "id": "essay-99-mistakes-i-regret-making",
+  "title": "20 startup mistakes John Rush regrets after building 30 startups in 20 years",
+  "summary": "John Rush lists 20 regrets from 30 startups (VC-backed and bootstrapped). Core themes: stay lean and founder-led, validate before building, start paid in B2B, use boilerplates, and invest early in SEO, content and social media instead of chasing investors, partners and conferences.",
+  "principles": [
+    {
+      "text": "Don't chase VCs. Make users happy and investors will find you once you have traction.",
+      "quote": "So, don't chase VCs, just make users happy and VCs are gonna find you."
+    },
+    {
+      "text": "Founders should do all the work until traction; employees take no risk, so no innovation.",
+      "quote": "Only founders have enough incentives to take risks. SO the founders should do all the work until they gain traction."
+    },
+    {
+      "text": "Avoid teams of specialized developers; one fullstack dev beats a team until about $30k MRR.",
+      "quote": "Today I have 1 fullstack dev doing 5x more progress on a project than a team of 12 back then. Avoid \"teams\" at all cost until at least $30kmrr."
+    },
+    {
+      "text": "In B2B, start with paid (30-day no-questions refund). Free tiers attract the wrong crowd and bad feedback.",
+      "quote": "Free projects attract totally wrong crowd with irrelevant feedback and drive your project away from where it should head."
+    },
+    {
+      "text": "Use boilerplates instead of coding auth, admin and CRUD from scratch; speed went up 10x.",
+      "quote": "The moment I started using boilerplates, the speed went up 10x."
+    },
+    {
+      "text": "Start SEO, blogging and social media early. An hour a day on blogging is enough, and he regrets starting X late.",
+      "quote": "I thought blogging is a full time job, but it's actually possible to spend an hour a day on it and still do a good job."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "bootstrapping",
+    "hiring",
+    "seo"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-link-building",
+  "title": "Link building services: how to vet vendors and which link tactics work vs. get penalized",
+  "summary": "Jacky Chou's SEO essay ranks link-building vendors (Indexsy first, a self-admitted plug) and explains how to vet them. It covers effective link types (niche edits, outreach, broken-link, citations, PR) versus tactics to avoid (PBNs, article directories, volume-based packages).",
+  "principles": [
+    {
+      "text": "Links from aged, already-authoritative pages beat fresh posts; niche edits on existing content capture that authority.",
+      "quote": "Since the content exists and has been in existence for months or years, this ensures that you get a link from a page or a post that has aged well and become authoritative in its own right."
+    },
+    {
+      "text": "Treat unusually cheap link pricing as a red flag for low-quality links.",
+      "quote": "if the price is too good to be true compared to other link-building services, this could be a red flag that they might not be quality links."
+    },
+    {
+      "text": "Vet any link vendor by demanding link samples and case studies before buying.",
+      "quote": "Always ask for some link samples and some link-building case studies."
+    },
+    {
+      "text": "Big link-building agencies tend to trade quality for scale as the team grows.",
+      "quote": "Often, the large link-building companies decrease the quality as the team of the size increases."
+    },
+    {
+      "text": "Outreach differs from spam through personalization: target specific blogs and journalists with tailored reasons to link.",
+      "quote": "The main difference between blogger outreach and spam is personalization, where a good blogger outreach campaign targets specific blogs and journalists."
+    },
+    {
+      "text": "Skip volume-focused backlink packages and PBNs; they are manipulative and do not stand the test of time.",
+      "quote": "It is an obvious attempt to manipulate the search engine rankings. But unfortunately, most PBN providers will only rent links on such sites, and they will not stand the test of time."
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

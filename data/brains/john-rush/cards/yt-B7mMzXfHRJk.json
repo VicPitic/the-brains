@@ -1,0 +1,39 @@
+{
+  "id": "yt-B7mMzXfHRJk",
+  "title": "Build out of your own pain: John Rush on niche tools, unbundling and building in public",
+  "summary": "John explains why ideas must come from your own pain (his VC-backed ideas failed for 11 years; own-pain products stopped failing), why B2B beats B2C for solo makers, and why niche single-purpose tools win. He also covers good vs bad bundling, platform diversification, and building in public.",
+  "principles": [
+    {
+      "text": "Only build products out of your own pain; build, use and iterate for yourself, then launch.",
+      "quote": "I build it for myself always and then I use it for myself and I iterate with myself until I'm happy once I'm happy I launch for the rest and it just works every single time"
+    },
+    {
+      "text": "You can only judge your own pain and motivation; asking others if they'd use your app gives useless answers.",
+      "quote": "you can only evaluate your own motivation and pain you can't evaluate someone else and if you ask someone like know people say go to people and ask it doesn't work"
+    },
+    {
+      "text": "B2B pain is fragmented with little competition, which suits solo makers; B2C is crowded and winner-take-all.",
+      "quote": "in B2B World there is more fragmentation of pain because there are more jobs and they're like hundreds of thousands of jobs in the world and every job has you know hundreds of pains"
+    },
+    {
+      "text": "Niche down to a single-use tool: hardcoded details and zero-config onboarding that newcomers can use intuitively.",
+      "quote": "once your tool is niched down and it knows that it's going to be used to build directories then you can start making a lot of details within it"
+    },
+    {
+      "text": "Bundle around one user's job to be done, not a huge suite where only 5% applies to each user.",
+      "quote": "the good bundling where you pick one user and you satisfy all the users needs everything and then it's all in one"
+    },
+    {
+      "text": "Build in public by sharing how-tos and learnings, not wins, which breed jealousy or distrust.",
+      "quote": "don't try to share wins just share ways of you know gearing somewhere and how you did that and all the actions you've done and educate people on things you do"
+    }
+  ],
+  "topics": [
+    "building",
+    "bootstrapping",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

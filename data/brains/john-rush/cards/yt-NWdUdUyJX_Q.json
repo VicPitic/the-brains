@@ -1,0 +1,39 @@
+{
+  "id": "yt-NWdUdUyJX_Q",
+  "title": "How John Rush built 25 bootstrapped products by replacing startup jobs and obsessing over UX",
+  "summary": "John Rush contrasts VC-backed and bootstrapped life, and explains how he mapped 120 startup jobs into product ideas. He shares why UX beats features in B2B, how he competes in crowded niches, and why most of his tools are marketing assets.",
+  "principles": [
+    {
+      "text": "VC-backed founders optimize for the next round and exit; bootstrappers optimize for customers and profit.",
+      "quote": "when you're VC backed your KPIs are different and your brain is wired differently."
+    },
+    {
+      "text": "Generate product ideas by mapping the jobs you'd hire people for and building tools to replace them, best ROI first.",
+      "quote": "I came up with 120 typical jobs done by people in my typical startup and I started just building one by one uh based on the best ROI"
+    },
+    {
+      "text": "Build products you use yourself; ideas outside your own needs failed, while self-used ones never did.",
+      "quote": "whenever I built something from this jobs to be replaced, it never failed because I was the user myself right away."
+    },
+    {
+      "text": "Don't fear crowded markets; tailor to a niche so you don't directly compete with the giants.",
+      "quote": "people should not be afraid to build something that looks like all the other products as long as they don't compete with all the other products."
+    },
+    {
+      "text": "Reuse a shared stack of micro apps so new products are mostly built and improvements propagate to all products.",
+      "quote": "whenever I build a new product, I actually reuse a lot of the things from the other products through this micro ops."
+    },
+    {
+      "text": "Most B2B tools ignore UX; an obvious, easy product shocks users and makes them share it.",
+      "quote": "almost all businessto business tools ignore UX. They only focus on features."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "product",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

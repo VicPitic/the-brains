@@ -1,0 +1,39 @@
+{
+  "id": "essay-if-only-someone-told-me-this-before-my-1st-startup",
+  "title": "If only someone told me this before my 1st startup: 20 hard-won founder rules",
+  "summary": "John Rush lists 20 lessons from years of failed startups: validate first, bootstrap, go B2B and global, hire only doers, do SEO and daily posting early, and skip corporates, hype and conferences. Each rule is backed by a personal cost, like 5 wasted years or 14 years ignoring SEO.",
+  "principles": [
+    {
+      "text": "Validate the idea before building; building unwanted products wastes years.",
+      "quote": "Validate idea first. I wasted at least 5 years building stuff nobody needed."
+    },
+    {
+      "text": "Chase users, not investors; investors follow traction.",
+      "quote": "Don't chaise investors, chase users, and then investors will be chasing you."
+    },
+    {
+      "text": "Presell features: chat with 10-20 users daily and build only what resonates.",
+      "quote": "Sell features, before building them. Ask existing users if they want this feature."
+    },
+    {
+      "text": "Keep the landing page simple; most visitors arrive with intent from content or recommendations.",
+      "quote": "90% of the users will end up on your site coming from a blog article, social media post, a recommendation. Which means they have the intent. No need to \"convert\" them again."
+    },
+    {
+      "text": "Start SEO as early as possible; ignoring it was a huge regret.",
+      "quote": "Do SEO from day 2. As early as you can. I ignored this for 14 years. It's my biggest regret."
+    },
+    {
+      "text": "Go global from day 1 because the upside is far bigger if it works.",
+      "quote": "If the product and marketing are good, it will work on the global market too, if it's bad, it won't work on the local market too."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "mindset",
+    "building",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-ULZKMnIDRxA",
+  "title": "Extreme startup building with AI: distribution first, specialized agents, zero-cost co-makers",
+  "summary": "John Rush explains why he replaced hired departments with AI agents, his three-step agent build process (Zapier, agent builder, hardcode), and why he automated distribution first. He also covers specialized vs general agents, co-maker deals, idea validation, and why great products still beat distribution alone.",
+  "principles": [
+    {
+      "text": "Be your own perfect customer: build tools for yourself, prove they work on you, and only then launch publicly.",
+      "quote": "I am kind of my own user. So I built all the tools for myself and I use the agents for myself and I show how it works for me and only when it works I launch to the uh public."
+    },
+    {
+      "text": "Automate distribution first. Building can be slow, but SEO and social need months of compounding effort that can't be rushed later.",
+      "quote": "the thing that can't wait is distribution because it's not like you will build your tool bring to the market and suddenly it will sell itself right."
+    },
+    {
+      "text": "Build agents in three steps: prototype in Zapier as the broker, move to an agent builder, then hardcode it in regular code.",
+      "quote": "So then usually I take what I built in Zapier and I connect that into uh this no code AI tool builder thing that I I put them together and users can use it."
+    },
+    {
+      "text": "Specialized agents beat general ones: you know what to expect, so you can hardcode error catching and tight integrations. Niche keeps getting narrower.",
+      "quote": "the market will reward the agent that does only one thing really, really well."
+    },
+    {
+      "text": "Team up with developers who lack distribution skills on 50/50 revenue share. No salaries, no upfront cost, no investors.",
+      "quote": "we own it 50/50 and uh there's no salary so we share the revenue or we share the profits right. So basically there's no upfront cost for me."
+    },
+    {
+      "text": "Two ways to win: huge distribution, or a product so good users recommend it. Distribution alone isn't enough; great products still win.",
+      "quote": "too many people think that distribution alone is enough and is a solution for all problems but I think the great products are still winning."
+    }
+  ],
+  "topics": [
+    "building",
+    "distribution",
+    "ai",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

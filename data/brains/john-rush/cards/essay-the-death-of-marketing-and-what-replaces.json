@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-death-of-marketing-and-what-replaces",
+  "title": "The Death of Marketing: AI agents as customers and what indie founders should do",
+  "summary": "John argues AI agents will make most buying decisions, so human-oriented marketing (SEO, ads, funnels) fades. Four channels survive: government lists, genuinely best product, human identity purchases, and paid AI placements. Bootstrapped founders should focus on the best product in a niche and a personal-brand audience.",
+  "principles": [
+    {
+      "text": "Your customer is increasingly an AI agent with a task and a budget, not a loyal human, so marketing playbooks built for humans are decaying.",
+      "quote": "Your customer is now an AI agent with a task, a budget, and zero brand loyalty."
+    },
+    {
+      "text": "In the long run AI agents will run real evaluations, so the genuinely best product for a use case wins; gaming reviews is short-term.",
+      "quote": "The endgame: the best product wins. Every time. For every specific use case."
+    },
+    {
+      "text": "Short term, be listed everywhere (launchpads, directories, listicles, ratings) since AI recommends based on those today.",
+      "quote": "Short-term game: be listed everywhere you can, on all launchpads, directories, listicles, ratings..."
+    },
+    {
+      "text": "Bootstrapped founders should be the best at one specific niche job; go long-tail to reduce competition.",
+      "quote": "The single best strategy here is to go after long-tail niche markets, just so that you reduce the competition and aim at being the best or one of the best among a few."
+    },
+    {
+      "text": "Personal brand is the strongest remaining moat: people buy founders (the T-shirt effect), which AI cannot replicate.",
+      "quote": "Personal brand is the strongest moat that’s left. The founder with 100K followers who share their journey will outsell the faceless SaaS with a bigger feature set. Every time."
+    },
+    {
+      "text": "Paid AI placements will be pay-to-play and price out bootstrappers, so skip them and the government-list channel.",
+      "quote": "This will be massive. It will also be pay-to-play. The companies spending millions on Google Ads today will redirect those budgets to AI placement. If you’re bootstrapped, you’re priced out of this channel too."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "distribution",
+    "ai",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

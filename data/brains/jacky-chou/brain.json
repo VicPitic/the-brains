@@ -1,0 +1,1573 @@
+{
+  "schemaVersion": 1,
+  "slug": "jacky-chou",
+  "name": "Jacky Chou",
+  "shortName": "Jacky",
+  "tagline": "Founder of Indexsy and LocalRank, reporting 10+ income streams in public",
+  "role": "Founder, SEO operator",
+  "company": "Indexsy",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "operators"
+  ],
+  "quote": {
+    "text": "Diversification is insurance against algorithm changes and platform risk.",
+    "sourceId": "essay-revenue-update-august-2025"
+  },
+  "topics": [
+    {
+      "id": "seo-links-and-content",
+      "label": "SEO, link building and AI content",
+      "summary": "When links matter, how to test vendors, parasite SEO, and publishing AI content without burning a domain.",
+      "sampleQuestion": "When should I start buying backlinks for a new site?",
+      "sourceIds": [
+        "yt-cxwg5TSG4I4",
+        "yt-hYp47NAiZ3g",
+        "yt-f9o_ch6Iiaw",
+        "yt-7RKIGskoJaI",
+        "yt-FP6N7oi6Viw",
+        "essay-twidm-ep-1",
+        "yt-t8hF1KdcZeE"
+      ]
+    },
+    {
+      "id": "local-seo-rank-and-rent",
+      "label": "Local SEO and rank and rent",
+      "summary": "Service-plus-city sites, silo structure, citations, reviews, and turning leads into local agency clients.",
+      "sampleQuestion": "How do I get my first five local SEO clients?",
+      "sourceIds": [
+        "yt-tL6IPS2K29o",
+        "yt-QrAUXXEf5tU",
+        "yt-NF2W16ngVvM",
+        "yt-dw-vaSi-9n4",
+        "essay-local-seo-strategy",
+        "x-1622263830490259459",
+        "yt-t8hF1KdcZeE"
+      ]
+    },
+    {
+      "id": "diversification-and-risk",
+      "label": "Diversification and risk",
+      "summary": "Multiple uncorrelated income streams, taking chips off the table, and lessons from losing $500K/month to Google.",
+      "sampleQuestion": "How many income streams should I have before going all in on one?",
+      "sourceIds": [
+        "essay-revenue-update-august-2025",
+        "yt-S7vA65aaRTM",
+        "yt-4-0oihEWI_w",
+        "yt-2Hz9YhIck7w",
+        "yt-bK72iRlEPio",
+        "yt-MT9iA24ERog",
+        "yt-QXEUAjb0Ubg"
+      ]
+    },
+    {
+      "id": "saas-launch-and-distribution",
+      "label": "SaaS launches and distribution",
+      "summary": "Building tools from your own pain, cloning indie SaaS, cheap validation, bundling, and distribution as the moat.",
+      "sampleQuestion": "How do I validate and launch a B2B SaaS without a big budget?",
+      "sourceIds": [
+        "yt-UHRkI9ZmBUg",
+        "yt-bK72iRlEPio",
+        "yt-dw-vaSi-9n4",
+        "yt-S7vA65aaRTM",
+        "yt-f9o_ch6Iiaw",
+        "x-2116313005055177201"
+      ]
+    },
+    {
+      "id": "seo-partnerships-affiliate",
+      "label": "Publisher partnerships and affiliate",
+      "summary": "Rev-share deals on high-authority domains, selling top slots to brands, and contract terms that protect you.",
+      "sampleQuestion": "How do I structure a rev-share SEO partnership with a publisher?",
+      "sourceIds": [
+        "yt-7RKIGskoJaI",
+        "yt-xBByWnX5TGI",
+        "yt-FP6N7oi6Viw",
+        "yt-tIofp4YMlZo",
+        "yt-vg4IQRzSEVU",
+        "yt-k0HXN2w5DOg"
+      ]
+    },
+    {
+      "id": "daily-content-building-in-public",
+      "label": "Daily YouTube and building in public",
+      "summary": "Posting video every day, sharing revenue openly for deal flow, and knowing when to stop talking about an asset.",
+      "sampleQuestion": "Is daily YouTube worth it if my view counts are low?",
+      "sourceIds": [
+        "yt-t8hF1KdcZeE",
+        "yt-bK72iRlEPio",
+        "x-1858959940569776587",
+        "yt-MT9iA24ERog",
+        "yt-NF2W16ngVvM",
+        "essay-revenue-update-august-2025"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Diversify income and take chips off the table; algorithms can change overnight and wipe out a single source.",
+      "sourceIds": [
+        "essay-revenue-update-august-2025",
+        "yt-bK72iRlEPio",
+        "yt-S7vA65aaRTM"
+      ]
+    },
+    {
+      "text": "Software has no product moat now. Distribution is the edge, so plug every launch into your own YouTube, X and newsletter.",
+      "sourceIds": [
+        "yt-bK72iRlEPio"
+      ]
+    },
+    {
+      "text": "Always be testing, and never trust a guru's tactic until you've validated it yourself on multiple sites.",
+      "sourceIds": [
+        "yt-vg4IQRzSEVU",
+        "yt-f9o_ch6Iiaw"
+      ]
+    },
+    {
+      "text": "When a test hits, drop everything and sprint at it with the whole team; if it doesn't, kill it or leave it on autopilot.",
+      "sourceIds": [
+        "yt-vg4IQRzSEVU",
+        "yt-f9o_ch6Iiaw",
+        "essay-revenue-update-august-2025"
+      ]
+    },
+    {
+      "text": "Post content every day and do more of what performs; consistency beats talent.",
+      "sourceIds": [
+        "yt-t8hF1KdcZeE",
+        "yt-bK72iRlEPio",
+        "x-1858959940569776587",
+        "yt-NF2W16ngVvM"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I launch a new SaaS product?",
+      "answer": [
+        {
+          "text": "Build from a pain you have yourself. Replace tools you already pay for with something better and cheaper, and people with the same problem will come.",
+          "sourceIds": [
+            "yt-UHRkI9ZmBUg",
+            "yt-S7vA65aaRTM"
+          ]
+        },
+        {
+          "text": "Talk about the topic on YouTube for a long time first. LocalRank did $20K at launch, and 90% of that came from YouTube.",
+          "sourceIds": [
+            "yt-dw-vaSi-9n4",
+            "yt-S7vA65aaRTM"
+          ]
+        },
+        {
+          "text": "Validate cheaply: connect one Meta pixel across all your sites and spend about $30 on a retargeting campaign for each launch.",
+          "sourceIds": [
+            "yt-UHRkI9ZmBUg"
+          ]
+        },
+        {
+          "text": "If it fits your audience, go all in. If it doesn't, kill it or leave it on autopilot.",
+          "sourceIds": [
+            "yt-f9o_ch6Iiaw"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When should I build links to a new site?",
+      "answer": [
+        {
+          "text": "On a new site, stay conservative: one or two branded links a month to the homepage, no exact-match anchors.",
+          "sourceIds": [
+            "yt-tL6IPS2K29o"
+          ]
+        },
+        {
+          "text": "Buy paid links and niche edits only after a page is already in the top 10.",
+          "sourceIds": [
+            "yt-cxwg5TSG4I4"
+          ]
+        },
+        {
+          "text": "Judge vendors by rankings and traffic over months, not DR. Many give an early bump, then tank.",
+          "sourceIds": [
+            "yt-hYp47NAiZ3g"
+          ]
+        },
+        {
+          "text": "Use a different link mix on each site so one update can't hit your whole portfolio.",
+          "sourceIds": [
+            "yt-4-0oihEWI_w"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I land my first local SEO clients?",
+      "answer": [
+        {
+          "text": "Build rank and rent sites (one service plus one city) so you own a lead-gen asset that earns while you pitch.",
+          "sourceIds": [
+            "yt-tL6IPS2K29o"
+          ]
+        },
+        {
+          "text": "Start with pay-per-lead or a monthly rental. Save percentage-of-revenue deals for business owners who have proven they can close.",
+          "sourceIds": [
+            "yt-tL6IPS2K29o"
+          ]
+        },
+        {
+          "text": "Follow the progression: parasite SEO for your first dollar, then rank and rent, then client work, then partnerships.",
+          "sourceIds": [
+            "yt-NF2W16ngVvM"
+          ]
+        },
+        {
+          "text": "Niche down. Become the physio marketing guy in one city and take one client per neighborhood.",
+          "sourceIds": [
+            "yt-NF2W16ngVvM",
+            "yt-QrAUXXEf5tU"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-bK72iRlEPio",
+    "yt-S7vA65aaRTM",
+    "yt-f9o_ch6Iiaw",
+    "yt-dw-vaSi-9n4",
+    "yt-UHRkI9ZmBUg",
+    "yt-tL6IPS2K29o"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2018201079683461120/oA3wdBQN_400x400.jpg",
+    "alt": "Photo of Jacky Chou"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/indexsy",
+      "label": "@indexsy"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@indexsy"
+    },
+    {
+      "kind": "website",
+      "url": "https://jackychou.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://indexsy.com"
+    }
+  ],
+  "followers": {
+    "x": 63221,
+    "youtube": 25300,
+    "asOf": "2026-11-10"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 38,
+    "xPostCount": 70,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 70,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 25,
+      "podcast": 0,
+      "essay": 13
+    },
+    "transcriptMinutes": 892,
+    "dateRange": {
+      "from": "2021-12",
+      "to": "2026-11"
+    }
+  },
+  "createdAt": "2026-11-10T10:30:56.933Z",
+  "updatedAt": "2026-11-10T10:30:56.933Z",
+  "sources": [
+    {
+      "id": "yt-UHRkI9ZmBUg",
+      "type": "youtube",
+      "title": "Jacky Chou: Clone indie hacker SaaS, outrank them, and diversify across many launches",
+      "url": "https://www.youtube.com/watch?v=UHRkI9ZmBUg",
+      "publishedAt": "2026-10-10",
+      "outlet": "Edward Sturm and Jacky Chou from Indexsy",
+      "durationSec": 4863,
+      "views": 11719,
+      "topicIds": [
+        "saas-launch-and-distribution"
+      ],
+      "excerpt": "Jacky argues SaaS is SEO's biggest opportunity because indie hackers are weak at SEO and expose revenue on TrustMRR. He explains building tools from your own needs, validating with cheap Meta retarget"
+    },
+    {
+      "id": "yt-f9o_ch6Iiaw",
+      "type": "youtube",
+      "title": "Jacky Chou on SEO after a $500K/month wipeout: link tactics, AI citations, CRO and launching fast",
+      "url": "https://www.youtube.com/watch?v=f9o_ch6Iiaw",
+      "publishedAt": "2025-11-10",
+      "outlet": "Edward Sturm",
+      "durationSec": 4689,
+      "views": 7397,
+      "topicIds": [
+        "seo-links-and-content",
+        "saas-launch-and-distribution"
+      ],
+      "excerpt": "Jacky Chou explains how he rebuilt after Google wiped out his 15-site partnership business (about $500K/month). He covers white/gray/black hat link building, CTR signals, getting cited by AI, and how "
+    },
+    {
+      "id": "yt-2Hz9YhIck7w",
+      "type": "youtube",
+      "title": "Jacky Chou on 9 income streams: agency, dropshipping, FBA, content sites and newsletters",
+      "url": "https://www.youtube.com/watch?v=2Hz9YhIck7w",
+      "publishedAt": "2023-11-10",
+      "outlet": "Tom Wang",
+      "durationSec": 3857,
+      "views": 6008,
+      "topicIds": [
+        "diversification-and-risk"
+      ],
+      "excerpt": "Jacky walks through every business model he has run, with the real numbers, pros, cons and mistakes. Key lessons: use your own assets as case studies to sell services, avoid correlated risk across con"
+    },
+    {
+      "id": "yt-S7vA65aaRTM",
+      "type": "youtube",
+      "title": "How Jacky Chou built 13 income streams ($374k in a month): diversification, B2B SaaS, YouTube and LLM SEO",
+      "url": "https://www.youtube.com/watch?v=S7vA65aaRTM",
+      "publishedAt": "2026-01-10",
+      "outlet": "Florian Darroman and Jacky Chou from Indexsy",
+      "durationSec": 3572,
+      "views": 7413,
+      "topicIds": [
+        "diversification-and-risk",
+        "saas-launch-and-distribution"
+      ],
+      "excerpt": "Jacky Chou explains how he went from $450/mo to 13 income streams, including a $374k month, by diversifying, taking money off the table, and building B2B SaaS for agency owners. He covers YouTube-driv"
+    },
+    {
+      "id": "yt-t8hF1KdcZeE",
+      "type": "youtube",
+      "title": "Jacky Chou on SEO: rank and rent, blogs, and daily YouTube as a funnel",
+      "url": "https://www.youtube.com/watch?v=t8hF1KdcZeE",
+      "publishedAt": "2025-11-10",
+      "outlet": "Ryan Clogg",
+      "durationSec": 3510,
+      "views": 1817,
+      "topicIds": [
+        "seo-links-and-content",
+        "local-seo-rank-and-rent",
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "Jacky Chou talks through his current business mix (local SEO software, display ads, agency, private community) and what is working in SEO now. He covers rank and rent via verified Google locations, ca"
+    },
+    {
+      "id": "yt-vjZwdLIxrnA",
+      "type": "youtube",
+      "title": "Jacky Chou on dropshipping mistakes, Amazon affiliate moves and buying penalized sites",
+      "url": "https://www.youtube.com/watch?v=vjZwdLIxrnA",
+      "publishedAt": "2022-11-10",
+      "outlet": "Make Lemonade",
+      "durationSec": 3296,
+      "views": 837,
+      "topicIds": [],
+      "excerpt": "Jacky Chou walks through his dropshipping exit and its biggest mistake, how he sources cheaper from 1688, and why Amazon affiliates should sell their own FBA products. He also covers buying algo-hit s"
+    },
+    {
+      "id": "yt-7RKIGskoJaI",
+      "type": "youtube",
+      "title": "How Jacky Chou monetizes SEO: partnerships, rank and rent, lean teams, personal branding",
+      "url": "https://www.youtube.com/watch?v=7RKIGskoJaI",
+      "publishedAt": "2024-11-10",
+      "outlet": "SirLinksalot",
+      "durationSec": 3188,
+      "views": 4642,
+      "topicIds": [
+        "seo-links-and-content",
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky explains why he prefers revenue-share partnerships on big authority sites over client retainers and niche sites. He covers rank-and-rent monetization, running paid ads to drive branded search, d"
+    },
+    {
+      "id": "yt-4-0oihEWI_w",
+      "type": "youtube",
+      "title": "How Jacky Chou runs 34 content sites and manages risk across a diversified portfolio",
+      "url": "https://www.youtube.com/watch?v=4-0oihEWI_w",
+      "publishedAt": "2022-11-10",
+      "outlet": "Niche Pursuits",
+      "durationSec": 3047,
+      "views": 48351,
+      "topicIds": [
+        "diversification-and-risk"
+      ],
+      "excerpt": "Jacky explains how he buys starter sites, scales them with content and varied link building, and measures everything by payback period. The core theme is risk management: diversify link tactics, sites"
+    },
+    {
+      "id": "yt-OmvdIUnl7U8",
+      "type": "youtube",
+      "title": "How Jacky Chou built niche sites, e-commerce and an SEO agency into a diversified online portfolio",
+      "url": "https://www.youtube.com/watch?v=OmvdIUnl7U8",
+      "publishedAt": "2023-11-10",
+      "outlet": "Millennial Investing",
+      "durationSec": 2715,
+      "views": 2208,
+      "topicIds": [],
+      "excerpt": "Jacky Chou walks through his path from electrical engineering to SEO, a Drop Shipping win that crashed, and launching Far and Away via Kickstarter. He covers Facebook ads, conversion fixes, why e-comm"
+    },
+    {
+      "id": "yt-bK72iRlEPio",
+      "type": "youtube",
+      "title": "How Jacky Chou buys, builds and distributes 50+ online businesses (and why he now builds over buys)",
+      "url": "https://www.youtube.com/watch?v=bK72iRlEPio",
+      "publishedAt": "2025-12-10",
+      "outlet": "SMB Deal Hunter by Helen Guo",
+      "durationSec": 2433,
+      "views": 1509,
+      "topicIds": [
+        "diversification-and-risk",
+        "saas-launch-and-distribution",
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "Jacky Chou walks through 50+ small online business deals, including wins (towing directory, sponsored brand placements) and losses (Amazon rate card removed, commodity web hosting). He argues software"
+    },
+    {
+      "id": "yt-xBByWnX5TGI",
+      "type": "youtube",
+      "title": "How Jacky Chou makes money in SEO: affiliate rev-share partnerships, retail rank and rent, and closing the loop",
+      "url": "https://www.youtube.com/watch?v=xBByWnX5TGI",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jaume Ros",
+      "durationSec": 1864,
+      "views": 18627,
+      "topicIds": [
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky Chou walks through his SEO income streams for 2024. He favors affiliate revenue and rev-share partnerships with struggling funded sites, sells top placements to brands, and expects informational"
+    },
+    {
+      "id": "yt-FP6N7oi6Viw",
+      "type": "youtube",
+      "title": "Parasite SEO vs Partnerships: how Jacky Chou runs 50/50 publisher deals and humanized AI content",
+      "url": "https://www.youtube.com/watch?v=FP6N7oi6Viw",
+      "publishedAt": "2024-11-10",
+      "outlet": "Charles Floate",
+      "durationSec": 1767,
+      "views": 4657,
+      "topicIds": [
+        "seo-links-and-content",
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky Chou explains how he uses public parasite SEO as a tester to attract publisher partnerships, then runs 50/50 deals with content ownership and residuals. He covers humanizing AI content, limiting"
+    },
+    {
+      "id": "yt-dw-vaSi-9n4",
+      "type": "youtube",
+      "title": "How Jacky Chou grows Local Rank: community-led funnel, YouTube-first launch and local SEO levers",
+      "url": "https://www.youtube.com/watch?v=dw-vaSi-9n4",
+      "publishedAt": "2025-11-10",
+      "outlet": "Cody Schneider Podcast",
+      "durationSec": 3099,
+      "views": 485,
+      "topicIds": [
+        "local-seo-rank-and-rent",
+        "saas-launch-and-distribution"
+      ],
+      "excerpt": "Jacky Chou explains how Local Rank sells software by first building a paid education community, gating free checklists on X, and using YouTube to launch. He also covers local SEO ranking levers (revie"
+    },
+    {
+      "id": "yt-k0HXN2w5DOg",
+      "type": "youtube",
+      "title": "Jacky Chou's 10-year path from €450/mo intern to $500k/mo: SEO, dropshipping, partnerships",
+      "url": "https://www.youtube.com/watch?v=k0HXN2w5DOg",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 921,
+      "views": 2812,
+      "topicIds": [
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky walks through his timeline from a €450/mo Berlin internship in 2014 to about $500k/mo in revenue. It covers the Indexsy SEO agency, a dropshipping boom and bust, niche site flips, and the partne"
+    },
+    {
+      "id": "yt-vg4IQRzSEVU",
+      "type": "youtube",
+      "title": "How Jacky Chou's income fell from $500k/mo to $200k/mo: revenue-source breakdown and the sprint-on-winners rule",
+      "url": "https://www.youtube.com/watch?v=vg4IQRzSEVU",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 760,
+      "views": 1453,
+      "topicIds": [
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky compares his revenue sources from a year ago (about $506k/mo) to the current month (about $200k/mo) after a Google hit. He explains the Partnerships/domain-rental push that built the peak, then "
+    },
+    {
+      "id": "yt-MT9iA24ERog",
+      "type": "youtube",
+      "title": "How I lost $1M+ in niche site value to Google updates, and what I'd do differently",
+      "url": "https://www.youtube.com/watch?v=MT9iA24ERog",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 659,
+      "views": 1591,
+      "topicIds": [
+        "diversification-and-risk",
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "Jacky Chou openly reports his lows: about $1.4M of niche site value went to zero in 2024 after Google updates hit his ecom brand Farway and several sites sharing one Search Console account. His main l"
+    },
+    {
+      "id": "yt-tIofp4YMlZo",
+      "type": "youtube",
+      "title": "How Jacky Chou earns affiliate margins via site partnerships (Amazon, Mediavine)",
+      "url": "https://www.youtube.com/watch?v=tIofp4YMlZo",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 879,
+      "views": 1990,
+      "topicIds": [
+        "seo-partnerships-affiliate"
+      ],
+      "excerpt": "Jacky walks through the margins on his partnership model: partners attach sites to his Amazon rate card and Mediavine account, and he takes a cut. He also covers bundling a free indexer into his Reviv"
+    },
+    {
+      "id": "yt-eMSkXwxG70A",
+      "type": "youtube",
+      "title": "Jacky Chou's 2026 online business tier list: agencies and LLM/SEO over affiliate, ecom and gurus",
+      "url": "https://www.youtube.com/watch?v=eMSkXwxG70A",
+      "publishedAt": "2026-01-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 841,
+      "views": 5029,
+      "topicIds": [],
+      "excerpt": "Jacky Chou ranks online business models in a tier list, from scalable and reliable down to risky and scams. His view: agencies (especially SEO/LLM) are the most dependable, B2B SaaS and consistent You"
+    },
+    {
+      "id": "yt-tL6IPS2K29o",
+      "type": "youtube",
+      "title": "Rank and Rent: get your first 5 local SEO clients and reach $10K/month",
+      "url": "https://www.youtube.com/watch?v=tL6IPS2K29o",
+      "publishedAt": "2026-08-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 2061,
+      "views": 7166,
+      "topicIds": [
+        "local-seo-rank-and-rent"
+      ],
+      "excerpt": "A step-by-step playbook for using rank and rent sites as a foot in the door for local SEO agencies: pick a service plus city, build a structured site, run a citation and branded-link sequence, then mo"
+    },
+    {
+      "id": "yt-QrAUXXEf5tU",
+      "type": "youtube",
+      "title": "Local SEO playbook 2026: silo structure and service-area pages for a vet clinic",
+      "url": "https://www.youtube.com/watch?v=QrAUXXEf5tU",
+      "publishedAt": "2026-08-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 2090,
+      "views": 2866,
+      "topicIds": [
+        "local-seo-rank-and-rent"
+      ],
+      "excerpt": "Jacky walks through building a local SEO site for a vet clinic: a silo structure with pillar and sub-service pages, service-area pages for nearby towns, a repeatable location page template, early CRO "
+    },
+    {
+      "id": "yt-hYp47NAiZ3g",
+      "type": "youtube",
+      "title": "I spent $10,000 on backlinks across 10 vendors: a link-building case study",
+      "url": "https://www.youtube.com/watch?v=hYp47NAiZ3g",
+      "publishedAt": "2023-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 737,
+      "views": 22107,
+      "topicIds": [
+        "seo-links-and-content"
+      ],
+      "excerpt": "Jacky Chou tested 10 link vendors (about $1,000 each) on 10 identical 12-month-old domains targeting 800 low-difficulty informational keywords. A PBN provider won, a no-links control beat several vend"
+    },
+    {
+      "id": "yt-cxwg5TSG4I4",
+      "type": "youtube",
+      "title": "Link building reality check: when Jacky Chou actually builds links (and when he doesn't)",
+      "url": "https://www.youtube.com/watch?v=cxwg5TSG4I4",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 692,
+      "views": 2716,
+      "topicIds": [
+        "seo-links-and-content"
+      ],
+      "excerpt": "Jacky argues partnership sites on high-DR domains rank with no backlinks, so most link building is wasted effort early on. He only builds links in specific cases: after ranking top 10 (niche edits), f"
+    },
+    {
+      "id": "yt-kNZhD3MN11c",
+      "type": "youtube",
+      "title": "How Jacky built and sold a $190K towing directory using Facebook lead ads and a closer",
+      "url": "https://www.youtube.com/watch?v=kNZhD3MN11c",
+      "publishedAt": "2025-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 650,
+      "views": 2320,
+      "topicIds": [],
+      "excerpt": "Jacky bought a high-traffic towing directory that was under-monetized, added a strong sales closer, and ran one Facebook lead ad campaign (about $25 CAD/day) to fill cold leads. Clients got the exclus"
+    },
+    {
+      "id": "yt-QXEUAjb0Ubg",
+      "type": "youtube",
+      "title": "How Jacky Chou made $231.6k in October: revenue stream breakdown and sprint-based income thinking",
+      "url": "https://www.youtube.com/watch?v=QXEUAjb0Ubg",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 736,
+      "views": 1681,
+      "topicIds": [
+        "diversification-and-risk"
+      ],
+      "excerpt": "Jacky walks through each October revenue source (link building, Amazon affiliate, adult, private community, SEO agency, Levanta and more), what moved the numbers and how durable each is. His core stan"
+    },
+    {
+      "id": "yt-NF2W16ngVvM",
+      "type": "youtube",
+      "title": "Why Jacky Chou says not to start an affiliate site in 2024 and what to do instead",
+      "url": "https://www.youtube.com/watch?v=NF2W16ngVvM",
+      "publishedAt": "2024-11-10",
+      "outlet": "Jacky Chou from Indexsy",
+      "durationSec": 603,
+      "views": 2108,
+      "topicIds": [
+        "local-seo-rank-and-rent",
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "Jacky argues affiliate sites are unprofitable after Google's algo changes, which reward high domain authority over authentic content. He lays out a progression: short-term parasite SEO to get a first "
+    },
+    {
+      "id": "essay-revenue-update-august-2025",
+      "type": "essay",
+      "title": "How Jacky Chou made $261,661 in August 2025 by diversifying revenue and building in public",
+      "url": "https://indexsy.com/revenue-update-august-2025/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [
+        "diversification-and-risk",
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "Jacky Chou's August 2025 revenue update ($261.6k across SEO, SaaS, real estate, affiliates). He explains why he diversifies after losing ~95% of $500k/month affiliate and display ad income, and how bu"
+    },
+    {
+      "id": "essay-twidm-ep-1",
+      "type": "essay",
+      "title": "AI content at scale: Jacky Chou's bulk-publish, rewrite-winners SEO process and marketing takes",
+      "url": "https://indexsy.com/twidm-ep-1/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [
+        "seo-links-and-content"
+      ],
+      "excerpt": "Jacky Chou explains how he uses AI to publish thousands of People Also Ask posts a day, then has humans rewrite the ones that rank. He also covers topical authority, performance plateaus and branding,"
+    },
+    {
+      "id": "essay-twidm-ep-2",
+      "type": "essay",
+      "title": "This Week in Marketing Ep. 2: Recency hacks, review interlinking, and the DTC bust",
+      "url": "https://indexsy.com/twidm-ep-2/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "Jacky Chou and James De Lacey trade niche-site and brand tactics: refresh publish dates to jump rankings, interlink a \"best X\" roundup with individual product reviews, and use YouTube embeds as a rank"
+    },
+    {
+      "id": "essay-amazon-fba-business",
+      "type": "essay",
+      "title": "How to sell an Amazon FBA business: valuation, buyers, and what raises the price",
+      "url": "https://indexsy.com/amazon-fba-business/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "A buyer-first guide to selling an Amazon FBA business. It covers which business types sell (proprietary > private label > reseller), how to value it with SDE and EBITDA, the factors that raise the mul"
+    },
+    {
+      "id": "essay-link-building",
+      "type": "essay",
+      "title": "Link building services: how to vet vendors and which link tactics work vs. get penalized",
+      "url": "https://indexsy.com/link-building/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "Jacky Chou's SEO essay ranks link-building vendors (Indexsy first, a self-admitted plug) and explains how to vet them. It covers effective link types (niche edits, outreach, broken-link, citations, PR"
+    },
+    {
+      "id": "essay-local-seo-strategy",
+      "type": "essay",
+      "title": "Local SEO strategy: the ranking factors and five tactics for winning the local pack",
+      "url": "https://indexsy.com/local-seo-strategy/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [
+        "local-seo-rank-and-rent"
+      ],
+      "excerpt": "A practical guide to local SEO built around Google's three local signals (relevance, prominence, distance). It covers key ranking factors (NAP consistency, localized content, local backlinks, schema) "
+    },
+    {
+      "id": "essay-seo-private-equity",
+      "type": "essay",
+      "title": "SEO for private equity: an on-site, off-site and technical playbook",
+      "url": "https://indexsy.com/seo-private-equity/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "A generic SEO checklist for private equity firms. It leans on one stat (SEO leads close at 14.6% vs 1.7% for outbound) and then covers keyword research, on-page basics, backlinks, local and reputation"
+    },
+    {
+      "id": "essay-negative-seo",
+      "type": "essay",
+      "title": "Negative SEO: attack types, why they rarely work now, and how to defend your site",
+      "url": "https://indexsy.com/negative-seo/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "Jacky Chou explains what negative SEO is, the main attack types (link farms, fake link-removal requests, hacking, heavy crawling, duplicate content, fake reviews), and why Google's Penguin 4.0 makes l"
+    },
+    {
+      "id": "essay-buy-backlinks-online",
+      "type": "essay",
+      "title": "Buying backlinks in 2026: why brands do it, how to vet vendors, and what drives price",
+      "url": "https://indexsy.com/buy-backlinks-online/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "A practical SEO essay on paid link building: brands buy links to save time and keep pace with competitors, safety depends on vendor quality, and price is driven by link quality, niche, and brand stren"
+    },
+    {
+      "id": "essay-guest-posting-seo",
+      "type": "essay",
+      "title": "Guest Posting SEO: goals, qualifying sites, pitching, and avoiding penalties",
+      "url": "https://indexsy.com/guest-posting-seo/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "Jacky Chou's beginner guide to guest posting as an SEO and growth tactic. It covers setting goals, finding and qualifying sites, pitching, writing, tracking results, and spammy practices that risk Goo"
+    },
+    {
+      "id": "essay-seo-clients",
+      "type": "essay",
+      "title": "How to get SEO agency clients: 12 lead-gen tactics from Jacky Chou",
+      "url": "https://indexsy.com/seo-clients/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "A practical checklist of twelve channels and tactics an SEO agency can use to generate leads and win clients: directories, free audits, niching, forums and Q&A, social, speaking, pillar content, Linke"
+    },
+    {
+      "id": "essay-ai-seo",
+      "type": "essay",
+      "title": "AI SEO: where AI helps with content and optimization, and the human review it still needs",
+      "url": "https://indexsy.com/ai-seo/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "Jacky Chou's guide to using AI for SEO: keyword research, link building, content generation, voice search and analytics prioritization. AI saves time and cuts manual errors, but output still needs hum"
+    },
+    {
+      "id": "essay-become-seo",
+      "type": "essay",
+      "title": "How to become an SEO specialist: Jacky Chou's 7-step path (learn, build a site, specialize)",
+      "url": "https://indexsy.com/become-seo/",
+      "publishedAt": null,
+      "outlet": "indexsy.com",
+      "topicIds": [],
+      "excerpt": "A beginner's roadmap to becoming an SEO specialist. It covers how search engines work, the three ranking factors (relevance, authority, value), the four SEO categories, then learning by building a rea"
+    },
+    {
+      "id": "x-1597082929364369409",
+      "type": "x_post",
+      "title": "Here's how we use AI to build a site to 45k visitors/mo 1. Find 1000s of low competition h",
+      "url": "https://x.com/indexsy/status/1597082929364369409",
+      "publishedAt": "2022-11-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's how we use AI to build a site to 45k visitors/mo\n1. Find 1000s of low competition high volume keywords via Ahrefs\n2. Export and post them onto the site using an AI service\n3. Use the free RankM"
+    },
+    {
+      "id": "x-1642127498036264961",
+      "type": "x_post",
+      "title": "The Twitter algorithm cheat sheet aka ranking factors for dummies. Bookmark this tweet so ",
+      "url": "https://x.com/indexsy/status/1642127498036264961",
+      "publishedAt": "2023-04-01",
+      "outlet": "X",
+      "views": 257694,
+      "topicIds": [],
+      "excerpt": "The Twitter algorithm cheat sheet aka ranking factors for dummies. Bookmark this tweet so you can refer to it later. \n\nGiven replies/comments are 1x boost. \n\nPositive factors:\n1. Likes, 30x\n2. Retweet"
+    },
+    {
+      "id": "x-1906884768345797106",
+      "type": "x_post",
+      "title": "Repeat after me Doing ecommerce SEO is the easiest way to $50k/mo in 2025 Here's my 92-poi",
+      "url": "https://x.com/indexsy/status/1906884768345797106",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 135119,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nDoing ecommerce SEO is the easiest way to $50k/mo in 2025\n\nHere's my 92-point SEO checklist (bookmark for later): https://t.co/9ILPNxbfII"
+    },
+    {
+      "id": "x-1645761977803784193",
+      "type": "x_post",
+      "title": "The \"Got Milk?\" campaign is one of the most successful marketing campaigns in American his",
+      "url": "https://x.com/indexsy/status/1645761977803784193",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 529309,
+      "topicIds": [],
+      "excerpt": "The \"Got Milk?\" campaign is one of the most successful marketing campaigns in American history, aiming to make milk cool and boost declining milk consumption. \n\nIt was launched by marketing groups fun"
+    },
+    {
+      "id": "x-1862901088204292504",
+      "type": "x_post",
+      "title": "I made $289,517.35 in November 2024: 📘 Advise .so — $86.1k ⚡️ Indexsy — $71.8k 💻 Version",
+      "url": "https://x.com/indexsy/status/1862901088204292504",
+      "publishedAt": "2024-11-30",
+      "outlet": "X",
+      "views": 106029,
+      "topicIds": [],
+      "excerpt": "I made $289,517.35 in November 2024:\n\n📘 Advise .so — $86.1k\n⚡️ Indexsy — $71.8k\n💻 Version .so — $35.5k\n📦 Amazon — $32.1k\n🦶 0F — $29.6k\n💸 Binance — $12.1k\n🏢 STR Lisbon — $9.2k\n🔗 Combined Revenue"
+    },
+    {
+      "id": "x-1962202584338591803",
+      "type": "x_post",
+      "title": "📈 I made $261,661.15 in August 2025: 🌐 LocalRank .so + Trackings .ai — $71.5k 💻 Version",
+      "url": "https://x.com/indexsy/status/1962202584338591803",
+      "publishedAt": "2025-08-31",
+      "outlet": "X",
+      "views": 95210,
+      "topicIds": [],
+      "excerpt": "📈 I made $261,661.15 in August 2025:\n\n🌐 LocalRank .so + Trackings .ai — $71.5k\n💻 Version .so — $57.7k\n⚡️ Indexsy — $51.1k\n🏢 STR Lisbon — $23.3k\n📘 Advise .so — $21.3k\n🦶 0F — $15.2k\n💸 Binance — $"
+    },
+    {
+      "id": "x-1933547351903514788",
+      "type": "x_post",
+      "title": "Repeat after me Local seo is the fastest way to grow a local business to $50k/mo in 2025 H",
+      "url": "https://x.com/indexsy/status/1933547351903514788",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 103810,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nLocal seo is the fastest way to grow a local business to $50k/mo in 2025\n\nHere's a 65-point local seo checklist (bookmark for later): https://t.co/fLOdUCGd8p"
+    },
+    {
+      "id": "x-1520515652758294528",
+      "type": "x_post",
+      "title": "It's that time again y'all. I did a total of $176,450 USD in revenue in the month of April",
+      "url": "https://x.com/indexsy/status/1520515652758294528",
+      "publishedAt": "2022-04-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's that time again y'all.\n\nI did a total of $176,450 USD in revenue in the month of April. This is up $17.4k from March.\n\nHere's my breakdown between 8 revenue sources...\n\nPS: Feel free to AMA."
+    },
+    {
+      "id": "x-1965126923425587621",
+      "type": "x_post",
+      "title": "REPEAT AFTER ME Reddit is so easily abused right now There's NOTHING stopping you from far",
+      "url": "https://x.com/indexsy/status/1965126923425587621",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 119661,
+      "topicIds": [],
+      "excerpt": "REPEAT AFTER ME \n\nReddit is so easily abused right now\n\nThere's NOTHING stopping you from farming 100 Reddit accounts at a time\n\nHere's my 2 week warm-up SOP (bookmark for later)\n\nUse a privacy browse"
+    },
+    {
+      "id": "x-1907299581760782422",
+      "type": "x_post",
+      "title": "Repeat after me Cold email is the cheapest way to get your agency to $10k/mo in 2025 Here'",
+      "url": "https://x.com/indexsy/status/1907299581760782422",
+      "publishedAt": "2025-04-02",
+      "outlet": "X",
+      "views": 120801,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nCold email is the cheapest way to get your agency to $10k/mo in 2025\n\nHere's the complete technical SOP to send over 1k emails per day (bookmark for later): https://t.co/zDZuT64fVz"
+    },
+    {
+      "id": "x-1978521482407117283",
+      "type": "x_post",
+      "title": "Reddit is SO easy to abuse right now. We used it to generate over $45.5k in 4 weeks, all o",
+      "url": "https://x.com/indexsy/status/1978521482407117283",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 56266,
+      "topicIds": [],
+      "excerpt": "Reddit is SO easy to abuse right now.\n\nWe used it to generate over $45.5k in 4 weeks, all organic.\n\nHere’s the full system (bookmark this):\n\nStep 1: Find threads already ranking on Google\n\n- Search “b"
+    },
+    {
+      "id": "x-1874471379451494638",
+      "type": "x_post",
+      "title": "📈 I made $3,435,402.94 in 2024 📦 Amazon affiliate — $844,734.07 ⚡️ Indexsy — $566,461.89",
+      "url": "https://x.com/indexsy/status/1874471379451494638",
+      "publishedAt": "2025-01-01",
+      "outlet": "X",
+      "views": 91803,
+      "topicIds": [],
+      "excerpt": "📈 I made $3,435,402.94 in 2024\n\n📦 Amazon affiliate — $844,734.07\n⚡️ Indexsy — $566,461.89\n💻 Version .so — $452,892.00\n🦶 0F — $410,658.61\n📘 Advise .so — $366,804.13\n🎥 Mediavine — $318,256.14\n🚀 L"
+    },
+    {
+      "id": "x-1907618698179051912",
+      "type": "x_post",
+      "title": "Repeat after me Local seo is the easiest way to grow a local business to $100k/mo in 2025 ",
+      "url": "https://x.com/indexsy/status/1907618698179051912",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 102934,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nLocal seo is the easiest way to grow a local business to $100k/mo in 2025\n\nHere's the complete SOP to rank on Google maps (bookmark for later): https://t.co/k1NGh1IZlQ"
+    },
+    {
+      "id": "x-1874024921728188445",
+      "type": "x_post",
+      "title": "I made $245,031.47 in December 2024: ⚡️ Indexsy — $77.0k 📘 Advise .so — $49.9k 📦 Amazon ",
+      "url": "https://x.com/indexsy/status/1874024921728188445",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 77981,
+      "topicIds": [],
+      "excerpt": "I made $245,031.47 in December 2024:\n\n⚡️ Indexsy — $77.0k\n📘 Advise .so — $49.9k\n📦 Amazon — $35.4k\n💻 Version — $27.7k\n🦶 0F — $23.6k\n💸 Binance — $17.4k\n🏢 STR Lisbon — $5.9k\n🎥 Mediavine — $2.9k\n🌐"
+    },
+    {
+      "id": "x-1841127091560939965",
+      "type": "x_post",
+      "title": "I made $211,219.97 in September 2024: ⚡️ Indexsy — $42.7k 📦 Amazon — $40.9k 🎙️ 0F — $30.",
+      "url": "https://x.com/indexsy/status/1841127091560939965",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 94819,
+      "topicIds": [],
+      "excerpt": "I made $211,219.97 in September 2024:\n\n⚡️ Indexsy — $42.7k\n📦 Amazon — $40.9k\n🎙️ 0F — $30.6k\n📘 Advise. so — $29.5k\n💻 Version — $19.7k\n🚀 Levanta — $17.7k\n🏢 STR Lisbon — $16.9k\n🔗 Combined Revenue "
+    },
+    {
+      "id": "x-1900977342023168448",
+      "type": "x_post",
+      "title": "Repeat after me Doing local seo is the easiest way to $5k/mo in 2025 Here's the complete S",
+      "url": "https://x.com/indexsy/status/1900977342023168448",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 86325,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nDoing local seo is the easiest way to $5k/mo in 2025\n\nHere's the complete SOP to get clients and rank (bookmark for later): https://t.co/xaIQRjh03D"
+    },
+    {
+      "id": "x-1951296975296712873",
+      "type": "x_post",
+      "title": "📈 I made $270,440.55 in July 2025 ⚡️ Indexsy — $77.1k 🚀 🌐 LocalRank .so — $66.7k 🚀 💻 ",
+      "url": "https://x.com/indexsy/status/1951296975296712873",
+      "publishedAt": "2025-08-01",
+      "outlet": "X",
+      "views": 80780,
+      "topicIds": [],
+      "excerpt": "📈 I made $270,440.55 in July 2025\n\n⚡️ Indexsy — $77.1k 🚀\n🌐 LocalRank .so — $66.7k 🚀\n💻 Version .so — $44.3k\n🏢 STR Lisbon — $21.2k\n📘 Advise .so — $21.4k\n🦶 0F — $17.9k\n💸 Binance — $8.9k\n🎥 Media"
+    },
+    {
+      "id": "x-1852042189230018966",
+      "type": "x_post",
+      "title": "I made $231,646.45 in October 2024: ⚡️ Indexsy — $51.8k 📦 Amazon — $38.5k 🦶 0F — $42.3k ",
+      "url": "https://x.com/indexsy/status/1852042189230018966",
+      "publishedAt": "2024-10-31",
+      "outlet": "X",
+      "views": 100138,
+      "topicIds": [],
+      "excerpt": "I made $231,646.45 in October 2024:\n\n⚡️ Indexsy — $51.8k\n📦 Amazon — $38.5k\n🦶 0F — $42.3k\n📘 Advise .so — $34.4k\n💻 Version — $22.8k\n🚀 Levanta — $13.5k\n🏢 STR Lisbon — $15.1k\n🔗 Combined Revenue (Se"
+    },
+    {
+      "id": "x-1956766989306990661",
+      "type": "x_post",
+      "title": "Hormozi will clear $150m if he sells all 25k of the copies of his bundle The 🐐 https://t.",
+      "url": "https://x.com/indexsy/status/1956766989306990661",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 90882,
+      "topicIds": [],
+      "excerpt": "Hormozi will clear $150m if he sells all 25k of the copies of his bundle \n\nThe 🐐 https://t.co/Jv03ueNgh4"
+    },
+    {
+      "id": "x-1912911284376576228",
+      "type": "x_post",
+      "title": "Repeat after me Doing Local SEO is the easiest way to $15k/mo in 2025 Here's my 65-point S",
+      "url": "https://x.com/indexsy/status/1912911284376576228",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 68763,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nDoing Local SEO is the easiest way to $15k/mo in 2025\n\nHere's my 65-point SEO checklist (bookmark for later): https://t.co/pGviRYMdEw"
+    },
+    {
+      "id": "x-1979953469923745863",
+      "type": "x_post",
+      "title": "I might be the the perfect example of why you should never give up Here’s my revenue progr",
+      "url": "https://x.com/indexsy/status/1979953469923745863",
+      "publishedAt": "2025-10-19",
+      "outlet": "X",
+      "views": 66014,
+      "topicIds": [],
+      "excerpt": "I might be the the perfect example of why you should never give up\n\nHere’s my revenue progression over the last decade 👇\n\n2014 → 2025:\n2014 — $450/mo\n2015 — $1.5k/mo\n2016 — $3.5k/mo\n2017 — $10k/mo\n20"
+    },
+    {
+      "id": "x-1600253619542151191",
+      "type": "x_post",
+      "title": "Mr Beast amassed over 150m subscribers and has made millions if not billions of dollars on",
+      "url": "https://x.com/indexsy/status/1600253619542151191",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Mr Beast amassed over 150m subscribers and has made millions if not billions of dollars on YouTube. \n\nI watched hours of his interviews and he always attributes his initial traction to this one thing,"
+    },
+    {
+      "id": "x-1973108706490589429",
+      "type": "x_post",
+      "title": "📈 I made $235,675.81 in September 2025 🌐 Localrank .so + Trackings .ai + IndexChex .com ",
+      "url": "https://x.com/indexsy/status/1973108706490589429",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 53548,
+      "topicIds": [],
+      "excerpt": "📈 I made $235,675.81 in September 2025\n\n🌐 Localrank .so + Trackings .ai + IndexChex .com — $74,997.79\n⚡️ Indexsy — $45,119\n💻 Version .so — $40,300\n📘 Advise .so — $21,366.85\n🏢 STR Lisbon — $19,964"
+    },
+    {
+      "id": "x-1625049714088611840",
+      "type": "x_post",
+      "title": "Ex-Google employee mentions bounce back rate as a \"key metric\". Nothing new, but it's good",
+      "url": "https://x.com/indexsy/status/1625049714088611840",
+      "publishedAt": "2023-02-13",
+      "outlet": "X",
+      "views": 160725,
+      "topicIds": [],
+      "excerpt": "Ex-Google employee mentions bounce back rate as a \"key metric\". \n\nNothing new, but it's good that there's some sort of confirmation. https://t.co/9nhOSVsQpw"
+    },
+    {
+      "id": "x-1908334012395118856",
+      "type": "x_post",
+      "title": "If I had to make $10k/month with SEO or I'll be homeless This is what I'd do (bookmark for",
+      "url": "https://x.com/indexsy/status/1908334012395118856",
+      "publishedAt": "2025-04-05",
+      "outlet": "X",
+      "views": 50593,
+      "topicIds": [],
+      "excerpt": "If I had to make $10k/month with SEO or I'll be homeless\n\nThis is what I'd do (bookmark for later):\n\n1. Scrape local businesses - think roofers, med spas, lawyers. \n\nUse Outscraper, Lobstr, or Apollo."
+    },
+    {
+      "id": "x-1885353562081026537",
+      "type": "x_post",
+      "title": "📉 I made $191,018.01 in January 2025 ⚡️ Indexsy — $58.6k 📦 Amazon — $31.8k 💻 Version .s",
+      "url": "https://x.com/indexsy/status/1885353562081026537",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 82144,
+      "topicIds": [],
+      "excerpt": "📉 I made $191,018.01 in January 2025\n\n⚡️ Indexsy — $58.6k\n📦 Amazon — $31.8k\n💻 Version .so — $28.7k\n📘 Advise .so — $27.8k\n🦶 0F — $20.2k\n💸 Binance — $12.9k\n🌐 Revive .so — $2.3k\n🎥 Mediavine — $2."
+    },
+    {
+      "id": "x-1566316148710309888",
+      "type": "x_post",
+      "title": "From first contact to escrow in a couple hours, we're back in the market 👀 Have a niche s",
+      "url": "https://x.com/indexsy/status/1566316148710309888",
+      "publishedAt": "2022-09-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "From first contact to escrow in a couple hours, we're back in the market 👀\n\nHave a niche site for sale? We're buying. Shoot me a DM, let's get you that life-changing exit 👉 @indexsy"
+    },
+    {
+      "id": "x-1984314157605535943",
+      "type": "x_post",
+      "title": "📈 I made $272,700.81 in October 2025 🌐 LocalRank .so + Trackings .ai + IndexChex .com — ",
+      "url": "https://x.com/indexsy/status/1984314157605535943",
+      "publishedAt": "2025-10-31",
+      "outlet": "X",
+      "views": 41405,
+      "topicIds": [],
+      "excerpt": "📈 I made $272,700.81 in October 2025\n\n🌐 LocalRank .so + Trackings .ai + IndexChex .com — $80,371.85\n⚡️ Indexsy — $61,212\n💻 Version .so — $39,361\n🏢 STR Lisbon — $23,708.34\n🦶 0F — $21,185.50\n📘 Adv"
+    },
+    {
+      "id": "x-1907975120708411444",
+      "type": "x_post",
+      "title": "Repeat after me Email mining is the most overlooked way to scale your cold emails to $15k/",
+      "url": "https://x.com/indexsy/status/1907975120708411444",
+      "publishedAt": "2025-04-04",
+      "outlet": "X",
+      "views": 59597,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nEmail mining is the most overlooked way to scale your cold emails to $15k/mo\n\nHere's the complete SOP to scrape over 100k emails per day (bookmark for later): https://t.co/RJ8HY96b3e"
+    },
+    {
+      "id": "x-1628786815711805441",
+      "type": "x_post",
+      "title": "I'm spending $10k+ on backlinks so you don't have to, here's the case study that you didn'",
+      "url": "https://x.com/indexsy/status/1628786815711805441",
+      "publishedAt": "2023-02-23",
+      "outlet": "X",
+      "views": 100344,
+      "topicIds": [],
+      "excerpt": "I'm spending $10k+ on backlinks so you don't have to, here's the case study that you didn't know you needed 🧵"
+    },
+    {
+      "id": "x-1624800539966840832",
+      "type": "x_post",
+      "title": "The Twitter bio: Sold a business for 6-figures. Reality: $85k exit with a 60% 2-year earn-",
+      "url": "https://x.com/indexsy/status/1624800539966840832",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 326863,
+      "topicIds": [],
+      "excerpt": "The Twitter bio: Sold a business for 6-figures.\n\nReality: $85k exit with a 60% 2-year earn-out with a performance clause of 30% YoY growth."
+    },
+    {
+      "id": "x-1722287448787452235",
+      "type": "x_post",
+      "title": "Did you know I still buy backlinks from Fiverr? I get 50 links for $5, and it still works.",
+      "url": "https://x.com/indexsy/status/1722287448787452235",
+      "publishedAt": "2023-11-08",
+      "outlet": "X",
+      "views": 71312,
+      "topicIds": [],
+      "excerpt": "Did you know I still buy backlinks from Fiverr?\n\nI get 50 links for $5, and it still works...\n\nYour favorite SEO influencers would sell the SAME thing to you for $250++\n\nHere's exactly what I do (URL "
+    },
+    {
+      "id": "x-1552302446810173440",
+      "type": "x_post",
+      "title": "A bit early this month but I did a total of $298.5k USD in revenue in the month of July. T",
+      "url": "https://x.com/indexsy/status/1552302446810173440",
+      "publishedAt": "2022-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A bit early this month but I did a total of $298.5k USD in revenue in the month of July. \n\nThis is up $144k from June.\n\nHere's my breakdown between 7 revenue sources...\n\nPS: Feel free to AMA by replyi"
+    },
+    {
+      "id": "x-1531322460976517120",
+      "type": "x_post",
+      "title": "It's time. I did a total of $170890 USD in revenue in the month of May. This is down about",
+      "url": "https://x.com/indexsy/status/1531322460976517120",
+      "publishedAt": "2022-05-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's time. \n\nI did a total of $170890 USD in revenue in the month of May. This is down about $5.5k from April.\n\nHere is the breakdown between 8 revenue sources.."
+    },
+    {
+      "id": "x-1669046258193817610",
+      "type": "x_post",
+      "title": "I spent over $10k on backlinks a couple of months ago so you don't have to. The results ar",
+      "url": "https://x.com/indexsy/status/1669046258193817610",
+      "publishedAt": "2023-06-14",
+      "outlet": "X",
+      "views": 64651,
+      "topicIds": [],
+      "excerpt": "I spent over $10k on backlinks a couple of months ago so you don't have to. \n\nThe results are in, and let me tell you, it's SHOCKING. \n\nLike, RT, and comment \"BACKLINKS\" for the complete study (domain"
+    },
+    {
+      "id": "x-1644307393629544449",
+      "type": "x_post",
+      "title": "Stick to it, success is inevitable. Revenue progression in the last decade: 2013 = $1000/m",
+      "url": "https://x.com/indexsy/status/1644307393629544449",
+      "publishedAt": "2023-04-07",
+      "outlet": "X",
+      "views": 167980,
+      "topicIds": [],
+      "excerpt": "Stick to it, success is inevitable.\n\nRevenue progression in the last decade: \n2013 = $1000/mo\n2014 = $450/mo\n2015 = $1500/mo\n2016 = $3500/mo\n2017 = $10k/mo\n2018 = $55k/mo\n2019 = $45k/mo\n2020 = $44k/mo"
+    },
+    {
+      "id": "x-1575500691312812032",
+      "type": "x_post",
+      "title": "Alright internet friends, it's time. I made $141k from 7 different revenue sources in Sept",
+      "url": "https://x.com/indexsy/status/1575500691312812032",
+      "publishedAt": "2022-09-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Alright internet friends, it's time.\n\nI made $141k from 7 different revenue sources in September. This is up $25k from last month.\n\nI'm going to cover: \n- Revenue sources\n- YTD and AVG performance\n- G"
+    },
+    {
+      "id": "x-1908862157200208111",
+      "type": "x_post",
+      "title": "Repeat after me Local seo outside of the US is the easiest way to get to $5k/mo Here’s a c",
+      "url": "https://x.com/indexsy/status/1908862157200208111",
+      "publishedAt": "2025-04-06",
+      "outlet": "X",
+      "views": 62517,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nLocal seo outside of the US is the easiest way to get to $5k/mo\n\nHere’s a case study of how we took a local business to #1 in just 5 days (bookmark for later): https://t.co/recMvxKchB"
+    },
+    {
+      "id": "x-1765496649093185711",
+      "type": "x_post",
+      "title": "It finally happened Google targeted me They clapped all the sites in the same GSC Even sit",
+      "url": "https://x.com/indexsy/status/1765496649093185711",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 102470,
+      "topicIds": [],
+      "excerpt": "It finally happened\n\nGoogle targeted me \n\nThey clapped all the sites in the same GSC\n\nEven sites that didn't deserve it\n\nHere are my thoughts 👇 https://t.co/hlf9vIJz6U"
+    },
+    {
+      "id": "x-1643957661157695489",
+      "type": "x_post",
+      "title": "I doubled my subscribers and booked over $40k in revenue in the last 30 days for our newsl",
+      "url": "https://x.com/indexsy/status/1643957661157695489",
+      "publishedAt": "2023-04-06",
+      "outlet": "X",
+      "views": 148799,
+      "topicIds": [],
+      "excerpt": "I doubled my subscribers and booked over $40k in revenue in the last 30 days for our newsletter.\n\nWant to do the same? Here's what I would do to get my first 1000 readers with $0. \n\n1. Niche tf down\n\n"
+    },
+    {
+      "id": "x-1476985125476831234",
+      "type": "x_post",
+      "title": "In 2022 I want to tweet more. To start, I break down how I made 2.5m+ USD in 2021 complete",
+      "url": "https://x.com/indexsy/status/1476985125476831234",
+      "publishedAt": "2021-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In 2022 I want to tweet more. To start, I break down how I made 2.5m+ USD in 2021 completely remote. 👇\n\n(s/o to @ShaanVP  @theSamParr for the inspiration)"
+    },
+    {
+      "id": "x-1730230363488710796",
+      "type": "x_post",
+      "title": "📈 I made $506.7k from 13 different revenue sources in November 💰 +$183.1k from October \ud83d",
+      "url": "https://x.com/indexsy/status/1730230363488710796",
+      "publishedAt": "2023-11-30",
+      "outlet": "X",
+      "views": 65754,
+      "topicIds": [],
+      "excerpt": "📈 I made $506.7k from 13 different revenue sources in November\n\n💰 +$183.1k from October \n💸 All-time high in revenue  \n\nAMA, nothing is off limits, but only answering followers 🤝\n\nHighlights 🌟\nYTD"
+    },
+    {
+      "id": "x-1595240383654817792",
+      "type": "x_post",
+      "title": "We hit our requirements for monetization on YT 16 days into the challenge 🚀 Highlights: 1",
+      "url": "https://x.com/indexsy/status/1595240383654817792",
+      "publishedAt": "2022-11-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We hit our requirements for monetization on YT 16 days into the challenge 🚀\n\nHighlights:\n1k subscribers\n1 long form video over 150k views\n1 long form video 30k views\n\nI'm begging you guys, GET ON YOU"
+    },
+    {
+      "id": "x-1913289979566170392",
+      "type": "x_post",
+      "title": "If I took over a local services business I'd easily run it up to $100k/mo with local seo H",
+      "url": "https://x.com/indexsy/status/1913289979566170392",
+      "publishedAt": "2025-04-18",
+      "outlet": "X",
+      "views": 27296,
+      "topicIds": [],
+      "excerpt": "If I took over a local services business\n\nI'd easily run it up to $100k/mo with local seo\n\nHere's my 80/20 seo checklist (bookmark for later) https://t.co/0rO3yTF8qy"
+    },
+    {
+      "id": "x-1561729993671065601",
+      "type": "x_post",
+      "title": "I made over $2.2m dropshipping (75% profit) from 2017 to 2019. It's what helped me get sta",
+      "url": "https://x.com/indexsy/status/1561729993671065601",
+      "publishedAt": "2022-08-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I made over $2.2m dropshipping (75% profit) from 2017 to 2019. It's what helped me get started online. Here's what I learned (so you won't make the same mistakes), and why I wouldn't dropship in 2022."
+    },
+    {
+      "id": "x-1622263830490259459",
+      "type": "x_post",
+      "title": "Local SEO is SEO on easy mode. - Have a fast site - Add your NAP on your homepage (name, a",
+      "url": "https://x.com/indexsy/status/1622263830490259459",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 25364,
+      "topicIds": [
+        "local-seo-rank-and-rent"
+      ],
+      "excerpt": "Local SEO is SEO on easy mode.\n\n- Have a fast site\n- Add your NAP on your homepage (name, address, phone number)\n- Embed your GMB location on the homepage\n- Make sure your NAP is consistent on directo"
+    },
+    {
+      "id": "x-1916916252058259544",
+      "type": "x_post",
+      "title": "Repeat after me On-site SEO for local is stupid easy and shouldn't take more than 30 mins ",
+      "url": "https://x.com/indexsy/status/1916916252058259544",
+      "publishedAt": "2025-04-28",
+      "outlet": "X",
+      "views": 26603,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nOn-site SEO for local is stupid easy and shouldn't take more than 30 mins\n\nMfs always try to overcomplicate it with buzzwords and acronyms for no raisins\n\nHere's my complete checklist"
+    },
+    {
+      "id": "x-1624438170115866626",
+      "type": "x_post",
+      "title": "Here's my SEO tools stack - Keywords Everywhere - Ahrefs - SERanking - Keywords .com - Sea",
+      "url": "https://x.com/indexsy/status/1624438170115866626",
+      "publishedAt": "2023-02-11",
+      "outlet": "X",
+      "views": 26603,
+      "topicIds": [],
+      "excerpt": "Here's my SEO tools stack\n- Keywords Everywhere\n- Ahrefs\n- SERanking\n- Keywords .com\n- Search Console\n- SurferSEO\n\nWhat am I missing?"
+    },
+    {
+      "id": "x-1911196805012111607",
+      "type": "x_post",
+      "title": "Repeat after me Cold email copywriting is the most important part of scaling cold emails t",
+      "url": "https://x.com/indexsy/status/1911196805012111607",
+      "publishedAt": "2025-04-12",
+      "outlet": "X",
+      "views": 39952,
+      "topicIds": [],
+      "excerpt": "Repeat after me \n\nCold email copywriting is the most important part of scaling cold emails to $10k/mo\n\nHere's the complete formula to get a 10%+ reply rate (bookmark for later): https://t.co/0QarzaWeV"
+    },
+    {
+      "id": "x-1683510854979821569",
+      "type": "x_post",
+      "title": "💰 Affiliate Income for Far & Away in 2023: January: $114 February: $392 March: $794 A",
+      "url": "https://x.com/indexsy/status/1683510854979821569",
+      "publishedAt": "2023-07-24",
+      "outlet": "X",
+      "views": 40438,
+      "topicIds": [],
+      "excerpt": "💰 Affiliate Income for Far & Away in 2023:\nJanuary: $114\nFebruary: $392\nMarch: $794\nApril: $1366\nMay: $1507\nJune: $1706 (added 400 new posts)\nJuly: $4059 \n\nDisplay ads on in August + Q4 around the co"
+    },
+    {
+      "id": "x-1587106380799942659",
+      "type": "x_post",
+      "title": "Pepper your angus, it’s time. I made $173k from 7 different revenue sources in October. Th",
+      "url": "https://x.com/indexsy/status/1587106380799942659",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pepper your angus, it’s time. \n\nI made $173k from 7 different revenue sources in October. This is up $32.2k from last month.\n\nIn the following thread, I’ll cover...\n- Revenue sources\n- YTD and AVG per"
+    },
+    {
+      "id": "x-1760780576179568889",
+      "type": "x_post",
+      "title": "Let me get this straight Reddit provides Google with training data for cheap Reddit then r",
+      "url": "https://x.com/indexsy/status/1760780576179568889",
+      "publishedAt": "2024-02-22",
+      "outlet": "X",
+      "views": 27077,
+      "topicIds": [],
+      "excerpt": "Let me get this straight\n\nReddit provides Google with training data for cheap\n\nReddit then rockets to the top of Google for just about everything \n\nAll ahead of IPO\n\nAll while it's littered with spam "
+    },
+    {
+      "id": "x-1858959940569776587",
+      "type": "x_post",
+      "title": "It's official Posted every single damn day for 365 days 📈1.1m views 📈 9.5k subscribers \ud83d",
+      "url": "https://x.com/indexsy/status/1858959940569776587",
+      "publishedAt": "2024-11-19",
+      "outlet": "X",
+      "views": 20923,
+      "topicIds": [
+        "daily-content-building-in-public"
+      ],
+      "excerpt": "It's official\n\nPosted every single damn day for 365 days\n\n📈1.1m views\n\n📈 9.5k subscribers\n\n📈$1.5m in revenue DIRECTLY from YouTube\n\nHard work beats talent every day of the week\n\nMore details here \ud83d"
+    },
+    {
+      "id": "x-1859664853985567203",
+      "type": "x_post",
+      "title": "Let me get this straight... Forbes Advisor gets hit with the site reputation abuse manual ",
+      "url": "https://x.com/indexsy/status/1859664853985567203",
+      "publishedAt": "2024-11-21",
+      "outlet": "X",
+      "views": 35035,
+      "topicIds": [],
+      "excerpt": "Let me get this straight...\n\nForbes Advisor gets hit with the site reputation abuse manual penalty\n\n/advisor/ gets its cheeks clapped\n\nThey then move their most valuable content to the /portfolio/ sub"
+    },
+    {
+      "id": "x-1609796839703814146",
+      "type": "x_post",
+      "title": "Happy New Year y'all. I made $103k from 8 different revenue sources in December 💰. This i",
+      "url": "https://x.com/indexsy/status/1609796839703814146",
+      "publishedAt": "2023-01-02",
+      "outlet": "X",
+      "views": 47733,
+      "topicIds": [],
+      "excerpt": "Happy New Year y'all.\n\nI made $103k from 8 different revenue sources in December 💰. \n\nThis is down $34k from the previous month, and it's the lowest revenue month in 2022.\n\nHere's a 🧵 on the numbers"
+    },
+    {
+      "id": "x-1887248520568315948",
+      "type": "x_post",
+      "title": "just when all hope was lost ladies and gentlemen, i present to you the greatest comeback i",
+      "url": "https://x.com/indexsy/status/1887248520568315948",
+      "publishedAt": "2025-02-05",
+      "outlet": "X",
+      "views": 32262,
+      "topicIds": [],
+      "excerpt": "just when all hope was lost\n\nladies and gentlemen, i present to you\n\nthe greatest comeback in seo history\n\nmakes $1.5k/mo again\n\nall i did was build branded homepage backlinks every month https://t.co"
+    },
+    {
+      "id": "x-1647227161009332225",
+      "type": "x_post",
+      "title": "Would you rather work on something you're passionate about every waking moment, or work a ",
+      "url": "https://x.com/indexsy/status/1647227161009332225",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 62626,
+      "topicIds": [],
+      "excerpt": "Would you rather work on something you're passionate about every waking moment, or work a standard 9-5? \n\nMy toxic trait is thinking everyone needs to be saved from their 9-5, but recently, I've start"
+    },
+    {
+      "id": "x-1914705401247130019",
+      "type": "x_post",
+      "title": "Repeat after me Local SEO is the ONLY type of SEO with any longevity in 2025 Here are some",
+      "url": "https://x.com/indexsy/status/1914705401247130019",
+      "publishedAt": "2025-04-22",
+      "outlet": "X",
+      "views": 23677,
+      "topicIds": [],
+      "excerpt": "Repeat after me\n\nLocal SEO is the ONLY type of SEO with any longevity in 2025\n\nHere are some absolutely savage tactics that are working right now (bookmark for later): https://t.co/aQSntnLmwj"
+    },
+    {
+      "id": "x-1642854409272008711",
+      "type": "x_post",
+      "title": "Mr Beast made millions if not billions through his 150m subscribers on YouTube. I analyzed",
+      "url": "https://x.com/indexsy/status/1642854409272008711",
+      "publishedAt": "2023-04-03",
+      "outlet": "X",
+      "views": 32083,
+      "topicIds": [],
+      "excerpt": "Mr Beast made millions if not billions through his 150m subscribers on YouTube.  \n\nI analyzed his strategy when he first started so you don’t have to👇 (1/9) https://t.co/k2GueAkvo2"
+    },
+    {
+      "id": "x-1648679375355666433",
+      "type": "x_post",
+      "title": "How I made my first $1 to $1m online: $1 in 2015, sold LinkedIn recommendations on Fiverr ",
+      "url": "https://x.com/indexsy/status/1648679375355666433",
+      "publishedAt": "2023-04-19",
+      "outlet": "X",
+      "views": 111217,
+      "topicIds": [],
+      "excerpt": "How I made my first $1 to $1m online:\n\n$1 in 2015, sold LinkedIn recommendations on Fiverr for $5 a pop. https://t.co/kslDpWl5KH"
+    },
+    {
+      "id": "x-2116711901132660947",
+      "type": "x_post",
+      "title": "I made $287,078.84 in October 2026 ⚡️ Indexsy - $92,752 🌐 SaaS (LocalRank, Trackings, Ind",
+      "url": "https://x.com/indexsy/status/2116711901132660947",
+      "publishedAt": "2026-11-01",
+      "outlet": "X",
+      "views": 28205,
+      "topicIds": [],
+      "excerpt": "I made $287,078.84 in October 2026\n\n⚡️ Indexsy - $92,752\n🌐 SaaS (LocalRank, Trackings, IndexChex, RankTack, Looker, CTR Software, Token Broker) - $55,267.86\n💻 Version .so - $34,709\n📦 Amazon - $34,0"
+    },
+    {
+      "id": "x-2116313005055177201",
+      "type": "x_post",
+      "title": "i've officially done it i've crossed $100k mrr across all my software products not from co",
+      "url": "https://x.com/indexsy/status/2116313005055177201",
+      "publishedAt": "2026-10-30",
+      "outlet": "X",
+      "views": 22811,
+      "topicIds": [
+        "saas-launch-and-distribution"
+      ],
+      "excerpt": "i've officially done it\n\ni've crossed $100k mrr across all my software products\n\nnot from courses\n\nnot from communities\n\nnot from services\n\njust software\n\nthis ones in stealth so you can't even say 'i"
+    },
+    {
+      "id": "x-2105749423523565726",
+      "type": "x_post",
+      "title": "ai fingerprinting is the main cause of algo penalties in 2026 it doesn't matter if your co",
+      "url": "https://x.com/indexsy/status/2105749423523565726",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 10138,
+      "topicIds": [],
+      "excerpt": "ai fingerprinting is the main cause of algo penalties in 2026\n\nit doesn't matter if your content is 'good'\n\njust make sure you humanize your content\n\nif you want the sauce on how i humanize content, l"
+    },
+    {
+      "id": "x-2117416402139427000",
+      "type": "x_post",
+      "title": "My net worth in November 2026: $8,253,212 USD ($11,719,561 CAD) 💵 Cash (Personal + Busine",
+      "url": "https://x.com/indexsy/status/2117416402139427000",
+      "publishedAt": "2026-11-03",
+      "outlet": "X",
+      "views": 137031,
+      "topicIds": [],
+      "excerpt": "My net worth in November 2026: $8,253,212 USD ($11,719,561 CAD)\n\n💵 Cash (Personal + Business) - $1,816,461\n📈 Stonks (Personal + Business) - $2,598,765\n🏢 Real Estate - $4,801,112\n🪙 Crypto - $855,97"
+    },
+    {
+      "id": "x-2105511935357890964",
+      "type": "x_post",
+      "title": "72 google maps ranking signals just leaked and the most slept-on one is how you reply to r",
+      "url": "https://x.com/indexsy/status/2105511935357890964",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 11528,
+      "topicIds": [],
+      "excerpt": "72 google maps ranking signals just leaked and the most slept-on one is how you reply to reviews. \n\nhere's the 80/20 from this week:\nthe leak confirms it's not just links and reviews anymore, it's you"
+    },
+    {
+      "id": "x-2111980897729937514",
+      "type": "x_post",
+      "title": "Indiehackers will call me a black hat SEO, turn around and blast their site with 100k page",
+      "url": "https://x.com/indexsy/status/2111980897729937514",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 9319,
+      "topicIds": [],
+      "excerpt": "Indiehackers will call me a black hat SEO, turn around and blast their site with 100k pages of ai slop"
+    },
+    {
+      "id": "x-2106174695922118997",
+      "type": "x_post",
+      "title": "took me 800+ videos to get 25k subscribers zero iq pure bruteforce strategy https://t.co/r",
+      "url": "https://x.com/indexsy/status/2106174695922118997",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 5908,
+      "topicIds": [],
+      "excerpt": "took me 800+ videos to get 25k subscribers\n\nzero iq pure bruteforce strategy https://t.co/rvc9uFGgul"
+    },
+    {
+      "id": "x-2114531743042797588",
+      "type": "x_post",
+      "title": "making $5k/day from a single url from only google aff + saas rev 1:4 ratio might be the on",
+      "url": "https://x.com/indexsy/status/2114531743042797588",
+      "publishedAt": "2026-10-26",
+      "outlet": "X",
+      "views": 7951,
+      "topicIds": [],
+      "excerpt": "making $5k/day from a single url from only google\n\naff + saas rev 1:4 ratio\n\nmight be the only person on x still doing 6 figgies a month from seo affiliate revenue \n\nsop\n- have multiple strong NON PEN"
+    },
+    {
+      "id": "x-2108036207238434961",
+      "type": "x_post",
+      "title": "my revenue really took off when I ignored the haters i can stay liquid longer than jimmies",
+      "url": "https://x.com/indexsy/status/2108036207238434961",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 5531,
+      "topicIds": [],
+      "excerpt": "my revenue really took off when I ignored the haters\n\ni can stay liquid longer than jimmies can stay mad https://t.co/ESY1WrFDkb"
+    },
+    {
+      "id": "x-2110807977511055760",
+      "type": "x_post",
+      "title": "i get clowned on for my terrible sub to video ratio but at the end of the day, my take hom",
+      "url": "https://x.com/indexsy/status/2110807977511055760",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 2750,
+      "topicIds": [],
+      "excerpt": "i get clowned on for my terrible sub to video ratio\n\nbut at the end of the day, my take home revenue > theirs\n\nso i guess it depends what you're optimizing for https://t.co/tuyI6wkNql"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/jacky-chou/mcp",
+    "serverName": "jacky-chou-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Jacky Chou's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Jacky Chou's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

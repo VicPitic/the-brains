@@ -56,7 +56,7 @@ function runClaude(prompt) {
     const child = spawn(
       "claude",
       ["-p", "--model", "sonnet", "--output-format", "json", "--json-schema", JSON.stringify(SCHEMA),
-        "--tools", "", "--no-session-persistence", "--system-prompt", system],
+        "--tools", "", "--strict-mcp-config", "--no-session-persistence", "--system-prompt", system],
       { stdio: ["pipe", "pipe", "pipe"] },
     );
     let out = "";

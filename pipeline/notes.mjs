@@ -32,7 +32,7 @@ function runClaude(prompt) {
   return new Promise((resolve, reject) => {
     const child = spawn(
       "claude",
-      ["-p", "--model", "sonnet", "--output-format", "text", "--tools", "", "--no-session-persistence", "--system-prompt", system],
+      ["-p", "--model", "sonnet", "--output-format", "text", "--tools", "", "--strict-mcp-config", "--no-session-persistence", "--system-prompt", system],
       { stdio: ["pipe", "pipe", "pipe"] },
     );
     let out = "";

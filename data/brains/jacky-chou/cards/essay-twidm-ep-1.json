@@ -1,0 +1,39 @@
+{
+  "id": "essay-twidm-ep-1",
+  "title": "AI content at scale: Jacky Chou's bulk-publish, rewrite-winners SEO process and marketing takes",
+  "summary": "Jacky Chou explains how he uses AI to publish thousands of People Also Ask posts a day, then has humans rewrite the ones that rank. He also covers topical authority, performance plateaus and branding, creator-led companies, and diversification.",
+  "principles": [
+    {
+      "text": "Use AI to test keywords at a scale human writers can't afford, then publish in bulk.",
+      "quote": "creating content, hiring writers gets very pricey at scale. Yeah. So AI enables us to be able to test certain keywords at a crazy scale that we didn't know it was possible."
+    },
+    {
+      "text": "AI content workflow: post in bulk, see what ranks, rewrite those with a human writer, then optimize.",
+      "quote": "So our current process with AI content is post bulk if rank. Then you rewrite with rewrite it with a human writer and then optimize it."
+    },
+    {
+      "text": "AI content builds topical authority fast, which makes harder commercial keywords easier to rank.",
+      "quote": "what you can do is build a topical authority very quickly."
+    },
+    {
+      "text": "AI is weak for buyer-intent content; use it for informational queries like People Also Ask.",
+      "quote": "Buyer intent content? No, it's not great right now."
+    },
+    {
+      "text": "Direct-response ads saturate over time, so large brands need branding campaigns to reach people outside their current channels.",
+      "quote": "if you run paid ads direct response ads for too long, eventually people will stop converting."
+    },
+    {
+      "text": "Niche site builders rarely diversify income; spread risk beyond a single source.",
+      "quote": "I think especially in the niche community, diversification is nonexistent."
+    }
+  ],
+  "topics": [
+    "seo",
+    "ai",
+    "marketing",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,27 @@
+{
+  "id": "yt-dTYoe48eqoQ",
+  "title": "How John Rush builds SEO directories: keyword research first, no-code build, then monetize",
+  "summary": "John Rush walks through building SEO directory sites. Most of the outcome is decided by keyword research and the domain, with data curation second and technology a distant third. He validates keywords with Google Keyword Planner for traffic and Google search for competition, then builds fast with no-code, seeds listings by scraping, promotes, and monetizes.",
+  "principles": [
+    {
+      "text": "Directories are won on keyword research and domain; data quality is second, tech is a small slice.",
+      "quote": "the directories are 80% success lays in keyword research and domain that's 80% literally the other 15% is in the data duration like actual items so you have to have good items and 5% is in technology"
+    },
+    {
+      "text": "Start with good keywords; bad ones (low traffic, high competition) can never be won.",
+      "quote": "if you have good keywords to start with you have chance to win that traffic if you have bad keywords to start with the keywords with low traffic and high competition you will never win no matter what you try"
+    },
+    {
+      "text": "Validate demand with Keyword Planner and competition with a Google search.",
+      "quote": "I use Keyword Planner for the traffic research and I use Google search to understand whether the competition is high or not"
+    }
+  ],
+  "topics": [
+    "seo",
+    "building",
+    "distribution",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

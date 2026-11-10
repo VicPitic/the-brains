@@ -1,0 +1,34 @@
+{
+  "id": "essay-i-pay-for-78-products-to-run-my-24",
+  "title": "John Rush's 78-tool stack: what he pays for to run 24 projects",
+  "summary": "John Rush lists the 78 paid products he uses across hosting, dev, AI, testing, support, marketing, legal and more to run 24 projects, plus 4 of his own products. He picked each after trial and error on price, features and UX, and stays open to switching to better alternatives.",
+  "principles": [
+    {
+      "text": "Choose tools by trial and error on price, features and UX, and stay open to switching when a better alternative appears.",
+      "quote": "It took me many trials and errors to find best tools on price/features/UX."
+    },
+    {
+      "text": "Stay open to switching tools: ask your audience for better alternatives and change if they beat what you use.",
+      "quote": "Do you know a better alternative? Let me know, and I may switch."
+    },
+    {
+      "text": "Use a broad paid stack across hosting, DBs and clouds rather than locking into a single vendor.",
+      "quote": "Digital Ocean for hosting. AWS for hosting, storage, and CDN. Hetzner for bare metal."
+    },
+    {
+      "text": "Use multiple LLM providers (OpenAI, Anthropic, Azure OpenAI) plus a vector DB for AI features.",
+      "quote": "Open AI for LLMs and image gen. Anthropic for claude LLM. Azure Open AI. Pinecone for vector db."
+    },
+    {
+      "text": "Dogfood your own products to build sites, generate SEO content, build domain rating and speed up indexing.",
+      "quote": "SeoBOT to research & generate blog articles."
+    }
+  ],
+  "topics": [
+    "productivity",
+    "building",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

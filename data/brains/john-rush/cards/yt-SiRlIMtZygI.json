@@ -1,0 +1,39 @@
+{
+  "id": "yt-SiRlIMtZygI",
+  "title": "How John Rush runs 24 AI products to $3M ARR: validate with Google, waitlists, and pre-sales",
+  "summary": "John Rush explains how he builds small AI agents and tools as a solo bootstrapper. He covers finding ideas via Google autocomplete and keyword research, validating with waitlists, outreach and discounted pre-bookings, and his five growth channels: social, SEO, affiliates, distribution everywhere, and free tools.",
+  "principles": [
+    {
+      "text": "Build products that scratch your own itch; run them internally for a year or more before launching publicly.",
+      "quote": "Well, they all start as my internal agent and I run them for a long while so that I'm happy with them myself and also it's easier to run a project if you're the only customer"
+    },
+    {
+      "text": "Mine Google autocomplete and keyword tools for demand in small niches VCs ignore; they are good for million-dollar solo businesses.",
+      "quote": "it's not a billion dollar idea right but if you're regular person and you want to build a million dollar business that's on of the market right"
+    },
+    {
+      "text": "Try to kill your idea during validation; test with a simple waitlist, outreach, then discounted pre-bookings.",
+      "quote": "if you ask for a payment and you don't get at least 10% of your weight list to, you know, execute it, it means that it won't be easier after, right?"
+    },
+    {
+      "text": "Use landing page builders (Framer, Webflow, Unicorn) for landing pages, not vibe coding tools made for apps.",
+      "quote": "you have landing pages and you have your web app and for landing pages use landing page builder"
+    },
+    {
+      "text": "Start SEO on day one as both a traffic channel and a validation signal, since it compounds.",
+      "quote": "SEO traffic is a new source of validation because you know one thing that you have to also validate with a product is not just if people want it but also if you're able to drive traffic there"
+    },
+    {
+      "text": "Offer very generous affiliate commissions (up to 50%) and place your product everywhere, including for LLM training data.",
+      "quote": "You should be crazy generous. Like go 50%. Like if you don't have costs on your product, go for 50%."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "product",
+    "seo"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

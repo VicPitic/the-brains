@@ -1,0 +1,35 @@
+{
+  "id": "essay-series-a-killed-my-startup",
+  "title": "John Rush's 2023 recap: idea-to-revenue in 13 steps, what growth worked and failed",
+  "summary": "A newsletter roundup of John Rush's X and LinkedIn posts. It gives his 13-step idea-to-revenue method (SEO and social validation and a waitlist before coding), his 2023 growth results (social media worked; partners, ads, outreach and hiring a marketer failed), and his plan to launch 1000 products on a SaaS OS.",
+  "principles": [
+    {
+      "text": "Validate before coding: check SEO potential, pick the least competitive niche, get social validation, and build a waitlist first.",
+      "quote": "2. SEO potential 3. Pick least Competitive 4. Social Validation 5. Waitlist 6. Organic Promo 7. Paid Promo 8. Directories & SEO 9. Is there traction? 10. Coding MVP"
+    },
+    {
+      "text": "Code the MVP only after traction shows up, then turn the coding itself into marketing and iterate before the public launch.",
+      "quote": "9. Is there traction? 10. Coding MVP 11. Turn Coding Into Marketing 12. iterate 13. Public Launch"
+    },
+    {
+      "text": "Social media was the growth channel that worked for him in 2023; the paid and outsourced channels failed.",
+      "quote": "Failed - Partners - Newsletter Ads - Podcasts - Outreach - Google/FB/Twitter ads - Hiring a marketing person - Paying influencers Worked - Social Media"
+    },
+    {
+      "text": "Share your learnings in public; learning from other bootstrapped founders and then publishing your own lessons compounds.",
+      "quote": "They’ve inspired me to share all my learnings in public too."
+    },
+    {
+      "text": "He commits to shipping many products on one shared platform rather than a single product, aiming for 1000 by the end of 2025.",
+      "quote": "By the end of 2025, I’ll launch 1000 products. These products are going to run on a new SaaS OS."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "building",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

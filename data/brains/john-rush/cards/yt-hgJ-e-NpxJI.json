@@ -1,0 +1,39 @@
+{
+  "id": "yt-hgJ-e-NpxJI",
+  "title": "How John Rush bootstrapped Mars X and acquired Unicorn Platform: acquisitions, AI and UX",
+  "summary": "John Rush explains why he chose bootstrapping over VC for Mars X, how he scouted and acquired Unicorn Platform, and why the small-acquisition market will grow. He also covers building with AI early and where AI opportunities sit: UX in boring niches, not deep tech.",
+  "principles": [
+    {
+      "text": "Don't build a product the big platforms will ship as a feature; go to niches Google or Gmail will ignore, like bakeries.",
+      "quote": "do not build a product 4G for for the email right like yeah Gmail will come with that"
+    },
+    {
+      "text": "The biggest AI opportunity is UX on top of models, not deep tech, which needs too many resources.",
+      "quote": "I would just not recommend anyone to do anything deep tech there because that's just too complicated uh and you need resources but ux is easier"
+    },
+    {
+      "text": "Thin AI wrappers in unexpected niches can reach $5-10k MRR; ignore the 'wrapper' criticism.",
+      "quote": "some people could say it's a wrapper but who cares and then they're making like you know five or ten thousand dollars a month"
+    },
+    {
+      "text": "Distribution used to be easy because few people built startups; now builders and marketers are rarely the same person, which fuels acquisitions.",
+      "quote": "it's really hard to find people who are good at both distribution and building"
+    },
+    {
+      "text": "Before acquiring, research the target founder obsessively; he followed Alex for a year and a half to understand what he wanted and struggled with.",
+      "quote": "I followed Alex for one year so I follow him for even a year and a half he didn't even know that"
+    },
+    {
+      "text": "Declined VC to keep the community co-ownership vision; VC funding would have harmed the project.",
+      "quote": "I realized that if we have VC funded company uh we can't execute on the vision of uh sharing uh you know the whole project with everyone"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "ai",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

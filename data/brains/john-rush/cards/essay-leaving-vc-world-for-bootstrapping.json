@@ -1,0 +1,31 @@
+{
+  "id": "essay-leaving-vc-world-for-bootstrapping",
+  "title": "Why John Rush left VC-backed startups for bootstrapping and building MarsX",
+  "summary": "Short, paywalled interview excerpt. John Rush explains leaving VC-backed startups because founders chase funding rounds, conferences and press instead of users, and VCs act like bosses. He now runs MarsX, a holding company of tools built with Mars IDE, shipping a few products a month.",
+  "principles": [
+    {
+      "text": "Focus on users and the value you give them, not on funding rounds, conferences or press.",
+      "quote": "I felt like I was the only one trying to focus on users and value for the users, and everyone else in the VC startup world was obsessed with conferences, the next funding round, and media press."
+    },
+    {
+      "text": "Taking VC money makes you an employee: investors become your bosses and you lose the freedom to say no.",
+      "quote": "It felt like I was an employee and they were my bosses. Which is in fact the reality for most founders of VC backed startups. You can't say no to VCs."
+    },
+    {
+      "text": "Mix nocode, lowcode, AI and full code to make building ultra productive and ship several products a month.",
+      "quote": "let’s us build SaaS, apps and directories using nocode, lowcode, AI and full code. A perfect mix that makes the whole process ultra productive. I can ship few products every month."
+    },
+    {
+      "text": "Build a full ecosystem of tools to ideate, build, grow and monetize startups, as a holding company of products.",
+      "quote": "It’s a universe of products, e.g. a Holdco that aims to create a full ecosystem of tools to ideate, build, grow and monetize startups."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "fundraising",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

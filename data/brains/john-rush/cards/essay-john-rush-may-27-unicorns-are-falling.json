@@ -1,0 +1,39 @@
+{
+  "id": "essay-john-rush-may-27-unicorns-are-falling",
+  "title": "Why bootstrapping beats VC money: unicorn collapses and the Holdco as your own VC",
+  "summary": "John argues that heavily funded startups are collapsing while profitable bootstrapped companies thrive. Too much money weakens a startup, user-funded businesses stay focused on users, and the best path is bootstrap first, use VC only for growth after PMF, or run a Holdco of cash cow projects as your own VC.",
+  "principles": [
+    {
+      "text": "Too much funding makes you weak: you look productive but build no real strength.",
+      "quote": "Having too much money while building your startup is like going to a gym with fake weights. You lift them, and it all looks good, but you gain no muscles."
+    },
+    {
+      "text": "Let users fund the business so your focus stays on users, not on your next round or on VCs and journalists.",
+      "quote": "To build great stuff for the users, the business must be funded by users. In this case your whole focus is on the users, not on your next round and VC/Journalist."
+    },
+    {
+      "text": "Bootstrap first, then use VC money for growth only after product-market fit.",
+      "quote": "I believe the best startups will be bootstrapped and use VC money for growth after PMF."
+    },
+    {
+      "text": "Bootstrapped founders have alternatives to VC: community rounds, cheap loans, and pre-sales.",
+      "quote": "We will see many bootstrapped founders opting for alternatives, too: community rounds, cheap loans, and pre-sales."
+    },
+    {
+      "text": "Run a Holdco of simple cash cow projects and act as your own VC when needed.",
+      "quote": "An even better option is to run a Holdco with sole simple cash cow projects that bring in money every month and then act as your own VC when needed."
+    },
+    {
+      "text": "The future of SaaS and non-deep-tech startups is efficient bootstrapped small teams or solo founders.",
+      "quote": "The future of SaaS and Non-Deep/Hard-Tech startups is this: highly efficient bootstrapped small teams or even solo founders and indie makers."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "fundraising",
+    "mindset",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}
