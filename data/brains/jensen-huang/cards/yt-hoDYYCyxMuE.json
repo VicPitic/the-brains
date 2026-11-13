@@ -1,0 +1,39 @@
+{
+  "id": "yt-hoDYYCyxMuE",
+  "title": "Jensen Huang at Davos 2026: AI as a platform shift and a five-layer cake",
+  "summary": "Jensen explains AI from first principles as a platform shift that reinvents the computing stack. He describes it as a five-layer industrial cake and the largest infrastructure buildout in history. He argues AI creates jobs when you separate a job's purpose from its tasks, and urges every country to build its own AI.",
+  "principles": [
+    {
+      "text": "Reason back to first principles: AI is a platform shift that reinvents the computing stack, and new applications get built on top.",
+      "quote": "it's helpful to reason back to the first principles of of fundamentally what is happening to the computing stack this is a platform shift a platform is something where applications are built on top of"
+    },
+    {
+      "text": "AI is a five-layer cake: energy, chips, cloud, models, applications. Economic benefit lands at the top layer.",
+      "quote": "industrially AI is actually essentially a five layer cake. At the bottom is energy."
+    },
+    {
+      "text": "To judge AI's impact on a job, separate the job's purpose from its tasks. Automating tasks can amplify the purpose.",
+      "quote": "the easiest way to think about whether what is the impact of AI on a particular job is to understand whether the job what is the purpose of the job and what is the task of the job."
+    },
+    {
+      "text": "Every country should treat AI as infrastructure and build its own AI from its language and culture.",
+      "quote": "AI is infrastructure and there's not one country in the world I can't imagine that you need to have AI as part of your infrastructure"
+    },
+    {
+      "text": "Learning to direct, manage and evaluate AI is a core skill, much like managing people.",
+      "quote": "it is essential to learn how to use AI how to direct an AI how to prompt an AI how to manage an AI how to guard rail the AI evaluate the AI. These skills are no different than leading people"
+    },
+    {
+      "text": "You don't write AI, you teach it. Fuse industrial capability with AI to enter physical AI and robotics.",
+      "quote": "AI is software that doesn't need to write software. You don't write AI, you teach AI."
+    }
+  ],
+  "topics": [
+    "ai",
+    "strategy",
+    "future",
+    "markets"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

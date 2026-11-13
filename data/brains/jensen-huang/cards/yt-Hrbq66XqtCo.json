@@ -1,0 +1,39 @@
+{
+  "id": "yt-Hrbq66XqtCo",
+  "title": "Jensen Huang on Nvidia's moat: do as much as needed, as little as possible, and earn trust yearly",
+  "summary": "Jensen explains Nvidia's moat as ecosystem, install base and programmable co-design, not scarce supply. He covers shaping the supply chain by educating CEOs, refusing to pick winners or auction GPUs, owning misses like Anthropic, and defending selling to China.",
+  "principles": [
+    {
+      "text": "Do as much as needed, as little as possible: do only what nobody else would, and partner for the rest.",
+      "quote": "We should do as much as needed as little as possible."
+    },
+    {
+      "text": "Shape the supply chain by educating partners until they reason about the future the way you do.",
+      "quote": "I need to make sure that the entire supply chain upstream and downstream the ecosystem understands what is coming at us, why it's coming, when it's coming, how big is it going to be"
+    },
+    {
+      "text": "Don't pick winners. Humility from near-death: Nvidia was once the least likely of 60 graphics companies to survive.",
+      "quote": "Nvidia's graphics architecture was precisely wrong. It's not a little bit wrong."
+    },
+    {
+      "text": "Be dependable: quote a price and keep it, even when demand spikes. Trust compounds over decades.",
+      "quote": "You set your price and then people decide to buy it or not."
+    },
+    {
+      "text": "Programmability plus extreme co-design beats Moore's law; 10x leaps come from changing algorithms and the whole stack.",
+      "quote": "the only way to really get 10x leaps, 100x leaps, is to fundamentally change the algorithm and how it's computed every single year."
+    },
+    {
+      "text": "Own your misses plainly, then fix them and don't repeat them.",
+      "quote": "I'm not going to make that same mistake again."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "computing",
+    "markets",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

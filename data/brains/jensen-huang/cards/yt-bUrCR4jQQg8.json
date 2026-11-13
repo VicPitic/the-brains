@@ -1,0 +1,39 @@
+{
+  "id": "yt-bUrCR4jQQg8",
+  "title": "Jensen Huang on reinventing computing, being a market maker, and first-principles reasoning (BG2)",
+  "summary": "Jensen explains why Nvidia's moat is a full-stack, flywheel-wide system rather than a chip, why it makes markets instead of taking share, and how he reasons about AI demand from first principles. He also covers AI-augmented flat organisations, safety, and staying relevant by learning.",
+  "principles": [
+    {
+      "text": "Optimise the whole flywheel, not one step; Amdahl's law means speeding up one part barely helps the whole cycle.",
+      "quote": "you really want to create a system that accelerates every single step of that because only in doing the whole thing can you really materially improve that cycle time"
+    },
+    {
+      "text": "Be a market maker, not a share taker; share takers are capped by the existing pond.",
+      "quote": "Nvidia is a market maker not share taker if you look at our company slides we don't we don't show not one day does this company talk about market share"
+    },
+    {
+      "text": "Reason about the future from first principles: establish ground truths, then ask what follows.",
+      "quote": "the best way to to think about the future is reason reason about it from first principles correct okay so so the the question is what are the first principles of what we're doing"
+    },
+    {
+      "text": "A singular, meaningful mission lets you be transparent with partners, even ones building competing products.",
+      "quote": "if you have a sole purpose and your purpose is Meaningful and your mission is is is dear to you and is dear to to everybody else then you could be transparent"
+    },
+    {
+      "text": "Productivity gains from AI lead to growth and more hiring, because there are more ideas than people to explore them.",
+      "quote": "we have more ideas than we can explore and we need people to help us think through it before we automate"
+    },
+    {
+      "text": "Leading is not always fun; take the work seriously, not yourself.",
+      "quote": "I don't take myself too seriously I take the work very seriously I take our responsibility very seriously"
+    }
+  ],
+  "topics": [
+    "strategy",
+    "markets",
+    "computing",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

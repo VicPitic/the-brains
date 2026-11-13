@@ -1,0 +1,39 @@
+{
+  "id": "yt-cEg8cOx7UZk",
+  "title": "Jensen Huang at SIEPR 2024: accelerated computing, resilience through suffering, and a flat 55-report org",
+  "summary": "Jensen explains how 30 years of accelerated computing drove marginal compute cost toward zero and enabled AI. He also covers competing on total cost of ownership, why resilience beats high expectations, and how he runs a flat company with 55 direct reports and no private information.",
+  "principles": [
+    {
+      "text": "Drive the marginal cost of a resource toward zero and entirely new ways of working become possible.",
+      "quote": "if we could reduce the marginal cost of computing down to approximately zero we might use it to do something insanely amazing large language models"
+    },
+    {
+      "text": "Make the alternative irrelevant by winning on total cost of operations, not chip price.",
+      "quote": "our TCO is so good that even when the competitor's chips are free it's not cheap enough and that that is our goal to add so much value that the alternative um is not about cost"
+    },
+    {
+      "text": "Be open with competitors and customers: show them your roadmap so they can see why you are good.",
+      "quote": "if you don't make an attempt at uh uh explaining why you're good at something they'll never get a chance to to buy your your products"
+    },
+    {
+      "text": "Resilience, not high expectations, drives success, and it is built through suffering and setbacks.",
+      "quote": "people with very high expectations have very low resilience and unfortunately resilience matters in success I don't know how to teach it to you except for I hope suffering happens to you"
+    },
+    {
+      "text": "Greatness comes from character, and character is formed by people who have suffered, not just smart ones.",
+      "quote": "greatness is not intelligence as you know greatness comes from character and character isn't isn't formed out of smart people it's formed out of people who suffered"
+    },
+    {
+      "text": "Run a flat organisation: no secret information, no private one-on-ones, so information flows fast and people are empowered by what they do.",
+      "quote": "there's not one piece of information that I that I somehow secretly tell eaff that I don't tell the rest of the company"
+    }
+  ],
+  "topics": [
+    "resilience",
+    "management",
+    "computing",
+    "strategy"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

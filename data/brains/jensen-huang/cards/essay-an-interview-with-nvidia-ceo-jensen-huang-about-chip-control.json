@@ -1,0 +1,39 @@
+{
+  "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-chip-control",
+  "title": "Jensen Huang on AI factories, platform flywheels and why blocking China backfires (2025)",
+  "summary": "In a Computex 2025 interview, Huang explains why AI is a full-stack platform whose install base and developer flywheel decide who leads. He frames AI as a new industry built on factories, argues for competing everywhere, and shows how Nvidia is integrated yet disaggregated to serve customers however they buy.",
+  "principles": [
+    {
+      "text": "Reinvent the company constantly to stay ahead of where the industry is going and take on hard problems.",
+      "quote": "we’re trying to reinvent Nvidia so that we could be ahead of the puck so that we could be where the industry will go and we want to solve problems that are hard and contribute to the industry."
+    },
+    {
+      "text": "AI is a new industry, not just IT: it augments labor and runs on factories.",
+      "quote": "for the very first time that we’re building computers, not just for the technology industry, we’re building computers for a new industry called AI."
+    },
+    {
+      "text": "A computing platform wins through a self-reinforcing loop of install base and developers.",
+      "quote": "The larger, the more capable your platform, the larger the install base, more developers run and develop on it. When more developers develop on it, it makes the results, the applications, that run on your computing platform better."
+    },
+    {
+      "text": "Winning means running faster, not holding rivals back; aspiring to be great deserves respect.",
+      "quote": "When some company aspires to be great, I don’t begrudge them. It causes us to all rise above and do even better than we could, and so I love watching people who aspire to be great."
+    },
+    {
+      "text": "Build fully integrated, but with enough discipline to disaggregate, so customers can buy any part.",
+      "quote": "we’ve always built things in a fully integrated way because software needs to be integrated with hardware somehow, but we do it with enough discipline that we can then disaggregate the software from the hardware"
+    },
+    {
+      "text": "In an AI factory, power is fixed, so throughput per watt decides economics; a weak architecture is costly even if free.",
+      "quote": "in the world of AI factories, the math would suggest that if an architecture is not as good, sometimes depending on how poor it is, even free is not cheap enough."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "markets",
+    "ai",
+    "computing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

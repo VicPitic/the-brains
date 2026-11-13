@@ -1,0 +1,39 @@
+{
+  "id": "yt-y6NfxiemvHg",
+  "title": "Jensen Huang on Acquired: betting the company on simulation, platforms, and the zero-billion-dollar market",
+  "summary": "Jensen recounts how Nvidia survived 1997 by emulating a perfect chip before tape-out, and how first-principles reasoning from AlexNet led to CUDA and the data center. He explains Nvidia's org as a computing stack, positioning near opportunities, and why entrepreneurs must trick themselves with \"how hard can it be.\"",
+  "principles": [
+    {
+      "text": "Pushing chips in means pulling future risk forward: simulate and prefetch everything before betting the farm.",
+      "quote": "when you bet the farm you're saying I'm going to take everything in the future all the risky things and going to pull it in advance and that is probably the lesson"
+    },
+    {
+      "text": "Constraint breeds excellence: with your back against the wall, do it right once instead of repeatedly.",
+      "quote": "why tape out a chip seven times if you could tape it out one time right and so the most efficient the most coste effective the most competitive um uh speed is technology right"
+    },
+    {
+      "text": "When a new technology leapfrogs the old, go back to first principles and ask why it works and whether it scales.",
+      "quote": "you have to take a step back and ask yourself but why and fundamentally is is it scalable and if it's scalable what other problems can it solve"
+    },
+    {
+      "text": "Design the company's organisation as the architecture of what you build; information flows to everyone at once, and the mission is the boss.",
+      "quote": "your organization should be the architecture of the Machinery of building the product right that's what a company is"
+    },
+    {
+      "text": "Position the company near future opportunities, even if unsure of exact what and when, so you can catch the apple when it falls.",
+      "quote": "our job as CEO is to look around corners and and anticipate where will opportunity be someday and even if I'm not exactly sure what and when how do I position the company to be near it"
+    },
+    {
+      "text": "Target zero-billion-dollar markets; by the time the market emerges, few competitors remain, and the ecosystem you build becomes a network, not a moat.",
+      "quote": "we prefer to position ourselves in a way that serves a need that usually hasn't emerged"
+    }
+  ],
+  "topics": [
+    "strategy",
+    "founders",
+    "resilience",
+    "management"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

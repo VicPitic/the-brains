@@ -1,0 +1,39 @@
+{
+  "id": "yt-__Ewkal7s3g",
+  "title": "Jensen Huang's NTU Commencement: failure, humility, and strategic retreat at NVIDIA",
+  "summary": "Jensen tells three NVIDIA stories: admitting the Sega console architecture was wrong and asking for help, persevering through years of CUDA losses to create accelerated computing, and abandoning the phone market to create robotics. He frames AI as a rebirth of computing and urges graduates to run after their ideas.",
+  "principles": [
+    {
+      "text": "Confront your mistakes with humility and ask for help; it can save the company.",
+      "quote": "confronting our mistake and with humility asking for help save Nvidia these traits are the hardest for the brightest and most successful like yourself"
+    },
+    {
+      "text": "Creating a new computing model is hard; solve the chicken-and-egg problem by building an installed base with an existing product.",
+      "quote": "so to solve the chicken or the egg problem we used G-Force our gaming GPU which already had a large Market of gamers to build the installed base"
+    },
+    {
+      "text": "Persevere through years of skepticism and poor results when you believe the time will come.",
+      "quote": "we persevered we believe the time for Accelerated Computing would come"
+    },
+    {
+      "text": "Realizing a vision requires enduring pain and suffering, which forges corporate character.",
+      "quote": "a journey forged our corporate character to endure the pain and suffering that is always needed to realize a vision"
+    },
+    {
+      "text": "Strategic retreat is core to success: decide what to give up so you can create a new market.",
+      "quote": "strategic retreat sacrifice deciding what to give up is at the core the very core of success"
+    },
+    {
+      "text": "Run after your ideas urgently, either for food or from being food.",
+      "quote": "run after it like we did one don't walk remember either you're running for food or you are running from being food"
+    }
+  ],
+  "topics": [
+    "resilience",
+    "strategy",
+    "markets",
+    "founders"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

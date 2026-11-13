@@ -1,0 +1,504 @@
+{
+  "slug": "jensen-huang",
+  "fetchedAt": "2026-11-13T09:03:49.576Z",
+  "sources": [
+    {
+      "id": "yt-7ARBJQn6QkM",
+      "type": "youtube",
+      "title": "What NVIDIA's Jensen Huang Believes",
+      "url": "https://www.youtube.com/watch?v=7ARBJQn6QkM",
+      "publishedAt": "2025-01-24",
+      "outlet": "Cleo Abram",
+      "durationSec": 3783,
+      "views": 5751000,
+      "topics": [
+        "computing",
+        "future",
+        "strategy"
+      ]
+    },
+    {
+      "id": "yt-ZEL0EAVtCTY",
+      "type": "youtube",
+      "title": "Jensen Huang on Vision, Risk, and the GPU | Only In America",
+      "url": "https://www.youtube.com/watch?v=ZEL0EAVtCTY",
+      "publishedAt": "2026-06-13",
+      "outlet": "Hoover Institution and NVIDIA",
+      "durationSec": 2378,
+      "views": 5510553,
+      "topics": [
+        "strategy",
+        "resilience",
+        "founders"
+      ]
+    },
+    {
+      "id": "yt-3hptKYix4X8",
+      "type": "youtube",
+      "title": "Joe Rogan Experience #2422 - Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=3hptKYix4X8",
+      "publishedAt": "2025-12-03",
+      "outlet": "PowerfulJRE",
+      "durationSec": 8906,
+      "views": 3642967,
+      "topics": [
+        "resilience",
+        "founders",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-lXLBTBBil2U",
+      "type": "youtube",
+      "title": "Jensen Huang, Founder and CEO of NVIDIA",
+      "url": "https://www.youtube.com/watch?v=lXLBTBBil2U",
+      "publishedAt": "2024-03-06",
+      "outlet": "Stanford Graduate School of Business",
+      "durationSec": 3387,
+      "views": 2172196,
+      "topics": [
+        "leadership",
+        "strategy",
+        "resilience"
+      ]
+    },
+    {
+      "id": "yt-vif8NQcjVf0",
+      "type": "youtube",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "publishedAt": "2026-04-13",
+      "outlet": "Lex Fridman",
+      "durationSec": 8759,
+      "views": 1455293,
+      "topics": [
+        "leadership",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-Sc48ToLIQAY",
+      "type": "youtube",
+      "title": "Jensen Huang’s Speech At CalTech｜黃仁勳加州理工演講【中英文對照】",
+      "url": "https://www.youtube.com/watch?v=Sc48ToLIQAY",
+      "publishedAt": "2024-06-14",
+      "outlet": "New SciTech 新科技",
+      "durationSec": 1908,
+      "views": 1123688,
+      "topics": [
+        "resilience",
+        "mindset",
+        "strategy"
+      ]
+    },
+    {
+      "id": "yt-S7CrlFLAmEA",
+      "type": "youtube",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence is Here, and The Future of AI (ft. President Trump)",
+      "url": "https://www.youtube.com/watch?v=S7CrlFLAmEA",
+      "publishedAt": "2026-10-13",
+      "outlet": "All-In Podcast",
+      "durationSec": 2807,
+      "views": 1089573,
+      "topics": [
+        "ai",
+        "future",
+        "markets"
+      ]
+    },
+    {
+      "id": "yt-Hrbq66XqtCo",
+      "type": "youtube",
+      "title": "Jensen Huang – Will Nvidia’s moat persist?",
+      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo",
+      "publishedAt": "2026-05-13",
+      "outlet": "Dwarkesh Patel",
+      "durationSec": 6193,
+      "views": 1023651,
+      "topics": [
+        "strategy",
+        "markets",
+        "computing"
+      ]
+    },
+    {
+      "id": "yt-HjurAWAr_nY",
+      "type": "youtube",
+      "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show",
+      "url": "https://www.youtube.com/watch?v=HjurAWAr_nY",
+      "publishedAt": "2026-10-13",
+      "outlet": "The Ezra Klein Show and 2 more",
+      "durationSec": 6441,
+      "views": 751454,
+      "topics": [
+        "ai",
+        "future",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-gwW8GKwHB3I",
+      "type": "youtube",
+      "title": "Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+      "url": "https://www.youtube.com/watch?v=gwW8GKwHB3I",
+      "publishedAt": "2026-04-13",
+      "outlet": "All-In Podcast",
+      "durationSec": 3966,
+      "views": 748541,
+      "topics": [
+        "ai",
+        "strategy",
+        "computing"
+      ]
+    },
+    {
+      "id": "yt-cEg8cOx7UZk",
+      "type": "youtube",
+      "title": "Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit",
+      "url": "https://www.youtube.com/watch?v=cEg8cOx7UZk",
+      "publishedAt": "2024-03-07",
+      "outlet": "Stanford Institute for Economic Policy Research (SIEPR)",
+      "durationSec": 3321,
+      "views": 573957,
+      "topics": [
+        "resilience",
+        "management",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-MwiM_nPyx5Y",
+      "type": "youtube",
+      "title": "NVIDIA CEO Jensen Huang Reveals Keys to AI, Leadership",
+      "url": "https://www.youtube.com/watch?v=MwiM_nPyx5Y",
+      "publishedAt": "2023-10-20",
+      "outlet": "Columbia Business School",
+      "durationSec": 3766,
+      "views": 522943,
+      "topics": [
+        "management",
+        "leadership",
+        "culture"
+      ]
+    },
+    {
+      "id": "yt-y6NfxiemvHg",
+      "type": "youtube",
+      "title": "NVIDIA CEO Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=y6NfxiemvHg",
+      "publishedAt": "2023-10-15",
+      "outlet": "Acquired",
+      "durationSec": 5401,
+      "views": 519251,
+      "topics": [
+        "founders",
+        "strategy",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-8Pfa8kPjUio",
+      "type": "youtube",
+      "title": "A conversation with NVIDIA’s Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=8Pfa8kPjUio",
+      "publishedAt": "2024-04-24",
+      "outlet": "Stripe",
+      "durationSec": 3890,
+      "views": 475762,
+      "topics": [
+        "management",
+        "culture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-FZh_0uRgrg4",
+      "type": "youtube",
+      "title": "2026 CMU Commencement Keynote Speaker: Jensen Huang",
+      "url": "https://www.youtube.com/watch?v=FZh_0uRgrg4",
+      "publishedAt": "2026-05-13",
+      "outlet": "Carnegie Mellon University",
+      "durationSec": 1103,
+      "views": 441271,
+      "topics": [
+        "mindset",
+        "ai",
+        "resilience"
+      ]
+    },
+    {
+      "id": "yt-2UpQbeAZuqA",
+      "type": "youtube",
+      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "publishedAt": "2026-06-13",
+      "outlet": "Sequoia Capital",
+      "durationSec": 2481,
+      "views": 445769,
+      "topics": [
+        "strategy",
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-I4B37S1dyQQ",
+      "type": "youtube",
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "publishedAt": "2026-08-13",
+      "outlet": "Y Combinator",
+      "durationSec": 2940,
+      "views": 318713,
+      "topics": [
+        "founders",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-eS7qQ3WJSrw",
+      "type": "youtube",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+      "url": "https://www.youtube.com/watch?v=eS7qQ3WJSrw",
+      "publishedAt": "2026-10-16",
+      "outlet": "Bg2 Pod",
+      "durationSec": 5993,
+      "views": 317547,
+      "topics": [
+        "markets",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-h-66Jds6lgU",
+      "type": "youtube",
+      "title": "Fireside Chat with Jensen Huang and Harry Shum on Technology, Leadership, and Entrepreneurship",
+      "url": "https://www.youtube.com/watch?v=h-66Jds6lgU",
+      "publishedAt": "2024-11-23",
+      "outlet": "HKUST",
+      "durationSec": 3498,
+      "views": 39928,
+      "topics": [
+        "leadership",
+        "founders",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-R9Mnn-HSS4o",
+      "type": "youtube",
+      "title": "Jensen Huang - CEO of NVIDIA | Podcast | In Good Company | Norges Bank Investment Management",
+      "url": "https://www.youtube.com/watch?v=R9Mnn-HSS4o",
+      "publishedAt": "2024-11-13",
+      "outlet": "Norges Bank Investment Management",
+      "durationSec": 3284,
+      "views": 75666,
+      "topics": [
+        "leadership",
+        "culture",
+        "management"
+      ]
+    },
+    {
+      "id": "yt-8FOdAc_i_tM",
+      "type": "youtube",
+      "title": "Jensen Huang: Founder and CEO of NVIDIA",
+      "url": "https://www.youtube.com/watch?v=8FOdAc_i_tM",
+      "publishedAt": "2026-02-13",
+      "outlet": "A Bit Personal with Jodi Shelton",
+      "durationSec": 5209,
+      "views": 122219,
+      "topics": [
+        "founders",
+        "resilience",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-h5xY_kRKHxE",
+      "type": "youtube",
+      "title": "Leading the teams behind the world’s fastest AI | Jensen Huang | Strange Loop",
+      "url": "https://www.youtube.com/watch?v=h5xY_kRKHxE",
+      "publishedAt": "2023-11-13",
+      "outlet": "Sana",
+      "durationSec": 1182,
+      "views": 158840,
+      "topics": [
+        "management",
+        "culture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-__Ewkal7s3g",
+      "type": "youtube",
+      "title": "Jensen Huang NVidia CEO NTU Commencement Speech",
+      "url": "https://www.youtube.com/watch?v=__Ewkal7s3g",
+      "publishedAt": "2023-05-27",
+      "outlet": "Alive Industries",
+      "durationSec": 1233,
+      "views": 28623,
+      "topics": [
+        "resilience",
+        "mindset",
+        "strategy"
+      ]
+    },
+    {
+      "id": "yt-evQcbeOlvWc",
+      "type": "youtube",
+      "title": "Jensen Huang on Leading Nvidia, Developing a Flat Management Style, and Keeping Humans in the Loop",
+      "url": "https://www.youtube.com/watch?v=evQcbeOlvWc",
+      "publishedAt": "2026-11-11",
+      "outlet": "Harvard Business Review",
+      "durationSec": 1585,
+      "views": 14503,
+      "topics": [
+        "management",
+        "leadership",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-Y334D183ofE",
+      "type": "youtube",
+      "title": "Jensen Huang: The Man Behind NVIDIA (April 2026)",
+      "url": "https://www.youtube.com/watch?v=Y334D183ofE",
+      "publishedAt": "2026-11-12",
+      "outlet": "How I Built This and Guy Raz",
+      "durationSec": 5239,
+      "views": 4470,
+      "topics": [
+        "founders",
+        "building",
+        "resilience"
+      ]
+    },
+    {
+      "id": "yt-ncoMBc-oj_8",
+      "type": "youtube",
+      "title": "NVIDIA CEO Jensen Huang: What Quality Will Help You Succeed in the Age of AI?",
+      "url": "https://www.youtube.com/watch?v=ncoMBc-oj_8",
+      "publishedAt": "2026-10-30",
+      "outlet": "Astana Hub",
+      "durationSec": 1980,
+      "views": 36375,
+      "topics": [
+        "mindset",
+        "ai",
+        "resilience"
+      ]
+    },
+    {
+      "id": "yt-hoDYYCyxMuE",
+      "type": "youtube",
+      "title": "Conversation with Jensen Huang, President and CEO of NVIDIA | WEF Annual Meeting 2026",
+      "url": "https://www.youtube.com/watch?v=hoDYYCyxMuE",
+      "publishedAt": "2026-01-21",
+      "outlet": "World Economic Forum",
+      "durationSec": 2113,
+      "topics": [
+        "ai",
+        "future",
+        "markets"
+      ]
+    },
+    {
+      "id": "yt-pE6sw_E9Gh0",
+      "type": "youtube",
+      "title": "NVIDIA: OpenAI, Future of Compute, and the American Dream | BG2 w/ Bill Gurley and Brad Gerstner",
+      "url": "https://www.youtube.com/watch?v=pE6sw_E9Gh0",
+      "publishedAt": "2025-09-26",
+      "outlet": "Bg2 Pod",
+      "durationSec": 6255,
+      "topics": [
+        "strategy",
+        "markets",
+        "computing"
+      ]
+    },
+    {
+      "id": "yt-bUrCR4jQQg8",
+      "type": "youtube",
+      "title": "Ep17. Welcome Jensen Huang | BG2 w/ Bill Gurley & Brad Gerstner",
+      "url": "https://www.youtube.com/watch?v=bUrCR4jQQg8",
+      "publishedAt": "2024-10-13",
+      "outlet": "Bg2 Pod",
+      "durationSec": 4874,
+      "topics": [
+        "strategy",
+        "management",
+        "computing"
+      ]
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-manufacturin",
+      "type": "essay",
+      "title": "An Interview with Nvidia CEO Jensen Huang about Manufacturing Intelligence",
+      "url": "https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence",
+      "publishedAt": "2022-03-25",
+      "outlet": "stratechery.com",
+      "topics": [
+        "strategy",
+        "computing",
+        "markets"
+      ]
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-m",
+      "type": "essay",
+      "title": "An Interview with Nvidia CEO Jensen Huang About AI's iPhone Moment",
+      "url": "https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment",
+      "publishedAt": "2023-03-22",
+      "outlet": "stratechery.com",
+      "topics": [
+        "strategy",
+        "ai",
+        "markets"
+      ]
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-chip-control",
+      "type": "essay",
+      "title": "An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism",
+      "url": "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism",
+      "publishedAt": "2025-05-19",
+      "outlet": "stratechery.com",
+      "topics": [
+        "strategy",
+        "markets",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-",
+      "type": "essay",
+      "title": "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing",
+      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing",
+      "publishedAt": "2026-03-20",
+      "outlet": "stratechery.com",
+      "topics": [
+        "computing",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-nvidia-ceo-fireside-chat",
+      "type": "essay",
+      "title": "NVIDIA's Jensen Huang on Securing American Leadership on AI (CSIS fireside, Rev transcript)",
+      "url": "https://www.rev.com/transcripts/nvidia-ceo-fireside-chat",
+      "publishedAt": "2025-12-04",
+      "outlet": "www.rev.com",
+      "topics": [
+        "ai",
+        "markets",
+        "founders"
+      ]
+    }
+  ],
+  "failures": []
+}

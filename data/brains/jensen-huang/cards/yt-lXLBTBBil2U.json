@@ -1,0 +1,39 @@
+{
+  "id": "yt-lXLBTBBil2U",
+  "title": "Jensen Huang at Stanford GSB: creating markets, first principles, flat orgs, core beliefs",
+  "summary": "Jensen recounts founding NVIDIA, the OpenGL pivot that saved it, and creating markets alongside technology. He explains first-principles thinking, early indicators of future success, his flat organization with about 50 direct reports, and how he steadied the company through an 80% stock drop.",
+  "principles": [
+    {
+      "text": "Create the market while you create the technology; for new computing the two can't be separated.",
+      "quote": "we had to create technology, create markets. The idea that a company would create technology, create markets, defines NVIDIA today."
+    },
+    {
+      "text": "Treat unfamiliar problems as learnable, then rebuild from first principles instead of copying.",
+      "quote": "my first thought is always, how hard can it be? And it's probably just a textbook away. You're probably one archive paper away from figuring this out."
+    },
+    {
+      "text": "Use early indicators of future success, not lagging results, to keep conviction in far-off bets.",
+      "quote": "gross margins. That's not a KPI, that's a result. You're looking for something that's an early indicators of future positive result"
+    },
+    {
+      "text": "Choose work by its importance and whether it would happen without you, not by market size.",
+      "quote": "We find inspiration not from the size of a market, but from the importance of the work."
+    },
+    {
+      "text": "In a crisis, gut-check your core beliefs; change nothing unless the underlying facts changed.",
+      "quote": "if those things change, you've gotta change everything. But if none of those things change, you change nothing, keep on going"
+    },
+    {
+      "text": "Design the organization from first principles and let information flow freely rather than hoarding it.",
+      "quote": "I don't believe in a culture, an environment, where the information that you possess is the reason why you have power."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "markets",
+    "management",
+    "resilience"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

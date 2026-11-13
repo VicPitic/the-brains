@@ -1,0 +1,39 @@
+{
+  "id": "yt-7ARBJQn6QkM",
+  "title": "How Jensen Huang reasons from first principles and bets on accelerated computing and AI for decades",
+  "summary": "Jensen explains how Nvidia went from a parallel-plus-sequential computing insight, through gaming, CUDA and AlexNet, to reinventing the computing stack. He covers staying committed for a decade on core beliefs, physical AI, energy efficiency, and advice to students to use AI.",
+  "principles": [
+    {
+      "text": "Reason from first principles; if the principles and assumptions don't change, don't change your core beliefs.",
+      "quote": "you reason from first principles and at some point you have to believe something and if those principles don't change and the assumptions don't change uh then you there's no reason to change your core beliefs"
+    },
+    {
+      "text": "Build the large market first so its R&D budget funds the technology, creating a flywheel.",
+      "quote": "having it being a large Market is important because the technology is complicated and if we had a large Market our R&D budget could be large we could create new technology and that flywheel between technology and market and greater technology"
+    },
+    {
+      "text": "Take the optimist's view of creating something new: if you don't build it, they can't come.",
+      "quote": "if you build it they might not come and and that's that's always the the cynic perspective however The Optimist perspective would say but if you don't build it they can't come"
+    },
+    {
+      "text": "Invest in your own belief even when investors and others doubt it, even for tens of billions over a decade.",
+      "quote": "you have to believe in your future you have to invest in yourself and and um uh we believ this so deeply uh that that we we invested you know tens of billions of dollars uh before before it really happened"
+    },
+    {
+      "text": "Keep architectures flexible, because no idea in computing stays dominant forever; bet on the richness of innovation.",
+      "quote": "we want to create an architecture that let inventors and innovators and software programmers and AI researchers swim in the soup and come up with some Amazing Ideas"
+    },
+    {
+      "text": "Ask how AI can make you better at your own job; learn to prompt it and get an AI tutor.",
+      "quote": "if I were a student today irrespective whether it's for uh for math or for science or chemistry or biology or doesn't matter what field of science I'm going to go into or what profession I am I'm going to ask myself how can I use AI to do my job better"
+    }
+  ],
+  "topics": [
+    "strategy",
+    "computing",
+    "ai",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

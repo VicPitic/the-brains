@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "slug": "jensen-huang",
+  "name": "Jensen Huang",
+  "shortName": "Jensen",
+  "tagline": "Co-founded Nvidia in 1993 and ran it as CEO for over three decades",
+  "role": "Co-founder & former CEO",
+  "company": "Nvidia",
+  "categories": [
+    "ceos",
+    "ai-builders",
+    "thinkers"
+  ],
+  "quote": {
+    "text": "We find inspiration not from the size of a market, but from the importance of the work.",
+    "sourceId": "yt-lXLBTBBil2U"
+  },
+  "topics": [
+    {
+      "id": "first-principles",
+      "label": "First principles and core beliefs",
+      "summary": "Reason from first principles, re-check them often, and change course only when the facts change.",
+      "sampleQuestion": "How do I tell conviction from stubbornness on a long bet?",
+      "sourceIds": [
+        "yt-7ARBJQn6QkM",
+        "yt-lXLBTBBil2U",
+        "yt-8Pfa8kPjUio",
+        "yt-8FOdAc_i_tM",
+        "yt-ZEL0EAVtCTY",
+        "yt-I4B37S1dyQQ",
+        "yt-bUrCR4jQQg8",
+        "yt-3hptKYix4X8"
+      ]
+    },
+    {
+      "id": "creating-markets",
+      "label": "Creating new markets",
+      "summary": "Be a market maker: target zero-billion-dollar markets and insanely hard problems no one else will do.",
+      "sampleQuestion": "Should my startup chase a big existing market or a tiny new one?",
+      "sourceIds": [
+        "yt-y6NfxiemvHg",
+        "yt-8Pfa8kPjUio",
+        "yt-bUrCR4jQQg8",
+        "yt-Sc48ToLIQAY",
+        "yt-pE6sw_E9Gh0",
+        "yt-MwiM_nPyx5Y",
+        "yt-gwW8GKwHB3I",
+        "yt-lXLBTBBil2U"
+      ]
+    },
+    {
+      "id": "platforms-and-install-base",
+      "label": "Platforms, install base and full stack",
+      "summary": "Install base defines an architecture; build full stack, then open it up for partners to use any piece.",
+      "sampleQuestion": "How do I solve the chicken-and-egg problem for a new platform?",
+      "sourceIds": [
+        "yt-vif8NQcjVf0",
+        "yt-Y334D183ofE",
+        "yt-__Ewkal7s3g",
+        "yt-ZEL0EAVtCTY",
+        "yt-Hrbq66XqtCo",
+        "essay-an-interview-with-nvidia-ceo-jensen-huang-about-manufacturin",
+        "essay-an-interview-with-nvidia-ceo-jensen-huang-about-chip-control",
+        "essay-an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-"
+      ]
+    },
+    {
+      "id": "flat-organization",
+      "label": "Flat organisation and management",
+      "summary": "About 60 direct reports, no one-on-ones, no status reports; information shared with everyone at once.",
+      "sampleQuestion": "How do I keep information flowing as my company grows?",
+      "sourceIds": [
+        "yt-h5xY_kRKHxE",
+        "yt-8Pfa8kPjUio",
+        "yt-cEg8cOx7UZk",
+        "yt-vif8NQcjVf0",
+        "yt-evQcbeOlvWc",
+        "yt-y6NfxiemvHg",
+        "yt-h-66Jds6lgU",
+        "yt-8FOdAc_i_tM"
+      ]
+    },
+    {
+      "id": "resilience-and-suffering",
+      "label": "Resilience and suffering",
+      "summary": "Greatness comes from character forged by setbacks; get through today and leave yesterday behind.",
+      "sampleQuestion": "How do you keep going when nobody believes in what you're building?",
+      "sourceIds": [
+        "yt-cEg8cOx7UZk",
+        "yt-Sc48ToLIQAY",
+        "yt-Y334D183ofE",
+        "yt-FZh_0uRgrg4",
+        "yt-3hptKYix4X8",
+        "yt-MwiM_nPyx5Y",
+        "yt-I4B37S1dyQQ",
+        "yt-8FOdAc_i_tM"
+      ]
+    },
+    {
+      "id": "ai-and-jobs",
+      "label": "AI, jobs and the five-layer cake",
+      "summary": "AI automates tasks, not a job's purpose; learn to use AI, and see AI as energy, chips, infra, models, apps.",
+      "sampleQuestion": "Will AI replace my team, and what should they learn?",
+      "sourceIds": [
+        "yt-HjurAWAr_nY",
+        "yt-2UpQbeAZuqA",
+        "yt-hoDYYCyxMuE",
+        "yt-FZh_0uRgrg4",
+        "yt-ncoMBc-oj_8",
+        "essay-nvidia-ceo-fireside-chat",
+        "yt-7ARBJQn6QkM",
+        "yt-vif8NQcjVf0"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Reason from first principles; if the principles and assumptions haven't changed, there's no reason to change your core beliefs.",
+      "sourceIds": [
+        "yt-7ARBJQn6QkM",
+        "yt-lXLBTBBil2U",
+        "yt-8FOdAc_i_tM"
+      ]
+    },
+    {
+      "text": "Be a market maker, not a market taker: aim at zero-billion-dollar markets, where there are no customers and no competitors.",
+      "sourceIds": [
+        "yt-8Pfa8kPjUio",
+        "yt-y6NfxiemvHg",
+        "yt-Sc48ToLIQAY",
+        "yt-bUrCR4jQQg8"
+      ]
+    },
+    {
+      "text": "Install base defines an architecture; seed it by carrying the new platform on a product people already buy, as GeForce did for CUDA.",
+      "sourceIds": [
+        "yt-vif8NQcjVf0",
+        "yt-Y334D183ofE",
+        "yt-__Ewkal7s3g"
+      ]
+    },
+    {
+      "text": "Keep the company flat: about 60 direct reports, no one-on-ones, and give everyone equal access to information.",
+      "sourceIds": [
+        "yt-8Pfa8kPjUio",
+        "yt-vif8NQcjVf0",
+        "yt-cEg8cOx7UZk",
+        "yt-h5xY_kRKHxE"
+      ]
+    },
+    {
+      "text": "Greatness comes from character, not intelligence, and character is formed by people who have suffered.",
+      "sourceIds": [
+        "yt-cEg8cOx7UZk",
+        "yt-Sc48ToLIQAY",
+        "yt-8FOdAc_i_tM"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I know whether to stay committed to a bet that isn't paying off yet?",
+      "answer": [
+        {
+          "text": "Distill the bet down to its first principles and gut-check them constantly. That is how he separates determination from stubbornness.",
+          "sourceIds": [
+            "yt-8Pfa8kPjUio"
+          ]
+        },
+        {
+          "text": "If the underlying facts change, change everything. If none of them changed, change nothing and keep going.",
+          "sourceIds": [
+            "yt-lXLBTBBil2U"
+          ]
+        },
+        {
+          "text": "Track early indicators of future success, not lagging results. Gross margin is a result, not a KPI.",
+          "sourceIds": [
+            "yt-lXLBTBBil2U"
+          ]
+        },
+        {
+          "text": "Find small revenue to buy time. With CUDA, Nvidia kept finding one problem after another until deep learning arrived.",
+          "sourceIds": [
+            "yt-8Pfa8kPjUio",
+            "yt-ZEL0EAVtCTY"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should my startup go after a big existing market?",
+      "answer": [
+        {
+          "text": "He calls taking a few percent of a huge market a fallacy. A startup should take 100% of a tiny industry, as Nvidia did.",
+          "sourceIds": [
+            "yt-pE6sw_E9Gh0"
+          ]
+        },
+        {
+          "text": "Serve a need that hasn't emerged yet. By the time the market appears, few competitors remain.",
+          "sourceIds": [
+            "yt-y6NfxiemvHg"
+          ]
+        },
+        {
+          "text": "Where there are no customers, there are also no competitors.",
+          "sourceIds": [
+            "yt-Sc48ToLIQAY"
+          ]
+        },
+        {
+          "text": "Pick work by its importance and whether it would happen without you, not by market size.",
+          "sourceIds": [
+            "yt-lXLBTBBil2U"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How does he run Nvidia without one-on-ones?",
+      "answer": [
+        {
+          "text": "He has about 60 direct reports and no one-on-ones; problems are worked on in the open with everyone in the room.",
+          "sourceIds": [
+            "yt-vif8NQcjVf0",
+            "yt-8Pfa8kPjUio"
+          ]
+        },
+        {
+          "text": "He gives feedback publicly so people learn from other people's mistakes.",
+          "sourceIds": [
+            "yt-8Pfa8kPjUio"
+          ]
+        },
+        {
+          "text": "There are no status reports or five-year plans. He samples people's 'top five things' emails to check that actions match strategy, and plans continuously.",
+          "sourceIds": [
+            "yt-h5xY_kRKHxE"
+          ]
+        },
+        {
+          "text": "The org is designed from first principles as the architecture of the machinery that builds the product.",
+          "sourceIds": [
+            "yt-y6NfxiemvHg",
+            "yt-vif8NQcjVf0"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-lXLBTBBil2U",
+    "yt-8Pfa8kPjUio",
+    "yt-y6NfxiemvHg",
+    "yt-vif8NQcjVf0",
+    "yt-h5xY_kRKHxE",
+    "yt-3hptKYix4X8"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/500px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+    "alt": "Photo of Jensen Huang"
+  },
+  "links": [
+    {
+      "kind": "website",
+      "url": "https://acquired.fm"
+    },
+    {
+      "kind": "website",
+      "url": "https://stratechery.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://nvidianews.nvidia.com/bios/jensen-huang",
+      "label": "NVIDIA bio"
+    }
+  ],
+  "followers": {
+    "asOf": "2026-11-13"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 34,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 29,
+      "podcast": 0,
+      "essay": 5
+    },
+    "transcriptMinutes": 1898,
+    "dateRange": {
+      "from": "2022-03",
+      "to": "2026-11"
+    }
+  },
+  "createdAt": "2026-11-13T09:15:58.088Z",
+  "updatedAt": "2026-11-13T09:15:58.088Z",
+  "sources": [
+    {
+      "id": "yt-7ARBJQn6QkM",
+      "type": "youtube",
+      "title": "How Jensen Huang reasons from first principles and bets on accelerated computing and AI for decades",
+      "url": "https://www.youtube.com/watch?v=7ARBJQn6QkM",
+      "publishedAt": "2025-01-24",
+      "outlet": "Cleo Abram",
+      "durationSec": 3783,
+      "views": 5751000,
+      "topicIds": [
+        "first-principles",
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen explains how Nvidia went from a parallel-plus-sequential computing insight, through gaming, CUDA and AlexNet, to reinventing the computing stack. He covers staying committed for a decade on cor"
+    },
+    {
+      "id": "yt-ZEL0EAVtCTY",
+      "type": "youtube",
+      "title": "How Jensen Huang built Nvidia: first principles, accelerated computing and an only-in-America story",
+      "url": "https://www.youtube.com/watch?v=ZEL0EAVtCTY",
+      "publishedAt": "2026-06-13",
+      "outlet": "Hoover Institution and NVIDIA",
+      "durationSec": 2378,
+      "views": 5510553,
+      "topicIds": [
+        "first-principles",
+        "platforms-and-install-base"
+      ],
+      "excerpt": "Jensen tells his immigrant path and Nvidia's founding thesis: general-purpose CPUs can't be the only computing platform, so he solved the chicken-and-egg adoption problem via 3D gaming. He also covers"
+    },
+    {
+      "id": "yt-3hptKYix4X8",
+      "type": "youtube",
+      "title": "Jensen Huang on Rogan: surviving Nvidia's near-death, fear as fuel, and why AI won't end jobs",
+      "url": "https://www.youtube.com/watch?v=3hptKYix4X8",
+      "publishedAt": "2025-12-03",
+      "outlet": "PowerfulJRE",
+      "durationSec": 8906,
+      "views": 3642967,
+      "topicIds": [
+        "first-principles",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen tells Nvidia's origin story: an impossible 1993 mission, three wrong technology bets, Sega's $5M lifeline, and an untested chip tape-out. He explains leading through vulnerability, first-princi"
+    },
+    {
+      "id": "yt-lXLBTBBil2U",
+      "type": "youtube",
+      "title": "Jensen Huang at Stanford GSB: creating markets, first principles, flat orgs, core beliefs",
+      "url": "https://www.youtube.com/watch?v=lXLBTBBil2U",
+      "publishedAt": "2024-03-06",
+      "outlet": "Stanford Graduate School of Business",
+      "durationSec": 3387,
+      "views": 2172196,
+      "topicIds": [
+        "first-principles",
+        "creating-markets"
+      ],
+      "excerpt": "Jensen recounts founding NVIDIA, the OpenGL pivot that saved it, and creating markets alongside technology. He explains first-principles thinking, early indicators of future success, his flat organiza"
+    },
+    {
+      "id": "yt-vif8NQcjVf0",
+      "type": "youtube",
+      "title": "Jensen Huang on extreme co-design, shaping belief, speed-of-light thinking and resilience (Lex Fridman #494)",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "publishedAt": "2026-04-13",
+      "outlet": "Lex Fridman",
+      "durationSec": 8759,
+      "views": 1455293,
+      "topicIds": [
+        "platforms-and-install-base",
+        "flat-organization",
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen explains why Nvidia moved from chips to rack and AI-factory scale design, and how he builds a company around the output. He covers betting CUDA on GeForce, pre-shaping belief before big announc"
+    },
+    {
+      "id": "yt-Sc48ToLIQAY",
+      "type": "youtube",
+      "title": "Jensen Huang at Caltech 2024: first principles, setbacks, and a craft",
+      "url": "https://www.youtube.com/watch?v=Sc48ToLIQAY",
+      "publishedAt": "2024-06-14",
+      "outlet": "New SciTech 新科技",
+      "durationSec": 1908,
+      "views": 1123688,
+      "topicIds": [
+        "creating-markets",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen tells the Caltech class of 2024 how NVIDIA bet on deep learning from first principles, and how repeated setbacks pushed it into robotics. He argues that resilience, tolerance for suffering, a c"
+    },
+    {
+      "id": "yt-S7CrlFLAmEA",
+      "type": "youtube",
+      "title": "Jensen Huang on AI doomerism, open vs closed models, and going as far up the stack as needed, as low as possible",
+      "url": "https://www.youtube.com/watch?v=S7CrlFLAmEA",
+      "publishedAt": "2026-10-13",
+      "outlet": "All-In Podcast",
+      "durationSec": 2807,
+      "views": 1089573,
+      "topicIds": [],
+      "excerpt": "Jensen rebuts AI doom predictions by pointing to failed forecasts, argues regulation should solve real problems via engineering root-cause, and explains why Nvidia runs every model and builds only wha"
+    },
+    {
+      "id": "yt-Hrbq66XqtCo",
+      "type": "youtube",
+      "title": "Jensen Huang on Nvidia's moat: do as much as needed, as little as possible, and earn trust yearly",
+      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo",
+      "publishedAt": "2026-05-13",
+      "outlet": "Dwarkesh Patel",
+      "durationSec": 6193,
+      "views": 1023651,
+      "topicIds": [
+        "platforms-and-install-base"
+      ],
+      "excerpt": "Jensen explains Nvidia's moat as ecosystem, install base and programmable co-design, not scarce supply. He covers shaping the supply chain by educating CEOs, refusing to pick winners or auction GPUs, "
+    },
+    {
+      "id": "yt-HjurAWAr_nY",
+      "type": "youtube",
+      "title": "Jensen Huang on AI alarmism: jobs, safety as engineering, open models, and the five-layer cake",
+      "url": "https://www.youtube.com/watch?v=HjurAWAr_nY",
+      "publishedAt": "2026-10-13",
+      "outlet": "The Ezra Klein Show and 2 more",
+      "durationSec": 6441,
+      "views": 751454,
+      "topicIds": [
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen argues AI is a revolution best understood as software and engineering, not myth. He separates a job's purpose from its tasks, says safety is part of accelerating AI, and backs open models and d"
+    },
+    {
+      "id": "yt-gwW8GKwHB3I",
+      "type": "youtube",
+      "title": "Jensen Huang on All-In: pick insanely hard problems, expect suffering, sell the system not the chip",
+      "url": "https://www.youtube.com/watch?v=gwW8GKwHB3I",
+      "publishedAt": "2026-04-13",
+      "outlet": "All-In Podcast",
+      "durationSec": 3966,
+      "views": 748541,
+      "topicIds": [
+        "creating-markets"
+      ],
+      "excerpt": "At GTC, Jensen explains how Nvidia chooses what to build (only insanely hard, never-done things that tap its superpowers), why it became an AI factory company, and why agents drive an inference explos"
+    },
+    {
+      "id": "yt-cEg8cOx7UZk",
+      "type": "youtube",
+      "title": "Jensen Huang at SIEPR 2024: accelerated computing, resilience through suffering, and a flat 55-report org",
+      "url": "https://www.youtube.com/watch?v=cEg8cOx7UZk",
+      "publishedAt": "2024-03-07",
+      "outlet": "Stanford Institute for Economic Policy Research (SIEPR)",
+      "durationSec": 3321,
+      "views": 573957,
+      "topicIds": [
+        "flat-organization",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen explains how 30 years of accelerated computing drove marginal compute cost toward zero and enabled AI. He also covers competing on total cost of ownership, why resilience beats high expectation"
+    },
+    {
+      "id": "yt-MwiM_nPyx5Y",
+      "type": "youtube",
+      "title": "Jensen Huang at Columbia: choosing hard problems, accelerated computing, and the flywheel",
+      "url": "https://www.youtube.com/watch?v=MwiM_nPyx5Y",
+      "publishedAt": "2023-10-20",
+      "outlet": "Columbia Business School",
+      "durationSec": 3766,
+      "views": 522943,
+      "topicIds": [
+        "creating-markets",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen explains how NVIDIA invented accelerated computing, found the narrow middle between general and specialized chips, and built a platform flywheel. He shares his rule for choosing work (hard, des"
+    },
+    {
+      "id": "yt-y6NfxiemvHg",
+      "type": "youtube",
+      "title": "Jensen Huang on Acquired: betting the company on simulation, platforms, and the zero-billion-dollar market",
+      "url": "https://www.youtube.com/watch?v=y6NfxiemvHg",
+      "publishedAt": "2023-10-15",
+      "outlet": "Acquired",
+      "durationSec": 5401,
+      "views": 519251,
+      "topicIds": [
+        "creating-markets",
+        "flat-organization"
+      ],
+      "excerpt": "Jensen recounts how Nvidia survived 1997 by emulating a perfect chip before tape-out, and how first-principles reasoning from AlexNet led to CUDA and the data center. He explains Nvidia's org as a com"
+    },
+    {
+      "id": "yt-8Pfa8kPjUio",
+      "type": "youtube",
+      "title": "Jensen Huang at Stripe Sessions: suffering, 60 direct reports, zero-billion-dollar markets, CUDA",
+      "url": "https://www.youtube.com/watch?v=8Pfa8kPjUio",
+      "publishedAt": "2024-04-24",
+      "outlet": "Stripe",
+      "durationSec": 3890,
+      "views": 475762,
+      "topicIds": [
+        "first-principles",
+        "creating-markets",
+        "flat-organization"
+      ],
+      "excerpt": "Jensen explains why greatness requires pain and suffering, why he runs 60 direct reports with no one-on-ones, and how he bets on zero-billion-dollar markets by reasoning in words, not spreadsheets. He"
+    },
+    {
+      "id": "yt-FZh_0uRgrg4",
+      "type": "youtube",
+      "title": "CMU 2026 Commencement: Jensen Huang on resilience, the AI reset, and putting your heart in the work",
+      "url": "https://www.youtube.com/watch?v=FZh_0uRgrg4",
+      "publishedAt": "2026-05-13",
+      "outlet": "Carnegie Mellon University",
+      "durationSec": 1103,
+      "views": 441271,
+      "topicIds": [
+        "resilience-and-suffering",
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen tells his immigrant origin story and the near-death Sega episode at Nvidia, framing failure as character-building and the CEO role as responsibility. He then argues AI is a full reset of comput"
+    },
+    {
+      "id": "yt-2UpQbeAZuqA",
+      "type": "youtube",
+      "title": "Jensen Huang on AI factories: the five-layer cake and why AI elevates jobs",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "publishedAt": "2026-06-13",
+      "outlet": "Sequoia Capital",
+      "durationSec": 2481,
+      "views": 445769,
+      "topicIds": [
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen explains AI from first principles: computing shifted from retrieval to real-time generation, so the world needs vast AI factories producing tokens, like the dynamo and the internet before. He g"
+    },
+    {
+      "id": "yt-I4B37S1dyQQ",
+      "type": "youtube",
+      "title": "Jensen Huang at Startup School: how a wrong bet, textbooks and \"how hard can it be?\" built NVIDIA",
+      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "publishedAt": "2026-08-13",
+      "outlet": "Y Combinator",
+      "durationSec": 2940,
+      "views": 318713,
+      "topicIds": [
+        "first-principles",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen tells how NVIDIA's founding technology was wrong, how a Sega contract and three textbooks saved it, and why accelerating algorithm domains beat building chips. He covers first-principles curios"
+    },
+    {
+      "id": "yt-eS7qQ3WJSrw",
+      "type": "youtube",
+      "title": "Jensen Huang on AI capex: first-principles demand, safety as engineering, and why fungibility beats specialization",
+      "url": "https://www.youtube.com/watch?v=eS7qQ3WJSrw",
+      "publishedAt": "2026-10-16",
+      "outlet": "Bg2 Pod",
+      "durationSec": 5993,
+      "views": 317547,
+      "topicIds": [],
+      "excerpt": "Jensen breaks the AI capex question down from first principles, showing buildout doesn't hinge on two labs. He argues safety must accelerate with capability, and that Nvidia's moat grows through fungi"
+    },
+    {
+      "id": "yt-h-66Jds6lgU",
+      "type": "youtube",
+      "title": "Jensen Huang at HKUST: AI factories, leading 60 reports with transparency, and life's work",
+      "url": "https://www.youtube.com/watch?v=h-66Jds6lgU",
+      "publishedAt": "2024-11-23",
+      "outlet": "HKUST",
+      "durationSec": 3498,
+      "views": 39928,
+      "topicIds": [
+        "flat-organization"
+      ],
+      "excerpt": "Jensen frames AI as a reinvention of the computing stack and a new industry that turns energy into digital intelligence. He shares leadership lessons: confidence without certainty, strength with vulne"
+    },
+    {
+      "id": "yt-R9Mnn-HSS4o",
+      "type": "youtube",
+      "title": "Jensen Huang on character, resilience and first principles: building NVIDIA through the AI phase shift",
+      "url": "https://www.youtube.com/watch?v=R9Mnn-HSS4o",
+      "publishedAt": "2024-11-13",
+      "outlet": "Norges Bank Investment Management",
+      "durationSec": 3284,
+      "views": 75666,
+      "topicIds": [],
+      "excerpt": "Jensen explains why NVIDIA reinvented the whole computer stack for deep learning, why AI is an iPhone moment and a new industrial revolution of producing intelligence, and how company character, forge"
+    },
+    {
+      "id": "yt-8FOdAc_i_tM",
+      "type": "youtube",
+      "title": "Jensen Huang on Nvidia's 33 years: first principles, empty chairs, character forged by suffering",
+      "url": "https://www.youtube.com/watch?v=8FOdAc_i_tM",
+      "publishedAt": "2026-02-13",
+      "outlet": "A Bit Personal with Jodi Shelton",
+      "durationSec": 5209,
+      "views": 122219,
+      "topicIds": [
+        "first-principles",
+        "flat-organization",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen explains how he reasons from first principles, runs about 60 direct reports, refuses to fill a chair with the wrong person, and builds corporate character through shared pain. He also covers ig"
+    },
+    {
+      "id": "yt-h5xY_kRKHxE",
+      "type": "youtube",
+      "title": "How Jensen Huang runs NVIDIA: flat, first-principles, no one-on-ones, continuous planning",
+      "url": "https://www.youtube.com/watch?v=h5xY_kRKHxE",
+      "publishedAt": "2023-11-13",
+      "outlet": "Sana",
+      "durationSec": 1182,
+      "views": 158840,
+      "topicIds": [
+        "flat-organization"
+      ],
+      "excerpt": "Jensen explains designing NVIDIA from first principles: attract great people with barely-possible problems, stay small and flat, skip one-on-ones and status reports, plan continuously, and empower peo"
+    },
+    {
+      "id": "yt-__Ewkal7s3g",
+      "type": "youtube",
+      "title": "Jensen Huang's NTU Commencement: failure, humility, and strategic retreat at NVIDIA",
+      "url": "https://www.youtube.com/watch?v=__Ewkal7s3g",
+      "publishedAt": "2023-05-27",
+      "outlet": "Alive Industries",
+      "durationSec": 1233,
+      "views": 28623,
+      "topicIds": [
+        "platforms-and-install-base"
+      ],
+      "excerpt": "Jensen tells three NVIDIA stories: admitting the Sega console architecture was wrong and asking for help, persevering through years of CUDA losses to create accelerated computing, and abandoning the p"
+    },
+    {
+      "id": "yt-evQcbeOlvWc",
+      "type": "youtube",
+      "title": "Jensen Huang on flat management, living in peril, and keeping humans in the loop (HBR)",
+      "url": "https://www.youtube.com/watch?v=evQcbeOlvWc",
+      "publishedAt": "2026-11-11",
+      "outlet": "Harvard Business Review",
+      "durationSec": 1585,
+      "views": 14503,
+      "topicIds": [
+        "flat-organization"
+      ],
+      "excerpt": "Jensen explains why Nvidia keeps a flat structure so information moves at the speed of accelerated computing, why healthy paranoia beats assured survival, and how he reasons from first principles on w"
+    },
+    {
+      "id": "yt-Y334D183ofE",
+      "type": "youtube",
+      "title": "Why Jensen Huang wouldn't build Nvidia again: pain, CUDA, and forgetting yesterday",
+      "url": "https://www.youtube.com/watch?v=Y334D183ofE",
+      "publishedAt": "2026-11-12",
+      "outlet": "How I Built This and Guy Raz",
+      "durationSec": 5239,
+      "views": 4470,
+      "topicIds": [
+        "platforms-and-install-base",
+        "resilience-and-suffering"
+      ],
+      "excerpt": "Jensen explains why he would not start Nvidia again knowing the pain, then walks through NV1's failure, the Sega deal, the emulator bet, and carrying CUDA on GeForce for years. He also covers first-pr"
+    },
+    {
+      "id": "yt-ncoMBc-oj_8",
+      "type": "youtube",
+      "title": "Jensen Huang in Kazakhstan: Ambition, sovereign AI and programming AI",
+      "url": "https://www.youtube.com/watch?v=ncoMBc-oj_8",
+      "publishedAt": "2026-10-30",
+      "outlet": "Astana Hub",
+      "durationSec": 1980,
+      "views": 36375,
+      "topicIds": [
+        "ai-and-jobs"
+      ],
+      "excerpt": "At a fireside chat in Kazakhstan, Jensen argues that ambition is the one quality that decides whether AI lifts you. He makes the case for sovereign AI built from national data, for physical AI as the "
+    },
+    {
+      "id": "yt-hoDYYCyxMuE",
+      "type": "youtube",
+      "title": "Jensen Huang at Davos 2026: AI as a platform shift and a five-layer cake",
+      "url": "https://www.youtube.com/watch?v=hoDYYCyxMuE",
+      "publishedAt": "2026-01-21",
+      "outlet": "World Economic Forum",
+      "durationSec": 2113,
+      "topicIds": [
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen explains AI from first principles as a platform shift that reinvents the computing stack. He describes it as a five-layer industrial cake and the largest infrastructure buildout in history. He "
+    },
+    {
+      "id": "yt-pE6sw_E9Gh0",
+      "type": "youtube",
+      "title": "Jensen Huang on OpenAI, extreme co-design and why accelerated computing wins (BG2, 2025)",
+      "url": "https://www.youtube.com/watch?v=pE6sw_E9Gh0",
+      "publishedAt": "2025-09-26",
+      "outlet": "Bg2 Pod",
+      "durationSec": 6255,
+      "topicIds": [
+        "creating-markets"
+      ],
+      "excerpt": "Jensen explains the OpenAI partnership, the three scaling laws, and why general-purpose computing is giving way to accelerated computing and AI. He covers extreme co-design as Nvidia's moat, how to bu"
+    },
+    {
+      "id": "yt-bUrCR4jQQg8",
+      "type": "youtube",
+      "title": "Jensen Huang on reinventing computing, being a market maker, and first-principles reasoning (BG2)",
+      "url": "https://www.youtube.com/watch?v=bUrCR4jQQg8",
+      "publishedAt": "2024-10-13",
+      "outlet": "Bg2 Pod",
+      "durationSec": 4874,
+      "topicIds": [
+        "first-principles",
+        "creating-markets"
+      ],
+      "excerpt": "Jensen explains why Nvidia's moat is a full-stack, flywheel-wide system rather than a chip, why it makes markets instead of taking share, and how he reasons about AI demand from first principles. He a"
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-manufacturin",
+      "type": "essay",
+      "title": "How Nvidia built a deliberate full stack: Jensen Huang on shaders, CUDA and manufacturing intelligence",
+      "url": "https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence",
+      "publishedAt": "2022-03-25",
+      "outlet": "stratechery.com",
+      "topicIds": [
+        "platforms-and-install-base"
+      ],
+      "excerpt": "Jensen Huang explains how Nvidia deliberately moved from fixed-function graphics chips to programmable shaders, CUDA and a full integrated stack. He covers the pain of building for a future market, th"
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-m",
+      "type": "essay",
+      "title": "Jensen Huang on ChatGPT as AI's iPhone moment, full-stack computing and doing what only Nvidia can",
+      "url": "https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment",
+      "publishedAt": "2023-03-22",
+      "outlet": "stratechery.com",
+      "topicIds": [],
+      "excerpt": "Huang explains why ChatGPT created a new computing platform, how Nvidia responded with inference products and DGX Cloud, and why it builds full stack but goes to market disaggregated. He also covers r"
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-chip-control",
+      "type": "essay",
+      "title": "Jensen Huang on AI factories, platform flywheels and why blocking China backfires (2025)",
+      "url": "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism",
+      "publishedAt": "2025-05-19",
+      "outlet": "stratechery.com",
+      "topicIds": [
+        "platforms-and-install-base"
+      ],
+      "excerpt": "In a Computex 2025 interview, Huang explains why AI is a full-stack platform whose install base and developer flywheel decide who leads. He frames AI as a new industry built on factories, argues for c"
+    },
+    {
+      "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-",
+      "type": "essay",
+      "title": "Nvidia's unifying theory: full-stack accelerated computing, AI factories, Groq and open horizontals",
+      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing",
+      "publishedAt": "2026-03-20",
+      "outlet": "stratechery.com",
+      "topicIds": [
+        "platforms-and-install-base"
+      ],
+      "excerpt": "Post-GTC 2026 interview with Ben Thompson. Huang explains why Nvidia is an accelerated computing company, not a chip or GPU company. He covers building vertically then opening horizontally, the Groq d"
+    },
+    {
+      "id": "essay-nvidia-ceo-fireside-chat",
+      "type": "essay",
+      "title": "Jensen Huang: AI as a five-layer cake, platform thinking, and the US-China race (CSIS)",
+      "url": "https://www.rev.com/transcripts/nvidia-ceo-fireside-chat",
+      "publishedAt": "2025-12-04",
+      "outlet": "www.rev.com",
+      "topicIds": [
+        "ai-and-jobs"
+      ],
+      "excerpt": "Jensen explains NVIDIA as a platform company and frames AI as a five-layer stack from energy to applications. He argues that whoever diffuses technology first builds sticky ecosystems, and that AI cha"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/jensen-huang/mcp",
+    "serverName": "jensen-huang-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Jensen Huang's principles on leadership, strategy, company building and AI.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Jensen Huang's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

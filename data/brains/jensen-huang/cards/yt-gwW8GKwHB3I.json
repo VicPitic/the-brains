@@ -1,0 +1,39 @@
+{
+  "id": "yt-gwW8GKwHB3I",
+  "title": "Jensen Huang on All-In: pick insanely hard problems, expect suffering, sell the system not the chip",
+  "summary": "At GTC, Jensen explains how Nvidia chooses what to build (only insanely hard, never-done things that tap its superpowers), why it became an AI factory company, and why agents drive an inference explosion. He also covers open vs proprietary models, physical AI, and advice to students: be expert at using AI.",
+  "principles": [
+    {
+      "text": "Pursue only what is insanely hard, never done before, and tied to your company's superpowers; if it's easy, back away.",
+      "quote": "Is this something that has never been done before that's insanely hard to do and that somehow taps into the special superpowers of our company?"
+    },
+    {
+      "text": "Great things come with pain and suffering, so you had better enjoy the hard work.",
+      "quote": "There are no great things that are invented because it was just easy to do and just like first try, here we are."
+    },
+    {
+      "text": "Defining strategy and vision and shaping the future is the CEO's job, informed by great people across the company.",
+      "quote": "In a final analysis, that's the job of the CEO."
+    },
+    {
+      "text": "Define what you make by the customer's problem, not the component: customers want full systems, not chips.",
+      "quote": "it's not about building the chip, it's about building the system. And that system's really hard to build."
+    },
+    {
+      "text": "Vertically optimize, horizontally innovate, and let partners choose how much of the stack to buy; solve the problem rather than force a solution.",
+      "quote": "We open this we we vertical optimization, we horizontally innovate, and we let everybody decide."
+    },
+    {
+      "text": "Judge a factory by cost per token and throughput, not sticker price; falling behind the technology pace makes even free chips too expensive.",
+      "quote": "even when the chips are free, it's not cheap enough."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "resilience",
+    "ai",
+    "markets"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

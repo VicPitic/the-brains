@@ -1,0 +1,39 @@
+{
+  "id": "yt-eS7qQ3WJSrw",
+  "title": "Jensen Huang on AI capex: first-principles demand, safety as engineering, and why fungibility beats specialization",
+  "summary": "Jensen breaks the AI capex question down from first principles, showing buildout doesn't hinge on two labs. He argues safety must accelerate with capability, and that Nvidia's moat grows through fungible, durable full-stack infrastructure. He also describes new software-licensing and revenue-share growth vectors.",
+  "principles": [
+    {
+      "text": "Safety and security are part of the technology. Accelerate capability, safety and security together as one package.",
+      "quote": "You can't separate capability, functionality from safety and security. They go us one."
+    },
+    {
+      "text": "Alignment is a forever problem, so build safety by engineering: zero-trust containment plus out-of-band monitoring you can escalate or shut down.",
+      "quote": "You start out with zero trust. When you hire somebody, you start out with zero trust."
+    },
+    {
+      "text": "Take action quickly on what is first rather than arguing about what is perfect.",
+      "quote": "The best way to get to the future is uh uh uh take action quickly."
+    },
+    {
+      "text": "Break big questions down to first principles. Don't extrapolate two labs into trillions when the buildout has many demand legs.",
+      "quote": "Break it down back down to first principles"
+    },
+    {
+      "text": "Specialization is the enemy of fungibility and durability. General-purpose compute lowers risk, which drives rentability, financeability and lowest TCO.",
+      "quote": "So specialization is the enemy of fungibility. Specialization is the enemy of durability."
+    },
+    {
+      "text": "Intelligence demand is insatiable. Falling costs open more doors and more ambition, so consumption more than makes up for it.",
+      "quote": "Every time you learn, it opens a new door. And every time you open a new door, you see more opportunity."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "ai",
+    "markets",
+    "computing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

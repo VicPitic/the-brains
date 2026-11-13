@@ -1,0 +1,39 @@
+{
+  "id": "yt-S7CrlFLAmEA",
+  "title": "Jensen Huang on AI doomerism, open vs closed models, and going as far up the stack as needed, as low as possible",
+  "summary": "Jensen rebuts AI doom predictions by pointing to failed forecasts, argues regulation should solve real problems via engineering root-cause, and explains why Nvidia runs every model and builds only what customers need. He also covers open models, supply chain foresight, and long-horizon thinking.",
+  "principles": [
+    {
+      "text": "Regulation should solve actual problems; root-cause incidents from an engineering perspective and institutionalize the fix.",
+      "quote": "regulation should solve actual problems. And so the question is what actual problems have we enjoyed,"
+    },
+    {
+      "text": "Safety and leadership are false choices; you can innovate, execute fast and lead safely at once.",
+      "quote": "You're you're able to innovate quickly. You're able to execute quickly and and uh America's able to lead and to do it safely."
+    },
+    {
+      "text": "Go up the stack only as far as needed, as low as possible, then let a thousand flowers bloom.",
+      "quote": "Our strategy is go up as far as we need to and as low as possible."
+    },
+    {
+      "text": "Build out of customer need and help everyone succeed, not to disrupt or take a slice.",
+      "quote": "So I do everything out of need. I'm not trying to disrupt I mean we don't wake up in the morning try to disrupt anybody."
+    },
+    {
+      "text": "Think in decades: a CEO must plan the next decade and the one after, so a few years is just a click.",
+      "quote": "I think in decades as well you know I've been around a long time and you know for Nvidia I've got to think about what happens next decade and decade after that."
+    },
+    {
+      "text": "The AI race is won by who exploits the technology best, not who invents it.",
+      "quote": "the race is really about who exploits the technology best."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "ai",
+    "leadership",
+    "markets"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

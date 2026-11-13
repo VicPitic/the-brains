@@ -1,0 +1,39 @@
+{
+  "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-manufacturin",
+  "title": "How Nvidia built a deliberate full stack: Jensen Huang on shaders, CUDA and manufacturing intelligence",
+  "summary": "Jensen Huang explains how Nvidia deliberately moved from fixed-function graphics chips to programmable shaders, CUDA and a full integrated stack. He covers the pain of building for a future market, the ARM bid, his upbringing, and why every company will produce intelligence.",
+  "principles": [
+    {
+      "text": "Reinvent yourself before commoditization forces you to; fixed-function efficiency eventually becomes a dead end.",
+      "quote": "if we don’t reinvent computer graphics, if we don’t reinvent ourselves, and we don’t open the canvas for the things that we can do on this processor, we will be commoditized out of existence"
+    },
+    {
+      "text": "Building for the future market has a cost: you pay overhead before new applications exist to justify it.",
+      "quote": "you created something for the future, which means that the current applications don’t benefit. Until you have new applications, your chip is just too expensive and the market is competitive."
+    },
+    {
+      "text": "Creating a new computing platform means building the whole ecosystem yourself: compilers, SDKs, libraries, developer outreach, even marketing.",
+      "quote": "we had to create a compiler team, we have to think about SDKs, we have to think about libraries, we had to reach out to developers and evangelize our architecture"
+    },
+    {
+      "text": "Stay backwards compatible so the install base attracts developers, and developers make the platform valuable.",
+      "quote": "If you want developers, they’re going to want install base, and if you want install base, they have to be compatible with each other."
+    },
+    {
+      "text": "Build one thing, generalize it, then build the next thing from it; that's how the company grew.",
+      "quote": "You build one thing and you generalize it and you realize it could be used for other things, and then you build that thing derived from the first thing and then you generalize it"
+    },
+    {
+      "text": "Don't squander scarce resources on what already exists; partner or reuse, and only do what others won't.",
+      "quote": "One of the rules of our company is to not squander the resources of our company to do something that already exists."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "computing",
+    "ai",
+    "resilience"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

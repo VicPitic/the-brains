@@ -1,0 +1,39 @@
+{
+  "id": "yt-MwiM_nPyx5Y",
+  "title": "Jensen Huang at Columbia: choosing hard problems, accelerated computing, and the flywheel",
+  "summary": "Jensen explains how NVIDIA invented accelerated computing, found the narrow middle between general and specialized chips, and built a platform flywheel. He shares his rule for choosing work (hard, destined, loved), why suffering wins, and what a CEO must own: character, strategy, craft.",
+  "principles": [
+    {
+      "text": "Choose something insanely hard that no one has done; the one willing to suffer longest wins.",
+      "quote": "the reason why you choose something insanely hard to do by the way so that you have lots of time to go learn it"
+    },
+    {
+      "text": "Pick work you are destined for and love, because the pain and suffering will be great.",
+      "quote": "you should choose something that somehow you're destined to do"
+    },
+    {
+      "text": "Avoid commodity markets and chasing rivals' share; great people want to do what has never been done.",
+      "quote": "we naturally selected ourselves out of commodity markets"
+    },
+    {
+      "text": "Don't duplicate what partners already do well; spend time on what nobody has done.",
+      "quote": "let's not squander my time to go repeat what they've already done let's go squander my time on something that nobody has done"
+    },
+    {
+      "text": "Define the mission around the problem, not the product, and it can last forever.",
+      "quote": "make sure that your mission is not build trains but enable Transportation"
+    },
+    {
+      "text": "A CEO must lead with character and be chief strategy officer; strategy is action, not rhetoric.",
+      "quote": "the most important thing for a CEO is strategic thinking there's just no alternative"
+    }
+  ],
+  "topics": [
+    "strategy",
+    "founders",
+    "resilience",
+    "computing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

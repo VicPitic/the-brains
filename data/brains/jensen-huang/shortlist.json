@@ -1,0 +1,475 @@
+{
+  "slug": "jensen-huang",
+  "videos": [
+    {
+      "id": "7ARBJQn6QkM",
+      "url": "https://www.youtube.com/watch?v=7ARBJQn6QkM",
+      "title": "What NVIDIA's Jensen Huang Believes",
+      "channel": "Cleo Abram",
+      "date": "2025-01-24",
+      "seconds": 3783,
+      "why": "Long sit-down on why he bet on accelerated computing, how he thinks about the next decade and physical AI",
+      "topics": [
+        "computing",
+        "future",
+        "strategy"
+      ]
+    },
+    {
+      "id": "ZEL0EAVtCTY",
+      "url": "https://www.youtube.com/watch?v=ZEL0EAVtCTY",
+      "title": "Jensen Huang on Vision, Risk, and the GPU | Only In America",
+      "channel": "Hoover Institution and NVIDIA",
+      "date": "2026-06-13",
+      "seconds": 2378,
+      "why": "Hoover 'Only in America': vision, risk taking and the GPU bet in his own words",
+      "topics": [
+        "strategy",
+        "resilience",
+        "founders"
+      ]
+    },
+    {
+      "id": "3hptKYix4X8",
+      "url": "https://www.youtube.com/watch?v=3hptKYix4X8",
+      "title": "Joe Rogan Experience #2422 - Jensen Huang",
+      "channel": "PowerfulJRE",
+      "date": "2025-12-03",
+      "seconds": 8906,
+      "why": "Joe Rogan #2422: life story, near-death moments at NVIDIA, fear and work ethic",
+      "topics": [
+        "resilience",
+        "founders",
+        "leadership"
+      ]
+    },
+    {
+      "id": "lXLBTBBil2U",
+      "url": "https://www.youtube.com/watch?v=lXLBTBBil2U",
+      "title": "Jensen Huang, Founder and CEO of NVIDIA",
+      "channel": "Stanford Graduate School of Business",
+      "date": "2024-03-06",
+      "seconds": 3387,
+      "why": "Stanford GSB View From The Top: first principles, pain and suffering, zero-billion-dollar markets",
+      "topics": [
+        "leadership",
+        "strategy",
+        "resilience"
+      ]
+    },
+    {
+      "id": "vif8NQcjVf0",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "channel": "Lex Fridman",
+      "date": "2026-04-13",
+      "seconds": 8759,
+      "why": "Lex Fridman #494: long conversation on leadership, failure, CUDA bet and the future of AI",
+      "topics": [
+        "leadership",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "id": "Sc48ToLIQAY",
+      "url": "https://www.youtube.com/watch?v=Sc48ToLIQAY",
+      "title": "Jensen Huang’s Speech At CalTech｜黃仁勳加州理工演講【中英文對照】",
+      "channel": "New SciTech 新科技",
+      "date": "2024-06-14",
+      "seconds": 1908,
+      "why": "Caltech 2024 commencement speech: setbacks, humility and lessons from NVIDIA's pivots",
+      "topics": [
+        "resilience",
+        "mindset",
+        "strategy"
+      ]
+    },
+    {
+      "id": "S7CrlFLAmEA",
+      "url": "https://www.youtube.com/watch?v=S7CrlFLAmEA",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence is Here, and The Future of AI (ft. President Trump)",
+      "channel": "All-In Podcast",
+      "date": "2026-10-13",
+      "seconds": 2807,
+      "why": "All-In (Oct 2026): his case against AI doom and view of where AI goes next",
+      "topics": [
+        "ai",
+        "future",
+        "markets"
+      ]
+    },
+    {
+      "id": "Hrbq66XqtCo",
+      "url": "https://www.youtube.com/watch?v=Hrbq66XqtCo",
+      "title": "Jensen Huang – Will Nvidia’s moat persist?",
+      "channel": "Dwarkesh Patel",
+      "date": "2026-05-13",
+      "seconds": 6193,
+      "why": "Dwarkesh Patel: pressed on NVIDIA's moat, competition and strategy",
+      "topics": [
+        "strategy",
+        "markets",
+        "computing"
+      ]
+    },
+    {
+      "id": "HjurAWAr_nY",
+      "url": "https://www.youtube.com/watch?v=HjurAWAr_nY",
+      "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show",
+      "channel": "The Ezra Klein Show and 2 more",
+      "date": "2026-10-13",
+      "seconds": 6441,
+      "why": "Ezra Klein Show: extended argument on AI risk, jobs and policy",
+      "topics": [
+        "ai",
+        "future",
+        "leadership"
+      ]
+    },
+    {
+      "id": "gwW8GKwHB3I",
+      "url": "https://www.youtube.com/watch?v=gwW8GKwHB3I",
+      "title": "Jensen Huang: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+      "channel": "All-In Podcast",
+      "date": "2026-04-13",
+      "seconds": 3966,
+      "why": "All-In (Apr 2026): physical AI, agents, inference demand and NVIDIA's strategy",
+      "topics": [
+        "ai",
+        "strategy",
+        "computing"
+      ]
+    },
+    {
+      "id": "cEg8cOx7UZk",
+      "url": "https://www.youtube.com/watch?v=cEg8cOx7UZk",
+      "title": "Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit",
+      "channel": "Stanford Institute for Economic Policy Research (SIEPR)",
+      "date": "2024-03-07",
+      "seconds": 3321,
+      "why": "Stanford SIEPR 2024 keynote and Q&A: resilience, advice to students, how he runs NVIDIA",
+      "topics": [
+        "resilience",
+        "management",
+        "leadership"
+      ]
+    },
+    {
+      "id": "MwiM_nPyx5Y",
+      "url": "https://www.youtube.com/watch?v=MwiM_nPyx5Y",
+      "title": "NVIDIA CEO Jensen Huang Reveals Keys to AI, Leadership",
+      "channel": "Columbia Business School",
+      "date": "2023-10-20",
+      "seconds": 3766,
+      "why": "Columbia Business School: flat org, 40+ direct reports, no 1:1s, how strategy is set",
+      "topics": [
+        "management",
+        "leadership",
+        "culture"
+      ]
+    },
+    {
+      "id": "y6NfxiemvHg",
+      "url": "https://www.youtube.com/watch?v=y6NfxiemvHg",
+      "title": "NVIDIA CEO Jensen Huang",
+      "channel": "Acquired",
+      "date": "2023-10-15",
+      "seconds": 5401,
+      "why": "Acquired interview: founding story, Riva 128, CUDA, moats, would he start a company again",
+      "topics": [
+        "founders",
+        "strategy",
+        "building"
+      ]
+    },
+    {
+      "id": "8Pfa8kPjUio",
+      "url": "https://www.youtube.com/watch?v=8Pfa8kPjUio",
+      "title": "A conversation with NVIDIA’s Jensen Huang",
+      "channel": "Stripe",
+      "date": "2024-04-24",
+      "seconds": 3890,
+      "why": "Stripe Sessions with Patrick Collison: management system, firing, top-five-things emails",
+      "topics": [
+        "management",
+        "culture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "2UpQbeAZuqA",
+      "url": "https://www.youtube.com/watch?v=2UpQbeAZuqA",
+      "title": "NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "channel": "Sequoia Capital",
+      "date": "2026-06-13",
+      "seconds": 2481,
+      "why": "Sequoia: building the infrastructure company of the AI age, long-term bets",
+      "topics": [
+        "strategy",
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "FZh_0uRgrg4",
+      "url": "https://www.youtube.com/watch?v=FZh_0uRgrg4",
+      "title": "2026 CMU Commencement Keynote Speaker: Jensen Huang",
+      "channel": "Carnegie Mellon University",
+      "date": "2026-05-13",
+      "seconds": 1103,
+      "why": "CMU 2026 commencement keynote: advice to graduates in the age of AI",
+      "topics": [
+        "mindset",
+        "ai",
+        "resilience"
+      ]
+    },
+    {
+      "id": "I4B37S1dyQQ",
+      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "channel": "Y Combinator",
+      "date": "2026-08-13",
+      "seconds": 2940,
+      "why": "Y Combinator: the mindset that built NVIDIA, advice to founders",
+      "topics": [
+        "founders",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "eS7qQ3WJSrw",
+      "url": "https://www.youtube.com/watch?v=eS7qQ3WJSrw",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+      "channel": "Bg2 Pod",
+      "date": "2026-10-16",
+      "seconds": 5993,
+      "why": "BG2 (Oct 2026): capex, bottlenecks, open vs closed, how he reasons about demand",
+      "topics": [
+        "markets",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "id": "h-66Jds6lgU",
+      "url": "https://www.youtube.com/watch?v=h-66Jds6lgU",
+      "title": "Fireside Chat with Jensen Huang and Harry Shum on Technology, Leadership, and Entrepreneurship",
+      "channel": "HKUST",
+      "date": "2024-11-23",
+      "seconds": 3498,
+      "why": "HKUST fireside with Harry Shum: technology, leadership and entrepreneurship",
+      "topics": [
+        "leadership",
+        "founders",
+        "ai"
+      ]
+    },
+    {
+      "id": "R9Mnn-HSS4o",
+      "url": "https://www.youtube.com/watch?v=R9Mnn-HSS4o",
+      "title": "Jensen Huang - CEO of NVIDIA | Podcast | In Good Company | Norges Bank Investment Management",
+      "channel": "Norges Bank Investment Management",
+      "date": "2024-11-13",
+      "seconds": 3284,
+      "why": "In Good Company with Nicolai Tangen: leadership style, culture, how he spends his time",
+      "topics": [
+        "leadership",
+        "culture",
+        "management"
+      ]
+    },
+    {
+      "id": "8FOdAc_i_tM",
+      "url": "https://www.youtube.com/watch?v=8FOdAc_i_tM",
+      "title": "Jensen Huang: Founder and CEO of NVIDIA",
+      "channel": "A Bit Personal with Jodi Shelton",
+      "date": "2026-02-13",
+      "seconds": 5209,
+      "why": "A Bit Personal with Jodi Shelton: personal history and what shaped him as a CEO",
+      "topics": [
+        "founders",
+        "resilience",
+        "leadership"
+      ]
+    },
+    {
+      "id": "h5xY_kRKHxE",
+      "url": "https://www.youtube.com/watch?v=h5xY_kRKHxE",
+      "title": "Leading the teams behind the world’s fastest AI | Jensen Huang | Strange Loop",
+      "channel": "Sana",
+      "date": "2023-11-13",
+      "seconds": 1182,
+      "why": "Sana Strange Loop: how he leads teams and structures NVIDIA",
+      "topics": [
+        "management",
+        "culture",
+        "leadership"
+      ]
+    },
+    {
+      "id": "__Ewkal7s3g",
+      "url": "https://www.youtube.com/watch?v=__Ewkal7s3g",
+      "title": "Jensen Huang NVidia CEO NTU Commencement Speech",
+      "channel": "Alive Industries",
+      "date": "2023-05-27",
+      "seconds": 1233,
+      "why": "NTU 2023 commencement: three failure stories and 'run, don't walk'",
+      "topics": [
+        "resilience",
+        "mindset",
+        "strategy"
+      ]
+    },
+    {
+      "id": "evQcbeOlvWc",
+      "url": "https://www.youtube.com/watch?v=evQcbeOlvWc",
+      "title": "Jensen Huang on Leading Nvidia, Developing a Flat Management Style, and Keeping Humans in the Loop",
+      "channel": "Harvard Business Review",
+      "date": "2026-11-11",
+      "seconds": 1585,
+      "why": "HBR: flat management style and keeping humans in the loop",
+      "topics": [
+        "management",
+        "leadership",
+        "ai"
+      ]
+    },
+    {
+      "id": "Y334D183ofE",
+      "url": "https://www.youtube.com/watch?v=Y334D183ofE",
+      "title": "Jensen Huang: The Man Behind NVIDIA (April 2026)",
+      "channel": "How I Built This and Guy Raz",
+      "date": "2026-11-12",
+      "seconds": 5239,
+      "why": "How I Built This: full founding story of NVIDIA told by him",
+      "topics": [
+        "founders",
+        "building",
+        "resilience"
+      ]
+    },
+    {
+      "id": "hoDYYCyxMuE",
+      "url": "https://www.youtube.com/watch?v=hoDYYCyxMuE",
+      "title": "Conversation with Jensen Huang, President and CEO of NVIDIA | WEF Annual Meeting 2026",
+      "channel": "World Economic Forum",
+      "date": "2026-01-21",
+      "seconds": 2113,
+      "why": "Davos 2026 with Larry Fink: AI as a five-layer infrastructure buildout, jobs, sovereign AI",
+      "topics": [
+        "ai",
+        "future",
+        "markets"
+      ]
+    },
+    {
+      "id": "pE6sw_E9Gh0",
+      "url": "https://www.youtube.com/watch?v=pE6sw_E9Gh0",
+      "title": "NVIDIA: OpenAI, Future of Compute, and the American Dream | BG2 w/ Bill Gurley and Brad Gerstner",
+      "channel": "Bg2 Pod",
+      "date": "2025-09-26",
+      "seconds": 6255,
+      "why": "BG2 2025: compute demand, OpenAI partnership, annual cadence and extreme co-design",
+      "topics": [
+        "strategy",
+        "markets",
+        "computing"
+      ]
+    },
+    {
+      "id": "bUrCR4jQQg8",
+      "url": "https://www.youtube.com/watch?v=bUrCR4jQQg8",
+      "title": "Ep17. Welcome Jensen Huang | BG2 w/ Bill Gurley & Brad Gerstner",
+      "channel": "Bg2 Pod",
+      "date": "2024-10-13",
+      "seconds": 4874,
+      "why": "BG2 2024: moat, flat org with 60 direct reports, how NVIDIA plans and competes",
+      "topics": [
+        "strategy",
+        "management",
+        "computing"
+      ]
+    },
+    {
+      "id": "ncoMBc-oj_8",
+      "url": "https://www.youtube.com/watch?v=ncoMBc-oj_8",
+      "title": "NVIDIA CEO Jensen Huang: What Quality Will Help You Succeed in the Age of AI?",
+      "channel": "Astana Hub",
+      "date": "2026-10-30",
+      "seconds": 1980,
+      "why": "Astana talk on the traits that matter in the AI era",
+      "topics": [
+        "mindset",
+        "ai",
+        "resilience"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence",
+      "title": "An Interview with Nvidia CEO Jensen Huang about Manufacturing Intelligence",
+      "date": "2022-03-25",
+      "why": "Stratechery Q&A: full-stack strategy and why NVIDIA is not a chip company",
+      "topics": [
+        "strategy",
+        "computing",
+        "markets"
+      ]
+    },
+    {
+      "url": "https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment",
+      "title": "An Interview with Nvidia CEO Jensen Huang About AI's iPhone Moment",
+      "date": "2023-03-22",
+      "why": "Stratechery Q&A: ChatGPT moment, DGX Cloud, how he positions NVIDIA",
+      "topics": [
+        "strategy",
+        "ai",
+        "markets"
+      ]
+    },
+    {
+      "url": "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism",
+      "title": "An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism",
+      "date": "2025-05-19",
+      "why": "Stratechery Q&A: AI factories, export controls, enterprise go-to-market",
+      "topics": [
+        "strategy",
+        "markets",
+        "ai"
+      ]
+    },
+    {
+      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing",
+      "title": "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing",
+      "date": "2026-03-20",
+      "why": "Stratechery Q&A: accelerated computing thesis restated in 2026",
+      "topics": [
+        "computing",
+        "strategy",
+        "ai"
+      ]
+    },
+    {
+      "url": "https://www.rev.com/transcripts/nvidia-ceo-fireside-chat",
+      "title": "NVIDIA's Jensen Huang on Securing American Leadership on AI (CSIS fireside, Rev transcript)",
+      "why": "Verbatim CSIS fireside with John Hamre: his origin story, US AI leadership and industrial policy",
+      "topics": [
+        "ai",
+        "markets",
+        "founders"
+      ],
+      "date": "2025-12-04"
+    }
+  ],
+  "posts": [],
+  "rejectedNotes": "Dropped GTC/Computex product keynotes (announcements), news and commentary about him (including Nov 2026 resignation coverage), documentaries, duplicate uploads of commencement speeches, CNBC stock-day hits, and transcripts that duplicate a shortlisted video (Acquired, Lex, Rogan, All-In).",
+  "gaps": [
+    "No X/LinkedIn posts by design (x: null); he does not post",
+    "singjupost.com transcripts are paginated (only page 1 scrapes), so those interviews are sourced from their YouTube videos instead",
+    "VentureBeat 2019 Q&A failed to scrape; dropped"
+  ]
+}

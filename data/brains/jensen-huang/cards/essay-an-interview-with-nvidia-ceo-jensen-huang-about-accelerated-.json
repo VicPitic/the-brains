@@ -1,0 +1,39 @@
+{
+  "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-",
+  "title": "Nvidia's unifying theory: full-stack accelerated computing, AI factories, Groq and open horizontals",
+  "summary": "Post-GTC 2026 interview with Ben Thompson. Huang explains why Nvidia is an accelerated computing company, not a chip or GPU company. He covers building vertically then opening horizontally, the Groq deal, CPUs for agents, and why he opposes doomerism and bundling the AI stack.",
+  "principles": [
+    {
+      "text": "Start from what you need to become, not what you are not; hard problems need full-stack solutions.",
+      "quote": "my mind doesn’t start with, “What I’m not”, it starts with, “What do we need to be?”."
+    },
+    {
+      "text": "Accelerate the application, not the chip. Nvidia is an accelerated computing company, not a GPU company.",
+      "quote": "We’re not obsessed about where computing is done, we just want to accelerate the application. Remember, Nvidia is an accelerated computing company, not a GPU company."
+    },
+    {
+      "text": "A company moves fast when the CEO supplies a unifying theory and builds an organism that delivers it.",
+      "quote": "The reason why Nvidia can move so fast is because we always have a unifying theory for the company, and that’s my job"
+    },
+    {
+      "text": "Build vertically, integrate and optimize, then open it horizontally so others can use any piece.",
+      "quote": "We create a thing vertically and then we open it horizontally and so everybody could use whatever piece they would like."
+    },
+    {
+      "text": "Great products come from feeling the pain point yourself and knowing where the market will go.",
+      "quote": "I think most great products are kind of because you see a pain point and you feel the pain point and you know that that’s where the market’s going to go."
+    },
+    {
+      "text": "Teams that don't talk over-design their parts; working as one team pushes the limits.",
+      "quote": "When you have a lot of people who don’t talk to each other, integrate systems, you have to, by definition, over-design your part of it."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "computing",
+    "ai",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

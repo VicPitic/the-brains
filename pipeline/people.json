@@ -1561,5 +1561,57 @@
         "search": "Jacky Chou articles on SEO, link building, affiliate marketing and growth"
       }
     ]
+  },
+  {
+    "slug": "jensen-huang",
+    "name": "Jensen Huang",
+    "x": null,
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Jensen Huang interview",
+      "Jensen Huang Stanford View From The Top",
+      "Jensen Huang Acquired podcast",
+      "Jensen Huang fireside chat founder",
+      "Jensen Huang commencement speech",
+      "Jensen Huang leadership management NVIDIA",
+      "Jensen Huang podcast long interview",
+      "Jensen Huang NVIDIA early days near bankruptcy story"
+    ],
+    "sites": [
+      {
+        "domain": "acquired.fm",
+        "search": "Jensen Huang interview transcript NVIDIA"
+      },
+      {
+        "domain": "stratechery.com",
+        "search": "An interview with Nvidia CEO Jensen Huang"
+      }
+    ],
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/500px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+    "links": [
+      {
+        "kind": "website",
+        "url": "https://nvidianews.nvidia.com/bios/jensen-huang",
+        "label": "NVIDIA bio"
+      }
+    ],
+    "focus": {
+      "domain": "building and leading a company for decades, strategy and creating new markets, accelerated computing and AI, flat organisations and management, resilience and suffering, first-principles decision making, and advice to founders and students",
+      "substance": "leadership, strategy and company-building substance",
+      "topics": [
+        "strategy",
+        "management",
+        "resilience",
+        "culture",
+        "computing",
+        "markets",
+        "founders",
+        "future"
+      ],
+      "audience": "a founder or CEO",
+      "xTerms": "()",
+      "search": "principles on leadership, strategy, company building and AI",
+      "sourcesLabel": "interviews, fireside chats, commencement speeches and keynotes"
+    }
   }
 ]

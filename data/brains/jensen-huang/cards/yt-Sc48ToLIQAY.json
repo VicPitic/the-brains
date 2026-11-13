@@ -1,0 +1,39 @@
+{
+  "id": "yt-Sc48ToLIQAY",
+  "title": "Jensen Huang at Caltech 2024: first principles, setbacks, and a craft",
+  "summary": "Jensen tells the Caltech class of 2024 how NVIDIA bet on deep learning from first principles, and how repeated setbacks pushed it into robotics. He argues that resilience, tolerance for suffering, a chosen craft and strict prioritisation matter more than raw intelligence.",
+  "principles": [
+    {
+      "text": "Reason from first principles, form a belief about the future, then act on it even when the payoff is unknown.",
+      "quote": "A new computing model has emerged, and a new industry has emerged, all because we reasoned from first principles, formed our belief about the future, and we acted on them."
+    },
+    {
+      "text": "If you want to learn how far a technology scales, you have to build it; you can't wait for customers to prove it.",
+      "quote": "This is one of those, if you build it, will they come? Our logic is if we don't build it, they can't come."
+    },
+    {
+      "text": "When a company believes something, it should act on it, investing heavily into the unknown for years.",
+      "quote": "when the company believes something, we should go act on it."
+    },
+    {
+      "text": "Treat setbacks as opportunities; they build agility and corporate character.",
+      "quote": "One setback after another, we shook it off and skated to the next opportunity. Each time, we gained skills and strengthened our character."
+    },
+    {
+      "text": "Create a market with no customers and you also have no competitors.",
+      "quote": "where there are no customers, there are also no competitors, and nobody cares about you."
+    },
+    {
+      "text": "Endurance, long-term focus and handling setbacks are his superpowers, more than intelligence.",
+      "quote": "My ability to endure pain and suffering, my ability to work on something for a very, very long period of time, my ability to handle setbacks and see the opportunity just around the corner I consider to be my superpowers"
+    }
+  ],
+  "topics": [
+    "resilience",
+    "strategy",
+    "mindset",
+    "founders"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

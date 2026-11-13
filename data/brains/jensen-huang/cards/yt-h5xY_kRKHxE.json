@@ -1,0 +1,39 @@
+{
+  "id": "yt-h5xY_kRKHxE",
+  "title": "How Jensen Huang runs NVIDIA: flat, first-principles, no one-on-ones, continuous planning",
+  "summary": "Jensen explains designing NVIDIA from first principles: attract great people with barely-possible problems, stay small and flat, skip one-on-ones and status reports, plan continuously, and empower people by avoiding commodity work and sharing information openly.",
+  "principles": [
+    {
+      "text": "Start company design from first principles: define the machine, its inputs, outputs and industry conditions.",
+      "quote": "you start from first principles. What is this machine that we're trying to create? What is this output? What is this input?"
+    },
+    {
+      "text": "Pick barely-possible problems; they attract amazing people.",
+      "quote": "Our company's mission is to solve computing problems that are barely possible. And if a problem could be solved by normal computers, we don't do it."
+    },
+    {
+      "text": "Keep the company as small and flat as possible so information travels fast and people are empowered.",
+      "quote": "You want a company that's as small as possible, not as large as possible. It needs to be as large as necessary to do the job well, but to be as small as possible."
+    },
+    {
+      "text": "Strategy is action: sample raw 'top five things' emails instead of status reports to check actions match strategy.",
+      "quote": "strategy is action. And so if the company has a set of strategies, but the people's actions, their top five things are not that, then they're obviously not executing the strategy."
+    },
+    {
+      "text": "Plan continuously, not in five-year plans, and admit when you're wrong.",
+      "quote": "there's no five year plan, there's no one year plan, there's no plan. There's just what we're doing."
+    },
+    {
+      "text": "Empower people by avoiding commodity work and walking away from commoditized businesses.",
+      "quote": "The most important way of realizing that mission is to not cause people to have to do commodity work."
+    }
+  ],
+  "topics": [
+    "management",
+    "strategy",
+    "culture",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

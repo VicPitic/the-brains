@@ -1,0 +1,39 @@
+{
+  "id": "yt-pE6sw_E9Gh0",
+  "title": "Jensen Huang on OpenAI, extreme co-design and why accelerated computing wins (BG2, 2025)",
+  "summary": "Jensen explains the OpenAI partnership, the three scaling laws, and why general-purpose computing is giving way to accelerated computing and AI. He covers extreme co-design as Nvidia's moat, how to build a market as a startup, sovereign AI, China, immigration, and why AI augments jobs.",
+  "principles": [
+    {
+      "text": "Optimize model, algorithm, system and chip together. When the chip stops getting faster, innovate outside the box.",
+      "quote": "Extreme code design means that you have to optimize the model, algorithm, system, and chip at the same time."
+    },
+    {
+      "text": "Create a startup before the market grows. Take 100% of a tiny market, and hope it gets big.",
+      "quote": "You're supposed to take 100% of a tiny company, a tiny industry, which is what Nvidia did did, right?"
+    },
+    {
+      "text": "The 'take a few percent of a huge market' idea is a fallacy.",
+      "quote": "You're not supposed to come up as a startup when the market's a trillion dollars large."
+    },
+    {
+      "text": "Nvidia sees itself as an AI infrastructure company, not a chip company. It sells in whatever way customers prefer to buy.",
+      "quote": "NVIDIA is really an AI infrastructure company. You know, we are your AI infrastructure partner"
+    },
+    {
+      "text": "When Moore's law stalls, the cost of tokens only falls if performance rises every year. That is why Nvidia moved to an annual cadence.",
+      "quote": "we have to increase our per performance annually at a pace that keeps up with that exponential."
+    },
+    {
+      "text": "Facing a fast exponential, get on early and figure out the rest on the way. Don't try to predict where it will be.",
+      "quote": "If you have a train that's about to get faster and faster and go exponential, the only thing that you really need to do is get on it."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "computing",
+    "markets",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

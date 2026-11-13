@@ -1,0 +1,39 @@
+{
+  "id": "yt-evQcbeOlvWc",
+  "title": "Jensen Huang on flat management, living in peril, and keeping humans in the loop (HBR)",
+  "summary": "Jensen explains why Nvidia keeps a flat structure so information moves at the speed of accelerated computing, why healthy paranoia beats assured survival, and how he reasons from first principles on weak signals. He also covers diversity, redundancy and human oversight in AI safety.",
+  "principles": [
+    {
+      "text": "Design the org architecture around the work: flatten so information reaches the top fast and avoids layers of hierarchy.",
+      "quote": "the last thing you want is for it to be information to to pass along hierarchically."
+    },
+    {
+      "text": "Remove management layers by keeping the top as flat as possible.",
+      "quote": "the best way to do that uh is to put the most at the highest level to be as flat as possible up there. And so we probably reduced, you know, three three or four layers of management"
+    },
+    {
+      "text": "Let information flow freely, not trapped in silos, so the company stays alert to weak signals from adjacent fields.",
+      "quote": "the ability for information to be moving freely in your organization um without being trapped in silos is is something that's really important as the company gets larger and larger"
+    },
+    {
+      "text": "Distill observations from adjacent fields back to first principles, then extrapolate to useful applications elsewhere.",
+      "quote": "be able to somehow distill it back down to first principles and then extrapolate to to useful applications in in other domains."
+    },
+    {
+      "text": "Don't manufacture paranoia. A company is always in peril, and staying between aspiration and desperation beats pure optimism or pessimism.",
+      "quote": "If you if you don't think you're in peril, it's probably because you have your head in the sand. There are no no companies that are that are assured survival."
+    },
+    {
+      "text": "Build resilience through diversity and redundancy, in machines and in companies, with humans in the loop above them.",
+      "quote": "Diversity and redundancy is is an important part of intelligence, autonomous intelligence in a lot of ways."
+    }
+  ],
+  "topics": [
+    "management",
+    "resilience",
+    "strategy",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

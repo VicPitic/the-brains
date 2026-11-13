@@ -1,0 +1,39 @@
+{
+  "id": "yt-ZEL0EAVtCTY",
+  "title": "How Jensen Huang built Nvidia: first principles, accelerated computing and an only-in-America story",
+  "summary": "Jensen tells his immigrant path and Nvidia's founding thesis: general-purpose CPUs can't be the only computing platform, so he solved the chicken-and-egg adoption problem via 3D gaming. He also covers suffering for belief, returning to first principles, and advice to young people.",
+  "principles": [
+    {
+      "text": "When uncertain or things move fast, go back to first principles and core values.",
+      "quote": "When I'm uncertain about the future, when things are moving too fast, you always go back to first principles. What are my core values? What makes me great today? What do I aspire for?"
+    },
+    {
+      "text": "Nvidia was founded on the first-principles conviction that a CPU cannot be the only computing platform.",
+      "quote": "we were just determined that on first principle basis, the general-purpose computer cannot possibly be the only computing platform."
+    },
+    {
+      "text": "Solve the chicken-and-egg adoption problem by finding a high-volume first application that needs the new architecture.",
+      "quote": "how do we find an application that would, on the one hand, need this architecture, on the other hand, be sufficiently high volume to cause this architecture to proliferate?"
+    },
+    {
+      "text": "Keep finding new problems that fit your architecture, one after another, until a breakthrough like deep learning arrives.",
+      "quote": "we just kept finding one problem after another."
+    },
+    {
+      "text": "Building something nobody believes in means suffering without external feedback; belief and grit carry you.",
+      "quote": "We suffered our way here. You know, we suffered every single step of the way we suffered our way here, because nobody believed in it."
+    },
+    {
+      "text": "Technology change is the opportunity for greatness; status quo rarely lets you make a difference.",
+      "quote": "During technology change, during world change is the only opportunity for greatness. Status quo, you know, it's really hard to make a difference."
+    }
+  ],
+  "topics": [
+    "founders",
+    "strategy",
+    "resilience",
+    "computing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

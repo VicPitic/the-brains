@@ -1,0 +1,39 @@
+{
+  "id": "yt-HjurAWAr_nY",
+  "title": "Jensen Huang on AI alarmism: jobs, safety as engineering, open models, and the five-layer cake",
+  "summary": "Jensen argues AI is a revolution best understood as software and engineering, not myth. He separates a job's purpose from its tasks, says safety is part of accelerating AI, and backs open models and diffusion across every industry. He also rejects doomer narratives as harmful.",
+  "principles": [
+    {
+      "text": "Every job has a purpose and tasks. AI automates tasks, not the purpose, so jobs change rather than vanish.",
+      "quote": "for everybody's job, there's the purpose of the job and then there's the task you do as the job."
+    },
+    {
+      "text": "Human ambition is the missing input in job-loss forecasts; he expects net job creation and new industries.",
+      "quote": "I believe the power of ambition is the greatest force in fact and is missing in everybody's calculation"
+    },
+    {
+      "text": "Treat AI as an engineering problem: root-cause failures, fix the process. If you can't control it, don't ship it.",
+      "quote": "if they believe they're out of control, then the right answer is don't ship products until they're in control."
+    },
+    {
+      "text": "Safety, alignment and evaluation are part of accelerating the technology, not a brake on it.",
+      "quote": "AI needs to accelerate to be safe."
+    },
+    {
+      "text": "Alarmism isn't a social good. Be scientific and evidence-based, because scaring people harms society.",
+      "quote": "Don't think for a second just because you're an alarmist that you're doing a social good."
+    },
+    {
+      "text": "Responsible optimist: carry the worries yourself and give others the optimism. The hard problems are the builder's.",
+      "quote": "it turns out that's not society's problem. That's my problem."
+    }
+  ],
+  "topics": [
+    "ai",
+    "leadership",
+    "strategy",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

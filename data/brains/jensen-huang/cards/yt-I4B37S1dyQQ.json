@@ -1,0 +1,39 @@
+{
+  "id": "yt-I4B37S1dyQQ",
+  "title": "Jensen Huang at Startup School: how a wrong bet, textbooks and \"how hard can it be?\" built NVIDIA",
+  "summary": "Jensen tells how NVIDIA's founding technology was wrong, how a Sega contract and three textbooks saved it, and why accelerating algorithm domains beat building chips. He covers first-principles curiosity, fitting the company to the founder, systems thinking, agents, physical AI, and resilience: get through today.",
+  "principles": [
+    {
+      "text": "Confront reality and learn: technology changes, so willingness to learn matters more than your starting technology.",
+      "quote": "technology is changing all the time and so long as you're able to confront the reality so long as you are able to learn the technology itself actually doesn't matter."
+    },
+    {
+      "text": "Great companies come from a unique, deeply held perspective on the future, not just the chip or the market.",
+      "quote": "what makes great companies is a unique perspective about the world that you deeply believe in. It's not so much the technology, it's not so much uh the market even"
+    },
+    {
+      "text": "Accelerate an algorithm domain, not just build a chip.",
+      "quote": "it's not about building a great chip, it's about accelerating an algorithm domain."
+    },
+    {
+      "text": "Fit the company to the founder, like an F1 car built so you can drive it; keep tweaking it.",
+      "quote": "You're going to build an F1 racer, but you're going to build it in a way that you can drive. You should adapt the car to you."
+    },
+    {
+      "text": "Reason from first principles about what you observe: if this, then what? Live 5 to 10 years in the future.",
+      "quote": "asking questions, reasoning about things to first principles, asking you know questions like if this then what?"
+    },
+    {
+      "text": "Resilience: take on the problem with 'how hard can it be?' and just get through today.",
+      "quote": "You don't have to overcome life in one day you just have to overcome that morning"
+    }
+  ],
+  "topics": [
+    "founders",
+    "mindset",
+    "resilience",
+    "strategy"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

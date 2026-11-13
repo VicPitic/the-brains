@@ -1,0 +1,39 @@
+{
+  "id": "yt-R9Mnn-HSS4o",
+  "title": "Jensen Huang on character, resilience and first principles: building NVIDIA through the AI phase shift",
+  "summary": "Jensen explains why NVIDIA reinvented the whole computer stack for deep learning, why AI is an iPhone moment and a new industrial revolution of producing intelligence, and how company character, forged by 15 years of adversity, drives lasting success. He closes with advice to think from first principles.",
+  "principles": [
+    {
+      "text": "When a new computing model appears, rethink the whole stack from chips to applications instead of patching the old one.",
+      "quote": "what is the implications to um everything about computer science from chips to systems to operating systems to Data Centers to networking to the algorithms all the way to applications"
+    },
+    {
+      "text": "Platform shifts arrive slowly, then abruptly like a phase change, and each one makes computers easier to program.",
+      "quote": "at first slowly and all of a sudden abruptly just like the just like water turning to ice or water turning to Vapor"
+    },
+    {
+      "text": "Innovation is about timing: the technology brews for years, and innovators realize the time is now and industrialize it.",
+      "quote": "the innovators are the ones that realize the timing is now and to jump on it and um industrialized it and turned it into a really great product"
+    },
+    {
+      "text": "Approach hard new things with 'how hard can it be?' and learn the missing skills; reason from first principles.",
+      "quote": "we started with the attitude how hard can it be and and so if it's a solvable problem how hard can it be and we reasoned about everything from first principles"
+    },
+    {
+      "text": "A company's character, meaning resilience, agility and willingness to suffer, is what makes it succeed in the long run.",
+      "quote": "the character of a company um is what makes it ultimately successful and you know how resilient is it um how does it deal with adversity"
+    },
+    {
+      "text": "Think for yourself from first principles; you can learn to love what you do rather than hunting for something to love.",
+      "quote": "think for yourself think from first principles"
+    }
+  ],
+  "topics": [
+    "founders",
+    "resilience",
+    "ai",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

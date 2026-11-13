@@ -1,0 +1,39 @@
+{
+  "id": "yt-ncoMBc-oj_8",
+  "title": "Jensen Huang in Kazakhstan: Ambition, sovereign AI and programming AI",
+  "summary": "At a fireside chat in Kazakhstan, Jensen argues that ambition is the one quality that decides whether AI lifts you. He makes the case for sovereign AI built from national data, for physical AI as the next wave, and for investing in people. His advice to an 18-year-old: become the world's best programmer of AI.",
+  "principles": [
+    {
+      "text": "Ambition is the only thing that matters; AI and robotics amplify whoever has it.",
+      "quote": "The only thing that matters is do you have ambition? If you have ambition, then AI and robotics will lift you. It will empower you to do more."
+    },
+    {
+      "text": "Leaders and parents must instill ambition in people, families, companies and nations.",
+      "quote": "the most important thing we need to do as country leaders like yourself, as CEOs like myself and my friends, as parents, is to instill upon our people, our families, our companies, our nation, instill upon them ambition."
+    },
+    {
+      "text": "When investing, back people over companies and pick the best people.",
+      "quote": "you invest in people, not companies."
+    },
+    {
+      "text": "A nation's data is its natural resource; it should build its own intelligence rather than import it.",
+      "quote": "You cannot export something as fundamental as your people's culture and values and export that to import the intelligence from someone else. It makes no sense."
+    },
+    {
+      "text": "Adapting open technology is far easier than inventing it, so build on open source for your own language and culture.",
+      "quote": "the invention of the technology is difficult. But the application, the adaptation of the technology is not so difficult."
+    },
+    {
+      "text": "To get the most from AI, learn how it works; the best user understands the machine.",
+      "quote": "The best user of a machine is someone who understands how the machine works. The best driver of a race car is someone who understands how the car works."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "ai",
+    "founders",
+    "strategy"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

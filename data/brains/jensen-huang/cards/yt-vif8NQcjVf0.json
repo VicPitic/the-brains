@@ -1,0 +1,39 @@
+{
+  "id": "yt-vif8NQcjVf0",
+  "title": "Jensen Huang on extreme co-design, shaping belief, speed-of-light thinking and resilience (Lex Fridman #494)",
+  "summary": "Jensen explains why Nvidia moved from chips to rack and AI-factory scale design, and how he builds a company around the output. He covers betting CUDA on GeForce, pre-shaping belief before big announcements, first-principles \"speed of light\" thinking, and handling suffering by decomposing problems. He also gives career advice on AI and jobs.",
+  "principles": [
+    {
+      "text": "Design the company's structure around the output it must produce, not a copied org chart.",
+      "quote": "the goal of au of a company is to be the machinery, the mechanism, the system that produces the output and that output is the product that we like to create."
+    },
+    {
+      "text": "Run a flat org: large direct staff, no one-on-ones, problems attacked in the open by everyone.",
+      "quote": "My direct staff is 60 people. You know, I don't have one-on-ones with them because it's impossible."
+    },
+    {
+      "text": "Install base is the most important property of a computing platform, so seed it even at great cost.",
+      "quote": "install base defines an architecture not everything else is secondary."
+    },
+    {
+      "text": "Shape belief with everyone daily so the big announcement feels obvious, not shocking.",
+      "quote": "I'm trying to shape their belief system such that when I come the day I say, \"Hey, let's buy Melanox.\" It's completely obvious to everybody that we absolutely should."
+    },
+    {
+      "text": "Break pressure into parts, tell someone who can act, forget setbacks, and keep moving.",
+      "quote": "I decompose the problem. I reason about the problem and I I share the load with it."
+    },
+    {
+      "text": "Jobs have purposes that outlast the tasks AI automates; learn to use AI.",
+      "quote": "the purpose of your job and the tasks and the tools that you use to do your job are related, not the same."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "management",
+    "resilience",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

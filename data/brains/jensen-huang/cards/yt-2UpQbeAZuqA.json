@@ -1,0 +1,39 @@
+{
+  "id": "yt-2UpQbeAZuqA",
+  "title": "Jensen Huang on AI factories: the five-layer cake and why AI elevates jobs",
+  "summary": "Jensen explains AI from first principles: computing shifted from retrieval to real-time generation, so the world needs vast AI factories producing tokens, like the dynamo and the internet before. He gives a five-layer model for investing and argues task versus purpose shows AI elevates jobs.",
+  "principles": [
+    {
+      "text": "Go back to first principles: computing shifted from retrieving pre-recorded files to generating intelligence in real time.",
+      "quote": "Went from a computer industry that was largely based on retrieval for 60 years, and all of a sudden, one day, it's completely generated in real time. We call it intelligence."
+    },
+    {
+      "text": "Reason upstream (industrially) about a new capability, not only about downstream industries, to position in large markets.",
+      "quote": "But you should go upstream, meaning industrially, what does that mean? And so, the first thing you realize is this. Go back to first principles."
+    },
+    {
+      "text": "Think of AI as a five-layer cake (energy, chips, infrastructure, models, applications) to decide where to invest.",
+      "quote": "And so, this five-layer cake is the industrial version. And I think that's a good way to think about where to invest."
+    },
+    {
+      "text": "AI can learn anything with predictable structure, so the opportunity reaches far beyond language models into the physical world.",
+      "quote": "we hear we talk about all the language, but don't forget we learn any you can learn anything with structure."
+    },
+    {
+      "text": "Separate task from purpose: automating tasks doesn't remove the job, it elevates it.",
+      "quote": "Typing is not the job of a software engineer. Coding is not their job. Solving problems is their job."
+    },
+    {
+      "text": "Don't fear AI, engage it. You lose out to people who use AI, not to AI itself.",
+      "quote": "You may or may not lose a job to an AI. But you will absolutely lose a job to someone who uses AI."
+    }
+  ],
+  "topics": [
+    "strategy",
+    "ai",
+    "markets",
+    "future"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

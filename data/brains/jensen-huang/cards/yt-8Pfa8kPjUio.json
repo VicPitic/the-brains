@@ -1,0 +1,39 @@
+{
+  "id": "yt-8Pfa8kPjUio",
+  "title": "Jensen Huang at Stripe Sessions: suffering, 60 direct reports, zero-billion-dollar markets, CUDA",
+  "summary": "Jensen explains why greatness requires pain and suffering, why he runs 60 direct reports with no one-on-ones, and how he bets on zero-billion-dollar markets by reasoning in words, not spreadsheets. He recounts the decade-long CUDA struggle, and argues AI is a new industrial revolution that produces tokens.",
+  "principles": [
+    {
+      "text": "Great things are never easy, so expect suffering; loving the company doesn't mean being happy every day.",
+      "quote": "I don't love every day of my job I don't think every day brings me joy nor does Joy have to be the definition of a good day and every day I'm not happy every year I'm not happy about the company um but I love the company every single second"
+    },
+    {
+      "text": "Flatten the org: 60 direct reports, no one-on-ones, and share information and feedback with everyone at once.",
+      "quote": "I believe that when you give everybody equal access to information it empowers people"
+    },
+    {
+      "text": "Give feedback publicly so everyone learns from other people's mistakes.",
+      "quote": "learning from mistakes other people's mistakes is the best way to learn why learn from your own mistakes you know why learn from your own embarrassment you got to learn from other people's embarrassment"
+    },
+    {
+      "text": "Be a market maker, not a market taker. Aim at zero-billion-dollar markets and skip the focus on share.",
+      "quote": "I'd rather be a market maker Market Creator than a market taker you know to create something new that never existed before versus thinking about share"
+    },
+    {
+      "text": "Reason in words, not spreadsheets. Hard things take long, which filters out less committed competitors.",
+      "quote": "I hate spreadsheets because you can make spreadsheets do whatever you want you can make any chart you want out of a spreadsheet you just got to type in some numbers"
+    },
+    {
+      "text": "Separate determination from stubbornness by gut-checking your first principles daily, and find small revenue to buy time.",
+      "quote": "you gut check it right constantly and and to the extent that that's number one gut check you have to first of all you really have to be careful to distill down the first principles"
+    }
+  ],
+  "topics": [
+    "leadership",
+    "management",
+    "resilience",
+    "strategy"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

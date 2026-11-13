@@ -1,0 +1,39 @@
+{
+  "id": "essay-nvidia-ceo-fireside-chat",
+  "title": "Jensen Huang: AI as a five-layer cake, platform thinking, and the US-China race (CSIS)",
+  "summary": "Jensen explains NVIDIA as a platform company and frames AI as a five-layer stack from energy to applications. He argues that whoever diffuses technology first builds sticky ecosystems, and that AI changes tasks, not necessarily jobs. He closes on optimism and his immigrant story.",
+  "principles": [
+    {
+      "text": "A platform is something other people build upon; NVIDIA's business model is purely technology, so it works with every company in the stack.",
+      "quote": "A platform is something that you build other things upon."
+    },
+    {
+      "text": "Think of AI as a five-layer cake: energy, chips, infrastructure, models, applications. Judge competitiveness layer by layer, not as one race.",
+      "quote": "Let's simplify AI into a five layer cake. Energy, chips, infrastructure, models, and applications."
+    },
+    {
+      "text": "Whoever applies a technology first and most wins the industrial revolution; diffusion matters as much as invention.",
+      "quote": "in the end, whoever applies the technology first and most wins that industrial revolution."
+    },
+    {
+      "text": "Getting there first lets you build ecosystem and become sticky, an essential and dependent part of it. Early patience paid off for NVIDIA.",
+      "quote": "the sooner you get there, the sooner you build the ecosystem on top, the sooner you become a sticky."
+    },
+    {
+      "text": "Don't be complacent even when several generations ahead; compounding growth closes gaps fast.",
+      "quote": "We're several generations ahead, but don't be complacent."
+    },
+    {
+      "text": "Separate the task from the job. AI automates tasks, but the purpose of the job remains, so people get busier, not obsolete.",
+      "quote": "what is the task versus what is the job?"
+    }
+  ],
+  "topics": [
+    "ai",
+    "strategy",
+    "markets",
+    "future"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

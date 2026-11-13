@@ -1,0 +1,39 @@
+{
+  "id": "essay-an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-m",
+  "title": "Jensen Huang on ChatGPT as AI's iPhone moment, full-stack computing and doing what only Nvidia can",
+  "summary": "Huang explains why ChatGPT created a new computing platform, how Nvidia responded with inference products and DGX Cloud, and why it builds full stack but goes to market disaggregated. He also covers resilience through redundancy, not competing where everyone can, and why full-stack beats a slowing Moore's Law.",
+  "principles": [
+    {
+      "text": "A new computing platform is defined by how you program it, what apps it enables, and who can use it.",
+      "quote": "These three properties that I just described characterize computing platforms."
+    },
+    {
+      "text": "Build a great company by doing what others can't, not by fighting over what everyone can do.",
+      "quote": "You build a great company by doing things that other people can’t do. You don’t build a great company by fighting other people, a whole bunch of other people, to do things that everybody can do."
+    },
+    {
+      "text": "Build full stack and vertically integrated, then disaggregate at go-to-market to fit the world's ecosystem.",
+      "quote": "we built it in a full system, vertically integrated, but when we go to market, we disaggregate everything and we integrate it into the world’s computing fabric."
+    },
+    {
+      "text": "Communicate your direction transparently so partners can prepare and you can prepare for them.",
+      "quote": "that’s only possible if I communicate to the ecosystem at all times what I intend to build so that they could be prepared for us on the one hand, we could be prepared for them on the other."
+    },
+    {
+      "text": "Resilience comes from diversity and redundancy, and it is a cost worth paying.",
+      "quote": "Ultimately every company needs to have diversity and resilience, that resilience comes from diversity and redundancy"
+    },
+    {
+      "text": "With Moore's Law slowing, big gains require redesigning every layer of the stack.",
+      "quote": "Every single layer from the chip to the system to the interconnect to the algorithms, all completely redesigned and so this way of doing full-stack computing"
+    }
+  ],
+  "topics": [
+    "strategy",
+    "ai",
+    "computing",
+    "markets"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

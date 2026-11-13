@@ -1,0 +1,39 @@
+{
+  "id": "yt-Y334D183ofE",
+  "title": "Why Jensen Huang wouldn't build Nvidia again: pain, CUDA, and forgetting yesterday",
+  "summary": "Jensen explains why he would not start Nvidia again knowing the pain, then walks through NV1's failure, the Sega deal, the emulator bet, and carrying CUDA on GeForce for years. He also covers first-principles reasoning, leadership by values, and why AI fear harms young people.",
+  "principles": [
+    {
+      "text": "Greatness requires pain and suffering; if you knew the full cost up front you would not start, so ignorance is a feature.",
+      "quote": "the pain and suffering necessary, the endurance necessary to do something great"
+    },
+    {
+      "text": "Learn from setbacks, codify the lesson, then let the past go and look forward with belief.",
+      "quote": "somehow learn from it codify that learning make sure it goes into every fiber in your body but leave it behind just let it go."
+    },
+    {
+      "text": "A CEO's first job is keeping the company alive; when funds run short, be honest with partners and make bold calm bets.",
+      "quote": "my first job as a CEO is to make sure we don't go out of business."
+    },
+    {
+      "text": "Solve the architecture chicken-and-egg problem by building an installed base: ship CUDA on GeForce everywhere, accept margin pain, and evangelize.",
+      "quote": "let's have GeForce carry on its back CUDA to every single computer in the world."
+    },
+    {
+      "text": "Break new developments down to first principles and bring the organisation along before announcing direction.",
+      "quote": "I break things down to first principles and and and you ask yourself, uh, what did I learn? Why is it why is it impactful?"
+    },
+    {
+      "text": "Leadership style matters less than consistent values: be tough on the same things, then let it go, and make clear you are on their side.",
+      "quote": "I don't think people care about style. I think people care about your values and what you care about"
+    }
+  ],
+  "topics": [
+    "resilience",
+    "strategy",
+    "leadership",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}
