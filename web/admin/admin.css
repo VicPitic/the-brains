@@ -1199,6 +1199,104 @@ mark {
   padding: 10px 0;
 }
 
+/* ---------- @brainsbot on X ---------- */
+.xb-kpis {
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-sm);
+}
+.xb-kpis .kpi-value {
+  font-size: 26px;
+}
+.xb-block {
+  margin-top: 26px;
+}
+.xb-block-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin-bottom: 10px;
+}
+.xb-block-head .mini-title,
+.xb-block-head .legend {
+  margin: 0;
+}
+.xb-lists {
+  gap: 8px 32px;
+  margin-top: 4px;
+}
+.xb-lists .mini-title:first-child {
+  margin-top: 26px;
+}
+.xb-empty {
+  min-height: 96px;
+}
+.xb-person {
+  text-decoration: none;
+  color: var(--ink-strong);
+  transition: border-color 150ms ease, transform 160ms var(--ease-out);
+}
+.xb-person:active {
+  transform: scale(0.97);
+}
+.xb-item .q-meta a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--ink-faint);
+  text-underline-offset: 2px;
+}
+.xb-parent,
+.xb-reply {
+  grid-column: 1 / -1;
+  max-width: 72ch;
+  margin: 4px 0 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+/* The post they tagged the bot under: context, so it stays quiet and short. */
+.xb-parent {
+  color: var(--ink-muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.xb-parent::before {
+  content: "Under: ";
+  font-weight: 700;
+}
+.xb-reply {
+  padding: 9px 12px;
+  border-radius: 4px 12px 12px 12px;
+  background: var(--band);
+  border: 1px solid var(--hairline);
+  color: var(--ink-strong);
+}
+.xb-reply a {
+  margin-left: 8px;
+  color: var(--pink-text);
+  font-weight: 700;
+  font-size: 12.5px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.xb-error,
+.pill.bad {
+  color: var(--danger);
+}
+@media (hover: hover) and (pointer: fine) {
+  .xb-person:hover {
+    border-color: var(--ink-faint);
+  }
+  .xb-item .q-meta a:hover,
+  .xb-reply a:hover {
+    color: var(--pink-text);
+    text-decoration: underline;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .board.is-first .card,
   .bars-grow .bar,

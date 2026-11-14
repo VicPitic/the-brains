@@ -16,6 +16,9 @@ const state = {
   questionSearch: "",
   feedLimit: 30,
   data: null,
+  xbot: null,
+  xbotFilter: "all",
+  xbotLimit: 15,
 };
 
 // ---------- Small helpers ----------
@@ -238,7 +241,7 @@ function renderKpis(d) {
     countUp(node.querySelector(".kpi-value"), t.value);
     const change = delta(t.value, t.prev);
     node.querySelector(".kpi-foot").replaceChildren(
-      change ? el("span", { class: `delta ${change.dir}`, title: `vs previous ${state.range} days` }, arrow(change.dir), change.text) : null,
+      ...(change ? [el("span", { class: `delta ${change.dir}`, title: `vs previous ${state.range} days` }, arrow(change.dir), change.text)] : []),
       el("span", { text: t.foot }),
     );
   });
@@ -569,6 +572,191 @@ function renderFeed() {
   more.textContent = `Show more (${fmt(list.length - state.feedLimit)} left)`;
 }
 
+// ---------- @brainsbot on X ----------
+// Every status the bot records, in words. `quiet` ones are deliberate non-replies.
+const XBOT_STATUS = {
+  answered: "Answered from a brain",
+  chat: "Banter reply",
+  unknown_person: "Asked about someone we don't have",
+  no_material: "Brain had nothing on it",
+  optout_confirmed: "Opt-out confirmed",
+  ignored: "Not a request",
+  skipped_self: "Its own post",
+  skipped_repost: "Repost",
+  skipped_optout: "Author opted out",
+  capped_daily: "Daily cap reached",
+  capped_user: "Per-person cap reached",
+  capped_conversation: "Thread cap reached",
+  pending: "In progress",
+  error: "Failed",
+};
+const xbotLabel = (status) => XBOT_STATUS[status] ?? status.replace(/_/g, " ");
+const duration = (s) => (s == null ? "—" : s < 90 ? `${s}s` : s < 5400 ? `${Math.round(s / 60)}m` : `${Math.round(s / 3600)}h`);
+const XBOT_FILTERS = {
+  all: () => true,
+  replied: (m) => m.replied,
+  quiet: (m) => !m.replied && m.status !== "error",
+  error: (m) => m.status === "error",
+};
+
+function renderXbot() {
+  const x = state.xbot;
+  const body = $("#xbot-body");
+  const sub = $("#xbot-sub");
+  if (!x || x.failed || !x.available) {
+    sub.textContent = x?.failed ? "Couldn't load the bot's numbers. Try refresh." : "The bot hasn't written to this database yet.";
+    body.hidden = true;
+    return;
+  }
+  body.hidden = false;
+  const k = x.kpis;
+  const when = state.range ? `in the last ${state.range} days` : "since launch";
+  sub.textContent = k.mentions.value
+    ? `People who tagged the bot ${when} · last tag ${ago(x.lastMention)}`
+    : `Nobody tagged the bot ${when}${x.lastMention ? ` · last tag ${ago(x.lastMention)}` : ""}`;
+
+  const tiles = [
+    { label: "Mentions", value: k.mentions.value, prev: k.mentions.prev, foot: "tags under a post" },
+    { label: "Replies sent", value: k.replies.value, prev: k.replies.prev, foot: `${pct(k.replies.value, k.mentions.value)}% of mentions` },
+    { label: "Answered from a brain", value: k.answered, foot: `${pct(k.answered, k.replies.value)}% of replies` },
+    { label: "People", value: k.people.value, prev: k.people.prev, foot: `${fmt(k.repeatPeople)} tagged it again` },
+    { label: "Median time to reply", text: duration(k.medianSeconds), foot: k.errors ? `${fmt(k.errors)} failed` : `${fmt(k.optouts)} opted out` },
+  ];
+  const root = $("#xbot-kpis");
+  const existing = root.children.length === tiles.length;
+  tiles.forEach((t, i) => {
+    const node = existing
+      ? root.children[i]
+      : root.appendChild(
+          el("div", { class: "kpi" }, el("div", { class: "kpi-label", text: t.label }), el("div", { class: "kpi-value", text: "0" }), el("div", { class: "kpi-foot" })),
+        );
+    if (t.text != null) node.querySelector(".kpi-value").textContent = t.text;
+    else countUp(node.querySelector(".kpi-value"), t.value);
+    const change = delta(t.value, t.prev);
+    node.querySelector(".kpi-foot").replaceChildren(
+      ...(change ? [el("span", { class: `delta ${change.dir}`, title: `vs previous ${state.range} days` }, arrow(change.dir), change.text)] : []),
+      el("span", { text: t.foot }),
+    );
+  });
+
+  renderXbotTrend();
+
+  const list = (id, items, head, empty, rowOf) => {
+    const node = $(id);
+    if (!items.length) return void node.replaceChildren(el("div", { class: "chart-empty xb-empty", text: empty }));
+    const max = Math.max(1, ...items.map((it) => rowOf(it).share));
+    node.replaceChildren(
+      el("div", { class: "lb-head" }, ...head.map((h) => el("span", { text: h }))),
+      ...items.map((it) => {
+        const r = rowOf(it);
+        const row = el(
+          "div",
+          { class: "lb-row", style: "--share:0" },
+          el("span", { class: "name" }, r.href ? el("a", { href: r.href, target: "_blank", rel: "noopener", text: r.name }) : el("strong", { text: r.name }), el("small", { text: r.note })),
+          el("span", { class: "n", text: r.a }),
+          el("span", { class: "n muted", text: r.b }),
+        );
+        requestAnimationFrame(() => requestAnimationFrame(() => row.style.setProperty("--share", (r.share / max).toFixed(3))));
+        return row;
+      }),
+    );
+  };
+  list("#xbot-brains", x.brains.slice(0, 8), ["Brain", "Asks", "People"], "No brain was asked for in this window.", (b) => ({
+    name: b.name,
+    href: `/${b.slug}`,
+    note: `last asked ${ago(b.last)}`,
+    a: fmt(b.asks),
+    b: fmt(b.people),
+    share: b.asks,
+  }));
+  list("#xbot-outcomes", x.statuses, ["Outcome", "Mentions", "Share"], "Nothing handled in this window.", (s) => ({
+    name: xbotLabel(s.status),
+    note: s.status === "error" ? "nothing was posted" : s.replied ? "replied" : "no reply, on purpose",
+    a: fmt(s.n),
+    b: `${pct(s.n, k.mentions.value)}%`,
+    share: s.n,
+  }));
+  $("#xbot-people").replaceChildren(
+    ...(x.people.length
+      ? x.people.map((p) =>
+          el(
+            "a",
+            { class: "tool xb-person", href: `https://x.com/${encodeURIComponent(p.username ?? "")}`, target: "_blank", rel: "noopener", title: `${fmt(p.replies)} replies · last tag ${ago(p.last)}` },
+            el("span", { text: `@${p.username ?? "unknown"}` }),
+            el("b", { text: fmt(p.mentions) }),
+          ),
+        )
+      : [el("span", { class: "card-sub", text: "Nobody yet." })]),
+  );
+  renderXbotFeed();
+}
+
+function renderXbotTrend(grow = true) {
+  const x = state.xbot;
+  if (!x?.available) return;
+  const root = $("#xbot-trend");
+  if (!x.kpis.mentions.value) return void root.replaceChildren(el("div", { class: "chart-empty", text: "No tags in this window. The first one shows up here within a minute." }));
+  barChart(root, {
+    labels: x.series.map((s) => s.day),
+    series: [
+      { label: "Replied", color: cssVar("--series"), values: x.series.map((s) => s.replied) },
+      { label: "No reply", cls: "new", color: cssVar("--series-new"), values: x.series.map((s) => s.other) },
+    ],
+    height: 200,
+    grow,
+    xLabel: (day) => dayLabel(day),
+    tipTitle: (day) => dayLabel(day, { weekday: "short", month: "short", day: "numeric" }),
+  });
+}
+
+function mentionItem(m) {
+  const asked = m.text.replace(/^(\s*@\w+)+\s*/, "") || m.text;
+  const tone = m.status === "error" ? "bad" : m.replied ? "pink" : "";
+  return el(
+    "li",
+    { class: "q xb-item" },
+    el("div", { class: "q-text", text: asked }),
+    el("time", { class: "q-time", datetime: m.at, title: dateTime(m.at), text: ago(m.at) }),
+    el(
+      "div",
+      { class: "q-meta" },
+      el("a", { href: `https://x.com/i/status/${m.id}`, target: "_blank", rel: "noopener", text: `@${m.username ?? "unknown"}` }),
+      el("span", { class: `pill ${tone}`, text: xbotLabel(m.status) }),
+      m.brain ? el("span", { text: m.brain }) : null,
+      m.replied && m.seconds != null ? el("span", { text: `replied in ${duration(m.seconds)}` }) : null,
+    ),
+    m.parent ? el("p", { class: "xb-parent", text: m.parent }) : null,
+    m.reply
+      ? el(
+          "p",
+          { class: "xb-reply" },
+          m.reply,
+          m.replyId ? el("a", { href: `https://x.com/i/status/${m.replyId}`, target: "_blank", rel: "noopener", text: "View reply" }) : null,
+        )
+      : null,
+    m.error ? el("p", { class: "xb-reply xb-error", text: m.error }) : null,
+  );
+}
+
+function renderXbotFeed() {
+  const x = state.xbot;
+  if (!x?.available) return;
+  for (const b of $("#xbot-filter").children) {
+    const f = b.dataset.f;
+    b.setAttribute("aria-checked", String(f === state.xbotFilter));
+    b.replaceChildren(b.dataset.label ?? (b.dataset.label = b.textContent), el("span", { class: "count", text: fmt(x.mentions.filter(XBOT_FILTERS[f]).length) }));
+  }
+  const list = x.mentions.filter(XBOT_FILTERS[state.xbotFilter]);
+  $("#xbot-feed").replaceChildren(
+    ...(list.length
+      ? list.slice(0, state.xbotLimit).map(mentionItem)
+      : [el("li", { class: "chart-empty xb-empty", text: state.xbotFilter === "all" ? "No tags in this window yet." : "Nothing here in this window." })]),
+  );
+  const more = $("#xbot-more");
+  more.hidden = list.length <= state.xbotLimit;
+  more.textContent = `Show more (${fmt(list.length - state.xbotLimit)} left)`;
+}
+
 // ---------- Data ----------
 let loadToken = 0;
 async function load({ first = false } = {}) {
@@ -577,6 +765,10 @@ async function load({ first = false } = {}) {
   if (!first) board.classList.add("is-loading");
   for (const b of $("#range").children) b.setAttribute("aria-checked", String(Number(b.dataset.range) === state.range));
   try {
+    // The bot's numbers ride along; if they fail, the rest of the dashboard still loads.
+    const xbot = fetch(`/admin/api/xbot?range=${state.range}`, { headers: { accept: "application/json" } })
+      .then((r) => (r.ok ? r.json() : { failed: true }))
+      .catch(() => ({ failed: true }));
     const res = await fetch(`/admin/api/overview?range=${state.range}`, { headers: { accept: "application/json" } });
     if (!res.ok) throw new Error(`The dashboard API answered ${res.status}.`);
     const data = await res.json();
@@ -596,6 +788,8 @@ async function load({ first = false } = {}) {
     renderClients(data);
     renderUsers();
     renderFeed();
+    state.xbot = await xbot;
+    if (token === loadToken) renderXbot();
   } catch (error) {
     if (token !== loadToken) return;
     const box = $("#error");
@@ -822,6 +1016,17 @@ $("#feed-more").addEventListener("click", () => {
   state.feedLimit += 50;
   renderFeed();
 });
+$("#xbot-filter").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-f]");
+  if (!b) return;
+  state.xbotFilter = b.dataset.f;
+  state.xbotLimit = 15;
+  renderXbotFeed();
+});
+$("#xbot-more").addEventListener("click", () => {
+  state.xbotLimit += 30;
+  renderXbotFeed();
+});
 document.addEventListener("click", (e) => {
   const b = e.target.closest("button[data-user]");
   if (b) openUser(b.dataset.user);
@@ -855,6 +1060,7 @@ new ResizeObserver(() => {
     lastWidth = w;
     renderTrend(false);
     renderFrequency(state.data);
+    renderXbotTrend(false);
   }, 120);
 }).observe($("#board"));
 

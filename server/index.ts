@@ -8,7 +8,7 @@ import express from "express";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
-import { adminOverview, adminUser, requireAdmin, toCsv } from "./admin.js";
+import { adminOverview, adminUser, adminXbot, requireAdmin, toCsv } from "./admin.js";
 import { AuthError, requestCode, resolveKey, verifyEmailCode } from "./auth.js";
 import { type Brain, listSources, loadBrains, searchBrain, searchBrains } from "./brains.js";
 import { hasDatabase, migrate } from "./db.js";
@@ -543,6 +543,14 @@ app.get("/admin/api/overview", requireAdmin, (req, res) => {
   const range = Number(req.query.range ?? 30);
   if (!ADMIN_RANGES.has(range)) return void res.status(400).json({ error: "range must be 7, 30, 90 or 0" });
   adminOverview(range, brainName)
+    .then((data) => res.set("Cache-Control", "no-store").json(data))
+    .catch((error) => sendAuthError(res, error));
+});
+
+app.get("/admin/api/xbot", requireAdmin, (req, res) => {
+  const range = Number(req.query.range ?? 30);
+  if (!ADMIN_RANGES.has(range)) return void res.status(400).json({ error: "range must be 7, 30, 90 or 0" });
+  adminXbot(range, brainName)
     .then((data) => res.set("Cache-Control", "no-store").json(data))
     .catch((error) => sendAuthError(res, error));
 });

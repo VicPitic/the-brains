@@ -38,6 +38,7 @@
           <a href="#brains">Brains</a>
           <a href="#users">Users</a>
           <a href="#questions">Questions</a>
+          <a href="#xbot">X bot</a>
         </nav>
         <a class="adm-ghost" href="/admin/emails.csv">
           <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11m0 0-4-4m4 4 4-4M5 20h14" /></svg>
@@ -210,6 +211,60 @@
           </div>
           <ol class="feed" id="feed"></ol>
           <button type="button" class="more" id="feed-more" hidden></button>
+        </section>
+
+        <section class="card xb" id="xbot" aria-labelledby="xbot-title">
+          <div class="card-head">
+            <div>
+              <h2 id="xbot-title">@brainsbot on X</h2>
+              <p class="card-sub" id="xbot-sub">People who tagged the bot under a post</p>
+            </div>
+            <a class="adm-ghost" href="https://x.com/brainsbot/with_replies" target="_blank" rel="noopener">
+              Open on X
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 16 16 8m0 0H9m7 0v7" /></svg>
+            </a>
+          </div>
+          <div id="xbot-body">
+            <div class="kpis xb-kpis" id="xbot-kpis" aria-label="Bot numbers"></div>
+
+            <div class="xb-block">
+              <div class="xb-block-head">
+                <h3 class="mini-title">Mentions per day</h3>
+                <div class="legend">
+                  <span><i class="key key-ret"></i>Replied</span>
+                  <span><i class="key key-new"></i>No reply</span>
+                </div>
+              </div>
+              <div class="chart" id="xbot-trend"></div>
+            </div>
+
+            <div class="grid-2 xb-lists">
+              <div>
+                <h3 class="mini-title">Most asked brains</h3>
+                <div id="xbot-brains" class="lb clients"></div>
+              </div>
+              <div>
+                <h3 class="mini-title">What the bot did</h3>
+                <div id="xbot-outcomes" class="lb clients"></div>
+                <h3 class="mini-title">Who tags it most</h3>
+                <div id="xbot-people" class="tools"></div>
+              </div>
+            </div>
+
+            <div class="xb-block">
+              <div class="xb-block-head">
+                <h3 class="mini-title">Latest mentions</h3>
+                <div class="chips" role="radiogroup" aria-label="Filter mentions" id="xbot-filter">
+                  <button type="button" role="radio" data-f="all">All</button>
+                  <button type="button" role="radio" data-f="replied">Replied</button>
+                  <button type="button" role="radio" data-f="quiet">No reply</button>
+                  <button type="button" role="radio" data-f="error">Errors</button>
+                </div>
+              </div>
+              <ol class="feed" id="xbot-feed"></ol>
+              <button type="button" class="more" id="xbot-more" hidden></button>
+            </div>
+          </div>
         </section>
       </div>
     </main>

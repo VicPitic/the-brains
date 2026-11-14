@@ -418,3 +418,106 @@ export async function adminUser(id: string, brainName: (slug: string) => string 
     })),
   };
 }
+
+// @brainsbot on X: the reply bot writes every mention it handles to xbot.mentions in this
+// database. One row per tag, with what it decided and what it posted.
+const XBOT_REPLIED = ["answered", "unknown_person", "no_material", "chat", "optout_confirmed"];
+
+export async function adminXbot(range: number, brainName: (slug: string) => string | null) {
+  // The bot also sees its own posts that name it; those are not tags, so they stay out of every number.
+  const [{ ready }] = await rows(`select to_regclass('xbot.mentions') is not null as ready`);
+  if (!ready) return { available: false as const };
+
+  const today = isoDay(Date.now());
+  const [{ first }] = await rows(`select to_char(${utcDay("min(created_at)")}, 'YYYY-MM-DD') as first from xbot.mentions where status <> 'skipped_self'`);
+  const windowStart = range ? isoDay(Date.parse(today) - (range - 1) * DAY_MS) : today;
+  const start = first && (!range || first > windowStart) ? first : windowStart;
+  const since = new Date(`${start}T00:00:00Z`);
+  const prev = range ? new Date(since.getTime() - range * DAY_MS) : null;
+  const replied = `status = any($3)`;
+
+  const [[kpi], daily, statuses, brainRows, people, feed, [extra]] = await Promise.all([
+    rows(
+      `select
+         count(*) filter (where created_at >= $1) as mentions,
+         count(*) filter (where created_at < $1) as mentions_prev,
+         count(*) filter (where created_at >= $1 and ${replied}) as replies,
+         count(*) filter (where created_at < $1 and ${replied}) as replies_prev,
+         count(*) filter (where created_at >= $1 and status = 'answered') as answered,
+         count(distinct author_id) filter (where created_at >= $1) as people,
+         count(distinct author_id) filter (where created_at < $1) as people_prev,
+         count(*) filter (where created_at >= $1 and status = 'error') as errors,
+         percentile_cont(0.5) within group (order by extract(epoch from replied_at - created_at))
+           filter (where created_at >= $1 and ${replied} and replied_at is not null) as median_seconds
+       from xbot.mentions where status <> 'skipped_self' and created_at >= coalesce($2::timestamptz, $1::timestamptz)`,
+      [since, prev, XBOT_REPLIED],
+    ),
+    rows(
+      `select ${dayKey("created_at")} as day, count(*) filter (where status = any($2)) as replied, count(*) as total
+       from xbot.mentions where status <> 'skipped_self' and created_at >= $1 group by 1`,
+      [since, XBOT_REPLIED],
+    ),
+    rows(`select status, count(*) as n from xbot.mentions where status <> 'skipped_self' and created_at >= $1 group by 1 order by 2 desc`, [since]),
+    rows(
+      `select brain_slug as slug, count(*) as asks, count(distinct author_id) as people, max(created_at) as last
+       from xbot.mentions where status <> 'skipped_self' and created_at >= $1 and brain_slug is not null group by 1 order by 2 desc, 3 desc limit 50`,
+      [since],
+    ),
+    rows(
+      `select max(author_username) as username, count(*) as mentions, count(*) filter (where status = any($2)) as replies,
+         count(distinct ${utcDay("created_at")}) as days, max(created_at) as last
+       from xbot.mentions where status <> 'skipped_self' and created_at >= $1 group by author_id order by 2 desc, 5 desc limit 12`,
+      [since, XBOT_REPLIED],
+    ),
+    rows(
+      `select tweet_id, author_username, text, parent_text, status, brain_slug, reply_text, reply_id, error, created_at, replied_at
+       from xbot.mentions where status <> 'skipped_self' and created_at >= $1 order by created_at desc limit 200`,
+      [since],
+    ),
+    rows(
+      `select (select count(*) from xbot.optouts) as optouts,
+         (select count(*) from (select author_id from xbot.mentions where status <> 'skipped_self' and created_at >= $1 group by 1 having count(*) > 1) x) as repeat_people,
+         (select max(created_at) from xbot.mentions where status <> 'skipped_self') as last_mention`,
+      [since],
+    ),
+  ]);
+
+  const byDay = new Map(daily.map((r) => [r.day, r]));
+  const withPrev = (key: string) => ({ value: num(kpi[key]), prev: prev ? num(kpi[`${key}_prev`]) : null });
+  return {
+    available: true as const,
+    start,
+    kpis: {
+      mentions: withPrev("mentions"),
+      replies: withPrev("replies"),
+      people: withPrev("people"),
+      answered: num(kpi.answered),
+      errors: num(kpi.errors),
+      repeatPeople: num(extra.repeat_people),
+      optouts: num(extra.optouts),
+      medianSeconds: kpi.median_seconds == null ? null : Math.round(Number(kpi.median_seconds)),
+    },
+    lastMention: extra.last_mention,
+    series: dayList(start, today).map((day) => {
+      const r = byDay.get(day);
+      return { day, replied: num(r?.replied), other: num(r?.total) - num(r?.replied) };
+    }),
+    statuses: statuses.map((r) => ({ status: r.status, n: num(r.n), replied: XBOT_REPLIED.includes(r.status) })),
+    brains: brainRows.map((r) => ({ slug: r.slug, name: brainName(r.slug) ?? r.slug, asks: num(r.asks), people: num(r.people), last: r.last })),
+    people: people.map((r) => ({ username: r.username, mentions: num(r.mentions), replies: num(r.replies), days: num(r.days), last: r.last })),
+    mentions: feed.map((m) => ({
+      id: m.tweet_id,
+      username: m.author_username,
+      text: m.text,
+      parent: m.parent_text,
+      status: m.status,
+      replied: XBOT_REPLIED.includes(m.status),
+      brain: m.brain_slug ? (brainName(m.brain_slug) ?? m.brain_slug) : null,
+      reply: m.reply_text,
+      replyId: m.reply_id,
+      error: m.error,
+      at: m.created_at,
+      seconds: m.replied_at ? Math.round((new Date(m.replied_at).getTime() - new Date(m.created_at).getTime()) / 1000) : null,
+    })),
+  };
+}
