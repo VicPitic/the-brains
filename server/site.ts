@@ -217,8 +217,14 @@ export async function getBrain(dataDir: string, slug: string): Promise<SiteBrain
 
 export async function listBrains(dataDir: string): Promise<SiteBrain[]> {
   const slugs = (await readdir(dataDir).catch(() => [] as string[])).filter((s) => SLUG_RE.test(s));
-  const brains = await Promise.all(slugs.map((slug) => getBrain(dataDir, slug)));
-  return brains.filter((b): b is SiteBrain => b !== null);
+  // One at a time: a cold cache parses each brain's whole index.json, and doing all of them at once
+  // holds every file in memory together.
+  const brains: SiteBrain[] = [];
+  for (const slug of slugs) {
+    const brain = await getBrain(dataDir, slug);
+    if (brain) brains.push(brain);
+  }
+  return brains;
 }
 
 /** The light card shape the directory needs (no sources). */

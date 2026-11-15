@@ -33,19 +33,23 @@ export interface Doc {
   fields: { text: string; boosted: string };
 }
 
-interface Posting {
-  doc: number;
-  tf: number;
-}
-
 export class Bm25 {
-  private postings = new Map<string, Posting[]>();
+  // Postings live in two flat typed arrays, not one object per posting: every brain is indexed in
+  // memory at once (about two million postings in all), and objects cost over ten times as much heap.
+  // Term i owns the slice [starts[i], starts[i + 1]) of `docs` and `tfs`.
+  private termIds = new Map<string, number>();
+  private starts: Uint32Array;
+  private docs: Uint32Array;
+  private tfs: Uint32Array;
   private lengths: number[] = [];
   private avgLength = 0;
   private readonly k1 = 1.2;
   private readonly b = 0.75;
 
   constructor(docs: Doc[], private readonly boost = 2) {
+    // While building, each term's postings are a flat [doc, tf, doc, tf, ...] list.
+    const lists: number[][] = [];
+    let total = 0;
     for (const doc of docs) {
       const counts = new Map<string, number>();
       const add = (tokens: string[], weight: number) => {
@@ -56,11 +60,27 @@ export class Bm25 {
       add(tokenize(doc.fields.boosted), this.boost);
       this.lengths[doc.id] = body.length;
       for (const [term, tf] of counts) {
-        let list = this.postings.get(term);
-        if (!list) this.postings.set(term, (list = []));
-        list.push({ doc: doc.id, tf });
+        let id = this.termIds.get(term);
+        if (id === undefined) {
+          this.termIds.set(term, (id = lists.length));
+          lists.push([]);
+        }
+        lists[id].push(doc.id, tf);
+        total++;
       }
     }
+    this.starts = new Uint32Array(lists.length + 1);
+    this.docs = new Uint32Array(total);
+    this.tfs = new Uint32Array(total);
+    let at = 0;
+    lists.forEach((list, id) => {
+      this.starts[id] = at;
+      for (let i = 0; i < list.length; i += 2, at++) {
+        this.docs[at] = list[i];
+        this.tfs[at] = list[i + 1];
+      }
+    });
+    this.starts[lists.length] = at;
     this.avgLength = this.lengths.reduce((a, b) => a + b, 0) / Math.max(1, this.lengths.length);
   }
 
@@ -68,10 +88,15 @@ export class Bm25 {
     const scores = new Map<number, number>();
     const n = this.lengths.length;
     for (const term of new Set(tokenize(query))) {
-      const list = this.postings.get(term);
-      if (!list) continue;
-      const idf = Math.log(1 + (n - list.length + 0.5) / (list.length + 0.5));
-      for (const { doc, tf } of list) {
+      const id = this.termIds.get(term);
+      if (id === undefined) continue;
+      const start = this.starts[id];
+      const end = this.starts[id + 1];
+      const count = end - start;
+      const idf = Math.log(1 + (n - count + 0.5) / (count + 0.5));
+      for (let i = start; i < end; i++) {
+        const doc = this.docs[i];
+        const tf = this.tfs[i];
         const norm = tf + this.k1 * (1 - this.b + (this.b * this.lengths[doc]) / this.avgLength);
         scores.set(doc, (scores.get(doc) ?? 0) + idf * ((tf * (this.k1 + 1)) / norm));
       }

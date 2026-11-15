@@ -1,5 +1,5 @@
 // Loads every built brain (data/brains/<slug>/index.json) and answers the two MCP tools.
-import { readdir, readFile } from "node:fs/promises";
+import { readdir, readFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 import { Bm25 } from "./search.js";
 
@@ -38,16 +38,34 @@ interface BrainIndex {
 export interface Brain extends BrainIndex {
   sourceById: Map<string, IndexSource>;
   bm25: Bm25;
+  /** Where this brain was loaded from and that file's mtime then, so a reload can skip it when unchanged. */
+  indexPath: string;
+  indexMtimeMs: number;
 }
 
 const MAX_CHUNKS_PER_SOURCE = 2;
 const isPost = (type: IndexSource["type"]) => type === "x_post" || type === "linkedin_post";
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-export async function loadBrains(dataDir: string): Promise<Map<string, Brain>> {
+// Pass the brains already in memory as `previous` to reload: a brain whose index.json hasn't changed is
+// kept as it is. Re-indexing every brain on each reload held two copies of everything at once and ran
+// the server out of heap.
+export async function loadBrains(dataDir: string, previous?: Map<string, Brain>): Promise<Map<string, Brain>> {
+  const kept = new Map([...(previous ?? [])].map(([, brain]) => [brain.indexPath, brain]));
   const brains = new Map<string, Brain>();
   for (const slug of await readdir(dataDir)) {
-    const raw = await readFile(join(dataDir, slug, "index.json"), "utf8").catch(() => null);
+    const indexPath = join(dataDir, slug, "index.json");
+    const indexMtimeMs = await stat(indexPath).then(
+      (s) => s.mtimeMs,
+      () => null,
+    );
+    if (indexMtimeMs === null) continue;
+    const same = kept.get(indexPath);
+    if (same && same.indexMtimeMs === indexMtimeMs) {
+      brains.set(same.slug, same);
+      continue;
+    }
+    const raw = await readFile(indexPath, "utf8").catch(() => null);
     if (!raw) continue;
     const index = JSON.parse(raw) as BrainIndex;
     const sourceById = new Map(index.sources.map((s) => [s.id, s]));
@@ -57,7 +75,7 @@ export async function loadBrains(dataDir: string): Promise<Map<string, Brain>> {
         fields: { text: chunk.text, boosted: `${chunk.heading ?? ""} ${sourceById.get(chunk.sourceId)?.title ?? ""}` },
       })),
     );
-    brains.set(index.slug, { ...index, sourceById, bm25 });
+    brains.set(index.slug, { ...index, sourceById, bm25, indexPath, indexMtimeMs });
   }
   return brains;
 }

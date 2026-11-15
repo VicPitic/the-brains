@@ -39,9 +39,9 @@ const CLIENT_IP_HEADER = process.env.CLIENT_IP_HEADER?.toLowerCase() || null;
 let brains = await loadBrains(DATA_DIR);
 const roundtableFile = await loadRoundtables(ROUNDTABLES_PATH);
 let roundtables = liveRoundtables(roundtableFile, brains);
-// Pick up brains the pipeline finishes while the server is running.
+// Pick up brains the pipeline finishes while the server is running. Only new or changed ones are indexed again.
 setInterval(() => {
-  loadBrains(DATA_DIR)
+  loadBrains(DATA_DIR, brains)
     .then((next) => {
       brains = next;
       roundtables = liveRoundtables(roundtableFile, next);
